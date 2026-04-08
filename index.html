@@ -6,482 +6,127 @@
   <title>AI不焦虑空间</title>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
   <style>
-    /* 基础重置 */
-    *, *::before, *::after {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    body {
-      font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      background-color: #f9fafb;
-      color: #1f2937;
-      line-height: 1.6;
-    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif; background: #f9fafb; color: #1f2937; line-height: 1.6; }
 
     /* 导航栏 */
-    .navbar {
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-      color: white;
-      position: sticky;
-      top: 0;
-      z-index: 100;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    }
+    .navbar { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; position: sticky; top: 0; z-index: 100; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+    .navbar-inner { max-width: 1200px; margin: 0 auto; padding: 14px 24px; display: flex; align-items: center; justify-content: space-between; }
+    .navbar-brand { display: flex; align-items: center; gap: 12px; }
+    .navbar-brand .emoji { font-size: 28px; }
+    .navbar-brand h1 { font-size: 22px; font-weight: 700; }
+    .navbar-brand p { font-size: 13px; opacity: 0.9; }
+    .navbar-links { display: flex; gap: 20px; }
+    .navbar-links a { color: white; text-decoration: none; font-size: 14px; transition: opacity 0.2s; }
+    .navbar-links a:hover { opacity: 0.8; text-decoration: underline; }
 
-    .navbar-inner {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 16px 24px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-    }
+    /* Hero */
+    .hero { background: white; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center; padding: 36px 24px; }
+    .hero .big-emoji { font-size: 56px; animation: pulse 3s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.05); } }
+    .hero h2 { font-size: 32px; font-weight: 700; color: #1f2937; margin: 12px 0 6px; }
+    .hero > p { font-size: 16px; color: #4b5563; max-width: 600px; margin: 0 auto; }
+    .status-bar { background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px; padding: 6px 14px; display: inline-flex; align-items: center; gap: 8px; font-size: 13px; color: #166534; margin-top: 14px; }
+    .status-bar .dot { width: 8px; height: 8px; background: #22c55e; border-radius: 50%; animation: blink 2s ease-in-out infinite; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+    .status-bar .countdown { font-weight: 600; color: #15803d; }
+    .refresh-btn { background: none; border: 1px solid #bbf7d0; border-radius: 6px; padding: 3px 10px; font-size: 12px; color: #166534; cursor: pointer; transition: all 0.2s; margin-left: 4px; }
+    .refresh-btn:hover { background: #dcfce7; }
+    .update-time { margin-top: 10px; font-size: 13px; color: #6b7280; }
+    .realtime-clock { margin-left: 16px; }
 
-    .navbar-brand {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-    }
+    /* 主内容 */
+    .main-content { max-width: 1200px; margin: 0 auto; padding: 28px 24px; }
 
-    .navbar-brand .emoji {
-      font-size: 32px;
-    }
+    /* Section */
+    .section { margin-bottom: 40px; }
+    .section-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; }
+    .section-header-left { display: flex; align-items: center; gap: 12px; }
+    .section-icon { color: white; padding: 6px 14px; border-radius: 8px; font-size: 18px; }
+    .section-icon.news { background: linear-gradient(135deg, #f093fb, #f5576c); }
+    .section-icon.products { background: linear-gradient(135deg, #4facfe, #00f2fe); }
+    .section-icon.ecommerce { background: linear-gradient(135deg, #43e97b, #38f9d7); }
+    .section-icon.agents { background: linear-gradient(135deg, #fa709a, #fee140); }
+    .section-title h3 { font-size: 20px; font-weight: 700; color: #1f2937; }
+    .section-title p { font-size: 13px; color: #6b7280; }
+    .section-count { font-size: 13px; color: #9ca3af; white-space: nowrap; }
 
-    .navbar-brand h1 {
-      font-size: 24px;
-      font-weight: 700;
-    }
+    /* 轮播容器 */
+    .carousel-wrapper { position: relative; }
+    .carousel { display: flex; gap: 16px; overflow-x: auto; scroll-behavior: smooth; padding: 4px 0 12px; -ms-overflow-style: none; scrollbar-width: none; }
+    .carousel::-webkit-scrollbar { display: none; }
+    .carousel-btn { position: absolute; top: 50%; transform: translateY(-50%); width: 36px; height: 36px; border-radius: 50%; background: white; border: 1px solid #e5e7eb; box-shadow: 0 2px 8px rgba(0,0,0,0.1); cursor: pointer; font-size: 16px; display: flex; align-items: center; justify-content: center; z-index: 10; transition: all 0.2s; color: #374151; }
+    .carousel-btn:hover { background: #f3f4f6; box-shadow: 0 4px 12px rgba(0,0,0,0.15); }
+    .carousel-btn.left { left: -12px; }
+    .carousel-btn.right { right: -12px; }
+    .carousel-btn.hidden { opacity: 0; pointer-events: none; }
 
-    .navbar-brand p {
-      font-size: 14px;
-      opacity: 0.9;
-    }
-
-    .navbar-links {
-      display: flex;
-      gap: 24px;
-    }
-
-    .navbar-links a {
-      color: white;
-      text-decoration: none;
-      font-size: 15px;
-      transition: opacity 0.2s;
-    }
-
-    .navbar-links a:hover {
-      opacity: 0.8;
-      text-decoration: underline;
-    }
-
-    /* Hero 区域 */
-    .hero {
-      background: white;
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-      text-align: center;
-      padding: 48px 24px;
-    }
-
-    .hero .big-emoji {
-      font-size: 64px;
-      animation: pulse 3s ease-in-out infinite;
-    }
-
-    @keyframes pulse {
-      0%, 100% { opacity: 1; transform: scale(1); }
-      50% { opacity: 0.7; transform: scale(1.05); }
-    }
-
-    .hero h2 {
-      font-size: 36px;
-      font-weight: 700;
-      color: #1f2937;
-      margin: 16px 0 8px;
-    }
-
-    .hero p {
-      font-size: 18px;
-      color: #4b5563;
-      max-width: 640px;
-      margin: 0 auto;
-    }
-
-    .hero .update-time {
-      margin-top: 24px;
-      font-size: 14px;
-      color: #6b7280;
-    }
-
-    /* 主内容区 */
-    .main-content {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 32px 24px;
-    }
-
-    /* 通用 Section 样式 */
-    .section {
-      margin-bottom: 48px;
-    }
-
-    .section-header {
-      display: flex;
-      align-items: center;
-      gap: 16px;
-      margin-bottom: 24px;
-    }
-
-    .section-icon {
-      color: white;
-      padding: 8px 16px;
-      border-radius: 8px;
-      font-weight: 700;
-      font-size: 20px;
-    }
-
-    .section-icon.news { background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); }
-    .section-icon.products { background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); }
-    .section-icon.ecommerce { background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); }
-    .section-icon.agents { background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); }
-
-    .section-title h3 {
-      font-size: 24px;
-      font-weight: 700;
-      color: #1f2937;
-    }
-
-    .section-title p {
-      font-size: 14px;
-      color: #6b7280;
-    }
-
-    /* 网格布局 */
-    .grid-3 {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 24px;
-    }
-
-    .grid-4 {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 24px;
-    }
-
-    .grid-2 {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 24px;
-    }
-
-    /* 卡片样式 */
-    .card {
-      background: white;
-      border-radius: 12px;
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-      padding: 24px;
-      transition: all 0.3s ease;
-      cursor: default;
-    }
-
-    .card:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
-    }
+    /* 通用卡片 */
+    .card { background: white; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); padding: 20px; transition: all 0.3s ease; cursor: default; flex-shrink: 0; }
+    .card:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,0.12); }
 
     /* 新闻卡片 */
-    .news-card {
-      border-left: 4px solid;
-    }
-
+    .news-card { width: 320px; border-left: 4px solid; }
     .news-card.hot { border-left-color: #ef4444; }
     .news-card.new { border-left-color: #3b82f6; }
     .news-card.trend { border-left-color: #10b981; }
-
-    .news-card .tag {
-      display: inline-block;
-      padding: 4px 12px;
-      border-radius: 9999px;
-      font-size: 12px;
-      font-weight: 500;
-    }
-
+    .news-card .top-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+    .tag { display: inline-block; padding: 3px 10px; border-radius: 9999px; font-size: 11px; font-weight: 500; }
     .tag.hot { background: #fee2e2; color: #dc2626; }
     .tag.new { background: #dbeafe; color: #2563eb; }
     .tag.trend { background: #d1fae5; color: #059669; }
-
-    .news-card .date {
-      font-size: 12px;
-      color: #6b7280;
-    }
-
-    .news-card h4 {
-      font-size: 18px;
-      font-weight: 700;
-      color: #1f2937;
-      margin: 12px 0 8px;
-    }
-
-    .news-card p {
-      font-size: 14px;
-      color: #4b5563;
-      line-height: 1.7;
-    }
-
-    .news-card .source {
-      font-size: 12px;
-      color: #6b7280;
-      margin-top: 12px;
-    }
+    .news-card .date { font-size: 11px; color: #9ca3af; }
+    .news-card h4 { font-size: 16px; font-weight: 700; color: #1f2937; margin-bottom: 6px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .news-card p { font-size: 13px; color: #4b5563; line-height: 1.6; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    .news-card .source { font-size: 11px; color: #9ca3af; margin-top: 10px; }
 
     /* 产品卡片 */
-    .product-card {
-      text-align: center;
-    }
+    .product-card { width: 220px; text-align: center; }
+    .product-card .icon { font-size: 40px; margin-bottom: 10px; }
+    .product-card h4 { font-size: 15px; font-weight: 700; color: #1f2937; margin-bottom: 6px; }
+    .product-card .category { display: inline-block; background: #f3e8ff; color: #7c3aed; font-size: 11px; padding: 3px 10px; border-radius: 9999px; margin-bottom: 8px; }
+    .product-card p { font-size: 12px; color: #4b5563; line-height: 1.6; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 
-    .product-card .icon {
-      font-size: 48px;
-      margin-bottom: 16px;
-    }
-
-    .product-card h4 {
-      font-size: 18px;
-      font-weight: 700;
-      color: #1f2937;
-      margin-bottom: 8px;
-    }
-
-    .product-card .category {
-      display: inline-block;
-      background: #f3e8ff;
-      color: #7c3aed;
-      font-size: 12px;
-      padding: 4px 12px;
-      border-radius: 9999px;
-      margin-bottom: 12px;
-    }
-
-    .product-card p {
-      font-size: 14px;
-      color: #4b5563;
-      line-height: 1.7;
-    }
-
-    /* 电商新闻 */
-    .ecommerce-list {
-      background: white;
-      border-radius: 12px;
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-      padding: 24px;
-    }
-
-    .ecommerce-item {
-      padding: 16px 0;
-      border-bottom: 1px solid #e5e7eb;
-    }
-
-    .ecommerce-item:last-child {
-      border-bottom: none;
-      padding-bottom: 0;
-    }
-
-    .ecommerce-item:first-child {
-      padding-top: 0;
-    }
-
-    .ecommerce-item .header {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-      margin-bottom: 8px;
-    }
-
-    .ecommerce-item h4 {
-      font-size: 18px;
-      font-weight: 700;
-      color: #1f2937;
-    }
-
-    .ecommerce-item .impact {
-      font-size: 12px;
-      padding: 4px 12px;
-      border-radius: 9999px;
-      white-space: nowrap;
-      margin-left: 16px;
-    }
-
+    /* 电商卡片 */
+    .ecommerce-card { width: 340px; }
+    .ecommerce-card .top-row { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; gap: 8px; }
+    .ecommerce-card h4 { font-size: 15px; font-weight: 700; color: #1f2937; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .impact { font-size: 11px; padding: 3px 10px; border-radius: 9999px; white-space: nowrap; flex-shrink: 0; }
     .impact.high { background: #fee2e2; color: #dc2626; }
     .impact.medium { background: #fef3c7; color: #d97706; }
+    .ecommerce-card p { font-size: 13px; color: #4b5563; line-height: 1.6; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    .ecommerce-card .date { font-size: 11px; color: #9ca3af; margin-top: 8px; }
 
-    .ecommerce-item p {
-      font-size: 14px;
-      color: #4b5563;
-      line-height: 1.7;
-    }
-
-    .ecommerce-item .date {
-      font-size: 12px;
-      color: #6b7280;
-      margin-top: 8px;
-    }
-
-    /* Agent 卡片 */
-    .agent-card .author-row {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      margin-bottom: 12px;
-    }
-
-    .agent-card .avatar {
-      width: 40px;
-      height: 40px;
-      border-radius: 50%;
-      background: linear-gradient(135deg, #f472b6 0%, #a855f7 100%);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: white;
-      font-weight: 700;
-      font-size: 16px;
-    }
-
-    .agent-card .author-info .name {
-      font-size: 14px;
-      font-weight: 600;
-      color: #1f2937;
-    }
-
-    .agent-card .author-info .likes {
-      font-size: 12px;
-      color: #6b7280;
-    }
-
-    .agent-card h4 {
-      font-size: 18px;
-      font-weight: 700;
-      color: #1f2937;
-      margin-bottom: 8px;
-    }
-
-    .agent-card p {
-      font-size: 14px;
-      color: #4b5563;
-      line-height: 1.7;
-      margin-bottom: 12px;
-    }
-
-    .agent-card .tools {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-    }
-
-    .agent-card .tool-tag {
-      background: #f3f4f6;
-      color: #374151;
-      font-size: 12px;
-      padding: 4px 12px;
-      border-radius: 9999px;
-    }
-
-    /* 实时状态栏 */
-    .status-bar {
-      background: #f0fdf4;
-      border: 1px solid #bbf7d0;
-      border-radius: 8px;
-      padding: 8px 16px;
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      font-size: 13px;
-      color: #166534;
-      margin-top: 16px;
-    }
-
-    .status-bar .dot {
-      width: 8px;
-      height: 8px;
-      background: #22c55e;
-      border-radius: 50%;
-      animation: blink 2s ease-in-out infinite;
-    }
-
-    @keyframes blink {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.3; }
-    }
-
-    .status-bar .countdown {
-      font-weight: 600;
-      color: #15803d;
-    }
-
-    .refresh-btn {
-      background: none;
-      border: 1px solid #bbf7d0;
-      border-radius: 6px;
-      padding: 4px 12px;
-      font-size: 12px;
-      color: #166534;
-      cursor: pointer;
-      transition: all 0.2s;
-      margin-left: 8px;
-    }
-
-    .refresh-btn:hover {
-      background: #dcfce7;
-    }
-
-    /* 时间标签 */
-    .realtime-clock {
-      font-size: 14px;
-      color: #6b7280;
-      margin-top: 8px;
-    }
+    /* Agent卡片 */
+    .agent-card { width: 360px; }
+    .agent-card .author-row { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+    .agent-card .avatar { width: 36px; height: 36px; border-radius: 50%; background: linear-gradient(135deg, #f472b6, #a855f7); display: flex; align-items: center; justify-content: center; color: white; font-weight: 700; font-size: 14px; flex-shrink: 0; }
+    .agent-card .author-info .name { font-size: 13px; font-weight: 600; color: #1f2937; }
+    .agent-card .author-info .likes { font-size: 11px; color: #6b7280; }
+    .agent-card h4 { font-size: 15px; font-weight: 700; color: #1f2937; margin-bottom: 6px; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+    .agent-card p { font-size: 13px; color: #4b5563; line-height: 1.6; margin-bottom: 10px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    .agent-card .tools { display: flex; flex-wrap: wrap; gap: 6px; }
+    .agent-card .tool-tag { background: #f3f4f6; color: #374151; font-size: 11px; padding: 3px 10px; border-radius: 9999px; }
 
     /* 底部 */
-    .footer {
-      background: #1f2937;
-      color: white;
-      text-align: center;
-      padding: 32px 24px;
-      margin-top: 64px;
-    }
-
-    .footer .emoji {
-      font-size: 32px;
-      margin-bottom: 8px;
-    }
-
-    .footer p {
-      color: #9ca3af;
-      font-size: 14px;
-    }
-
-    .footer .sub {
-      font-size: 12px;
-      color: #6b7280;
-      margin-top: 8px;
-    }
+    .footer { background: #1f2937; color: white; text-align: center; padding: 28px 24px; margin-top: 48px; }
+    .footer .emoji { font-size: 28px; margin-bottom: 6px; }
+    .footer p { color: #9ca3af; font-size: 13px; }
+    .footer .sub { font-size: 12px; color: #6b7280; margin-top: 6px; }
 
     /* 响应式 */
-    @media (max-width: 1024px) {
-      .grid-4 { grid-template-columns: repeat(2, 1fr); }
-    }
-
     @media (max-width: 768px) {
       .navbar-links { display: none; }
-      .grid-3, .grid-4, .grid-2 { grid-template-columns: 1fr; }
-      .hero h2 { font-size: 28px; }
-      .section-title h3 { font-size: 20px; }
+      .hero h2 { font-size: 24px; }
+      .carousel-btn { display: none; }
+      .news-card { width: 280px; }
+      .product-card { width: 180px; }
+      .ecommerce-card { width: 300px; }
+      .agent-card { width: 300px; }
     }
   </style>
 </head>
 <body>
-  <!-- 导航栏 -->
   <nav class="navbar">
     <div class="navbar-inner">
       <div class="navbar-brand">
@@ -500,7 +145,6 @@
     </div>
   </nav>
 
-  <!-- Hero 区域 -->
   <header class="hero">
     <div class="big-emoji">🧘</div>
     <h2>深呼吸，AI时代也可以很从容</h2>
@@ -512,63 +156,73 @@
       <button class="refresh-btn" onclick="location.reload()">立即刷新</button>
     </div>
     <div class="update-time">
-      <span>数据更新时间：<span id="update-time"></span></span>
+      数据更新时间：<span id="update-time"></span>
       <span class="realtime-clock">当前时间：<span id="current-time"></span></span>
     </div>
   </header>
 
-  <!-- 主内容 -->
   <main class="main-content">
-    <!-- 本月AI科技圈大新闻 -->
     <section id="news" class="section">
       <div class="section-header">
-        <div class="section-icon news">📰</div>
-        <div class="section-title">
-          <h3>本月AI科技圈大新闻</h3>
-          <p>影响行业走向的重要事件</p>
+        <div class="section-header-left">
+          <div class="section-icon news">📰</div>
+          <div class="section-title"><h3>本月AI科技圈大新闻</h3><p>影响行业走向的重要事件</p></div>
         </div>
+        <span class="section-count" id="news-count"></span>
       </div>
-      <div class="grid-3" id="news-container"></div>
+      <div class="carousel-wrapper">
+        <button class="carousel-btn left hidden" data-target="news-carousel">‹</button>
+        <div class="carousel" id="news-carousel"></div>
+        <button class="carousel-btn right" data-target="news-carousel">›</button>
+      </div>
     </section>
 
-    <!-- 近期AI热点产品 -->
     <section id="products" class="section">
       <div class="section-header">
-        <div class="section-icon products">🔥</div>
-        <div class="section-title">
-          <h3>近期AI热点产品</h3>
-          <p>值得关注的AI工具和应用</p>
+        <div class="section-header-left">
+          <div class="section-icon products">🔥</div>
+          <div class="section-title"><h3>近期AI热点产品</h3><p>值得关注的AI工具和应用</p></div>
         </div>
+        <span class="section-count" id="products-count"></span>
       </div>
-      <div class="grid-4" id="products-container"></div>
+      <div class="carousel-wrapper">
+        <button class="carousel-btn left hidden" data-target="products-carousel">‹</button>
+        <div class="carousel" id="products-carousel"></div>
+        <button class="carousel-btn right" data-target="products-carousel">›</button>
+      </div>
     </section>
 
-    <!-- 电商AI新闻 -->
     <section id="ecommerce" class="section">
       <div class="section-header">
-        <div class="section-icon ecommerce">🛍️</div>
-        <div class="section-title">
-          <h3>电商AI新闻</h3>
-          <p>AI如何改变电商行业</p>
+        <div class="section-header-left">
+          <div class="section-icon ecommerce">🛍️</div>
+          <div class="section-title"><h3>电商AI新闻</h3><p>AI如何改变电商行业</p></div>
         </div>
+        <span class="section-count" id="ecommerce-count"></span>
       </div>
-      <div class="ecommerce-list" id="ecommerce-container"></div>
+      <div class="carousel-wrapper">
+        <button class="carousel-btn left hidden" data-target="ecommerce-carousel">‹</button>
+        <div class="carousel" id="ecommerce-carousel"></div>
+        <button class="carousel-btn right" data-target="ecommerce-carousel">›</button>
+      </div>
     </section>
 
-    <!-- 全网优质个人Agent案例 -->
     <section id="agents" class="section">
       <div class="section-header">
-        <div class="section-icon agents">🤖</div>
-        <div class="section-title">
-          <h3>全网优质个人Agent案例</h3>
-          <p>普通人的AI创造力展示</p>
+        <div class="section-header-left">
+          <div class="section-icon agents">🤖</div>
+          <div class="section-title"><h3>全网优质个人Agent案例</h3><p>普通人的AI创造力展示</p></div>
         </div>
+        <span class="section-count" id="agents-count"></span>
       </div>
-      <div class="grid-2" id="agents-container"></div>
+      <div class="carousel-wrapper">
+        <button class="carousel-btn left hidden" data-target="agents-carousel">‹</button>
+        <div class="carousel" id="agents-carousel"></div>
+        <button class="carousel-btn right" data-target="agents-carousel">›</button>
+      </div>
     </section>
   </main>
 
-  <!-- 底部 -->
   <footer class="footer">
     <div class="emoji">🌈</div>
     <p>AI不焦虑空间 · 让技术为人服务，而不是相反</p>
@@ -576,8 +230,8 @@
   </footer>
 
   <script>
-    // 数据配置
-    const newsData = [
+    // ===== 数据 =====
+    var newsData = [
       { title: 'GPT-5发布，多模态能力大幅提升', summary: 'OpenAI发布新一代模型，在推理、代码生成和视觉理解方面取得突破性进展，支持更长上下文窗口。', date: '2026-04-08', tag: 'hot', tagText: '热点', source: 'OpenAI官方' },
       { title: '中国发布AI大模型国家标准', summary: '工信部正式发布生成式AI大模型行业规范，对数据安全、算法透明度提出明确要求，将于6月起实施。', date: '2026-04-07', tag: 'new', tagText: '新政', source: '工信部' },
       { title: 'Google DeepMind推出通用机器人模型', summary: 'RT-3模型让机器人能够理解自然语言指令并完成复杂操作任务，在多个基准测试中刷新记录。', date: '2026-04-07', tag: 'trend', tagText: '趋势', source: 'Google DeepMind' },
@@ -610,7 +264,7 @@
       { title: 'AI音乐版权第一案宣判', summary: '北京互联网法院对AI生成音乐版权案作出判决，明确AI辅助创作的音乐作品享有有限版权保护。', date: '2026-03-26', tag: 'new', tagText: '新政', source: '北京互联网法院' }
     ];
 
-    const productsData = [
+    var productsData = [
       { name: 'Notion AI 3.0', description: '智能笔记助手升级，支持会议摘要、任务分解和知识图谱自动生成', category: '生产力', icon: '📝' },
       { name: 'Midjourney V7', description: '图像生成质量再提升，支持视频片段生成和3D模型输出', category: '创意设计', icon: '🎨' },
       { name: 'Cursor Pro', description: 'AI编程助手支持全栈项目理解，代码补全准确率提升40%', category: '开发工具', icon: '💻' },
@@ -653,7 +307,7 @@
       { name: 'Trae IDE', description: '字节跳动推出的AI编程IDE，内置多模型切换和项目级理解', category: '开发工具', icon: '🏗️' }
     ];
 
-    const ecommerceData = [
+    var ecommerceData = [
       { title: '淘宝推出AI导购助手「淘宝问问」升级版', content: '基于大语言模型的购物助手能够理解复杂需求，提供个性化推荐和比价服务，转化率提升35%。', impact: 'high', impactText: '高', date: '2026-04-08' },
       { title: '京东智能客服系统覆盖全品类', content: '自研言犀大模型应用于客服场景，问题解决率达到92%，平均响应时间缩短至8秒。', impact: 'high', impactText: '高', date: '2026-04-07' },
       { title: 'AI虚拟主播在直播电商中占比突破20%', content: '24小时不间断直播成为常态，多家MCN机构宣布全面启用数字人主播，降低运营成本60%。', impact: 'medium', impactText: '中', date: '2026-04-07' },
@@ -686,7 +340,7 @@
       { title: '电商AI售后自动处理率首次超过70%', content: '退换货、补发、退款等售后场景中AI自主处理占比突破70%，人工客服压力大幅减轻。', impact: 'medium', impactText: '中', date: '2026-03-24' }
     ];
 
-    const agentsData = [
+    var agentsData = [
       { title: '独立开发者用AI搭建自动化内容工厂', author: '@技术小白不白', description: '一位非技术背景的产品经理，通过组合多个AI工具，搭建了从选题、写作到分发的全流程自动化系统，月更文章100+篇。', tools: ['ChatGPT', 'Notion', 'Zapier'], likes: 2340 },
       { title: '大学生打造AI学习伙伴Agent', author: '@学霸也焦虑', description: '基于开源模型训练的个人学习助手，能够根据课程表自动整理笔记、生成复习计划，还在校园内开放共享。', tools: ['LangChain', 'Ollama', 'Streamlit'], likes: 1890 },
       { title: '自由设计师的AI工作流分享', author: '@设计不脱发', description: '从客户沟通、需求分析到初稿生成，全流程AI辅助，项目交付时间缩短一半，客户满意度反而提升。', tools: ['Claude', 'Midjourney', 'Figma AI'], likes: 3120 },
@@ -719,119 +373,103 @@
       { title: '农场主的AI精准农业实践', author: '@数字新农人', description: '用AI分析卫星图像和传感器数据，精准灌溉施肥，水果甜度提升20%，用水量减少40%，年收入翻番。', tools: ['TensorFlow', '大疆无人机', '阿里云'], likes: 15600 }
     ];
 
-    // 渲染新闻 — 为日期添加"X天前"标签
+    // ===== 工具函数 =====
     function getRelativeTime(dateStr) {
-      var now = new Date();
-      var date = new Date(dateStr);
+      var now = new Date(); var date = new Date(dateStr);
       var diff = Math.floor((now - date) / (1000 * 60 * 60 * 24));
-      if (diff === 0) return '今天';
-      if (diff === 1) return '昨天';
-      return diff + '天前';
+      if (diff === 0) return '今天'; if (diff === 1) return '昨天'; return diff + '天前';
     }
 
+    // ===== 渲染 =====
     function renderNews() {
-      const container = document.getElementById('news-container');
-      container.innerHTML = newsData.map(item => `
-        <div class="card news-card ${item.tag}">
-          <div style="display: flex; justify-content: space-between; align-items: center;">
-            <span class="tag ${item.tag}">${item.tagText}</span>
-            <span class="date">${item.date}（${getRelativeTime(item.date)}）</span>
-          </div>
-          <h4>${item.title}</h4>
-          <p>${item.summary}</p>
-          <div class="source">来源: ${item.source}</div>
-        </div>
-      `).join('');
+      var c = document.getElementById('news-carousel');
+      document.getElementById('news-count').textContent = '共 ' + newsData.length + ' 条 · 左右滑动查看';
+      c.innerHTML = newsData.map(function(item) {
+        return '<div class="card news-card ' + item.tag + '">' +
+          '<div class="top-row"><span class="tag ' + item.tag + '">' + item.tagText + '</span><span class="date">' + getRelativeTime(item.date) + '</span></div>' +
+          '<h4>' + item.title + '</h4><p>' + item.summary + '</p>' +
+          '<div class="source">' + item.date + ' · ' + item.source + '</div></div>';
+      }).join('');
     }
 
-    // 渲染产品
     function renderProducts() {
-      const container = document.getElementById('products-container');
-      container.innerHTML = productsData.map(item => `
-        <div class="card product-card">
-          <div class="icon">${item.icon}</div>
-          <h4>${item.name}</h4>
-          <span class="category">${item.category}</span>
-          <p>${item.description}</p>
-        </div>
-      `).join('');
+      var c = document.getElementById('products-carousel');
+      document.getElementById('products-count').textContent = '共 ' + productsData.length + ' 款 · 左右滑动查看';
+      c.innerHTML = productsData.map(function(item) {
+        return '<div class="card product-card"><div class="icon">' + item.icon + '</div>' +
+          '<h4>' + item.name + '</h4><span class="category">' + item.category + '</span>' +
+          '<p>' + item.description + '</p></div>';
+      }).join('');
     }
 
-    // 渲染电商新闻
     function renderEcommerce() {
-      const container = document.getElementById('ecommerce-container');
-      container.innerHTML = ecommerceData.map(item => `
-        <div class="ecommerce-item">
-          <div class="header">
-            <h4>${item.title}</h4>
-            <span class="impact ${item.impact}">影响: ${item.impactText}</span>
-          </div>
-          <p>${item.content}</p>
-          <div class="date">${item.date}</div>
-        </div>
-      `).join('');
+      var c = document.getElementById('ecommerce-carousel');
+      document.getElementById('ecommerce-count').textContent = '共 ' + ecommerceData.length + ' 条 · 左右滑动查看';
+      c.innerHTML = ecommerceData.map(function(item) {
+        return '<div class="card ecommerce-card"><div class="top-row"><h4>' + item.title + '</h4>' +
+          '<span class="impact ' + item.impact + '">影响: ' + item.impactText + '</span></div>' +
+          '<p>' + item.content + '</p><div class="date">' + item.date + '（' + getRelativeTime(item.date) + '）</div></div>';
+      }).join('');
     }
 
-    // 渲染Agent案例
     function renderAgents() {
-      const container = document.getElementById('agents-container');
-      container.innerHTML = agentsData.map(item => `
-        <div class="card agent-card">
-          <div class="author-row">
-            <div class="avatar">${item.author.charAt(1)}</div>
-            <div class="author-info">
-              <div class="name">${item.author}</div>
-              <div class="likes">❤️ ${item.likes.toLocaleString()} 点赞</div>
-            </div>
-          </div>
-          <h4>${item.title}</h4>
-          <p>${item.description}</p>
-          <div class="tools">
-            ${item.tools.map(tool => `<span class="tool-tag">${tool}</span>`).join('')}
-          </div>
-        </div>
-      `).join('');
+      var c = document.getElementById('agents-carousel');
+      document.getElementById('agents-count').textContent = '共 ' + agentsData.length + ' 个 · 左右滑动查看';
+      c.innerHTML = agentsData.map(function(item) {
+        return '<div class="card agent-card"><div class="author-row">' +
+          '<div class="avatar">' + item.author.charAt(1) + '</div>' +
+          '<div class="author-info"><div class="name">' + item.author + '</div>' +
+          '<div class="likes">❤️ ' + item.likes.toLocaleString() + '</div></div></div>' +
+          '<h4>' + item.title + '</h4><p>' + item.description + '</p>' +
+          '<div class="tools">' + item.tools.map(function(t) { return '<span class="tool-tag">' + t + '</span>'; }).join('') + '</div></div>';
+      }).join('');
     }
 
-    // 更新时间
+    // ===== 轮播按钮 =====
+    function initCarousels() {
+      document.querySelectorAll('.carousel-btn').forEach(function(btn) {
+        btn.addEventListener('click', function() {
+          var target = document.getElementById(btn.getAttribute('data-target'));
+          var scrollAmount = target.clientWidth * 0.75;
+          if (btn.classList.contains('left')) { target.scrollLeft -= scrollAmount; }
+          else { target.scrollLeft += scrollAmount; }
+        });
+      });
+      document.querySelectorAll('.carousel').forEach(function(carousel) {
+        var wrapper = carousel.parentElement;
+        var leftBtn = wrapper.querySelector('.carousel-btn.left');
+        var rightBtn = wrapper.querySelector('.carousel-btn.right');
+        function updateBtns() {
+          if (leftBtn) leftBtn.classList.toggle('hidden', carousel.scrollLeft <= 10);
+          if (rightBtn) rightBtn.classList.toggle('hidden', carousel.scrollLeft + carousel.clientWidth >= carousel.scrollWidth - 10);
+        }
+        carousel.addEventListener('scroll', updateBtns);
+        setTimeout(updateBtns, 100);
+      });
+    }
+
+    // ===== 时间 =====
     function updateTime() {
-      const now = new Date();
-      const options = { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' };
-      document.getElementById('update-time').textContent = now.toLocaleDateString('zh-CN', options);
+      var now = new Date();
+      document.getElementById('update-time').textContent = now.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' });
     }
-
-    // 实时时钟
     function updateClock() {
-      const now = new Date();
-      const timeStr = now.toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
-      const dateStr = now.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
-      document.getElementById('current-time').textContent = dateStr + ' ' + timeStr;
+      var now = new Date();
+      document.getElementById('current-time').textContent = now.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' }) + ' ' + now.toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
     }
-
-    // 倒计时
-    let countdownValue = 60;
+    var countdownValue = 60;
     function updateCountdown() {
       countdownValue--;
-      if (countdownValue <= 0) {
-        location.reload();
-      }
+      if (countdownValue <= 0) { location.reload(); }
       document.getElementById('countdown').textContent = '(' + countdownValue + 's 后刷新)';
     }
 
-    // 初始化
+    // ===== 初始化 =====
     document.addEventListener('DOMContentLoaded', function() {
-      updateTime();
-      updateClock();
-      renderNews();
-      renderProducts();
-      renderEcommerce();
-      renderAgents();
-
-      // 每秒更新时钟和倒计时
-      setInterval(function() {
-        updateClock();
-        updateCountdown();
-      }, 1000);
+      updateTime(); updateClock();
+      renderNews(); renderProducts(); renderEcommerce(); renderAgents();
+      initCarousels();
+      setInterval(function() { updateClock(); updateCountdown(); }, 1000);
     });
   </script>
 </body>
