@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI不焦虑空间</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <style>
+    /* 基础重置 */
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background-color: #f9fafb;
+      color: #1f2937;
+      line-height: 1.6;
+    }
+
+    /* 导航栏 */
+    .navbar {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .navbar-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 16px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .navbar-brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .navbar-brand .emoji {
+      font-size: 32px;
+    }
+
+    .navbar-brand h1 {
+      font-size: 24px;
+      font-weight: 700;
+    }
+
+    .navbar-brand p {
+      font-size: 14px;
+      opacity: 0.9;
+    }
+
+    .navbar-links {
+      display: flex;
+      gap: 24px;
+    }
+
+    .navbar-links a {
+      color: white;
+      text-decoration: none;
+      font-size: 15px;
+      transition: opacity 0.2s;
+    }
+
+    .navbar-links a:hover {
+      opacity: 0.8;
+      text-decoration: underline;
+    }
+
+    /* Hero 区域 */
+    .hero {
+      background: white;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      padding: 48px 24px;
+    }
+
+    .hero .big-emoji {
+      font-size: 64px;
+      animation: pulse 3s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.7; transform: scale(1.05); }
+    }
+
+    .hero h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: #1f2937;
+      margin: 16px 0 8px;
+    }
+
+    .hero p {
+      font-size: 18px;
+      color: #4b5563;
+      max-width: 640px;
+      margin: 0 auto;
+    }
+
+    .hero .update-time {
+      margin-top: 24px;
+      font-size: 14px;
+      color: #6b7280;
+    }
+
+    /* 主内容区 */
+    .main-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 32px 24px;
+    }
+
+    /* 通用 Section 样式 */
+    .section {
+      margin-bottom: 48px;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+
+    .section-icon {
+      color: white;
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 20px;
+    }
+
+    .section-icon.news { background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); }
+    .section-icon.products { background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); }
+    .section-icon.ecommerce { background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); }
+    .section-icon.agents { background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); }
+
+    .section-title h3 {
+      font-size: 24px;
+      font-weight: 700;
+      color: #1f2937;
+    }
+
+    .section-title p {
+      font-size: 14px;
+      color: #6b7280;
+    }
+
+    /* 网格布局 */
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+    }
+
+    .grid-4 {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 24px;
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 24px;
+    }
+
+    /* 卡片样式 */
+    .card {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+      padding: 24px;
+      transition: all 0.3s ease;
+      cursor: default;
+    }
+
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
+    }
+
+    /* 新闻卡片 */
+    .news-card {
+      border-left: 4px solid;
+    }
+
+    .news-card.hot { border-left-color: #ef4444; }
+    .news-card.new { border-left-color: #3b82f6; }
+    .news-card.trend { border-left-color: #10b981; }
+
+    .news-card .tag {
+      display: inline-block;
+      padding: 4px 12px;
+      border-radius: 9999px;
+      font-size: 12px;
+      font-weight: 500;
+    }
+
+    .tag.hot { background: #fee2e2; color: #dc2626; }
+    .tag.new { background: #dbeafe; color: #2563eb; }
+    .tag.trend { background: #d1fae5; color: #059669; }
+
+    .news-card .date {
+      font-size: 12px;
+      color: #6b7280;
+    }
+
+    .news-card h4 {
+      font-size: 18px;
+      font-weight: 700;
+      color: #1f2937;
+      margin: 12px 0 8px;
+    }
+
+    .news-card p {
+      font-size: 14px;
+      color: #4b5563;
+      line-height: 1.7;
+    }
+
+    .news-card .source {
+      font-size: 12px;
+      color: #6b7280;
+      margin-top: 12px;
+    }
+
+    /* 产品卡片 */
+    .product-card {
+      text-align: center;
+    }
+
+    .product-card .icon {
+      font-size: 48px;
+      margin-bottom: 16px;
+    }
+
+    .product-card h4 {
+      font-size: 18px;
+      font-weight: 700;
+      color: #1f2937;
+      margin-bottom: 8px;
+    }
+
+    .product-card .category {
+      display: inline-block;
+      background: #f3e8ff;
+      color: #7c3aed;
+      font-size: 12px;
+      padding: 4px 12px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+    }
+
+    .product-card p {
+      font-size: 14px;
+      color: #4b5563;
+      line-height: 1.7;
+    }
+
+    /* 电商新闻 */
+    .ecommerce-list {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+      padding: 24px;
+    }
+
+    .ecommerce-item {
+      padding: 16px 0;
+      border-bottom: 1px solid #e5e7eb;
+    }
+
+    .ecommerce-item:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+
+    .ecommerce-item:first-child {
+      padding-top: 0;
+    }
+
+    .ecommerce-item .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 8px;
+    }
+
+    .ecommerce-item h4 {
+      font-size: 18px;
+      font-weight: 700;
+      color: #1f2937;
+    }
+
+    .ecommerce-item .impact {
+      font-size: 12px;
+      padding: 4px 12px;
+      border-radius: 9999px;
+      white-space: nowrap;
+      margin-left: 16px;
+    }
+
+    .impact.high { background: #fee2e2; color: #dc2626; }
+    .impact.medium { background: #fef3c7; color: #d97706; }
+
+    .ecommerce-item p {
+      font-size: 14px;
+      color: #4b5563;
+      line-height: 1.7;
+    }
+
+    .ecommerce-item .date {
+      font-size: 12px;
+      color: #6b7280;
+      margin-top: 8px;
+    }
+
+    /* Agent 卡片 */
+    .agent-card .author-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .agent-card .avatar {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #f472b6 0%, #a855f7 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-weight: 700;
+      font-size: 16px;
+    }
+
+    .agent-card .author-info .name {
+      font-size: 14px;
+      font-weight: 600;
+      color: #1f2937;
+    }
+
+    .agent-card .author-info .likes {
+      font-size: 12px;
+      color: #6b7280;
+    }
+
+    .agent-card h4 {
+      font-size: 18px;
+      font-weight: 700;
+      color: #1f2937;
+      margin-bottom: 8px;
+    }
+
+    .agent-card p {
+      font-size: 14px;
+      color: #4b5563;
+      line-height: 1.7;
+      margin-bottom: 12px;
+    }
+
+    .agent-card .tools {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .agent-card .tool-tag {
+      background: #f3f4f6;
+      color: #374151;
+      font-size: 12px;
+      padding: 4px 12px;
+      border-radius: 9999px;
+    }
+
+    /* 底部 */
+    .footer {
+      background: #1f2937;
+      color: white;
+      text-align: center;
+      padding: 32px 24px;
+      margin-top: 64px;
+    }
+
+    .footer .emoji {
+      font-size: 32px;
+      margin-bottom: 8px;
+    }
+
+    .footer p {
+      color: #9ca3af;
+      font-size: 14px;
+    }
+
+    .footer .sub {
+      font-size: 12px;
+      color: #6b7280;
+      margin-top: 8px;
+    }
+
+    /* 响应式 */
+    @media (max-width: 1024px) {
+      .grid-4 { grid-template-columns: repeat(2, 1fr); }
+    }
+
+    @media (max-width: 768px) {
+      .navbar-links { display: none; }
+      .grid-3, .grid-4, .grid-2 { grid-template-columns: 1fr; }
+      .hero h2 { font-size: 28px; }
+      .section-title h3 { font-size: 20px; }
+    }
+  </style>
+</head>
+<body>
+  <!-- 导航栏 -->
+  <nav class="navbar">
+    <div class="navbar-inner">
+      <div class="navbar-brand">
+        <span class="emoji">🌟</span>
+        <div>
+          <h1>AI不焦虑空间</h1>
+          <p>轻松掌握AI动态，不做信息的奴隶</p>
+        </div>
+      </div>
+      <div class="navbar-links">
+        <a href="#news">大新闻</a>
+        <a href="#products">热点产品</a>
+        <a href="#ecommerce">电商AI</a>
+        <a href="#agents">Agent案例</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero 区域 -->
+  <header class="hero">
+    <div class="big-emoji">🧘</div>
+    <h2>深呼吸，AI时代也可以很从容</h2>
+    <p>每周精选最重要的AI资讯，帮你过滤噪音，只关注真正有价值的内容</p>
+    <div class="update-time">最后更新：<span id="update-time"></span></div>
+  </header>
+
+  <!-- 主内容 -->
+  <main class="main-content">
+    <!-- 本月AI科技圈大新闻 -->
+    <section id="news" class="section">
+      <div class="section-header">
+        <div class="section-icon news">📰</div>
+        <div class="section-title">
+          <h3>本月AI科技圈大新闻</h3>
+          <p>影响行业走向的重要事件</p>
+        </div>
+      </div>
+      <div class="grid-3" id="news-container"></div>
+    </section>
+
+    <!-- 近期AI热点产品 -->
+    <section id="products" class="section">
+      <div class="section-header">
+        <div class="section-icon products">🔥</div>
+        <div class="section-title">
+          <h3>近期AI热点产品</h3>
+          <p>值得关注的AI工具和应用</p>
+        </div>
+      </div>
+      <div class="grid-4" id="products-container"></div>
+    </section>
+
+    <!-- 电商AI新闻 -->
+    <section id="ecommerce" class="section">
+      <div class="section-header">
+        <div class="section-icon ecommerce">🛍️</div>
+        <div class="section-title">
+          <h3>电商AI新闻</h3>
+          <p>AI如何改变电商行业</p>
+        </div>
+      </div>
+      <div class="ecommerce-list" id="ecommerce-container"></div>
+    </section>
+
+    <!-- 全网优质个人Agent案例 -->
+    <section id="agents" class="section">
+      <div class="section-header">
+        <div class="section-icon agents">🤖</div>
+        <div class="section-title">
+          <h3>全网优质个人Agent案例</h3>
+          <p>普通人的AI创造力展示</p>
+        </div>
+      </div>
+      <div class="grid-2" id="agents-container"></div>
+    </section>
+  </main>
+
+  <!-- 底部 -->
+  <footer class="footer">
+    <div class="emoji">🌈</div>
+    <p>AI不焦虑空间 · 让技术为人服务，而不是相反</p>
+    <p class="sub">每周更新 · 精选内容 · 轻松阅读</p>
+  </footer>
+
+  <script>
+    // 数据配置
+    const newsData = [
+      {
+        title: 'GPT-5发布，多模态能力大幅提升',
+        summary: 'OpenAI发布新一代模型，在推理、代码生成和视觉理解方面取得突破性进展，支持更长上下文窗口。',
+        date: '2026-04-05',
+        tag: 'hot',
+        tagText: '热点',
+        source: 'OpenAI官方'
+      },
+      {
+        title: '中国发布AI大模型国家标准',
+        summary: '工信部正式发布生成式AI大模型行业规范，对数据安全、算法透明度提出明确要求，将于6月起实施。',
+        date: '2026-04-03',
+        tag: 'new',
+        tagText: '新政',
+        source: '工信部'
+      },
+      {
+        title: 'Google DeepMind推出通用机器人模型',
+        summary: 'RT-3模型让机器人能够理解自然语言指令并完成复杂操作任务，在多个基准测试中刷新记录。',
+        date: '2026-04-01',
+        tag: 'trend',
+        tagText: '趋势',
+        source: 'Google DeepMind'
+      }
+    ];
+
+    const productsData = [
+      { name: 'Notion AI 3.0', description: '智能笔记助手升级，支持会议摘要、任务分解和知识图谱自动生成', category: '生产力', icon: '📝' },
+      { name: 'Midjourney V7', description: '图像生成质量再提升，支持视频片段生成和3D模型输出', category: '创意设计', icon: '🎨' },
+      { name: 'Cursor Pro', description: 'AI编程助手支持全栈项目理解，代码补全准确率提升40%', category: '开发工具', icon: '💻' },
+      { name: 'Runway Gen-4', description: '视频生成工具支持电影级特效，一键生成专业级短视频', category: '视频制作', icon: '🎬' }
+    ];
+
+    const ecommerceData = [
+      { title: '淘宝推出AI导购助手「淘宝问问」升级版', content: '基于大语言模型的购物助手能够理解复杂需求，提供个性化推荐和比价服务，转化率提升35%。', impact: 'high', impactText: '高', date: '2026-04-06' },
+      { title: '京东智能客服系统覆盖全品类', content: '自研言犀大模型应用于客服场景，问题解决率达到92%，平均响应时间缩短至8秒。', impact: 'high', impactText: '高', date: '2026-04-04' },
+      { title: 'AI虚拟主播在直播电商中占比突破20%', content: '24小时不间断直播成为常态，多家MCN机构宣布全面启用数字人主播，降低运营成本60%。', impact: 'medium', impactText: '中', date: '2026-04-02' }
+    ];
+
+    const agentsData = [
+      { title: '独立开发者用AI搭建自动化内容工厂', author: '@技术小白不白', description: '一位非技术背景的产品经理，通过组合多个AI工具，搭建了从选题、写作到分发的全流程自动化系统，月更文章100+篇。', tools: ['ChatGPT', 'Notion', 'Zapier'], likes: 2340 },
+      { title: '大学生打造AI学习伙伴Agent', author: '@学霸也焦虑', description: '基于开源模型训练的个人学习助手，能够根据课程表自动整理笔记、生成复习计划，还在校园内开放共享。', tools: ['LangChain', 'Ollama', 'Streamlit'], likes: 1890 },
+      { title: '自由设计师的AI工作流分享', author: '@设计不脱发', description: '从客户沟通、需求分析到初稿生成，全流程AI辅助，项目交付时间缩短一半，客户满意度反而提升。', tools: ['Claude', 'Midjourney', 'Figma AI'], likes: 3120 },
+      { title: '退休教师用AI创作儿童故事', author: '@奶奶的故事屋', description: '70岁的王老师借助AI工具将多年教学经验转化为系列儿童故事，在多个平台连载，收获10万+粉丝。', tools: ['文心一言', '剪映', '小红书'], likes: 5670 }
+    ];
+
+    // 渲染新闻
+    function renderNews() {
+      const container = document.getElementById('news-container');
+      container.innerHTML = newsData.map(item => `
+        <div class="card news-card ${item.tag}">
+          <div style="display: flex; justify-content: space-between; align-items: center;">
+            <span class="tag ${item.tag}">${item.tagText}</span>
+            <span class="date">${item.date}</span>
+          </div>
+          <h4>${item.title}</h4>
+          <p>${item.summary}</p>
+          <div class="source">来源: ${item.source}</div>
+        </div>
+      `).join('');
+    }
+
+    // 渲染产品
+    function renderProducts() {
+      const container = document.getElementById('products-container');
+      container.innerHTML = productsData.map(item => `
+        <div class="card product-card">
+          <div class="icon">${item.icon}</div>
+          <h4>${item.name}</h4>
+          <span class="category">${item.category}</span>
+          <p>${item.description}</p>
+        </div>
+      `).join('');
+    }
+
+    // 渲染电商新闻
+    function renderEcommerce() {
+      const container = document.getElementById('ecommerce-container');
+      container.innerHTML = ecommerceData.map(item => `
+        <div class="ecommerce-item">
+          <div class="header">
+            <h4>${item.title}</h4>
+            <span class="impact ${item.impact}">影响: ${item.impactText}</span>
+          </div>
+          <p>${item.content}</p>
+          <div class="date">${item.date}</div>
+        </div>
+      `).join('');
+    }
+
+    // 渲染Agent案例
+    function renderAgents() {
+      const container = document.getElementById('agents-container');
+      container.innerHTML = agentsData.map(item => `
+        <div class="card agent-card">
+          <div class="author-row">
+            <div class="avatar">${item.author.charAt(1)}</div>
+            <div class="author-info">
+              <div class="name">${item.author}</div>
+              <div class="likes">❤️ ${item.likes.toLocaleString()} 点赞</div>
+            </div>
+          </div>
+          <h4>${item.title}</h4>
+          <p>${item.description}</p>
+          <div class="tools">
+            ${item.tools.map(tool => `<span class="tool-tag">${tool}</span>`).join('')}
+          </div>
+        </div>
+      `).join('');
+    }
+
+    // 更新时间
+    function updateTime() {
+      const now = new Date();
+      const options = { year: 'numeric', month: 'long', day: 'numeric' };
+      document.getElementById('update-time').textContent = now.toLocaleDateString('zh-CN', options);
+    }
+
+    // 初始化
+    document.addEventListener('DOMContentLoaded', function() {
+      updateTime();
+      renderNews();
+      renderProducts();
+      renderEcommerce();
+      renderAgents();
+    });
+  </script>
+</body>
+</html>
