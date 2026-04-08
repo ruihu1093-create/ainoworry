@@ -53,6 +53,7 @@
 
     /* 轮播容器 */
     .carousel-wrapper { position: relative; }
+    .carousel-wrapper::after { content: ''; position: absolute; right: 0; top: 0; bottom: 0; width: 40px; background: linear-gradient(to right, transparent, #f9fafb); pointer-events: none; z-index: 5; display: none; }
     .carousel { display: flex; gap: 16px; overflow-x: auto; scroll-behavior: smooth; padding: 4px 0 12px; -ms-overflow-style: none; scrollbar-width: none; }
     .carousel::-webkit-scrollbar { display: none; }
     .carousel-btn { position: absolute; top: 50%; transform: translateY(-50%); width: 36px; height: 36px; border-radius: 50%; background: white; border: 1px solid #e5e7eb; box-shadow: 0 2px 8px rgba(0,0,0,0.1); cursor: pointer; font-size: 16px; display: flex; align-items: center; justify-content: center; z-index: 10; transition: all 0.2s; color: #374151; }
@@ -121,15 +122,111 @@
     .footer p { color: #9ca3af; font-size: 13px; }
     .footer .sub { font-size: 12px; color: #6b7280; margin-top: 6px; }
 
-    /* 响应式 */
+    /* ===== 响应式 - 平板 ===== */
     @media (max-width: 768px) {
+      /* 导航栏 */
       .navbar-links { display: none; }
-      .hero h2 { font-size: 24px; }
+      .navbar-inner { padding: 10px 16px; }
+      .navbar-brand .emoji { font-size: 24px; }
+      .navbar-brand h1 { font-size: 18px; }
+      .navbar-brand p { font-size: 11px; }
+
+      /* Hero区域 */
+      .hero { padding: 16px 16px; }
+      .hero .big-emoji { font-size: 32px; }
+      .hero h2 { font-size: 20px; margin: 6px 0 4px; }
+      .hero > p { font-size: 13px; }
+      .status-bar { padding: 4px 10px; gap: 6px; font-size: 11px; }
+      .update-time { font-size: 11px; display: flex; flex-direction: column; align-items: center; gap: 2px; }
+      .realtime-clock { margin-left: 0; }
+
+      /* 主内容 */
+      .main-content { padding: 20px 16px; }
+
+      /* 板块 */
+      .section { margin-bottom: 28px; }
+      .section-header { flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 12px; }
+      .section-header-left { gap: 8px; }
+      .section-icon { padding: 5px 12px; font-size: 16px; }
+      .section-title h3 { font-size: 17px; }
+      .section-title p { font-size: 12px; }
+      .section-count { font-size: 12px; padding-left: 2px; }
+
+      /* 轮播 */
+      .carousel { gap: 12px; padding: 4px 0 8px; -webkit-overflow-scrolling: touch; scroll-snap-type: x proximity; }
       .carousel-btn { display: none; }
+      .carousel > .card { scroll-snap-align: start; }
+      .carousel-wrapper::after { display: block; }
+
+      /* 卡片通用 - 禁用hover位移 */
+      .card { padding: 16px; border-radius: 10px; }
+      .card:hover { transform: none; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+      .card:active { transform: scale(0.98); }
+
+      /* 新闻卡片 */
       .news-card { width: 280px; }
-      .product-card { width: 180px; }
-      .ecommerce-card { width: 300px; }
+      .news-card h4 { font-size: 15px; }
+      .news-card p { font-size: 12px; -webkit-line-clamp: 2; }
+
+      /* 产品卡片 */
+      .product-card { width: 170px; padding: 14px; }
+      .product-card .icon { font-size: 32px; margin-bottom: 8px; }
+      .product-card h4 { font-size: 14px; margin-bottom: 4px; }
+      .product-card p { font-size: 11px; -webkit-line-clamp: 2; }
+      .product-card .category { font-size: 10px; padding: 2px 8px; margin-bottom: 6px; }
+
+      /* 电商卡片 */
+      .ecommerce-card { width: 290px; }
+      .ecommerce-card h4 { font-size: 14px; }
+      .ecommerce-card p { font-size: 12px; -webkit-line-clamp: 2; }
+
+      /* Agent卡片 */
       .agent-card { width: 300px; }
+      .agent-card h4 { font-size: 14px; }
+      .agent-card p { font-size: 12px; -webkit-line-clamp: 2; }
+      .agent-card .avatar { width: 30px; height: 30px; font-size: 12px; }
+      .agent-card .author-info .name { font-size: 12px; }
+      .agent-card .author-info .likes { font-size: 10px; }
+      .agent-card .tool-tag { font-size: 10px; padding: 2px 8px; }
+
+      /* 底部 */
+      .footer { padding: 20px 16px; margin-top: 32px; }
+      .footer .emoji { font-size: 24px; }
+      .footer p { font-size: 12px; }
+      .footer .sub { font-size: 11px; }
+    }
+
+    /* ===== 响应式 - 小屏手机 (iPhone SE / 小屏Android) ===== */
+    @media (max-width: 390px) {
+      .navbar-inner { padding: 8px 12px; }
+      .navbar-brand .emoji { font-size: 22px; }
+      .navbar-brand h1 { font-size: 16px; }
+      .navbar-brand p { font-size: 10px; }
+
+      .hero { padding: 12px 12px; }
+      .hero .big-emoji { font-size: 28px; }
+      .hero h2 { font-size: 18px; }
+      .hero > p { font-size: 12px; }
+      .status-bar { font-size: 10px; gap: 4px; padding: 3px 8px; }
+      .refresh-btn { font-size: 10px; padding: 2px 8px; }
+      .update-time { font-size: 10px; }
+
+      .main-content { padding: 16px 12px; }
+      .section { margin-bottom: 24px; }
+      .section-title h3 { font-size: 16px; }
+      .section-icon { padding: 4px 10px; font-size: 14px; border-radius: 6px; }
+
+      .carousel { gap: 10px; }
+      .news-card { width: 260px; padding: 14px; }
+      .product-card { width: 150px; padding: 12px; }
+      .product-card .icon { font-size: 28px; }
+      .ecommerce-card { width: 265px; padding: 14px; }
+      .agent-card { width: 272px; padding: 14px; }
+    }
+
+    /* ===== iOS安全区域适配 ===== */
+    @supports (padding-bottom: env(safe-area-inset-bottom)) {
+      .footer { padding-bottom: calc(28px + env(safe-area-inset-bottom)); }
     }
   </style>
 </head>
