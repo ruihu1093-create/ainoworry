@@ -578,60 +578,164 @@
   <script>
     // 数据配置
     const newsData = [
-      {
-        title: 'GPT-5发布，多模态能力大幅提升',
-        summary: 'OpenAI发布新一代模型，在推理、代码生成和视觉理解方面取得突破性进展，支持更长上下文窗口。',
-        date: '2026-04-05',
-        tag: 'hot',
-        tagText: '热点',
-        source: 'OpenAI官方'
-      },
-      {
-        title: '中国发布AI大模型国家标准',
-        summary: '工信部正式发布生成式AI大模型行业规范，对数据安全、算法透明度提出明确要求，将于6月起实施。',
-        date: '2026-04-03',
-        tag: 'new',
-        tagText: '新政',
-        source: '工信部'
-      },
-      {
-        title: 'Google DeepMind推出通用机器人模型',
-        summary: 'RT-3模型让机器人能够理解自然语言指令并完成复杂操作任务，在多个基准测试中刷新记录。',
-        date: '2026-04-01',
-        tag: 'trend',
-        tagText: '趋势',
-        source: 'Google DeepMind'
-      }
+      { title: 'GPT-5发布，多模态能力大幅提升', summary: 'OpenAI发布新一代模型，在推理、代码生成和视觉理解方面取得突破性进展，支持更长上下文窗口。', date: '2026-04-08', tag: 'hot', tagText: '热点', source: 'OpenAI官方' },
+      { title: '中国发布AI大模型国家标准', summary: '工信部正式发布生成式AI大模型行业规范，对数据安全、算法透明度提出明确要求，将于6月起实施。', date: '2026-04-07', tag: 'new', tagText: '新政', source: '工信部' },
+      { title: 'Google DeepMind推出通用机器人模型', summary: 'RT-3模型让机器人能够理解自然语言指令并完成复杂操作任务，在多个基准测试中刷新记录。', date: '2026-04-07', tag: 'trend', tagText: '趋势', source: 'Google DeepMind' },
+      { title: 'Meta发布Llama 5开源大模型', summary: 'Llama 5系列全面开源，涵盖7B到405B参数量级，在多项基准测试中超越GPT-4o，推动开源AI生态。', date: '2026-04-06', tag: 'hot', tagText: '热点', source: 'Meta AI' },
+      { title: '苹果WWDC预告：Siri将迎来大模型加持', summary: '苹果官方确认WWDC将展示全新Siri，基于自研大语言模型，深度集成iOS 20全系统功能。', date: '2026-04-06', tag: 'hot', tagText: '热点', source: 'Apple Newsroom' },
+      { title: '百度文心一言4.5发布，中文能力再突破', summary: '文心一言4.5在中文理解、长文本生成和多轮对话方面大幅升级，API调用价格下降60%。', date: '2026-04-05', tag: 'hot', tagText: '热点', source: '百度AI' },
+      { title: '英伟达发布B300 GPU，AI训练性能翻倍', summary: '新一代Blackwell Ultra架构GPU发布，FP4性能达到前代两倍，内存带宽提升75%。', date: '2026-04-05', tag: 'trend', tagText: '趋势', source: 'NVIDIA' },
+      { title: '欧盟AI法案正式生效实施', summary: '全球首部全面AI监管法律正式生效，对高风险AI系统实施严格合规要求，违规罚款最高达全球营收7%。', date: '2026-04-04', tag: 'new', tagText: '新政', source: '欧盟委员会' },
+      { title: 'Anthropic Claude 4发布，安全性再提升', summary: 'Claude 4在保持强大能力的同时，引入宪法AI 2.0框架，幻觉率降低80%，成为企业首选。', date: '2026-04-04', tag: 'hot', tagText: '热点', source: 'Anthropic' },
+      { title: '阿里通义千问3.0开源，多模态融合', summary: '通义千问3.0全系列模型开源，首次实现文本、图像、音频、视频四模态统一理解与生成。', date: '2026-04-04', tag: 'hot', tagText: '热点', source: '阿里云' },
+      { title: 'AI辅助药物研发首款新药通过FDA审批', summary: 'Insilico Medicine利用AI平台发现的新药ISM001正式通过FDA审批，从发现到获批仅用3年。', date: '2026-04-03', tag: 'trend', tagText: '趋势', source: 'FDA/Insilico' },
+      { title: '字节跳动豆包大模型用户突破5亿', summary: '豆包APP月活跃用户超过5亿，成为全球用户量最大的AI助手应用之一，日均对话量超10亿轮。', date: '2026-04-03', tag: 'hot', tagText: '热点', source: '字节跳动' },
+      { title: '三大运营商联合发布AI网络白皮书', summary: '中国移动、联通、电信联合发布AI赋能通信网络白皮书，规划2027年实现全面AI自治网络。', date: '2026-04-03', tag: 'new', tagText: '新政', source: '三大运营商' },
+      { title: 'Stability AI推出图像生成新基准SD4', summary: 'Stable Diffusion 4支持原生4K分辨率输出，引入时序一致性，可生成连续动画帧序列。', date: '2026-04-02', tag: 'trend', tagText: '趋势', source: 'Stability AI' },
+      { title: '华为盘古大模型5.0面向行业全面商用', summary: '盘古5.0深入矿山、气象、金融等10大行业，已签约超过200家企业客户，年营收超50亿。', date: '2026-04-02', tag: 'hot', tagText: '热点', source: '华为云' },
+      { title: 'Sam Altman预告AGI可能在2027年实现', summary: 'OpenAI CEO在博客中表示，按照当前进展速度，AGI有望在2027年前后实现，引发业界热议。', date: '2026-04-02', tag: 'trend', tagText: '趋势', source: 'Sam Altman博客' },
+      { title: '教育部发布AI进校园指导意见', summary: '明确中小学AI教育课程标准，鼓励高校开设AI交叉学科，要求2027年前AI素养纳入高考。', date: '2026-04-01', tag: 'new', tagText: '新政', source: '教育部' },
+      { title: 'Microsoft Copilot全面整合Windows 12', summary: 'Windows 12深度集成Copilot，支持自然语言控制系统设置、文件管理和应用操作。', date: '2026-04-01', tag: 'hot', tagText: '热点', source: 'Microsoft' },
+      { title: '腾讯混元大模型接入微信生态', summary: '微信正式上线AI助手功能，基于混元大模型，支持聊天总结、智能回复、朋友圈内容生成。', date: '2026-04-01', tag: 'hot', tagText: '热点', source: '腾讯' },
+      { title: '全球AI芯片市场规模突破1000亿美元', summary: '据Gartner报告，2026年Q1全球AI芯片市场首次突破千亿美元大关，英伟达市占率约65%。', date: '2026-03-31', tag: 'trend', tagText: '趋势', source: 'Gartner' },
+      { title: '日本推出AI国家战略2030', summary: '日本政府发布新版AI国家战略，计划投入500亿美元，目标2030年成为全球AI研究三强。', date: '2026-03-31', tag: 'new', tagText: '新政', source: '日本经产省' },
+      { title: 'Mistral AI获得50亿美元估值', summary: '法国AI独角兽Mistral AI完成新一轮融资，估值达到50亿美元，发布Mistral Large 3模型。', date: '2026-03-30', tag: 'trend', tagText: '趋势', source: 'Mistral AI' },
+      { title: '科大讯飞星火5.0通过图灵测试', summary: '星火5.0在盲测中首次通过图灵测试，评委无法区分其与人类对话，中文自然度达到新高度。', date: '2026-03-30', tag: 'hot', tagText: '热点', source: '科大讯飞' },
+      { title: 'AI生成内容标注国际标准发布', summary: 'ISO正式发布AI生成内容标识国际标准，要求所有AIGC内容必须携带数字水印和元数据标注。', date: '2026-03-29', tag: 'new', tagText: '新政', source: 'ISO组织' },
+      { title: 'Perplexity AI推出企业搜索引擎', summary: 'AI搜索引擎Perplexity面向企业推出Pro Enterprise版，支持接入企业私有知识库和实时数据。', date: '2026-03-29', tag: 'trend', tagText: '趋势', source: 'Perplexity' },
+      { title: '清华大学发布通用世界模型', summary: '清华智能产业研究院发布"天工"世界模型，能够理解和预测物理世界运动规律，用于机器人训练。', date: '2026-03-28', tag: 'trend', tagText: '趋势', source: '清华大学' },
+      { title: 'xAI Grok 3进入全面公测', summary: 'Elon Musk旗下xAI推出Grok 3正式版，强调"最大程度追求真实"的AI助手理念，接入X平台全量数据。', date: '2026-03-28', tag: 'hot', tagText: '热点', source: 'xAI' },
+      { title: '韩国三星发布Galaxy AI 2.0', summary: '三星在Galaxy S26系列上搭载Galaxy AI 2.0，支持实时翻译、AI摄影、智能日程管理等功能。', date: '2026-03-27', tag: 'trend', tagText: '趋势', source: 'Samsung' },
+      { title: '中国AI算力总规模全球第二', summary: '工信部数据显示，中国AI算力规模达到350EFLOPS，仅次于美国，智算中心数量超过60个。', date: '2026-03-27', tag: 'new', tagText: '新政', source: '工信部' },
+      { title: 'AI音乐版权第一案宣判', summary: '北京互联网法院对AI生成音乐版权案作出判决，明确AI辅助创作的音乐作品享有有限版权保护。', date: '2026-03-26', tag: 'new', tagText: '新政', source: '北京互联网法院' }
     ];
 
     const productsData = [
       { name: 'Notion AI 3.0', description: '智能笔记助手升级，支持会议摘要、任务分解和知识图谱自动生成', category: '生产力', icon: '📝' },
       { name: 'Midjourney V7', description: '图像生成质量再提升，支持视频片段生成和3D模型输出', category: '创意设计', icon: '🎨' },
       { name: 'Cursor Pro', description: 'AI编程助手支持全栈项目理解，代码补全准确率提升40%', category: '开发工具', icon: '💻' },
-      { name: 'Runway Gen-4', description: '视频生成工具支持电影级特效，一键生成专业级短视频', category: '视频制作', icon: '🎬' }
+      { name: 'Runway Gen-4', description: '视频生成工具支持电影级特效，一键生成专业级短视频', category: '视频制作', icon: '🎬' },
+      { name: 'Perplexity Pro', description: 'AI搜索引擎全面升级，支持深度研究模式和学术论文检索', category: 'AI搜索', icon: '🔍' },
+      { name: 'Suno V4', description: 'AI音乐创作工具，支持多乐器编曲、歌词生成和人声合成', category: '音乐创作', icon: '🎵' },
+      { name: 'Gamma AI', description: '一句话生成精美PPT和文档，支持品牌模板和数据图表', category: '演示文稿', icon: '📊' },
+      { name: 'Descript 5.0', description: '视频编辑像编辑文档一样简单，AI自动剪辑、配音和字幕', category: '视频编辑', icon: '✂️' },
+      { name: 'Replit Agent', description: '自然语言描述需求即可生成完整应用，支持一键部署', category: '开发工具', icon: '🚀' },
+      { name: 'Copilot Workspace', description: 'GitHub推出AI驱动的开发环境，从Issue到PR全流程AI辅助', category: '开发工具', icon: '🛠️' },
+      { name: 'ElevenLabs Voice', description: '支持100+语言的超逼真语音合成，可克隆任何人的声音', category: '语音合成', icon: '🎙️' },
+      { name: 'Canva Magic Studio', description: '一站式AI设计平台，海报、视频、社媒内容一键生成', category: '设计工具', icon: '🎯' },
+      { name: '豆包桌面版', description: '字节跳动AI助手登陆桌面端，支持文件分析、长文写作和代码生成', category: '综合助手', icon: '🫧' },
+      { name: 'Claude Artifacts', description: 'Anthropic推出交互式代码预览功能，对话中实时生成可运行应用', category: '开发工具', icon: '⚡' },
+      { name: 'Adobe Firefly 3', description: '全面集成Adobe全家桶，PS/AI/PR内直接AI生成和编辑', category: '创意设计', icon: '🔥' },
+      { name: 'Jasper AI 2026', description: '企业级AI营销内容平台，支持品牌语调学习和多渠道内容批量生成', category: '营销工具', icon: '📣' },
+      { name: 'Otter.ai 4.0', description: '会议AI助手，实时转录、智能摘要、自动分配任务和跟进提醒', category: '会议效率', icon: '🦦' },
+      { name: 'Pika 2.0', description: '视频生成新秀，支持镜头语言控制和角色一致性保持', category: '视频制作', icon: '🎞️' },
+      { name: 'Grammarly AI', description: '写作助手全面升级，支持全文改写、语调调整和多语言翻译', category: '写作工具', icon: '✍️' },
+      { name: 'Luma Dream Machine', description: '3D场景和模型生成工具，文字描述即可创建逼真3D世界', category: '3D创作', icon: '🌐' },
+      { name: 'Monica AI', description: '浏览器AI助手，网页摘要、邮件回复、翻译和截图问答一站搞定', category: '浏览器助手', icon: '🌸' },
+      { name: 'Kimi 2.0', description: '月之暗面长文本AI助手升级，上下文窗口扩展至200万字', category: '综合助手', icon: '🌙' },
+      { name: 'Synthesia 3.0', description: '数字人视频制作平台，支持160+语言，数字人表情更自然', category: '数字人', icon: '👤' },
+      { name: 'Windsurf IDE', description: 'AI原生代码编辑器，理解整个代码库上下文，重构能力强大', category: '开发工具', icon: '🏄' },
+      { name: 'Heygen 4.0', description: 'AI视频翻译和数字人克隆平台，5分钟生成多语言营销视频', category: '视频制作', icon: '🎭' },
+      { name: 'Napkin AI', description: '将文字自动转化为精美信息图、流程图和数据可视化', category: '可视化', icon: '🗺️' },
+      { name: 'Lovable', description: '对话式全栈开发平台，自然语言创建完整Web应用', category: '开发工具', icon: '💝' },
+      { name: 'Mem AI', description: 'AI知识管理工具，自动整理笔记、建立知识关联和智能检索', category: '知识管理', icon: '🧠' },
+      { name: 'Ideogram 2.0', description: '专注文字渲染的AI图像生成，海报和Logo设计的最佳选择', category: '设计工具', icon: '🖼️' },
+      { name: 'Coze（扣子）', description: '字节跳动AI Bot开发平台，零代码搭建AI应用和智能体', category: 'Agent平台', icon: '🤖' },
+      { name: 'Dify.ai', description: '开源LLM应用开发平台，可视化编排AI工作流和RAG管线', category: 'Agent平台', icon: '🔗' },
+      { name: 'v0.dev', description: 'Vercel推出的AI前端生成工具，描述即可生成React组件', category: '开发工具', icon: '🎨' },
+      { name: 'Sora Pro', description: 'OpenAI视频生成工具开放API，支持60秒1080P视频生成', category: '视频制作', icon: '🎬' },
+      { name: 'Bolt.new', description: '浏览器内AI全栈开发平台，聊天即可创建、编辑和部署应用', category: '开发工具', icon: '⚡' },
+      { name: 'DeepSeek V3', description: '深度求索推出新版推理模型，数学和编程能力比肩GPT-5', category: '大模型', icon: '🐋' },
+      { name: 'Gemini Advanced', description: 'Google最新AI助手，深度集成Gmail、Drive和全套办公场景', category: '综合助手', icon: '♊' },
+      { name: 'Figma AI 2.0', description: '设计工具全面AI化，自动布局、组件建议和设计稿转代码', category: '设计工具', icon: '🖌️' },
+      { name: 'Tavily', description: 'AI原生搜索API，为Agent和AI应用提供高质量实时搜索能力', category: 'AI搜索', icon: '🔎' },
+      { name: 'NotebookLM Plus', description: 'Google AI笔记本升级，支持音频播客生成和多人协作', category: '知识管理', icon: '📒' },
+      { name: 'Trae IDE', description: '字节跳动推出的AI编程IDE，内置多模型切换和项目级理解', category: '开发工具', icon: '🏗️' }
     ];
 
     const ecommerceData = [
-      { title: '淘宝推出AI导购助手「淘宝问问」升级版', content: '基于大语言模型的购物助手能够理解复杂需求，提供个性化推荐和比价服务，转化率提升35%。', impact: 'high', impactText: '高', date: '2026-04-06' },
-      { title: '京东智能客服系统覆盖全品类', content: '自研言犀大模型应用于客服场景，问题解决率达到92%，平均响应时间缩短至8秒。', impact: 'high', impactText: '高', date: '2026-04-04' },
-      { title: 'AI虚拟主播在直播电商中占比突破20%', content: '24小时不间断直播成为常态，多家MCN机构宣布全面启用数字人主播，降低运营成本60%。', impact: 'medium', impactText: '中', date: '2026-04-02' }
+      { title: '淘宝推出AI导购助手「淘宝问问」升级版', content: '基于大语言模型的购物助手能够理解复杂需求，提供个性化推荐和比价服务，转化率提升35%。', impact: 'high', impactText: '高', date: '2026-04-08' },
+      { title: '京东智能客服系统覆盖全品类', content: '自研言犀大模型应用于客服场景，问题解决率达到92%，平均响应时间缩短至8秒。', impact: 'high', impactText: '高', date: '2026-04-07' },
+      { title: 'AI虚拟主播在直播电商中占比突破20%', content: '24小时不间断直播成为常态，多家MCN机构宣布全面启用数字人主播，降低运营成本60%。', impact: 'medium', impactText: '中', date: '2026-04-07' },
+      { title: '拼多多上线AI商品描述自动生成', content: '商家只需上传商品图片，AI自动生成标题、描述、卖点和SEO关键词，中小商家上架效率提升10倍。', impact: 'high', impactText: '高', date: '2026-04-06' },
+      { title: 'Shopify推出AI店铺装修功能', content: '一句话描述店铺风格，AI自动生成整站设计，包括Banner、配色、字体和商品陈列布局。', impact: 'medium', impactText: '中', date: '2026-04-06' },
+      { title: '抖音电商上线AI选品助手', content: '基于销售数据和趋势分析，AI为达人推荐最佳带货商品组合，测试期间GMV提升28%。', impact: 'high', impactText: '高', date: '2026-04-05' },
+      { title: '亚马逊AI评价摘要覆盖全球站点', content: 'AI自动汇总数千条买家评价，生成多维度产品优缺点总结，帮助消费者3秒做出购买决策。', impact: 'medium', impactText: '中', date: '2026-04-05' },
+      { title: '快手电商AI换装试穿功能上线', content: '消费者上传自拍即可虚拟试穿服装，退货率降低25%，用户停留时长增加40%。', impact: 'high', impactText: '高', date: '2026-04-04' },
+      { title: 'SHEIN用AI预测时尚趋势准确率超85%', content: 'AI分析全球社交媒体和时装周数据，提前3个月预测爆款趋势，库存周转率行业第一。', impact: 'medium', impactText: '中', date: '2026-04-04' },
+      { title: '微信小店接入AI智能营销', content: '基于混元大模型，商家可自动生成营销文案、朋友圈素材和短视频脚本，千人千面精准触达。', impact: 'high', impactText: '高', date: '2026-04-03' },
+      { title: '阿里国际站AI翻译实现实时多语言客服', content: '支持36种语言实时翻译，跨境卖家与海外买家无障碍沟通，询盘转化率提升42%。', impact: 'high', impactText: '高', date: '2026-04-03' },
+      { title: '得物App上线AI真伪鉴定辅助系统', content: '用户拍照上传商品细节，AI实时比对正品数据库，鉴定准确率达到99.2%，鉴定时间缩短80%。', impact: 'medium', impactText: '中', date: '2026-04-02' },
+      { title: 'Temu利用AI实现极致供应链优化', content: 'AI预测各市场需求并智能调配全球仓储，跨境包裹平均送达时间缩短至5天。', impact: 'high', impactText: '高', date: '2026-04-02' },
+      { title: '美团闪购上线AI购物清单功能', content: '用户说"准备一场生日派对"，AI自动生成完整购物清单并一键加购，客单价提升55%。', impact: 'medium', impactText: '中', date: '2026-04-01' },
+      { title: '唯品会AI个性化推荐改版', content: '新版推荐算法融合大模型理解用户穿搭风格，首页推荐点击率提升32%，退货率下降15%。', impact: 'medium', impactText: '中', date: '2026-04-01' },
+      { title: '小红书推出AI笔记种草助手', content: '品牌商家输入产品卖点，AI自动生成不同风格的种草文案和配图建议，内容生产效率提升5倍。', impact: 'high', impactText: '高', date: '2026-03-31' },
+      { title: '1688批发平台上线AI找源头工厂', content: '采购商描述需求后AI自动匹配最优供应商，支持AI验厂和资质审核，找厂时间从一周缩短到一天。', impact: 'medium', impactText: '中', date: '2026-03-31' },
+      { title: '跨境电商AI合规检测工具需求暴涨', content: '随着各国监管趋严，AI自动检测商品描述、图片和成分是否合规，避免下架和罚款，市场规模增长300%。', impact: 'high', impactText: '高', date: '2026-03-30' },
+      { title: '直播电商AI实时数据大屏成标配', content: 'AI实时分析直播间数据，自动提示主播调整话术、节奏和商品展示顺序，转化率平均提升20%。', impact: 'medium', impactText: '中', date: '2026-03-30' },
+      { title: '盒马用AI优化生鲜损耗控制', content: 'AI预测各门店每日销量并自动调配供应链，生鲜损耗率从8%降至3%，年节省超2亿元。', impact: 'medium', impactText: '中', date: '2026-03-29' },
+      { title: '电商AI客服首次实现情感安抚功能', content: '新一代AI客服能识别用户情绪状态，在处理投诉时主动安抚并给出超预期补偿方案，好评率提升60%。', impact: 'high', impactText: '高', date: '2026-03-29' },
+      { title: 'Lazada东南亚市场AI本地化全面升级', content: 'AI针对东南亚6国市场自动调整商品描述、定价策略和促销方案，各站点GMV增长35%。', impact: 'medium', impactText: '中', date: '2026-03-28' },
+      { title: '网易严选AI定制商品服务上线', content: '消费者可通过AI描述个性化需求，严选利用柔性供应链7天内交付定制商品，溢价率达40%。', impact: 'medium', impactText: '中', date: '2026-03-28' },
+      { title: '电商AI防欺诈系统拦截率达99.5%', content: '多平台联合部署AI反欺诈模型，实时识别虚假交易、刷单和恶意退货，年挽回损失超百亿。', impact: 'high', impactText: '高', date: '2026-03-27' },
+      { title: 'TikTok Shop全球扩张靠AI驱动', content: 'AI自动翻译商品信息、匹配当地达人、生成本地化营销内容，支撑TikTok Shop进入30个新市场。', impact: 'high', impactText: '高', date: '2026-03-27' },
+      { title: '苏宁易购AI家电推荐顾问上线', content: '用户描述户型和生活习惯，AI推荐最佳家电方案并自动计算能耗和安装方案，转化率翻倍。', impact: 'medium', impactText: '中', date: '2026-03-26' },
+      { title: 'AI定价策略工具成为电商新标配', content: '基于竞品、库存、季节和用户画像的AI动态定价工具，被超过60%的Top100电商商家采用。', impact: 'high', impactText: '高', date: '2026-03-26' },
+      { title: '菜鸟物流AI调度覆盖全国配送网络', content: 'AI优化配送路线和时间窗口，末端配送效率提升30%，同城配送时效提升到平均2小时。', impact: 'medium', impactText: '中', date: '2026-03-25' },
+      { title: '二手电商平台闲鱼AI估价引爆用户增长', content: '拍照即可AI估价，准确率达90%，闲鱼月活突破4亿，二手交易额同比增长65%。', impact: 'high', impactText: '高', date: '2026-03-25' },
+      { title: '电商AI售后自动处理率首次超过70%', content: '退换货、补发、退款等售后场景中AI自主处理占比突破70%，人工客服压力大幅减轻。', impact: 'medium', impactText: '中', date: '2026-03-24' }
     ];
 
     const agentsData = [
       { title: '独立开发者用AI搭建自动化内容工厂', author: '@技术小白不白', description: '一位非技术背景的产品经理，通过组合多个AI工具，搭建了从选题、写作到分发的全流程自动化系统，月更文章100+篇。', tools: ['ChatGPT', 'Notion', 'Zapier'], likes: 2340 },
       { title: '大学生打造AI学习伙伴Agent', author: '@学霸也焦虑', description: '基于开源模型训练的个人学习助手，能够根据课程表自动整理笔记、生成复习计划，还在校园内开放共享。', tools: ['LangChain', 'Ollama', 'Streamlit'], likes: 1890 },
       { title: '自由设计师的AI工作流分享', author: '@设计不脱发', description: '从客户沟通、需求分析到初稿生成，全流程AI辅助，项目交付时间缩短一半，客户满意度反而提升。', tools: ['Claude', 'Midjourney', 'Figma AI'], likes: 3120 },
-      { title: '退休教师用AI创作儿童故事', author: '@奶奶的故事屋', description: '70岁的王老师借助AI工具将多年教学经验转化为系列儿童故事，在多个平台连载，收获10万+粉丝。', tools: ['文心一言', '剪映', '小红书'], likes: 5670 }
+      { title: '退休教师用AI创作儿童故事', author: '@奶奶的故事屋', description: '70岁的王老师借助AI工具将多年教学经验转化为系列儿童故事，在多个平台连载，收获10万+粉丝。', tools: ['文心一言', '剪映', '小红书'], likes: 5670 },
+      { title: '全职妈妈用AI开启副业月入2万', author: '@带娃也精彩', description: '利用AI做电商选品分析和商品文案生成，在闲暇时间运营3家网店，从零开始半年做到月入2万。', tools: ['豆包', '1688AI选品', 'Canva'], likes: 8920 },
+      { title: '律师打造合同审查AI助手', author: '@法律界的码农', description: '基于RAG技术构建合同审查Agent，导入法律知识库后可自动标注合同风险点，审查效率提升10倍。', tools: ['Dify', 'GPT-4', 'Pinecone'], likes: 4560 },
+      { title: '外贸人的AI多语言客服系统', author: '@跨境老司机', description: '搭建了支持12种语言的AI客服机器人，自动回复询盘、报价和跟进，一个人管理6个国家市场。', tools: ['Coze', 'DeepL', 'WhatsApp API'], likes: 3780 },
+      { title: '健身教练用AI做个性化训练计划', author: '@AI铁馆', description: '根据学员体测数据和目标，AI自动生成训练计划和饮食方案，配合AI动作纠正视频，线上学员突破5000。', tools: ['Claude', 'Notion', 'Loom'], likes: 2890 },
+      { title: '小红书博主的AI创作全流程', author: '@效率成瘾患者', description: '从选题分析、文案撰写到封面设计全程AI辅助，日更3篇笔记仅需2小时，粉丝半年涨20万。', tools: ['ChatGPT', 'Midjourney', 'Canva'], likes: 12300 },
+      { title: '乡村教师搭建AI英语陪练', author: '@山里的星光', description: '为山区学校搭建AI英语口语陪练系统，让农村孩子也能和"外教"练口语，覆盖周边8所小学。', tools: ['Ollama', 'Whisper', 'TTS'], likes: 15600 },
+      { title: '摄影师打造AI修图工作流', author: '@光影魔术师', description: '将AI修图集成到Lightroom工作流，批量处理婚礼照片从3天缩短到3小时，画质和风格一致性极高。', tools: ['Adobe Firefly', 'Lightroom', 'Python'], likes: 4230 },
+      { title: '90后创业者用AI管理20人团队', author: '@管理不焦虑', description: '搭建AI团队管理助手，自动汇总日报周报、跟踪OKR进度、提醒风险事项，管理效率提升300%。', tools: ['飞书', 'Coze', 'Notion AI'], likes: 6780 },
+      { title: '心理咨询师的AI辅助咨询系统', author: '@温暖的树洞', description: '用AI做咨询前的初步评估和咨询后的记录整理，让咨询师专注于倾听和交流，服务人数翻倍。', tools: ['Claude', 'Notion', '问卷星'], likes: 3450 },
+      { title: '美食博主的AI菜谱创作', author: '@厨房实验室', description: '给AI描述食材和口味偏好，自动生成创意菜谱、拍摄脚本和带货文案，一条视频完成从创意到变现。', tools: ['GPT-4', 'Suno', '剪映'], likes: 7890 },
+      { title: '房产中介用AI做市场分析报告', author: '@地产数据控', description: '每周自动抓取区域房价、成交量和政策变化，AI生成专业分析报告发给客户，成交率明显提高。', tools: ['Python', 'ChatGPT', 'Tableau'], likes: 2340 },
+      { title: '自媒体人搭建AI热点监控系统', author: '@追热点的人', description: '7x24小时监控微博、抖音、知乎热搜，AI判断热点价值和切入角度，15分钟内出稿。', tools: ['n8n', 'GPT-4', 'Telegram Bot'], likes: 9870 },
+      { title: '宠物店主的AI宠物健康顾问', author: '@毛孩子的家', description: '训练AI理解宠物症状描述，给出初步健康建议和就医指导，线上咨询收入占到总营收的30%。', tools: ['Dify', '微信小程序', 'GPT-4'], likes: 5430 },
+      { title: '科研人员用AI加速文献综述', author: '@论文不秃头', description: '搭建文献管理Agent，自动检索最新论文、提取核心观点和生成结构化综述，一天完成过去两周的工作量。', tools: ['Semantic Scholar', 'Claude', 'Zotero'], likes: 11200 },
+      { title: '独立音乐人的AI编曲工作站', author: '@卧室音乐家', description: '用AI完成编曲、混音和母带制作，一个人一把吉他就能产出专业级音乐，已发布3张AI辅助专辑。', tools: ['Suno', 'Udio', 'Logic Pro'], likes: 4560 },
+      { title: '旅行博主的AI行程规划助手', author: '@背包走世界', description: '输入目的地和偏好，AI自动规划行程、预算估算和景点攻略，还能实时翻译和紧急求助。', tools: ['GPT-4', 'Google Maps API', '飞书'], likes: 6780 },
+      { title: '电商运营的AI数据分析仪表盘', author: '@数据驱动增长', description: '连接多平台店铺数据，AI自动分析销售趋势、竞品动态和库存预警，告别手动做报表的日子。', tools: ['Python', 'Metabase', 'ChatGPT'], likes: 5670 },
+      { title: '高中生打造AI错题整理系统', author: '@学习黑客少年', description: '拍照上传错题后AI自动识别知识点、分析错因并生成相似练习题，在班级内推广后平均成绩提升15分。', tools: ['OCR', 'GPT-4', 'Streamlit'], likes: 18900 },
+      { title: '纪录片导演用AI做口述历史', author: '@时光记录者', description: '用AI将老人口述自动转录、整理成结构化故事，配合AI修复老照片，已为100位老人留下生命记忆。', tools: ['Whisper', 'Claude', 'Midjourney'], likes: 23400 },
+      { title: '花艺师的AI花束设计系统', author: '@花间一壶茶', description: '客户描述场景和预算后AI生成花束设计方案和花材清单，还能3D预览效果，订单量翻了3倍。', tools: ['GPT-4', 'Midjourney', '微信小程序'], likes: 3210 },
+      { title: '社区志愿者的AI适老化服务', author: '@银发守护者', description: '为社区老人搭建语音AI助手，能用方言聊天、提醒吃药、预约挂号，服务200多位独居老人。', tools: ['讯飞语音', 'Coze', '微信'], likes: 32100 },
+      { title: '跨境卖家一人管理50个SKU', author: '@跨境小而美', description: '用AI自动翻译产品Listing、回复各国买家邮件、监控价格变动和库存，一个人做到月销百万。', tools: ['GPT-4', 'Zapier', 'Helium 10'], likes: 7890 },
+      { title: '插画师训练个人风格AI模型', author: '@二次元造梦师', description: '用自己的500张作品训练LoRA模型，AI辅助生成线稿和配色方案，创作效率提升同时保持个人风格。', tools: ['Stable Diffusion', 'ComfyUI', 'Procreate'], likes: 9870 },
+      { title: '中医诊所的AI辅助问诊', author: '@杏林AI', description: '基于中医知识库训练的问诊Agent，辅助采集四诊信息和证候分析，让年轻中医师更快上手。', tools: ['Dify', '中医知识图谱', 'GPT-4'], likes: 6540 },
+      { title: '播客主持人的AI内容助手', author: '@声音实验室', description: '从选题调研、嘉宾背景整理到后期剪辑和ShowNotes撰写，一档周更播客制作时间从20小时降到6小时。', tools: ['Claude', 'Descript', 'Notion'], likes: 4320 },
+      { title: '农场主的AI精准农业实践', author: '@数字新农人', description: '用AI分析卫星图像和传感器数据，精准灌溉施肥，水果甜度提升20%，用水量减少40%，年收入翻番。', tools: ['TensorFlow', '大疆无人机', '阿里云'], likes: 15600 }
     ];
 
-    // 渲染新闻
+    // 渲染新闻 — 为日期添加"X天前"标签
+    function getRelativeTime(dateStr) {
+      var now = new Date();
+      var date = new Date(dateStr);
+      var diff = Math.floor((now - date) / (1000 * 60 * 60 * 24));
+      if (diff === 0) return '今天';
+      if (diff === 1) return '昨天';
+      return diff + '天前';
+    }
+
     function renderNews() {
       const container = document.getElementById('news-container');
       container.innerHTML = newsData.map(item => `
         <div class="card news-card ${item.tag}">
           <div style="display: flex; justify-content: space-between; align-items: center;">
             <span class="tag ${item.tag}">${item.tagText}</span>
-            <span class="date">${item.date}</span>
+            <span class="date">${item.date}（${getRelativeTime(item.date)}）</span>
           </div>
           <h4>${item.title}</h4>
           <p>${item.summary}</p>
