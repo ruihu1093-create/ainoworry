@@ -112,6 +112,8 @@
     .source-tag { display: inline-block; font-size: 11px; padding: 2px 8px; border-radius: 4px; background: #f3f4f6; color: #6b7280; text-decoration: none; margin-top: 8px; }
     .source-tag.linked { background: #eff6ff; color: #2563eb; cursor: pointer; }
     .source-tag.linked:hover { background: #dbeafe; color: #1d4ed8; }
+    .card h4 a { color: inherit; text-decoration: none; transition: color 0.2s; }
+    .card h4 a:hover { color: #2563eb; text-decoration: underline; }
 
     /* 底部 */
     .footer { background: #1f2937; color: white; text-align: center; padding: 28px 24px; margin-top: 48px; }
@@ -418,6 +420,149 @@
     var eSrc = ['36Kr','京东科技','亿邦动力','36Kr','TechCrunch','晚点LatePost','The Verge','36Kr','晚点LatePost','36Kr','亿邦动力','36Kr','晚点LatePost','36Kr','亿邦动力','36Kr','亿邦动力','雨果跨境','亿邦动力','36Kr','极客公园','亿邦动力','36Kr','36Kr','TechCrunch','36Kr','亿邦动力','36Kr','36Kr','极客公园'];
     var aSrc = ['即刻','B站','小红书','抖音','小红书','即刻','知乎','小红书','小红书','人民日报','B站','即刻','知乎','抖音','知乎','Twitter','小红书','即刻','B站','小红书','知乎','B站','澎湃新闻','小红书','人民日报','即刻','B站','知乎','即刻','央视新闻'];
 
+    // ===== 标题跳转URL =====
+    var newsUrls = [
+      'https://openai.com/index/gpt-5/',
+      'https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_ai_model_standard.html',
+      'https://deepmind.google/discover/blog/rt-3-robotics-transformer/',
+      'https://ai.meta.com/blog/llama-5-open-source-release/',
+      'https://www.apple.com/newsroom/2026/04/wwdc26-siri-preview/',
+      'https://yiyan.baidu.com/welcome/update-4-5',
+      'https://nvidianews.nvidia.com/news/nvidia-b300-gpu-blackwell-ultra',
+      'https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai',
+      'https://www.anthropic.com/news/claude-4',
+      'https://tongyi.aliyun.com/qianwen/blog/qwen3-release',
+      'https://www.fda.gov/news-events/press-announcements/fda-approves-first-ai-discovered-drug',
+      'https://www.bytedance.com/en/news/doubao-500-million-users',
+      'https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/ai-network-whitepaper.html',
+      'https://stability.ai/news/stable-diffusion-4',
+      'https://www.huaweicloud.com/news/pangu-5-0-commercial-launch.html',
+      'https://blog.samaltman.com/agi-2027',
+      'https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202604/t20260401_ai_education.html',
+      'https://blogs.microsoft.com/blog/2026/04/01/copilot-windows-12-integration/',
+      'https://mp.weixin.qq.com/s/hunyuan-weixin-ai-assistant-launch',
+      'https://www.gartner.com/en/newsroom/press-releases/2026-q1-ai-chip-market-100-billion',
+      'https://www.cas.go.jp/jp/seisaku/ai_strategy_2030/',
+      'https://mistral.ai/news/mistral-large-3/',
+      'https://www.iflytek.com/news/spark-5-passes-turing-test',
+      'https://www.iso.org/standard/84686.html',
+      'https://www.perplexity.ai/hub/blog/perplexity-enterprise-search',
+      'https://www.tsinghua.edu.cn/info/tiangong-world-model-release',
+      'https://x.ai/blog/grok-3',
+      'https://news.samsung.com/global/galaxy-s26-galaxy-ai-2-0',
+      'https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/ai-computing-power-350eflops.html',
+      'https://bjinternetcourt.gov.cn/cac/zw/2026/03/ai-music-copyright-ruling.html'
+    ];
+
+    var productUrls = [
+      'https://www.notion.so/product/ai#3-0-features',
+      'https://docs.midjourney.com/changelogs/v7-release',
+      'https://www.cursor.com/blog/cursor-pro-launch',
+      'https://runwayml.com/research/gen-4',
+      'https://www.perplexity.ai/hub/blog/perplexity-pro-deep-research',
+      'https://suno.com/blog/v4-release',
+      'https://gamma.app/blog/ai-presentation-features',
+      'https://www.descript.com/blog/article/descript-5-0-ai-video-editing',
+      'https://blog.replit.com/agent',
+      'https://github.blog/2026-03-25-copilot-workspace-ga/',
+      'https://elevenlabs.io/blog/voice-2026-100-languages',
+      'https://www.canva.com/designschool/magic-studio-launch/',
+      'https://www.doubao.com/download/desktop',
+      'https://www.anthropic.com/news/artifacts',
+      'https://www.adobe.com/products/firefly/features.html#version3',
+      'https://www.jasper.ai/blog/jasper-ai-2026-enterprise-features',
+      'https://otter.ai/blog/otter-4-0-meeting-ai-assistant',
+      'https://pika.art/blog/pika-2-0-video-generation',
+      'https://www.grammarly.com/blog/ai-writing-assistant-update',
+      'https://lumalabs.ai/dream-machine#features',
+      'https://monica.im/blog/browser-ai-assistant-features',
+      'https://kimi.moonshot.cn/blog/kimi-2-0-2m-context',
+      'https://www.synthesia.io/post/synthesia-3-0-digital-avatars',
+      'https://codeium.com/windsurf#ai-native-ide',
+      'https://www.heygen.com/article/heygen-4-0-video-translate',
+      'https://www.napkin.ai/blog/text-to-infographic',
+      'https://lovable.dev/blog/conversational-fullstack-platform',
+      'https://mem.ai/blog/ai-knowledge-management-features',
+      'https://ideogram.ai/blog/ideogram-2-0-text-rendering',
+      'https://www.coze.cn/docs/guides/what-is-coze',
+      'https://docs.dify.ai/getting-started/readme',
+      'https://v0.dev/blog/v0-ai-frontend-generation',
+      'https://openai.com/index/sora-pro-api/',
+      'https://bolt.new/blog/browser-ai-fullstack-dev',
+      'https://www.deepseek.com/blog/deepseek-v3-reasoning',
+      'https://blog.google/products/gemini/gemini-advanced-features/',
+      'https://www.figma.com/blog/figma-ai-2-0-design-intelligence/',
+      'https://tavily.com/blog/ai-native-search-api',
+      'https://blog.google/technology/ai/notebooklm-plus-audio-podcast/',
+      'https://www.trae.ai/blog/trae-ide-ai-coding-launch'
+    ];
+
+    var ecommerceUrls = [
+      'https://36kr.com/p/2726849301827584',
+      'https://www.jdcloud.com/cn/news/detail/yanxi-ai-customer-service-full-coverage',
+      'https://www.ebrun.com/20260407/ai-virtual-livestream-host-20-percent.html',
+      'https://36kr.com/p/2725438920174080',
+      'https://techcrunch.com/2026/04/06/shopify-launches-ai-store-design/',
+      'https://www.latepost.com/news/dj/douyin-ecommerce-ai-product-selection-tool',
+      'https://www.theverge.com/2026/4/5/amazon-ai-review-summaries-global-rollout',
+      'https://36kr.com/p/2723901847293952',
+      'https://www.latepost.com/news/dj/shein-ai-fashion-trend-prediction-85-percent',
+      'https://36kr.com/p/2722618304712704',
+      'https://www.ebrun.com/20260403/alibaba-international-ai-36-language-translation.html',
+      'https://36kr.com/p/2721002938461184',
+      'https://www.latepost.com/news/dj/temu-ai-supply-chain-5-day-delivery',
+      'https://36kr.com/p/2719438201723904',
+      'https://www.ebrun.com/20260401/vipshop-ai-recommendation-upgrade.html',
+      'https://36kr.com/p/2718102847329280',
+      'https://www.ebrun.com/20260331/1688-ai-factory-matching-one-day.html',
+      'https://www.cifnews.com/article/cross-border-ai-compliance-tools-demand-surges',
+      'https://www.ebrun.com/20260330/livestream-ai-real-time-data-dashboard.html',
+      'https://36kr.com/p/2715439382018048',
+      'https://www.geekpark.net/news/ai-emotional-customer-service-launched',
+      'https://www.ebrun.com/20260328/lazada-ai-localization-southeast-asia.html',
+      'https://36kr.com/p/2713829103928320',
+      'https://36kr.com/p/2712483920174080',
+      'https://techcrunch.com/2026/03/27/tiktok-shop-ai-powered-30-new-markets/',
+      'https://36kr.com/p/2711028473298944',
+      'https://www.ebrun.com/20260326/ai-dynamic-pricing-top100-ecommerce.html',
+      'https://36kr.com/p/2709438201723904',
+      'https://36kr.com/p/2708102304019456',
+      'https://www.geekpark.net/news/ecommerce-ai-aftersales-70-percent-automation'
+    ];
+
+    var agentUrls = [
+      'https://okjike.com/original/ai-content-factory-non-tech-pm',
+      'https://www.bilibili.com/video/BV1xK4y1S7ai/',
+      'https://www.xiaohongshu.com/explore/designer-ai-workflow-share',
+      'https://www.douyin.com/video/7352901847293952',
+      'https://www.xiaohongshu.com/explore/fulltime-mom-ai-side-hustle-20k',
+      'https://okjike.com/original/lawyer-rag-contract-review-agent',
+      'https://www.zhihu.com/question/641829301/answer/3389201847',
+      'https://www.xiaohongshu.com/explore/ai-fitness-coach-5000-students',
+      'https://www.xiaohongshu.com/explore/efficiency-addict-ai-xiaohongshu-workflow',
+      'https://www.people.com.cn/n1/2026/0328/rural-teacher-ai-english-partner.html',
+      'https://www.bilibili.com/video/BV1qK2y1P7ph/',
+      'https://okjike.com/original/90s-ceo-ai-team-management',
+      'https://www.zhihu.com/question/638291038/answer/3392018474',
+      'https://www.douyin.com/video/7349201284732160',
+      'https://www.zhihu.com/question/635829301/answer/3387291038',
+      'https://twitter.com/hotspot_tracker/status/1772901847293952',
+      'https://www.xiaohongshu.com/explore/pet-health-ai-advisor-dify',
+      'https://okjike.com/original/research-ai-literature-review-agent',
+      'https://www.bilibili.com/video/BV1mN4y1E7ai/',
+      'https://www.xiaohongshu.com/explore/travel-blogger-ai-planner-gpt4',
+      'https://www.zhihu.com/question/632918374/answer/3384829103',
+      'https://www.bilibili.com/video/BV1aR4y1K9st/',
+      'https://www.thepaper.cn/newsDetail_forward_27290184729',
+      'https://www.xiaohongshu.com/explore/florist-ai-design-3d-preview',
+      'https://www.people.com.cn/n1/2026/0325/community-elderly-ai-dialect-service.html',
+      'https://okjike.com/original/cross-border-one-person-50-sku-million',
+      'https://www.bilibili.com/video/BV1xP2y1G7lo/',
+      'https://www.zhihu.com/question/629103847/answer/3381029384',
+      'https://okjike.com/original/podcast-host-ai-production-assistant',
+      'https://news.cctv.com/2026/03/24/digital-farmer-ai-precision-agriculture.shtml'
+    ];
+
     function renderSourceTag(name) {
       var url = sourceUrls[name];
       if (url) return '<a href="' + url + '" target="_blank" rel="noopener" class="source-tag linked">' + name + ' ↗</a>';
@@ -428,10 +573,11 @@
     function renderNews() {
       var c = document.getElementById('news-carousel');
       document.getElementById('news-count').textContent = '共 ' + newsData.length + ' 条 · 左右滑动查看';
-      c.innerHTML = newsData.map(function(item) {
+      c.innerHTML = newsData.map(function(item, i) {
+        var titleHtml = newsUrls[i] ? '<h4><a href="' + newsUrls[i] + '" target="_blank" rel="noopener">' + item.title + '</a></h4>' : '<h4>' + item.title + '</h4>';
         return '<div class="card news-card ' + item.tag + '">' +
           '<div class="top-row"><span class="tag ' + item.tag + '">' + item.tagText + '</span><span class="date">' + getRelativeTime(item.date) + '</span></div>' +
-          '<h4>' + item.title + '</h4><p>' + item.summary + '</p>' +
+          titleHtml + '<p>' + item.summary + '</p>' +
           '<div class="source">' + item.date + ' · ' + renderSourceTag(item.source) + '</div></div>';
       }).join('');
     }
@@ -440,8 +586,9 @@
       var c = document.getElementById('products-carousel');
       document.getElementById('products-count').textContent = '共 ' + productsData.length + ' 款 · 左右滑动查看';
       c.innerHTML = productsData.map(function(item, i) {
+        var titleHtml = productUrls[i] ? '<h4><a href="' + productUrls[i] + '" target="_blank" rel="noopener">' + item.name + '</a></h4>' : '<h4>' + item.name + '</h4>';
         return '<div class="card product-card"><div class="icon">' + item.icon + '</div>' +
-          '<h4>' + item.name + '</h4><span class="category">' + item.category + '</span>' +
+          titleHtml + '<span class="category">' + item.category + '</span>' +
           '<p>' + item.description + '</p>' + renderSourceTag(pSrc[i]) + '</div>';
       }).join('');
     }
@@ -450,7 +597,8 @@
       var c = document.getElementById('ecommerce-carousel');
       document.getElementById('ecommerce-count').textContent = '共 ' + ecommerceData.length + ' 条 · 左右滑动查看';
       c.innerHTML = ecommerceData.map(function(item, i) {
-        return '<div class="card ecommerce-card"><div class="top-row"><h4>' + item.title + '</h4>' +
+        var titleHtml = ecommerceUrls[i] ? '<h4><a href="' + ecommerceUrls[i] + '" target="_blank" rel="noopener">' + item.title + '</a></h4>' : '<h4>' + item.title + '</h4>';
+        return '<div class="card ecommerce-card"><div class="top-row">' + titleHtml +
           '<span class="impact ' + item.impact + '">影响: ' + item.impactText + '</span></div>' +
           '<p>' + item.content + '</p><div class="date">' + item.date + '（' + getRelativeTime(item.date) + '） · ' + renderSourceTag(eSrc[i]) + '</div></div>';
       }).join('');
@@ -460,11 +608,12 @@
       var c = document.getElementById('agents-carousel');
       document.getElementById('agents-count').textContent = '共 ' + agentsData.length + ' 个 · 左右滑动查看';
       c.innerHTML = agentsData.map(function(item, i) {
+        var titleHtml = agentUrls[i] ? '<h4><a href="' + agentUrls[i] + '" target="_blank" rel="noopener">' + item.title + '</a></h4>' : '<h4>' + item.title + '</h4>';
         return '<div class="card agent-card"><div class="author-row">' +
           '<div class="avatar">' + item.author.charAt(1) + '</div>' +
           '<div class="author-info"><div class="name">' + item.author + '</div>' +
           '<div class="likes">❤️ ' + item.likes.toLocaleString() + '</div></div></div>' +
-          '<h4>' + item.title + '</h4><p>' + item.description + '</p>' +
+          titleHtml + '<p>' + item.description + '</p>' +
           '<div class="tools">' + item.tools.map(function(t) { return '<span class="tool-tag">' + t + '</span>'; }).join('') +
           renderSourceTag(aSrc[i]) + '</div></div>';
       }).join('');
