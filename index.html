@@ -108,6 +108,11 @@
     .agent-card .tools { display: flex; flex-wrap: wrap; gap: 6px; }
     .agent-card .tool-tag { background: #f3f4f6; color: #374151; font-size: 11px; padding: 3px 10px; border-radius: 9999px; }
 
+    /* 来源标签 */
+    .source-tag { display: inline-block; font-size: 11px; padding: 2px 8px; border-radius: 4px; background: #f3f4f6; color: #6b7280; text-decoration: none; margin-top: 8px; }
+    .source-tag.linked { background: #eff6ff; color: #2563eb; cursor: pointer; }
+    .source-tag.linked:hover { background: #dbeafe; color: #1d4ed8; }
+
     /* 底部 */
     .footer { background: #1f2937; color: white; text-align: center; padding: 28px 24px; margin-top: 48px; }
     .footer .emoji { font-size: 28px; margin-bottom: 6px; }
@@ -380,6 +385,45 @@
       if (diff === 0) return '今天'; if (diff === 1) return '昨天'; return diff + '天前';
     }
 
+    // ===== 来源URL映射 =====
+    var sourceUrls = {
+      'OpenAI官方':'https://openai.com','工信部':'https://www.miit.gov.cn','Google DeepMind':'https://deepmind.google',
+      'Meta AI':'https://ai.meta.com','Apple Newsroom':'https://www.apple.com/newsroom','百度AI':'https://ai.baidu.com',
+      'NVIDIA':'https://www.nvidia.com','欧盟委员会':'https://ec.europa.eu','Anthropic':'https://www.anthropic.com',
+      '阿里云':'https://www.alibabacloud.com','FDA/Insilico':'https://www.fda.gov','字节跳动':'https://www.bytedance.com',
+      'Stability AI':'https://stability.ai','华为云':'https://www.huaweicloud.com','Sam Altman博客':'https://blog.samaltman.com',
+      '教育部':'https://www.moe.gov.cn','Microsoft':'https://www.microsoft.com','腾讯':'https://www.tencent.com',
+      'Gartner':'https://www.gartner.com','Mistral AI':'https://mistral.ai','科大讯飞':'https://www.iflytek.com',
+      'ISO组织':'https://www.iso.org','Perplexity':'https://www.perplexity.ai','清华大学':'https://www.tsinghua.edu.cn',
+      'xAI':'https://x.ai','Samsung':'https://www.samsung.com',
+      'Notion':'https://notion.so','Midjourney':'https://midjourney.com','Cursor':'https://cursor.com','Runway':'https://runwayml.com',
+      'Suno':'https://suno.com','Gamma':'https://gamma.app','Descript':'https://descript.com','Replit':'https://replit.com',
+      'GitHub':'https://github.com','ElevenLabs':'https://elevenlabs.io','Canva':'https://canva.com','Adobe':'https://adobe.com',
+      'Jasper':'https://jasper.ai','Otter':'https://otter.ai','Pika':'https://pika.art','Grammarly':'https://grammarly.com',
+      'Luma':'https://lumalabs.ai','Monica':'https://monica.im','月之暗面':'https://kimi.moonshot.cn','Synthesia':'https://synthesia.io',
+      'Windsurf':'https://codeium.com','HeyGen':'https://heygen.com','Napkin':'https://napkin.ai','Lovable':'https://lovable.dev',
+      'Mem':'https://mem.ai','Ideogram':'https://ideogram.ai','Coze':'https://coze.cn','Dify':'https://dify.ai',
+      'Vercel':'https://v0.dev','OpenAI':'https://openai.com','Bolt':'https://bolt.new','DeepSeek':'https://deepseek.com',
+      'Google':'https://gemini.google.com','Figma':'https://figma.com','Tavily':'https://tavily.com','Trae':'https://trae.ai',
+      '36Kr':'https://36kr.com','亿邦动力':'https://www.ebrun.com','晚点LatePost':'https://www.latepost.com',
+      'TechCrunch':'https://techcrunch.com','The Verge':'https://www.theverge.com','极客公园':'https://www.geekpark.net',
+      '雨果跨境':'https://www.cifnews.com','小红书':'https://www.xiaohongshu.com','即刻':'https://okjike.com',
+      'B站':'https://www.bilibili.com','知乎':'https://www.zhihu.com','抖音':'https://www.douyin.com','Twitter':'https://twitter.com',
+      '人民日报':'https://www.people.com.cn','澎湃新闻':'https://www.thepaper.cn','央视新闻':'https://news.cctv.com',
+      'NotebookLM':'https://notebooklm.google','京东科技':'https://www.jdcloud.com'
+    };
+
+    // 来源标签按索引
+    var pSrc = ['Notion','Midjourney','Cursor','Runway','Perplexity','Suno','Gamma','Descript','Replit','GitHub','ElevenLabs','Canva','字节跳动','Anthropic','Adobe','Jasper','Otter','Pika','Grammarly','Luma','Monica','月之暗面','Synthesia','Windsurf','HeyGen','Napkin','Lovable','Mem','Ideogram','Coze','Dify','Vercel','OpenAI','Bolt','DeepSeek','Google','Figma','Tavily','NotebookLM','Trae'];
+    var eSrc = ['36Kr','京东科技','亿邦动力','36Kr','TechCrunch','晚点LatePost','The Verge','36Kr','晚点LatePost','36Kr','亿邦动力','36Kr','晚点LatePost','36Kr','亿邦动力','36Kr','亿邦动力','雨果跨境','亿邦动力','36Kr','极客公园','亿邦动力','36Kr','36Kr','TechCrunch','36Kr','亿邦动力','36Kr','36Kr','极客公园'];
+    var aSrc = ['即刻','B站','小红书','抖音','小红书','即刻','知乎','小红书','小红书','人民日报','B站','即刻','知乎','抖音','知乎','Twitter','小红书','即刻','B站','小红书','知乎','B站','澎湃新闻','小红书','人民日报','即刻','B站','知乎','即刻','央视新闻'];
+
+    function renderSourceTag(name) {
+      var url = sourceUrls[name];
+      if (url) return '<a href="' + url + '" target="_blank" rel="noopener" class="source-tag linked">' + name + ' ↗</a>';
+      return '<span class="source-tag">' + name + '</span>';
+    }
+
     // ===== 渲染 =====
     function renderNews() {
       var c = document.getElementById('news-carousel');
@@ -388,40 +432,41 @@
         return '<div class="card news-card ' + item.tag + '">' +
           '<div class="top-row"><span class="tag ' + item.tag + '">' + item.tagText + '</span><span class="date">' + getRelativeTime(item.date) + '</span></div>' +
           '<h4>' + item.title + '</h4><p>' + item.summary + '</p>' +
-          '<div class="source">' + item.date + ' · ' + item.source + '</div></div>';
+          '<div class="source">' + item.date + ' · ' + renderSourceTag(item.source) + '</div></div>';
       }).join('');
     }
 
     function renderProducts() {
       var c = document.getElementById('products-carousel');
       document.getElementById('products-count').textContent = '共 ' + productsData.length + ' 款 · 左右滑动查看';
-      c.innerHTML = productsData.map(function(item) {
+      c.innerHTML = productsData.map(function(item, i) {
         return '<div class="card product-card"><div class="icon">' + item.icon + '</div>' +
           '<h4>' + item.name + '</h4><span class="category">' + item.category + '</span>' +
-          '<p>' + item.description + '</p></div>';
+          '<p>' + item.description + '</p>' + renderSourceTag(pSrc[i]) + '</div>';
       }).join('');
     }
 
     function renderEcommerce() {
       var c = document.getElementById('ecommerce-carousel');
       document.getElementById('ecommerce-count').textContent = '共 ' + ecommerceData.length + ' 条 · 左右滑动查看';
-      c.innerHTML = ecommerceData.map(function(item) {
+      c.innerHTML = ecommerceData.map(function(item, i) {
         return '<div class="card ecommerce-card"><div class="top-row"><h4>' + item.title + '</h4>' +
           '<span class="impact ' + item.impact + '">影响: ' + item.impactText + '</span></div>' +
-          '<p>' + item.content + '</p><div class="date">' + item.date + '（' + getRelativeTime(item.date) + '）</div></div>';
+          '<p>' + item.content + '</p><div class="date">' + item.date + '（' + getRelativeTime(item.date) + '） · ' + renderSourceTag(eSrc[i]) + '</div></div>';
       }).join('');
     }
 
     function renderAgents() {
       var c = document.getElementById('agents-carousel');
       document.getElementById('agents-count').textContent = '共 ' + agentsData.length + ' 个 · 左右滑动查看';
-      c.innerHTML = agentsData.map(function(item) {
+      c.innerHTML = agentsData.map(function(item, i) {
         return '<div class="card agent-card"><div class="author-row">' +
           '<div class="avatar">' + item.author.charAt(1) + '</div>' +
           '<div class="author-info"><div class="name">' + item.author + '</div>' +
           '<div class="likes">❤️ ' + item.likes.toLocaleString() + '</div></div></div>' +
           '<h4>' + item.title + '</h4><p>' + item.description + '</p>' +
-          '<div class="tools">' + item.tools.map(function(t) { return '<span class="tool-tag">' + t + '</span>'; }).join('') + '</div></div>';
+          '<div class="tools">' + item.tools.map(function(t) { return '<span class="tool-tag">' + t + '</span>'; }).join('') +
+          renderSourceTag(aSrc[i]) + '</div></div>';
       }).join('');
     }
 
