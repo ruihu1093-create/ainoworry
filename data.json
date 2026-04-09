@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-04-09 15:04:48",
+  "updatedAt": "2026-04-09 19:41:40",
   "news": [
+    {
+      "title": "对话美团GN06刘炯：美团为什么做了一款AI浏览器？",
+      "summary": "作者｜任彩茹\n  编辑｜乔芊\n  并入美团两年半，GN06（光年之外应团队并入美团后的名字）被赋予的使命始终是：在主营业务之外，找AI Native的增长点。今年3月，他们把这件事落到了一个具体的产品上——AI浏览器「Tabbit」正式进入公测。\n  为什么是浏览器？大公司在AI领域争展锋芒，行业如",
+      "link": "https://36kr.com/p/3759372854706953?f=rss",
+      "source": "36Kr",
+      "date": "2026-04-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "一个225平方公里的“庄”，如何成为AI“顶流”",
+      "summary": "亦庄又“炸场”了。\n  <img data-img-size-val=\"4000,2666\" src=\"https://img.36krcdn.com/hsossms/20260409/v2_a147f009c7f94a1a8381c89e2eabf462@337187376_oswg1665990",
+      "link": "https://36kr.com/p/3759269095113219?f=rss",
+      "source": "36Kr",
+      "date": "2026-04-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OBSBOT寻影新品发布，在口袋直播摄像头中实现AI智能跟踪与4K画质｜最前线",
+      "summary": "作者｜黄楠\n  编辑｜袁斯来\n  直播与视频会议已成为日常工作和生活的一部分，创作者对设备的需求也从“能拍就行”转向了“随时随地专业开播”。\n  但当前市场上的常见方案各有短板：手机直播容易过热降频，且无法灵活多机位；传统网络摄像头画质一般、对焦慢、缺少智能跟踪；单反加采集卡虽然画质好，但整套设备笨",
+      "link": "https://36kr.com/p/3759286934356744?f=rss",
+      "source": "36Kr",
+      "date": "2026-04-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "INAIR完成千万美元融资，便携空间主机适配多款 AR 眼镜｜最前线",
       "summary": "近日，下一代移动计算平台公司 Inair 多屏未来（以下简称 Inair）宣布完成千万美元 A+ 轮融资。本轮融资由君联资本、高瓴创投、弘晖基金联合投资，资金将主要用于加速便携空间主机（PSS） 产品 Inair Pod 的生态拓展、空间操作系统研发及垂直行业应用落地。\n  Inair 多屏未来是一",
@@ -38,35 +65,26 @@
       "tagText": "资讯"
     },
     {
-      "title": "氪星晚报｜星巴克中国发布“千店千面”战略；TikTok宣布将投资10亿欧元，在芬兰建第二座数据中心；谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点",
-      "summary": "大公司：\n  三星电子中国业务陷重组传闻，重心转向半导体\n  4月8日，有消",
-      "link": "https://36kr.com/p/3756524566610437?f=rss",
+      "title": "CoreWeave与Meta宣布210亿美元扩展人工智能基础设施协议",
+      "summary": "CoreWeave今日宣布与Meta达成一项扩展的长期协议，预计将提供约210亿美元的AI云容量，期限为2032年12月。通过这笔交易，两家公司将继续保持现有合作关系，进一步加强对Meta AI开发和部署的支持。专用容量将部署到多个地点，并包括部分NVIDIA Vera Rubin平台的初步部署。这",
+      "link": "https://36kr.com/newsflashes/3759493974802946?f=rss",
       "source": "36Kr",
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "阿里电商 AI 新动向：围绕 Token 重构电商，组织迎来新一轮调整｜独家",
-      "summary": "文｜彭倩\n  编辑｜乔芊 杨轩\n  4月1日新财年伊始，由蒋凡统领的阿里巴巴中国电商事业群正在规划可以结合 AI 实现的增长点。\n  据36氪了解，淘天集团当下对 AI 的探索将聚焦在 AI to B 方向上，其核心 OKR 是商家侧的 AI 工具留存率以及 AI 带来的 GMV 增长。它的背景是进",
-      "link": "https://36kr.com/p/3748018292802309?f=rss",
+      "title": "OpenAI因能源成本问题暂停英国“星际之门”项目",
+      "summary": "4月9日，据报道，OpenAI宣布暂停其在英国的“星际之门”人工智能基础设施项目。该公司在声明中表示：“我们看到英国人工智能未来蕴藏着巨大潜力。人工智能计算是实现这一目标的基础——我们将继续探索英国“星际���门”项目，并在监管环境和能源成本等条件允许时进行长期基础设施投资时推进该项目。”（界面）",
+      "link": "https://36kr.com/newsflashes/3759479804543497?f=rss",
       "source": "36Kr",
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "我们寻找迎风而立的人｜2026年「36Under36」 征集开始",
-      "summary": "出品｜36氪创投研究院\n  文｜罗婧、杜梦\n  如何形容2026的创投行业？\n  「暗涌Waves」回望过去一年，试图找到最恰当的形容：当AI重新搭建产业底座，当硬科技成为底色，当全球化与本土创新彼此缠绕，我们已全然接受一级市场的新叙事、新世代。\n  从肖",
-      "link": "https://36kr.com/p/3757769438609920?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Poke makes using AI agents as easy as sending a text",
-      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "title": "Poke 让使用 AI 代理就像发送短信一样简单",
+      "summary": "Poke 通过短信为日常用户带来人工智能代理，无需复杂的设置、应用程序或技术知识即可处理任务和自动化。",
       "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
       "source": "TechCrunch",
       "date": "Wed, 08 Ap",
@@ -74,8 +92,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions",
-      "summary": "Canva says the acquisitions add strengths in agentic AI, data infrastructure, marketing automation, and customer engagement.",
+      "title": "Canva 通过收购 Simtheory 和 Ortto 加大人工智能和营销自动化的力度",
+      "summary": "Canva 表示，这些收购增强了代理人工智能、数据基础设施、营销自动化和客户参与方面的优势。",
       "link": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/",
       "source": "TechCrunch",
       "date": "Wed, 08 Ap",
@@ -83,8 +101,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
-      "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+      "title": "AWS 老板解释了为什么在 Anthropic 和 OpenAI 上投资数十亿美元是一个正常的冲突",
+      "summary": "他解释说，AWS 有着根深蒂固的处理竞争的文化，因为这家云巨头也与合作伙伴竞争。",
       "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
       "source": "TechCrunch",
       "date": "Wed, 08 Ap",
@@ -92,8 +110,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI",
-      "summary": "This is the first model Meta has released under its Superintelligence Labs, led by former Scale AI CEO Alexandr Wang.",
+      "title": "Meta 首次推出 Muse Spark 模型，对其人工智能进行“彻底改革”",
+      "summary": "这是 Meta 在前 Scale AI 首席执行官 Alexandr Wang 领导的超级智能实验室下发布的第一个模型。",
       "link": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
       "source": "TechCrunch",
       "date": "Wed, 08 Ap",
@@ -101,8 +119,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Hack-for-hire group caught targeting Android devices and iCloud backups",
-      "summary": "Security researchers exposed a spying campaign by a hack-for-hire group that used Android spyware and phishing to steal iCloud credentials and hack vi",
+      "title": "雇佣黑客组织被发现以 Android 设备和 iCloud 备份为目标",
+      "summary": "安全研究人员揭露了一个黑客雇佣组织的间谍活动，该组织使用 Android 间谍软件和网络钓鱼来窃取 iCloud 凭证并黑客入侵 vi",
       "link": "https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/",
       "source": "TechCrunch",
       "date": "Wed, 08 Ap",
@@ -110,8 +128,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
-      "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+      "title": "Tubi 是第一个在 ChatGPT 中启动本机应用程序的主播",
+      "summary": "Tubi 成为首个在 ChatGPT 中提供应用程序集成的流媒体服务，ChatGPT 是数百万用户向其寻求答案的人工智能聊天机器人。",
       "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
       "source": "TechCrunch",
       "date": "Wed, 08 Ap",
@@ -119,8 +137,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber",
-      "summary": "Volkswagen subsidiary MOIA America still has a long and winding regulatory road before it can launch a commercial robotaxi service.",
+      "title": "大众汽车在与 Uber 合作之前开始在洛杉矶测试其自动驾驶微型巴士",
+      "summary": "大众汽车子公司 MOIA America 在推出商业机器人出租车服务之前，还有一条漫长而曲折的监管道路。",
       "link": "https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/",
       "source": "TechCrunch",
       "date": "Wed, 08 Ap",
@@ -128,8 +146,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "These are the countries moving to ban social media for children",
-      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, inclu",
+      "title": "这些国家正在采取行动禁止儿童使用社交媒体",
+      "summary": "澳大利亚是第一个在 2025 年底发布禁令的国家，旨在减少年轻用户在社交媒体上可能面临的压力和风险，包括",
       "link": "https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/",
       "source": "TechCrunch",
       "date": "Wed, 08 Ap",
@@ -137,8 +155,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
-      "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
+      "title": "Astropad 的 Workbench 为 AI 代理而非 IT 支持重新构想远程桌面",
+      "summary": "Astropad 的 Workbench 允许用户通过 iPhone 或 iPad 远程监控和控制 Mac Mini 上的 AI 代理，并具有低延迟流媒体和移动访问功能。",
       "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
       "source": "TechCrunch",
       "date": "Wed, 08 Ap",
@@ -146,8 +164,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Hackers steal and leak sensitive LAPD police documents",
-      "summary": "The LAPD said the breach affected “a digital storage system” belonging to the city’s Attorney's Office. The World Leaks extortion gang was reported to",
+      "title": "黑客窃取并泄露洛杉矶警察局敏感的警方文件",
+      "summary": "洛杉矶警察局表示，此次泄露影响了该市检察官办公室的“数字存储系统”。据报道，“世界解密”勒索团伙",
       "link": "https://techcrunch.com/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/",
       "source": "TechCrunch",
       "date": "Wed, 08 Ap",
@@ -155,8 +173,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
-      "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
+      "title": "OpenAI 发布新的安全蓝图以解决儿童性剥削问题",
+      "summary": "OpenAI 的新儿童安全蓝图旨在解决与人工智能进步相关的儿童性剥削问题。",
       "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
       "source": "TechCrunch",
       "date": "Wed, 08 Ap",
@@ -164,8 +182,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Developer of VeraCrypt encryption software says Windows users may face boot-up issues after Microsoft locked his account",
-      "summary": "The maker of the popular open source file encryption software VeraCrypt said Microsoft locked his online account, which may prevent device owners from",
+      "title": "VeraCrypt加密软件开发商表示，微软锁定其帐户后，Windows用户可能会面临启动问题",
+      "summary": "流行的开源文件加密软件 VeraCrypt 的制造商表示，微软锁定了他的在线帐户，这可能会阻止设备所有者",
       "link": "https://techcrunch.com/2026/04/08/veracrypt-encryption-software-windows-microsoft-lock-boot-issues/",
       "source": "TechCrunch",
       "date": "Wed, 08 Ap",
@@ -173,8 +191,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
-      "summary": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunders",
+      "title": "Databricks 联合创始人荣获著名的 ACM 奖，表示“AGI 已经到来”",
+      "summary": "Matei Zaharia 荣获计算机协会最高荣誉。现在他正在从事人工智能研究，并表示通用人工智能只是一种误解",
       "link": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
       "source": "TechCrunch",
       "date": "Wed, 08 Ap",
@@ -182,8 +200,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
-      "summary": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma.",
+      "title": "Atlassian 在 Confluence 中推出视觉 AI 工具和第三方代理",
+      "summary": "除了与 Lovable、Replit 和 Gamma 合作的新第三方代理之外，Confluence 用户现在还可以在软件中创建视觉资产。",
       "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
       "source": "TechCrunch",
       "date": "Wed, 08 Ap",
@@ -298,40 +316,13 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-04-09"
-    },
-    {
-      "title": "阿里电商 AI 新动向：围绕 Token 重构电商，组织迎来新一轮调整｜独家",
-      "content": "文｜彭倩\n  编辑｜乔芊 杨轩\n  4月1日新财年伊始，由蒋凡统领的阿里巴巴中国电商事业群正在规划可以结合 AI 实现的增长点。\n  据36氪了解，淘天集团当下对 AI 的探索将聚焦在 AI to B 方向上，其核心 OKR 是商家侧的 AI 工具留存率以及 AI 带来的 GMV 增长。它的背景是进入2026年，&nbsp;Open C",
-      "link": "https://36kr.com/p/3748018292802309?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-08"
-    },
-    {
-      "title": "五粮液在四川成立数智营销公司",
-      "content": "36氪获悉，爱企查App显示，近日，四川宜宾五粮液数智营销有限公司成立，法定代表人为廖泽洪，注册资本1亿元人民币，经营范围包括酒类经营、食品销售、软件开发等。股东信息显示，该公司由四川五粮液新零售管理有限公司全资持股。",
-      "link": "https://36kr.com/newsflashes/3759206841598472?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-09"
-    },
-    {
-      "title": "Central Pattana拟投资30亿美元，在泰国扩大综合体开发",
-      "content": "4月9日消息，泰国房地产开发商Central Pattana宣布将在2026年至2030年期间投资1100亿泰铢（约30亿美元），在全国范围内扩大综合体项目布局。本次投资将重点打造大型、以零售为核心的综合开发项目，整合商业、住宅、办公及公共空间。目前，Central Pattana在全国运营142个项目，每年吸引超过5.1亿人次到访。公司计划到2030年将综合体项目数量提升至33个，并支持超过15",
-      "link": "https://36kr.com/newsflashes/3759191878304513?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-09"
     }
   ],
   "agents": [
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -340,12 +331,24 @@
       "date": "2026-04-09"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "The agent that grows with you",
-      "link": "https://github.com/explore",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
+      ],
+      "likes": 4324,
+      "date": "2026-04-09"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@anonymous",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "link": "https://github.com/explore",
+      "tools": [
+        "GitHub",
+        "LLM"
       ],
       "likes": 3045,
       "date": "2026-04-09"
@@ -353,13 +356,46 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
+      "date": "2026-04-09"
+    },
+    {
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2046,
+      "date": "2026-04-09"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub",
         "LLM"
       ],
-      "likes": 1697,
+      "likes": 2526,
+      "date": "2026-04-09"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-04-09"
     },
     {

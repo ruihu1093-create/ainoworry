@@ -2,6 +2,7 @@
 """
 AI不焦虑空间 - 自动数据抓取脚本
 从公开RSS/API抓取4类信息，生成data.json
+英文内容自动翻译为中文
 """
 
 import json
@@ -13,9 +14,28 @@ import re
 import hashlib
 import os
 import sys
+import urllib.parse
 
 # 禁用SSL验证（部分RSS源证书问题）
 ssl._create_default_https_context = lambda: ssl._create_unverified_context()
+
+def translate_to_zh(text, timeout=5):
+    """使用Google Translate免费API将英文翻译为中文"""
+    if not text:
+        return text
+    # 检测是否包含中文字符，如果有则不翻译
+    if any('\u4e00' <= c <= '\u9fff' for c in text):
+        return text
+    try:
+        url = f"https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q={urllib.parse.quote(text[:500])}"
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            result = json.loads(resp.read().decode('utf-8'))
+            if result and result[0]:
+                return ''.join(item[0] for item in result[0] if item[0])
+    except Exception:
+        pass
+    return text  # 翻译失败返回原文
 
 def fetch_url(url, timeout=15):
     """获取URL内容"""
@@ -91,9 +111,12 @@ def fetch_news():
             desc = clean_html(item['description'])[:150]
             # 过滤AI相关内容
             if any(kw in (item['title'] + desc).lower() for kw in ['ai', 'artificial intelligence', 'gpt', 'llm', '大模型', '人工智能', 'openai', 'anthropic', 'claude', 'deepseek', 'llama', 'gemini', 'robot', '模型']):
+                # 翻译英文内容为中文
+                title_zh = translate_to_zh(item['title'])
+                desc_zh = translate_to_zh(desc)
                 results.append({
-                    'title': clean_html(item['title']),
-                    'summary': desc,
+                    'title': title_zh,
+                    'summary': desc_zh,
                     'link': item['link'],
                     'source': name,
                     'date': item['pubDate'][:10] if item['pubDate'] else datetime.now().strftime('%Y-%m-%d'),
@@ -134,9 +157,12 @@ def fetch_products():
                 elif any(kw in title_lower for kw in ['search', '搜索']): icon = '🔍'
                 elif any(kw in title_lower for kw in ['chat', '对话']): icon = '💬'
 
+                # 翻译英文内容
+                name_zh = translate_to_zh(clean_html(item['title']))
+                desc_zh = translate_to_zh(desc)
                 results.append({
-                    'name': clean_html(item['title']),
-                    'description': desc,
+                    'name': name_zh,
+                    'description': desc_zh,
                     'link': item['link'],
                     'source': name,
                     'category': 'AI工具',
@@ -190,9 +216,12 @@ def fetch_ecommerce():
                     impact = 'high'
                     impact_text = '高'
 
+                # 翻译英文内容
+                title_zh = translate_to_zh(clean_html(item['title']))
+                content_zh = translate_to_zh(clean_html(item['description'])[:200])
                 results.append({
-                    'title': clean_html(item['title']),
-                    'content': clean_html(item['description'])[:200],
+                    'title': title_zh,
+                    'content': content_zh,
                     'link': item['link'],
                     'source': name,
                     'impact': impact,
