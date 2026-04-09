@@ -671,9 +671,10 @@
       var c = document.getElementById('news-carousel');
       document.getElementById('news-count').textContent = '共 ' + newsData.length + ' 条 · 左右滑动查看';
       c.innerHTML = newsData.map(function(item, i) {
-        var titleHtml = newsUrls[i] ? '<h4><a href="' + newsUrls[i] + '" target="_blank" rel="noopener">' + item.title + '</a></h4>' : '<h4>' + item.title + '</h4>';
+        var link = item.link || (newsUrls[i] || '');
+        var titleHtml = link ? '<h4><a href="' + link + '" target="_blank" rel="noopener">' + item.title + '</a></h4>' : '<h4>' + item.title + '</h4>';
         return '<div class="card news-card ' + item.tag + '">' +
-          '<div class="top-row"><span class="tag ' + item.tag + '">' + item.tagText + '</span><span class="date">' + getRelativeTime(item.date) + '</span></div>' +
+          '<div class="top-row"><span class="tag ' + item.tag + '">' + (item.tagText || '资讯') + '</span><span class="date">' + getRelativeTime(item.date) + '</span></div>' +
           titleHtml + '<p>' + item.summary + '</p>' +
           '<div class="source">' + item.date + ' · ' + renderSourceTag(item.source) + '</div></div>';
       }).join('');
@@ -683,10 +684,11 @@
       var c = document.getElementById('products-carousel');
       document.getElementById('products-count').textContent = '共 ' + productsData.length + ' 款 · 左右滑动查看';
       c.innerHTML = productsData.map(function(item, i) {
-        var titleHtml = productUrls[i] ? '<h4><a href="' + productUrls[i] + '" target="_blank" rel="noopener">' + item.name + '</a></h4>' : '<h4>' + item.name + '</h4>';
+        var link = item.link || (productUrls[i] || '');
+        var titleHtml = link ? '<h4><a href="' + link + '" target="_blank" rel="noopener">' + item.name + '</a></h4>' : '<h4>' + item.name + '</h4>';
         return '<div class="card product-card"><div class="icon">' + item.icon + '</div>' +
           titleHtml + '<span class="category">' + item.category + '</span>' +
-          '<p>' + item.description + '</p>' + renderSourceTag(pSrc[i]) + '</div>';
+          '<p>' + item.description + '</p>' + (pSrc[i] ? renderSourceTag(pSrc[i]) : '') + '</div>';
       }).join('');
     }
 
@@ -694,10 +696,12 @@
       var c = document.getElementById('ecommerce-carousel');
       document.getElementById('ecommerce-count').textContent = '共 ' + ecommerceData.length + ' 条 · 左右滑动查看';
       c.innerHTML = ecommerceData.map(function(item, i) {
-        var titleHtml = ecommerceUrls[i] ? '<h4><a href="' + ecommerceUrls[i] + '" target="_blank" rel="noopener">' + item.title + '</a></h4>' : '<h4>' + item.title + '</h4>';
+        var link = item.link || (ecommerceUrls[i] || '');
+        var titleHtml = link ? '<h4><a href="' + link + '" target="_blank" rel="noopener">' + item.title + '</a></h4>' : '<h4>' + item.title + '</h4>';
+        var srcTag = eSrc[i] ? renderSourceTag(eSrc[i]) : '';
         return '<div class="card ecommerce-card"><div class="top-row">' + titleHtml +
           '<span class="impact ' + item.impact + '">影响: ' + item.impactText + '</span></div>' +
-          '<p>' + item.content + '</p><div class="date">' + item.date + '（' + getRelativeTime(item.date) + '） · ' + renderSourceTag(eSrc[i]) + '</div></div>';
+          '<p>' + item.content + '</p><div class="date">' + item.date + '（' + getRelativeTime(item.date) + '）' + (srcTag ? ' · ' + srcTag : '') + '</div></div>';
       }).join('');
     }
 
@@ -705,14 +709,16 @@
       var c = document.getElementById('agents-carousel');
       document.getElementById('agents-count').textContent = '共 ' + agentsData.length + ' 个 · 左右滑动查看';
       c.innerHTML = agentsData.map(function(item, i) {
-        var titleHtml = agentUrls[i] ? '<h4><a href="' + agentUrls[i] + '" target="_blank" rel="noopener">' + item.title + '</a></h4>' : '<h4>' + item.title + '</h4>';
+        var link = item.link || (agentUrls[i] || '');
+        var titleHtml = link ? '<h4><a href="' + link + '" target="_blank" rel="noopener">' + item.title + '</a></h4>' : '<h4>' + item.title + '</h4>';
+        var srcTag = aSrc[i] ? renderSourceTag(aSrc[i]) : '';
         return '<div class="card agent-card"><div class="author-row">' +
           '<div class="avatar">' + item.author.charAt(1) + '</div>' +
           '<div class="author-info"><div class="name">' + item.author + '</div>' +
           '<div class="likes">❤️ ' + item.likes.toLocaleString() + '</div></div></div>' +
           titleHtml + '<p>' + item.description + '</p>' +
           '<div class="tools">' + item.tools.map(function(t) { return '<span class="tool-tag">' + t + '</span>'; }).join('') +
-          renderSourceTag(aSrc[i]) + '</div></div>';
+          (srcTag ? srcTag : '') + '</div></div>';
       }).join('');
     }
 
@@ -756,11 +762,80 @@
     }
 
     // ===== 初始化 =====
-    document.addEventListener('DOMContentLoaded', function() {
+    function initPage() {
       updateTime(); updateClock();
       renderNews(); renderProducts(); renderEcommerce(); renderAgents();
       initCarousels();
       setInterval(function() { updateClock(); updateCountdown(); }, 1000);
+    }
+
+    // 尝试从JSON加载数据，失败则使用内嵌数据
+    function loadDataFromJson() {
+      fetch('data.json?v=' + Date.now())
+        .then(function(resp) { if (!resp.ok) throw new Error('Network error'); return resp.json(); })
+        .then(function(data) {
+          // 更新数据
+          if (data.news && data.news.length) {
+            newsData = data.news.map(function(item) {
+              return {
+                title: item.title,
+                summary: item.summary || item.description || '',
+                date: item.date || new Date().toISOString().slice(0,10),
+                tag: item.tag || 'trend',
+                tagText: item.tagText || '资讯',
+                source: item.source || '网络'
+              };
+            });
+          }
+          if (data.products && data.products.length) {
+            productsData = data.products.map(function(item) {
+              return {
+                name: item.name || item.title,
+                description: item.description || '',
+                category: item.category || 'AI工具',
+                icon: item.icon || '🚀',
+                link: item.link || ''
+              };
+            });
+          }
+          if (data.ecommerce && data.ecommerce.length) {
+            ecommerceData = data.ecommerce.map(function(item) {
+              return {
+                title: item.title,
+                content: item.content || '',
+                impact: item.impact || 'medium',
+                impactText: item.impactText || '中',
+                date: item.date || new Date().toISOString().slice(0,10)
+              };
+            });
+          }
+          if (data.agents && data.agents.length) {
+            agentsData = data.agents.map(function(item) {
+              return {
+                title: item.title,
+                author: item.author || '@anonymous',
+                description: item.description || '',
+                tools: item.tools || ['AI'],
+                likes: item.likes || 1000
+              };
+            });
+          }
+          // 更新时间显示
+          if (data.updatedAt) {
+            document.getElementById('update-time').textContent = data.updatedAt;
+          }
+          // 重新渲染
+          renderNews(); renderProducts(); renderEcommerce(); renderAgents();
+          initCarousels();
+        })
+        .catch(function(err) {
+          console.log('Using embedded data (JSON load failed: ' + err.message + ')');
+        });
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+      initPage();
+      loadDataFromJson();
     });
   </script>
 </body>
