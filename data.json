@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09 19:41:40",
+  "updatedAt": "2026-04-09 16:49:46",
   "news": [
     {
       "title": "对话美团GN06刘炯：美团为什么做了一款AI浏览器？",
@@ -65,20 +65,56 @@
       "tagText": "资讯"
     },
     {
-      "title": "CoreWeave与Meta宣布210亿美元扩展人工智能基础设施协议",
-      "summary": "CoreWeave今日宣布与Meta达成一项扩展的长期协议，预计将提供约210亿美元的AI云容量，期限为2032年12月。通过这笔交易，两家公司将继续保持现有合作关系，进一步加强对Meta AI开发和部署的支持。专用容量将部署到多个地点，并包括部分NVIDIA Vera Rubin平台的初步部署。这",
-      "link": "https://36kr.com/newsflashes/3759493974802946?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-09",
+      "title": "Avec 的 Tinder 风格的电子邮件应用程序允许您滑动浏览收件箱",
+      "summary": "用户可以使用内置的语音转录工具回复电子邮件",
+      "link": "https://techcrunch.com/2026/04/09/avecs-tinder-styled-email-app-allows-you-to-swipe-through-your-inbox/",
+      "source": "TechCrunch",
+      "date": "Thu, 09 Ap",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI因能源成本问题暂停英国“星际之门”项目",
-      "summary": "4月9日，据报道，OpenAI宣布暂停其在英国的“星际之门”人工智能基础设施项目。该公司在声明中表示：“我们看到英国人工智能未来蕴藏着巨大潜力。人工智能计算是实现这一目标的基础——我们将继续探索英国“星际���门”项目，并在监管环境和能源成本等条件允许时进行长期基础设施投资时推进该项目。”（界面）",
-      "link": "https://36kr.com/newsflashes/3759479804543497?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-09",
+      "title": "黑客通过重定向付款从英国能源公司窃取了 70 万英镑",
+      "summary": "这家英国能源公司表示，原本发给承包商的重定向付款却进入了黑客的银行账户。",
+      "link": "https://techcrunch.com/2026/04/09/hacker-stole-700000-from-u-k-energy-company-by-redirecting-payment/",
+      "source": "TechCrunch",
+      "date": "Thu, 09 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "亚马逊首席执行官在年度股东信中瞄准了英伟达、英特尔、星链等公司",
+      "summary": "安迪·贾西 (Andy Jassy) 的年度股东信读起来像是对众多竞争对手的贬低，因为他为资本支出 2000 亿美元进行了辩护。",
+      "link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
+      "source": "TechCrunch",
+      "date": "Thu, 09 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "最后 2 天购买 TechCrunch Disrupt 2026 门票可节省高达 500 美元",
+      "summary": "高达 500 美元的门票折扣将于明天（4 月 10 日）晚上 11:59 结束。 PT。此后，TechCrunch Disrupt 2026 的价格再次上涨。怀念这个，一个",
+      "link": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
+      "source": "TechCrunch",
+      "date": "Thu, 09 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Collide Capital 筹集 9500 万美元资金支持金融科技、未来工作初创公司",
+      "summary": "由 Brian Hollins 和 Aaron Samuels 创立的 Collide Capital 宣布完成 9500 万美元的 Fund II 募集。",
+      "link": "https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups/",
+      "source": "TechCrunch",
+      "date": "Thu, 09 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Waymo 机器人出租车正在跟踪坑洼并与 Waze 用户共享该数据",
+      "summary": "Alphabet 旗下的两家企业正在联手寻找坑洼并与城市分享这些信息。",
+      "link": "https://techcrunch.com/2026/04/09/waymo-robotaxis-are-tracking-potholes-and-sharing-that-data-with-waze-users/",
+      "source": "TechCrunch",
+      "date": "Thu, 09 Ap",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -92,7 +128,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "Canva 通过收购 Simtheory 和 Ortto 加大人工智能和营销自动化的力度",
+      "title": "Canva 通过收购 Simtheory 和 Ortto 加大人工智能和营销自动化的投入",
       "summary": "Canva 表示，这些收购增强了代理人工智能、数据基础设施、营销自动化和客户参与方面的优势。",
       "link": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/",
       "source": "TechCrunch",
@@ -122,87 +158,6 @@
       "title": "雇佣黑客组织被发现以 Android 设备和 iCloud 备份为目标",
       "summary": "安全研究人员揭露了一个黑客雇佣组织的间谍活动，该组织使用 Android 间谍软件和网络钓鱼来窃取 iCloud 凭证并黑客入侵 vi",
       "link": "https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/",
-      "source": "TechCrunch",
-      "date": "Wed, 08 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Tubi 是第一个在 ChatGPT 中启动本机应用程序的主播",
-      "summary": "Tubi 成为首个在 ChatGPT 中提供应用程序集成的流媒体服务，ChatGPT 是数百万用户向其寻求答案的人工智能聊天机器人。",
-      "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
-      "source": "TechCrunch",
-      "date": "Wed, 08 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "大众汽车在与 Uber 合作之前开始在洛杉矶测试其自动驾驶微型巴士",
-      "summary": "大众汽车子公司 MOIA America 在推出商业机器人出租车服务之前，还有一条漫长而曲折的监管道路。",
-      "link": "https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/",
-      "source": "TechCrunch",
-      "date": "Wed, 08 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "这些国家正在采取行动禁止儿童使用社交媒体",
-      "summary": "澳大利亚是第一个在 2025 年底发布禁令的国家，旨在减少年轻用户在社交媒体上可能面临的压力和风险，包括",
-      "link": "https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/",
-      "source": "TechCrunch",
-      "date": "Wed, 08 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Astropad 的 Workbench 为 AI 代理而非 IT 支持重新构想远程桌面",
-      "summary": "Astropad 的 Workbench 允许用户通过 iPhone 或 iPad 远程监控和控制 Mac Mini 上的 AI 代理，并具有低延迟流媒体和移动访问功能。",
-      "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
-      "source": "TechCrunch",
-      "date": "Wed, 08 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "黑客窃取并泄露洛杉矶警察局敏感的警方文件",
-      "summary": "洛杉矶警察局表示，此次泄露影响了该市检察官办公室的“数字存储系统”。据报道，“世界解密”勒索团伙",
-      "link": "https://techcrunch.com/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/",
-      "source": "TechCrunch",
-      "date": "Wed, 08 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI 发布新的安全蓝图以解决儿童性剥削问题",
-      "summary": "OpenAI 的新儿童安全蓝图旨在解决与人工智能进步相关的儿童性剥削问题。",
-      "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
-      "source": "TechCrunch",
-      "date": "Wed, 08 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "VeraCrypt加密软件开发商表示，微软锁定其帐户后，Windows用户可能会面临启动问题",
-      "summary": "流行的开源文件加密软件 VeraCrypt 的制造商表示，微软锁定了他的在线帐户，这可能会阻止设备所有者",
-      "link": "https://techcrunch.com/2026/04/08/veracrypt-encryption-software-windows-microsoft-lock-boot-issues/",
-      "source": "TechCrunch",
-      "date": "Wed, 08 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Databricks 联合创始人荣获著名的 ACM 奖，表示“AGI 已经到来”",
-      "summary": "Matei Zaharia 荣获计算机协会最高荣誉。现在他正在从事人工智能研究，并表示通用人工智能只是一种误解",
-      "link": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
-      "source": "TechCrunch",
-      "date": "Wed, 08 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Atlassian 在 Confluence 中推出视觉 AI 工具和第三方代理",
-      "summary": "除了与 Lovable、Replit 和 Gamma 合作的新第三方代理之外，Confluence 用户现在还可以在软件中创建视觉资产。",
-      "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
       "source": "TechCrunch",
       "date": "Wed, 08 Ap",
       "tag": "trend",
@@ -312,6 +267,33 @@
       "title": "对话前阿里高管、天猫设计家CEO：这些年烧掉千亿，家装行业还能怎么做？",
       "content": "文丨彭倩\n  编辑丨乔芊\n  “苦大仇深”是马学军对自己的形容。\n  他曾在传统行业和互联网创业十几年，任职阿里时期花名\"郭大路\"，操盘的都是实体行业互联网化的项目，从天猫超市、天猫医药、天猫家装、天猫预售、喵鲜生到喵街，无一例外。这些从0到1的创新型业务，都不是单靠淘宝流量能长出来的。\n  搞家装对他而言更是一场迟迟未决",
       "link": "https://36kr.com/p/3758979573121538?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
+      "content": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，小鹏集团跌超3%，小马智行、哔哩哔哩跌超2%，百度、理想汽车、富途控股跌超1%；蔚来涨超3%，京东涨0.71%。",
+      "link": "https://36kr.com/newsflashes/3759593134981888?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "美股大型科技股盘前多数下跌，英特尔跌超2%",
+      "content": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，英特尔跌超2%，谷歌跌0.6%，英伟达跌0.51%，苹果跌0.46%，特斯拉跌0.16%，微软跌0.13%，奈飞跌0.08%；亚马逊、Meta涨超1%。",
+      "link": "https://36kr.com/newsflashes/3759589282972419?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "亚马逊为礼来GLP-1口服药Foundayo提供当日达服务",
+      "content": "4月9日，据报道，亚马逊药房（Amazon Pharmacy）现已提供礼来公司新获批的GLP-1药物Foundayo，并支持当日送达选项。目前，当日达服务已覆盖近3000个城市，预计年底前扩展至4500个城市。（界面）",
+      "link": "https://36kr.com/newsflashes/3759565884785410?f=rss",
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
