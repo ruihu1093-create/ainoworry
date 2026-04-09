@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09 16:49:46",
+  "updatedAt": "2026-04-09 20:36:59",
   "news": [
     {
       "title": "对话美团GN06刘炯：美团为什么做了一款AI浏览器？",
@@ -65,7 +65,70 @@
       "tagText": "资讯"
     },
     {
-      "title": "Avec 的 Tinder 风格的电子邮件应用程序允许您滑动浏览收件箱",
+      "title": "Florida AG 宣布对 OpenAI 涉嫌涉及 ChatGPT 的枪击事件进行调查",
+      "summary": "据报道，去年 4 月，ChatGPT 被用来策划佛罗里达州立大学的袭击事件，造成两人死亡、五人受伤。一名遇难者家属",
+      "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+      "source": "TechCrunch",
+      "date": "Thu, 09 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "StubHub 支付 1000 万美元以和解 FTC 关于“欺骗性”门票定价的指控",
+      "summary": "消费者保护机构表示，该公司通过“欺骗性”宣传门票价格，违反了联邦贸易委员会法案及其关于不公平或欺骗性费用的规则",
+      "link": "https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/",
+      "source": "TechCrunch",
+      "date": "Thu, 09 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Muse Spark 推出后，Meta AI 应用攀升至 App Store 第五名",
+      "summary": "就在 Meta AI 新模型推出之前，该应用程序在 App Store 上排名第 57 位。现在它排名第五，并且还在上升。",
+      "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+      "source": "TechCrunch",
+      "date": "Thu, 09 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic 限制 Mythos 的发布是为了保护互联网——还是 Anthropic？",
+      "summary": "Anthropic 本周表示，它限制了其名为 Mythos 的最新型号的发布，因为它太有能力发现软件中的安全漏洞。",
+      "link": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+      "source": "TechCrunch",
+      "date": "Thu, 09 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "谷歌与英特尔深化人工智能基础设施合作",
+      "summary": "由于全球CPU短缺日益严重，对CPU的需求很高，这两家科技巨头正在寻求共同开发定制芯片。",
+      "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
+      "source": "TechCrunch",
+      "date": "Thu, 09 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "如何跻身创业战场前 20 名——以及每家公司无论如何都能获得什么",
+      "summary": "每个申请创业战场的创始人都想要同样的东西：颠覆主舞台。以下是实现这一目标的方法以及机会的来源",
+      "link": "https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
+      "source": "TechCrunch",
+      "date": "Thu, 09 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "您现在可以编辑您的 Instagram 评论",
+      "summary": "Instagram 用户现在可以编辑评论，对于那些曾经不得不删除并重新发布评论只是为了修复拼写错误的人来说，这是一个期待已久的解决方案。",
+      "link": "https://techcrunch.com/2026/04/09/you-can-now-edit-your-instagram-comments/",
+      "source": "TechCrunch",
+      "date": "Thu, 09 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Avec 的 Tinder 风格电子邮件应用程序允许您滑动浏览收件箱",
       "summary": "用户可以使用内置的语音转录工具回复电子邮件",
       "link": "https://techcrunch.com/2026/04/09/avecs-tinder-styled-email-app-allows-you-to-swipe-through-your-inbox/",
       "source": "TechCrunch",
@@ -74,7 +137,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "黑客通过重定向付款从英国能源公司窃取了 70 万英镑",
+      "title": "黑客通过重定向付款方式从英国能源公司窃取了 70 万英镑",
       "summary": "这家英国能源公司表示，原本发给承包商的重定向付款却进入了黑客的银行账户。",
       "link": "https://techcrunch.com/2026/04/09/hacker-stole-700000-from-u-k-energy-company-by-redirecting-payment/",
       "source": "TechCrunch",
@@ -111,55 +174,10 @@
     },
     {
       "title": "Waymo 机器人出租车正在跟踪坑洼并与 Waze 用户共享该数据",
-      "summary": "Alphabet 旗下的两家企业正在联手寻找坑洼并与城市分享这些信息。",
+      "summary": "Waymo 和 Waze 宣布了一项数据共享试点计划，该计划将把机器人出租车收集的坑洞数据传输到专为城市设计的免费 Waze 平台",
       "link": "https://techcrunch.com/2026/04/09/waymo-robotaxis-are-tracking-potholes-and-sharing-that-data-with-waze-users/",
       "source": "TechCrunch",
       "date": "Thu, 09 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Poke 让使用 AI 代理就像发送短信一样简单",
-      "summary": "Poke 通过短信为日常用户带来人工智能代理，无需复杂的设置、应用程序或技术知识即可处理任务和自动化。",
-      "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
-      "source": "TechCrunch",
-      "date": "Wed, 08 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Canva 通过收购 Simtheory 和 Ortto 加大人工智能和营销自动化的投入",
-      "summary": "Canva 表示，这些收购增强了代理人工智能、数据基础设施、营销自动化和客户参与方面的优势。",
-      "link": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/",
-      "source": "TechCrunch",
-      "date": "Wed, 08 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AWS 老板解释了为什么在 Anthropic 和 OpenAI 上投资数十亿美元是一个正常的冲突",
-      "summary": "他解释说，AWS 有着根深蒂固的处理竞争的文化，因为这家云巨头也与合作伙伴竞争。",
-      "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
-      "source": "TechCrunch",
-      "date": "Wed, 08 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta 首次推出 Muse Spark 模型，对其人工智能进行“彻底改革”",
-      "summary": "这是 Meta 在前 Scale AI 首席执行官 Alexandr Wang 领导的超级智能实验室下发布的第一个模型。",
-      "link": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
-      "source": "TechCrunch",
-      "date": "Wed, 08 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "雇佣黑客组织被发现以 Android 设备和 iCloud 备份为目标",
-      "summary": "安全研究人员揭露了一个黑客雇佣组织的间谍活动，该组织使用 Android 间谍软件和网络钓鱼来窃取 iCloud 凭证并黑客入侵 vi",
-      "link": "https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/",
-      "source": "TechCrunch",
-      "date": "Wed, 08 Ap",
       "tag": "trend",
       "tagText": "资讯"
     }
@@ -367,17 +385,6 @@
         "LLM"
       ],
       "likes": 2526,
-      "date": "2026-04-09"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-04-09"
     },
     {
