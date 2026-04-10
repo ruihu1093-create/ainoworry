@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-04-10 06:20:56",
+  "updatedAt": "2026-04-10 15:08:45",
   "news": [
+    {
+      "title": "氪星晚报 ｜无印良品：2026财年第二季度营收196.1亿元，同比增长14.8%；小马智行发布PonyWorld世界模型2.0",
+      "summary": "大公司：\n  长安汽车：2025年净利润40.75亿元\n  36氪获悉，长安汽车公告，2025年实现营业收入1640亿元，同比增长2.67%；归属于上市公司股东的净利润40.75亿元，上年同期73.21亿元，同比下降44.34%；基本每股收益0.41元。以总股本99.13亿股为基数，向全体股东每10",
+      "link": "https://36kr.com/p/3760914298651400?f=rss",
+      "source": "36Kr",
+      "date": "2026-04-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "早期项目 | 字节、OPPO、一加三重背景产品人，将软硬一体写入底层，要让AI看懂世界",
       "summary": "作者丨欧雪\n  编辑丨袁斯来\n  过去两年，主流AI交互依赖于输入框——用户先组织语言提问，AI再给出答案。\n  这种“对话式”交互效率极高，却与人类最自然的认知路径相悖。我们认识世界，从来不是从“提问”开始，而是从“看见”开始。\n  一家成立于2025年的年轻公司Chance AI，正在尝试解决这",
@@ -56,38 +65,38 @@
       "tagText": "资讯"
     },
     {
-      "title": "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程",
-      "summary": "文｜胡香赟\n  编辑｜海若镜\n  制药行业离“告别”动物实验又近了一步。\n  从2022年FDA的现代化法案2.0被批准开始，“替代动物实验”的监管战略一直在持续。今年3月中旬，FDA终于发文表态，开始接收非动物数据支撑新药评审，鼓励使用类器官/器官芯片、AI毒理学模型等新方法学（NAMs），逐步减",
-      "link": "https://36kr.com/p/3758982738641670?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "小鹏与福耀联合发布AI调光隐私玻璃，首块量产交付",
-      "summary": "36氪获悉，4月10日，小鹏集团与福耀集团在福州举办活动，宣布双方共同打造的AI调光隐私玻璃正式发布并完成首块量产交付。该玻璃具备变光快、强隐私、高防晒、长寿命等七大核心性能，将首发搭载于小鹏GX车型。",
-      "link": "https://36kr.com/newsflashes/3760619672158721?f=rss",
+      "title": "Anthropic同意租用CoreWeave的AI算力以支持Claude",
+      "summary": "Anthropic同意向CoreWeave租用数据中心算力，以应对其人工智能服务日益增长的需求。根据CoreWeave首席执行官介绍，这些算力将包括美国数据中心多种英伟达芯片架构。此次协议将帮助Anthropic构建并部署其Claude AI模型，CoreWeave目前已将四大AI模型开发商纳入客户",
+      "link": "https://36kr.com/newsflashes/3760948716438017?f=rss",
       "source": "36Kr",
       "date": "2026-04-10",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "汉王科技发布Clear7锦鲤电纸书",
-      "summary": "36氪获悉，今日，汉王科技发布全新7.1英寸电纸书产品——汉王Clear7锦鲤。据了解，该产品首发“增压瞬浮技术”，通过Oxide增压瞬浮屏与T2000增压快刷引擎，页面刷新速度提升35%，对比度提升10%。此外，产品还接入了自研多模态天地大模型、DeepSeek与通义千问等AI大模型。",
-      "link": "https://36kr.com/newsflashes/3760613846729473?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-10",
+      "title": "每一家筹集超过 1 亿美元资金的融合初创公司",
+      "summary": "Fusion 初创公司迄今为止已筹集了 71 亿美元，其中大部分流向了少数公司。",
+      "link": "https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/",
+      "source": "TechCrunch",
+      "date": "Fri, 10 Ap",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "中康科技推出医生超级助理MedMate",
-      "summary": "36氪获悉，中康科技正式推出“医生智能体+医生小龙虾”双端协同的中国首个医生超级助理MedMate。据了解，MedMate以“医生智能体+医生小龙虾”双端协同为核心，构建了一套覆盖临床、科研、患者管理的AI Agent操作系统。此外，MedMate整合了超过4000万篇中英文学术文献，全面覆盖四大医",
-      "link": "https://36kr.com/newsflashes/3760607364366857?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-10",
+      "title": "PSA：如果你使用 Meta AI 应用程序，你的朋友会发现，那就尴尬了",
+      "summary": "现在 Meta 发布了 Muse Spark 模型，越来越多的人开始下载 Meta AI 应用程序。如果您加入该应用程序，您的朋友可能会得到一个 I",
+      "link": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
+      "source": "TechCrunch",
+      "date": "Fri, 10 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "时隔多年，Snap 距离发布新款 AI 眼镜又近了一步",
+      "summary": "Specs 长期以来一直在预告其下一代增强现实眼镜。与高通的新合作伙伴关系有望在该部门取得一些进展",
+      "link": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
+      "source": "TechCrunch",
+      "date": "Fri, 10 Ap",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -110,7 +119,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "大众汽车在美国放弃全电动 ID.4，转向汽油 SUV",
+      "title": "大众汽车在美国放弃全电动 ID.4 转向汽油 SUV",
       "summary": "其美国工厂的所有资源都瞄准了即将推出的Atlas SUV。",
       "link": "https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/",
       "source": "TechCrunch",
@@ -176,42 +185,6 @@
       "title": "您现在可以编辑您的 Instagram 评论",
       "summary": "Instagram 用户现在可以编辑评论，对于那些曾经不得不删除并重新发布评论只是为了修复拼写错误的人来说，这是一个期待已久的解决方案。",
       "link": "https://techcrunch.com/2026/04/09/you-can-now-edit-your-instagram-comments/",
-      "source": "TechCrunch",
-      "date": "Thu, 09 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Avec 的 Tinder 风格电子邮件应用程序允许您滑动浏览收件箱",
-      "summary": "用户可以使用内置的语音转录工具回复电子邮件",
-      "link": "https://techcrunch.com/2026/04/09/avecs-tinder-styled-email-app-allows-you-to-swipe-through-your-inbox/",
-      "source": "TechCrunch",
-      "date": "Thu, 09 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "黑客通过重定向付款方式从英国能源公司窃取了 70 万英镑",
-      "summary": "这家英国能源公司表示，原本发给承包商的重定向付款却进入了黑客的银行账户。",
-      "link": "https://techcrunch.com/2026/04/09/hacker-stole-700000-from-u-k-energy-company-by-redirecting-payment/",
-      "source": "TechCrunch",
-      "date": "Thu, 09 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "亚马逊首席执行官在年度股东信中瞄准了英伟达、英特尔、星链等公司",
-      "summary": "安迪·贾西 (Andy Jassy) 的年度股东信读起来像是对众多竞争对手的贬低，因为他为资本支出 2000 亿美元进行了辩护。",
-      "link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
-      "source": "TechCrunch",
-      "date": "Thu, 09 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "最后 2 天购买 TechCrunch Disrupt 2026 门票可节省高达 500 美元",
-      "summary": "高达 500 美元的门票折扣将于明天（4 月 10 日）晚上 11:59 结束。 PT。此后，TechCrunch Disrupt 2026 的价格再次上涨。怀念这个，一个",
-      "link": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
       "source": "TechCrunch",
       "date": "Thu, 09 Ap",
       "tag": "trend",
@@ -336,22 +309,31 @@
       "date": "2026-04-09"
     },
     {
-      "title": "对话前阿里高管、天猫设计家CEO：这些年烧掉千亿，家装行业还能怎么做？",
-      "content": "文丨彭倩\n  编辑丨乔芊\n  “苦大仇深”是马学军对自己的形容。\n  他曾在传统行业和互联网创业十几年，任职阿里时期花名\"郭大路\"，操盘的都是实体行业互联网化的项目，从天猫超市、天猫医药、天猫家装、天猫预售、喵鲜生到喵街，无一例外。这些从0到1的创新型业务，都不是单靠淘宝流量能长出来的。\n  搞家装对他而言更是一场迟迟未决",
-      "link": "https://36kr.com/p/3758979573121538?f=rss",
+      "title": "热门中概股美股盘前集体走强，理想汽车涨超3%",
+      "content": "36氪获悉，热门中概股美股盘前集体走强，截至发稿，理想汽车涨超3%，百度涨超2%，蔚来、腾讯音乐、爱奇艺涨超1%，阿克布涨0.81%，京东涨0.74%，拼多多涨0.58%，小鹏集团跌0.58%，哔哩哔哩跌0.38%。",
+      "link": "https://36kr.com/newsflashes/3761013323678473?f=rss",
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-09"
+      "date": "2026-04-10"
     },
     {
-      "title": "亚马逊首席执行官在年度股东信中瞄准了英伟达、英特尔、星链等公司",
-      "content": "安迪·贾西 (Andy Jassy) 的年度股东信读起来像是对众多竞争对手的贬低，因为他为资本支出 2000 亿美元进行了辩护。",
-      "link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
-      "source": "TechCrunch",
+      "title": "美股大型科技股盘前普涨，Meta涨超1%",
+      "content": "36氪获悉，美股大型科技股盘前普涨，截至发稿，Meta涨超1%，特斯拉涨0.47%，亚马逊涨0.36%，谷歌涨0.32%，微软涨0.24%，英伟达涨0.07%，苹果跌0.5%。",
+      "link": "https://36kr.com/newsflashes/3761007768797704?f=rss",
+      "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "Thu, 09 Ap"
+      "date": "2026-04-10"
+    },
+    {
+      "title": "江特电机：拟参与发起设立“低空经济协同创新研究院”",
+      "content": "36氪获悉，江特电机公告，公司与院士团队及上海市浦东新区院士专家工作站联合会，就共同发起设立“低空经济协同创新研究院”达成一致，于近日签署了《院士领衔低空经济协同创新研究院（筹）联合发起人合作协议书》。核心研究方向包括：低空飞行器高性能电机、软包电芯、电驱系统、轻量化、高可靠技术；低空物流、eVTOL、无人机动力与能源一体化解决方案；低空经济政策法规、空域管理、运行标准、安全体系研究等。",
+      "link": "https://36kr.com/newsflashes/3760995893248769?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-10"
     },
     {
       "title": "淘宝AI导购助手「淘宝问问」升级，支持复杂需求理解",
@@ -459,7 +441,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -470,7 +452,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub",
@@ -482,7 +464,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -493,10 +475,11 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "link": "https://github.com/collections",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 2046,
       "date": "2026-04-10"
@@ -504,11 +487,10 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "link": "https://github.com/events",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 2526,
       "date": "2026-04-10"
@@ -516,7 +498,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
