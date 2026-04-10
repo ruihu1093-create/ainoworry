@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-04-09 20:36:59",
+  "updatedAt": "2026-04-10 06:20:56",
   "news": [
+    {
+      "title": "早期项目 | 字节、OPPO、一加三重背景产品人，将软硬一体写入底层，要让AI看懂世界",
+      "summary": "作者丨欧雪\n  编辑丨袁斯来\n  过去两年，主流AI交互依赖于输入框——用户先组织语言提问，AI再给出答案。\n  这种“对话式”交互效率极高，却与人类最自然的认知路径相悖。我们认识世界，从来不是从“提问”开始，而是从“看见”开始。\n  一家成立于2025年的年轻公司Chance AI，正在尝试解决这",
+      "link": "https://36kr.com/p/3760310709174784?f=rss",
+      "source": "36Kr",
+      "date": "2026-04-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "8点1氪｜“张雪峰.skill”上线GitHub引争议；康师傅“再来一瓶”被曝多店不兑换；微信回应“夫妻用AI写公众号年赚200万”",
+      "summary": "今日热点导览\n  刘强东、章泽天成立新公司，名叫“天强”\n  NASA发布有史以来最清晰的月球照片\n  法国清空在美国的129吨黄金\n  李佳琦深夜发文否认退休\n  亚马逊将停止对旧款Kindle设备提供支持\n  美宜佳：已与606家加盟商解除合作关系\n  TOP3大新闻</",
+      "link": "https://36kr.com/p/3760260422648327?f=rss",
+      "source": "36Kr",
+      "date": "2026-04-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "对话美团GN06刘炯：美团为什么做了一款AI浏览器？",
       "summary": "作者｜任彩茹\n  编辑｜乔芊\n  并入美团两年半，GN06（光年之外应团队并入美团后的名字）被赋予的使命始终是：在主营业务之外，找AI Native的增长点。今年3月，他们把这件事落到了一个具体的产品上——AI浏览器「Tabbit」正式进入公测。\n  为什么是浏览器？大公司在AI领域争展锋芒，行业如",
@@ -47,20 +65,56 @@
       "tagText": "资讯"
     },
     {
-      "title": "36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器",
-      "summary": "作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，机器人全身级力觉自感知系统公司——智子力控（上海）科技有限公司（下称“智子力控”）近日完成新一轮融资，本轮由中芯聚源独家投资；此前，公司已获得浦东创投旗下浦东人工智能种子基金投资。这连续两轮融资达千万级别。资金将主要用于技术研发迭代、小批量产线建设及工程化",
-      "link": "https://36kr.com/p/3758900416348934?f=rss",
+      "title": "小鹏与福耀联合发布AI调光隐私玻璃，首块量产交付",
+      "summary": "36氪获悉，4月10日，小鹏集团与福耀集团在福州举办活动，宣布双方共同打造的AI调光隐私玻璃正式发布并完成首块量产交付。该玻璃具备变光快、强隐私、高防晒、长寿命等七大核心性能，将首发搭载于小鹏GX车型。",
+      "link": "https://36kr.com/newsflashes/3760619672158721?f=rss",
       "source": "36Kr",
-      "date": "2026-04-09",
+      "date": "2026-04-10",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "36氪专访 | 前小米高管王腾的下一站：从睡眠入手，抓住AI硬件十年一遇的创业窗口",
-      "summary": "作者丨欧雪\n  编辑丨袁斯来\n  今日宜休的创始人王腾觉得自己很庆幸，在39岁时赶上了AI硬件创业最好的时候。\n  过去很多年，王腾的日程表都以小时为单位切割，每一天似乎都处于战备状态。当这段职业生涯告一段落，大部分人选择休息。但王腾没有停下脚步。\n  刚离职时，王腾并不确定，干了十多年消费电子后，",
-      "link": "https://36kr.com/p/3758896443884033?f=rss",
+      "title": "汉王科技发布Clear7锦鲤电纸书",
+      "summary": "36氪获悉，今日，汉王科技发布全新7.1英寸电纸书产品——汉王Clear7锦鲤。据了解，该产品首发“增压瞬浮技术”，通过Oxide增压瞬浮屏与T2000增压快刷引擎，页面刷新速度提升35%，对比度提升10%。此外，产品还接入了自研多模态天地大模型、DeepSeek与通义千问等AI大模型。",
+      "link": "https://36kr.com/newsflashes/3760613846729473?f=rss",
       "source": "36Kr",
-      "date": "2026-04-09",
+      "date": "2026-04-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "中康科技推出医生超级助理MedMate",
+      "summary": "36氪获悉，中康科技正式推出“医生智能体+医生小龙虾”双端协同的中国首个医生超级助理MedMate。据了解，MedMate以“医生智能体+医生小龙虾”双端协同为核心，构建了一套覆盖临床、科研、患者管理的AI Agent操作系统。此外，MedMate整合了超过4000万篇中英文学术文献，全面覆盖四大医",
+      "link": "https://36kr.com/newsflashes/3760607364366857?f=rss",
+      "source": "36Kr",
+      "date": "2026-04-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "佛罗里达州 AG 将调查 OpenAI，声称可能与 FSU 枪击事件有关",
+      "summary": "佛罗里达州总检察长 James Uthmeier 计划调查 OpenAI 涉嫌伤害未成年人、威胁国家安全的可能性及其 p",
+      "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
+      "source": "TechCrunch",
+      "date": "Thu, 09 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "ChatGPT 终于推出 100 美元/月的 Pro 套餐",
+      "summary": "OpenAI 周四宣布了高级用户一直要求的东西：每月 100 美元的计划。此前，订阅费从每份 20 美元跃升至 200 美元。",
+      "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+      "source": "TechCrunch",
+      "date": "Thu, 09 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "大众汽车在美国放弃全电动 ID.4，转向汽油 SUV",
+      "summary": "其美国工厂的所有资源都瞄准了即将推出的Atlas SUV。",
+      "link": "https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/",
+      "source": "TechCrunch",
+      "date": "Thu, 09 Ap",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -158,24 +212,6 @@
       "title": "最后 2 天购买 TechCrunch Disrupt 2026 门票可节省高达 500 美元",
       "summary": "高达 500 美元的门票折扣将于明天（4 月 10 日）晚上 11:59 结束。 PT。此后，TechCrunch Disrupt 2026 的价格再次上涨。怀念这个，一个",
       "link": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
-      "source": "TechCrunch",
-      "date": "Thu, 09 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Collide Capital 筹集 9500 万美元资金支持金融科技、未来工作初创公司",
-      "summary": "由 Brian Hollins 和 Aaron Samuels 创立的 Collide Capital 宣布完成 9500 万美元的 Fund II 募集。",
-      "link": "https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups/",
-      "source": "TechCrunch",
-      "date": "Thu, 09 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Waymo 机器人出租车正在跟踪坑洼并与 Waze 用户共享该数据",
-      "summary": "Waymo 和 Waze 宣布了一项数据共享试点计划，该计划将把机器人出租车收集的坑洞数据传输到专为城市设计的免费 Waze 平台",
-      "link": "https://techcrunch.com/2026/04/09/waymo-robotaxis-are-tracking-potholes-and-sharing-that-data-with-waze-users/",
       "source": "TechCrunch",
       "date": "Thu, 09 Ap",
       "tag": "trend",
@@ -282,6 +318,24 @@
   ],
   "ecommerce": [
     {
+      "title": "8点1氪｜“张雪峰.skill”上线GitHub引争议；康师傅“再来一瓶”被曝多店不兑换；微信回应“夫妻用AI写公众号年赚200万”",
+      "content": "今日热点导览\n  刘强东、章泽天成立新公司，名叫“天强”\n  NASA发布有史以来最清晰的月球照片\n  法国清空在美国的129吨黄金\n  李佳琦深夜发文否认退休\n  亚马逊将停止对旧款Kindle设备提供支持\n  美宜佳：已与606家加盟商解除合作关系\n  TOP3大新闻</",
+      "link": "https://36kr.com/p/3760260422648327?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "欣旺达装车特斯拉，供应全球车型｜36氪独家",
+      "content": "特斯拉在中国的供应链布局还在扩大。\n  36氪汽车从多位产业人士处获悉，欣旺达旗下专注动力电池业务的子公司——欣旺达动力，已进入特斯拉全球供应链，成为特斯拉全球第五家动力电池供应商。\n  接触到项目的产业链人士透露，这款电池已从欣旺达浙江义乌工厂出货，搭载在特斯拉上海工厂销往海外的车型上，“已经出货有一阵子了。”\n  至于这款电池何时搭",
+      "link": "https://36kr.com/p/3759598959969030?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-09"
+    },
+    {
       "title": "对话前阿里高管、天猫设计家CEO：这些年烧掉千亿，家装行业还能怎么做？",
       "content": "文丨彭倩\n  编辑丨乔芊\n  “苦大仇深”是马学军对自己的形容。\n  他曾在传统行业和互联网创业十几年，任职阿里时期花名\"郭大路\"，操盘的都是实体行业互联网化的项目，从天猫超市、天猫医药、天猫家装、天猫预售、喵鲜生到喵街，无一例外。这些从0到1的创新型业务，都不是单靠淘宝流量能长出来的。\n  搞家装对他而言更是一场迟迟未决",
       "link": "https://36kr.com/p/3758979573121538?f=rss",
@@ -291,31 +345,103 @@
       "date": "2026-04-09"
     },
     {
-      "title": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
-      "content": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，小鹏集团跌超3%，小马智行、哔哩哔哩跌超2%，百度、理想汽车、富途控股跌超1%；蔚来涨超3%，京东涨0.71%。",
-      "link": "https://36kr.com/newsflashes/3759593134981888?f=rss",
-      "source": "36Kr",
+      "title": "亚马逊首席执行官在年度股东信中瞄准了英伟达、英特尔、星链等公司",
+      "content": "安迪·贾西 (Andy Jassy) 的年度股东信读起来像是对众多竞争对手的贬低，因为他为资本支出 2000 亿美元进行了辩护。",
+      "link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
+      "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-09"
+      "date": "Thu, 09 Ap"
     },
     {
-      "title": "美股大型科技股盘前多数下跌，英特尔跌超2%",
-      "content": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，英特尔跌超2%，谷歌跌0.6%，英伟达跌0.51%，苹果跌0.46%，特斯拉跌0.16%，微软跌0.13%，奈飞跌0.08%；亚马逊、Meta涨超1%。",
-      "link": "https://36kr.com/newsflashes/3759589282972419?f=rss",
+      "title": "淘宝AI导购助手「淘宝问问」升级，支持复杂需求理解",
+      "content": "基于大语言模型的购物助手能够理解复杂需求，提供个性化推荐和比价服务。",
+      "link": "https://36kr.com/",
       "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-09"
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-04-10"
     },
     {
-      "title": "亚马逊为礼来GLP-1口服药Foundayo提供当日达服务",
-      "content": "4月9日，据报道，亚马逊药房（Amazon Pharmacy）现已提供礼来公司新获批的GLP-1药物Foundayo，并支持当日送达选项。目前，当日达服务已覆盖近3000个城市，预计年底前扩展至4500个城市。（界面）",
-      "link": "https://36kr.com/newsflashes/3759565884785410?f=rss",
+      "title": "京东言犀大模型客服覆盖全品类，问题解决率达92%",
+      "content": "自研大模型应用于客服场景，平均响应时间缩短至8秒。",
+      "link": "https://www.jdcloud.com/",
+      "source": "京东",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "拼多多AI商品描述自动生成，中小商家上架效率提升10倍",
+      "content": "商家只需上传商品图片，AI自动生成标题、描述、卖点和SEO关键词。",
+      "link": "https://36kr.com/",
+      "source": "36Kr",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "TikTok Shop AI驱动全球扩张，进入30个新市场",
+      "content": "AI自动翻译商品信息、匹配当地达人、生成本地化营销内容。",
+      "link": "https://techcrunch.com/",
+      "source": "TechCrunch",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "SHEIN用AI预测时尚趋势，准确率超85%",
+      "content": "AI分析全球社交媒体和时装周数据，提前3个月预测爆款趋势。",
+      "link": "https://www.latepost.com/",
+      "source": "晚点",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "Temu用AI优化全球供应链，跨境包裹5天送达",
+      "content": "AI预测各市场需求并智能调配全球仓储，大幅缩短配送时间。",
+      "link": "https://www.latepost.com/",
+      "source": "晚点",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "微信小店接入混元大模型，AI生成营销文案",
+      "content": "商家可自动生成营销文案、朋友圈素材和短视频脚本，千人千面精准触达。",
+      "link": "https://36kr.com/",
+      "source": "36Kr",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "Shopify AI店铺装修上线，一句话生成整站设计",
+      "content": "AI自动生成Banner、配色、字体和商品陈列布局。",
+      "link": "https://techcrunch.com/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "得物AI真伪鉴定辅助系统上线，准确率99.2%",
+      "content": "用户拍照上传商品细节，AI实时比对正品数据库，鉴定时间缩短80%。",
+      "link": "https://36kr.com/",
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-09"
+      "date": "2026-04-10"
+    },
+    {
+      "title": "闲鱼AI估价功能引爆用户增长，月活突破4亿",
+      "content": "拍照即可AI估价，准确率达90%，二手交易额同比增长65%。",
+      "link": "https://36kr.com/",
+      "source": "36Kr",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-04-10"
     }
   ],
   "agents": [
@@ -328,7 +454,7 @@
         "GitHub"
       ],
       "likes": 2325,
-      "date": "2026-04-09"
+      "date": "2026-04-10"
     },
     {
       "title": "开源项目: manifest.json",
@@ -339,7 +465,7 @@
         "GitHub"
       ],
       "likes": 4324,
-      "date": "2026-04-09"
+      "date": "2026-04-10"
     },
     {
       "title": "开源项目: explore",
@@ -351,7 +477,7 @@
         "LLM"
       ],
       "likes": 3045,
-      "date": "2026-04-09"
+      "date": "2026-04-10"
     },
     {
       "title": "开源项目: topics",
@@ -362,7 +488,7 @@
         "GitHub"
       ],
       "likes": 1697,
-      "date": "2026-04-09"
+      "date": "2026-04-10"
     },
     {
       "title": "开源项目: collections",
@@ -373,7 +499,7 @@
         "GitHub"
       ],
       "likes": 2046,
-      "date": "2026-04-09"
+      "date": "2026-04-10"
     },
     {
       "title": "开源项目: events",
@@ -385,7 +511,18 @@
         "LLM"
       ],
       "likes": 2526,
-      "date": "2026-04-09"
+      "date": "2026-04-10"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
+      "date": "2026-04-10"
     },
     {
       "title": "独立开发者用AI搭建自动化内容工厂",
