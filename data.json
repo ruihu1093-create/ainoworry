@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10 15:08:45",
+  "updatedAt": "2026-04-10 19:59:26",
   "news": [
     {
       "title": "氪星晚报 ｜无印良品：2026财年第二季度营收196.1亿元，同比增长14.8%；小马智行发布PonyWorld世界模型2.0",
@@ -74,6 +74,33 @@
       "tagText": "资讯"
     },
     {
+      "title": "电池回收商 Ascend Elements 申请破产",
+      "summary": "Ascend Elements 表示，由于政府补助被取消以及锂市场充满挑战，该公司将根据美国破产法第 11 章申请破产保护。",
+      "link": "https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/",
+      "source": "TechCrunch",
+      "date": "Fri, 10 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "跟踪受害者起诉 OpenAI，声称 ChatGPT 助长了施虐者的妄想并无视她的警告",
+      "summary": "OpenAI 无视了关于 ChatGPT 用户危险的三项警告，其中包括其自己的造成大规模伤亡的旗帜，同时他跟踪并骚扰了他的前女友",
+      "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "source": "TechCrunch",
+      "date": "Fri, 10 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "TechCrunch 将前往东京 — 并带来创业战场",
+      "summary": "SusHi Tech 2026 聚焦重塑社会的四个技术领域：人工智能、机器人、弹性和娱乐。期待人形机器人的现场演示",
+      "link": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "source": "TechCrunch",
+      "date": "Fri, 10 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "每一家筹集超过 1 亿美元资金的融合初创公司",
       "summary": "Fusion 初创公司迄今为止已筹集了 71 亿美元，其中大部分流向了少数公司。",
       "link": "https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/",
@@ -119,7 +146,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "大众汽车在美国放弃全电动 ID.4 转向汽油 SUV",
+      "title": "大众汽车在美国放弃全电动 ID.4，转向汽油 SUV",
       "summary": "其美国工厂的所有资源都瞄准了即将推出的Atlas SUV。",
       "link": "https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/",
       "source": "TechCrunch",
@@ -167,24 +194,6 @@
       "title": "谷歌与英特尔深化人工智能基础设施合作",
       "summary": "由于全球CPU短缺日益严重，对CPU的需求很高，这两家科技巨头正在寻求共同开发定制芯片。",
       "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
-      "source": "TechCrunch",
-      "date": "Thu, 09 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "如何跻身创业战场前 20 名——以及每家公司无论如何都能获得什么",
-      "summary": "每个申请创业战场的创始人都想要同样的东西：颠覆主舞台。以下是实现这一目标的方法以及机会的来源",
-      "link": "https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
-      "source": "TechCrunch",
-      "date": "Thu, 09 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "您现在可以编辑您的 Instagram 评论",
-      "summary": "Instagram 用户现在可以编辑评论，对于那些曾经不得不删除并重新发布评论只是为了修复拼写错误的人来说，这是一个期待已久的解决方案。",
-      "link": "https://techcrunch.com/2026/04/09/you-can-now-edit-your-instagram-comments/",
       "source": "TechCrunch",
       "date": "Thu, 09 Ap",
       "tag": "trend",
