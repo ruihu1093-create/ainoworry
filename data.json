@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11 14:07:29",
+  "updatedAt": "2026-04-11 19:52:14",
   "news": [
     {
       "title": "拿下豪华种子轮，一家明星AI公司宣布倒闭",
@@ -61,6 +61,15 @@
       "link": "https://36kr.com/newsflashes/3761947040989958?f=rss",
       "source": "36Kr",
       "date": "2026-04-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "山姆·奥尔特曼 (Sam Altman) 在其家遭到袭击后回应《纽约客》的“煽动性”文章",
+      "summary": "OpenAI 首席执行官的新博文既回应了对他家的明显攻击，又回应了《纽约客》的深入报道，对他的信任人提出了质疑",
+      "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "source": "TechCrunch",
+      "date": "Sat, 11 Ap",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -167,15 +176,6 @@
       "title": "Florida AG 宣布对 OpenAI 涉嫌涉及 ChatGPT 的枪击事件进行调查",
       "summary": "据报道，去年 4 月，ChatGPT 被用来策划佛罗里达州立大学的袭击事件，造成两人死亡、五人受伤。一名遇难者家属",
       "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-      "source": "TechCrunch",
-      "date": "Thu, 09 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "StubHub 支付 1000 万美元以和解 FTC 关于“欺骗性”门票定价的指控",
-      "summary": "消费者保护机构表示，该公司通过“欺骗性”宣传门票价格，违反了联邦贸易委员会法案及其关于不公平或欺骗性费用的规则",
-      "link": "https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/",
       "source": "TechCrunch",
       "date": "Thu, 09 Ap",
       "tag": "trend",
