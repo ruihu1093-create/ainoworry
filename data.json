@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11 08:02:37",
+  "updatedAt": "2026-04-11 14:07:29",
   "news": [
     {
       "title": "拿下豪华种子轮，一家明星AI公司宣布倒闭",
@@ -38,11 +38,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "氪星晚报 ｜无印良品：2026财年第二季度营收196.1亿元，同比增长14.8%；小马智行发布PonyWorld世界模型2.0",
-      "summary": "大公司：\n  长安汽车：2025年净利润40.75亿元\n  36氪获悉，长安汽车公告，2025年实现营业收入1640亿元，同比增长2.67%；归属于上市公司股东的净利润40.75亿元，上年同期73.21亿元，同比下降44.34%；基本每股收益0.41元。以总股本99.13亿股为基数，向全体股东每10",
-      "link": "https://36kr.com/p/3760914298651400?f=rss",
+      "title": "工业和信息化部将发布一批“人工智能+”高价值场景",
+      "summary": "日前在武汉举行的中国人工智能产业发展联盟第十七次全体会议上，工业和信息化部科技司副司长杜广达表示，工业和信息化部将以制造业为主战场、应用牵引为主线，发布一批“人工智能+”高价值场景，探索一批典型应用，建设一批特色智能体，提供一批新型智能终端，研制一批新标准，培育一批产业应用人才，打造一批优质企业，全",
+      "link": "https://36kr.com/newsflashes/3762215677297158?f=rss",
       "source": "36Kr",
-      "date": "2026-04-10",
+      "date": "2026-04-11",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -65,29 +65,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "滴滴自动驾驶张博：聚焦安全和体验，推动自动驾驶全球化落地",
-      "summary": "4月11日，滴滴自动驾驶公司CEO张博出席2026智能电动汽车发展高层论坛，新一代Robotaxi车型同步亮相。张博在演讲中表示，安全与体验是自动驾驶行稳致远的根基，滴滴自动驾驶坚持负责任的科技创新，将基于在AI核心技术、硬件、出行场景三大领域的积累，持续加大投入，不断优化产品和服务。去年四季度，滴",
-      "link": "https://36kr.com/newsflashes/3762011484340745?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "蔚来李斌：高阶智驾芯片神玑NX9031与蔚来世界模型上车乐道L90",
-      "summary": "36氪获悉，4月11日，在智能电动汽车发展高层论坛（2026）期间，蔚来创始人、董事长、CEO李斌在采访中表示：“旗舰智驾芯片神玑NX9031和新版蔚来世界模型将在2026款乐道L90全面上车。今年蔚来公司非常重要的一件事，就是在20到30万级别中全面应用全球旗舰级的智驾芯片和智驾系统。”",
-      "link": "https://36kr.com/newsflashes/3761992686207752?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "日本投入160亿美元，力推初创企业Rapidus进军人工智能芯片领域",
-      "summary": "日本经济产业省周六表示，这笔资金将用于支持Rapidus为信息技术企业富士通株式会社开展研发工作，富士通是日方希望能推动该标志性项目落地的首批客户之一。新增资金后，截至2027年3月本财年末，政府对这家初创企业的补贴与投资总额将升至2.6万亿日元（约合163亿美元）。该省称，一个外部委员会已视察了R",
-      "link": "https://36kr.com/newsflashes/3761942487990792?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-11",
+      "title": "Nvidia 支持的 SiFive 开放 AI 芯片估值达到 36.5 亿美元",
+      "summary": "这笔交易很有趣，原因有很多，其中包括 SiFive 的芯片设计基于 RISC-V，而不是 x86 或 ARM。",
+      "link": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
+      "source": "TechCrunch",
+      "date": "Sat, 11 Ap",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -309,6 +291,15 @@
       "date": "2026-04-11"
     },
     {
+      "title": "多家快递公司宣布涨价",
+      "content": "受地区局势和油价波动影响，不仅航空燃油费在涨，快递费也要涨了。日前，UPS、DHL、联邦快递、顺丰国际等多家国际快递物流企业调整了燃油附加费收取标准，部分企业进行了上调。值得注意的是，不仅是国际快递件，受国际油价飙升与行业政策调整双重影响，国内多地的快递企业也于近期集体增设或者上调了燃油附加费。 （新华日报）",
+      "link": "https://36kr.com/newsflashes/3762081810760192?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-11"
+    },
+    {
       "title": "淘宝AI导购助手「淘宝问问」升级，支持复杂需求理解",
       "content": "基于大语言模型的购物助手能够理解复杂需求，提供个性化推荐和比价服务。",
       "link": "https://36kr.com/",
@@ -403,7 +394,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -414,7 +405,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "description": "The agent that grows with you",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -423,37 +414,26 @@
       "date": "2026-04-11"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@anonymous",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "link": "https://github.com/explore",
-      "tools": [
-        "GitHub",
-        "LLM"
-      ],
-      "likes": 3045,
-      "date": "2026-04-11"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
-      "date": "2026-04-11"
-    },
-    {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
       "likes": 2526,
+      "date": "2026-04-11"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub",
+        "LLM"
+      ],
+      "likes": 7510,
       "date": "2026-04-11"
     },
     {
