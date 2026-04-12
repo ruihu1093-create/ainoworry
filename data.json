@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12 06:12:29",
+  "updatedAt": "2026-04-12 14:11:29",
   "news": [
     {
       "title": "拿下豪华种子轮，一家明星AI公司宣布倒闭",
@@ -38,11 +38,38 @@
       "tagText": "资讯"
     },
     {
-      "title": "长城汽车佘士东：当前智能座舱界面高度同质化，200多款车型相似度达95%以上",
-      "summary": "长城汽车智能化产品副总经理佘士东在智能电动汽车高层发展论坛上表示，当前智能座舱界面高度同质化，200多款车型的交互界面相似度达95%以上，行业陷入“无米下锅”的创新瓶颈。而大模型上车带来了破局机遇，行业正逐步从“人机交互”迈向“人-智-体”三方服务时代。",
-      "link": "https://36kr.com/newsflashes/3763278385349122?f=rss",
+      "title": "轻舟智航于骞：智能汽车的AI能力已完成三次关键进化，2026年迈入超人智能的新阶段",
+      "summary": "今天，轻舟智航于骞博士在2026智能电动汽车高层论坛上发表演讲，表示：智能汽车的AI能力已完成三次关键进化，2026年迈入超人智能的新阶段。行业命题不再只是做一个“开车的系统”，而是创造“物理世界的大脑”——通用物理AI成为驱动自动驾驶变革的核心技术力量。",
+      "link": "https://36kr.com/newsflashes/3763626360636167?f=rss",
       "source": "36Kr",
       "date": "2026-04-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "荣耀机器人“闪电”“元气仔”出征北京亦庄马拉松",
+      "summary": "4月19日，机器人马拉松将在北京亦庄举行。荣耀自研机器人“闪电”“元气仔”正式报名参赛，成为全球首个由终端大厂派出选手的机器人马拉松挑战者。据荣耀技术团队介绍，荣耀机器人“闪电”集成了荣耀在智能制造与具身AI领域的最新成果，高性能高爆发稳定的本体、高动态运控算法、实时感知理解与自主决策能力。",
+      "link": "https://36kr.com/newsflashes/3763625016476420?f=rss",
+      "source": "36Kr",
+      "date": "2026-04-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "元戎启行CEO周光：解决小模型的“跷跷板效应”，必须转向大模型范式",
+      "summary": "4月12日，在智能电动汽车发展高层论坛上，元戎启行CEO周光提到，2025年，城区NOA用户黏性大概是在20%-30%区间，城区NOA渗透率仅15%左右。\n周光认为，这背后最本质的原因在于：今天量产的小模型智驾参数量非常小，多数在1B以下，甚至0.1B以下，运行算力典型在100-200 TOPS。要",
+      "link": "https://36kr.com/newsflashes/3763547677590018?f=rss",
+      "source": "36Kr",
+      "date": "2026-04-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Slate Auto：关于贝索斯支持的电动汽车初创公司您需要了解的一切",
+      "summary": "Slate 汽车于 2025 年 4 月突然出现。这是一个时间表，涵盖了它的起源、支持者、产品和其他新细节。",
+      "link": "https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/",
+      "source": "TechCrunch",
+      "date": "Sun, 12 Ap",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -376,7 +403,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "description": "The agent that grows with you",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -387,24 +414,24 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "The agent that grows with you",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "link": "https://github.com/manifest.json",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 4324,
       "date": "2026-04-12"
     },
     {
-      "title": "开源项目: events",
+      "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "link": "https://github.com/events",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "link": "https://github.com/explore",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
-      "likes": 2526,
+      "likes": 3045,
       "date": "2026-04-12"
     },
     {
