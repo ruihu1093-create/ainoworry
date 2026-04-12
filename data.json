@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12 14:11:29",
+  "updatedAt": "2026-04-12 19:55:47",
   "news": [
     {
       "title": "拿下豪华种子轮，一家明星AI公司宣布倒闭",
@@ -61,6 +61,42 @@
       "link": "https://36kr.com/newsflashes/3763547677590018?f=rss",
       "source": "36Kr",
       "date": "2026-04-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "X 表示正在减少对点击诱饵账户的付款",
+      "summary": "X 公关负责人表示，X 正在削减向那些通过标题诱饵和快速新闻聚合“淹没时间线”的账户的付款。",
+      "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+      "source": "TechCrunch",
+      "date": "Sun, 12 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "TechCrunch Mobility：谁在挖走所有自动驾驶汽车人才？",
+      "summary": "欢迎回到 TechCrunch Mobility，这里是未来交通的中心，现在人工智能比以往任何时候都更重要地发挥着作用。",
+      "link": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/",
+      "source": "TechCrunch",
+      "date": "Sun, 12 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "从法学硕士到幻觉，以下是常见人工智能术语的简单指南",
+      "summary": "人工智能的兴起带来了大量新术语和俚语。这是一个词汇表，其中包含一些最重要的单词和短语的定义",
+      "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch",
+      "date": "Sun, 12 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "在 HumanX 会议上，每个人都在谈论 Claude",
+      "summary": "Anthropic 是旧金山以人工智能为中心的会议上的明星。",
+      "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+      "source": "TechCrunch",
+      "date": "Sun, 12 Ap",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,42 +187,6 @@
       "link": "https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/",
       "source": "TechCrunch",
       "date": "Fri, 10 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "PSA：如果你使用 Meta AI 应用程序，你的朋友会发现，那就尴尬了",
-      "summary": "现在 Meta 发布了 Muse Spark 模型，越来越多的人开始下载 Meta AI 应用程序。如果您加入该应用程序，您的朋友可能会得到一个 I",
-      "link": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
-      "source": "TechCrunch",
-      "date": "Fri, 10 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "时隔多年，Snap 距离发布新款 AI 眼镜又近了一步",
-      "summary": "Specs 长期以来一直在预告其下一代增强现实眼镜。与高通的新合作伙伴关系有望在该部门取得一些进展",
-      "link": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
-      "source": "TechCrunch",
-      "date": "Fri, 10 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "佛罗里达州 AG 将调查 OpenAI，声称可能与 FSU 枪击事件有关",
-      "summary": "佛罗里达州总检察长 James Uthmeier 计划调查 OpenAI 涉嫌伤害未成年人、威胁国家安全的可能性及其 p",
-      "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
-      "source": "TechCrunch",
-      "date": "Thu, 09 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "ChatGPT 终于推出 100 美元/月的 Pro 套餐",
-      "summary": "OpenAI 周四宣布了高级用户一直要求的东西：每月 100 美元的计划。此前，订阅费从每份 20 美元跃升至 200 美元。",
-      "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-      "source": "TechCrunch",
-      "date": "Thu, 09 Ap",
       "tag": "trend",
       "tagText": "资讯"
     }
