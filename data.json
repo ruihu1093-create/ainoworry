@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11 19:52:14",
+  "updatedAt": "2026-04-12 06:12:29",
   "news": [
     {
       "title": "拿下豪华种子轮，一家明星AI公司宣布倒闭",
@@ -38,29 +38,29 @@
       "tagText": "资讯"
     },
     {
-      "title": "工业和信息化部将发布一批“人工智能+”高价值场景",
-      "summary": "日前在武汉举行的中国人工智能产业发展联盟第十七次全体会议上，工业和信息化部科技司副司长杜广达表示，工业和信息化部将以制造业为主战场、应用牵引为主线，发布一批“人工智能+”高价值场景，探索一批典型应用，建设一批特色智能体，提供一批新型智能终端，研制一批新标准，培育一批产业应用人才，打造一批优质企业，全",
-      "link": "https://36kr.com/newsflashes/3762215677297158?f=rss",
+      "title": "长城汽车佘士东：当前智能座舱界面高度同质化，200多款车型相似度达95%以上",
+      "summary": "长城汽车智能化产品副总经理佘士东在智能电动汽车高层发展论坛上表示，当前智能座舱界面高度同质化，200多款车型的交互界面相似度达95%以上，行业陷入“无米下锅”的创新瓶颈。而大模型上车带来了破局机遇，行业正逐步从“人机交互”迈向“人-智-体”三方服务时代。",
+      "link": "https://36kr.com/newsflashes/3763278385349122?f=rss",
       "source": "36Kr",
-      "date": "2026-04-11",
+      "date": "2026-04-12",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "千亿诉讼临近 OpenAI指控马斯克搞“突袭”",
-      "summary": "在美东时间周五晚间提交的法庭文件中，OpenAI表示，马斯克本周早些时候提出的新诉求，显然意在“刁难被告、扰乱庭审程序，同时试图重塑其就本案对外塑造的舆论形象”。马斯克于2024年起诉OpenAI及微软公司，指控这家ChatGPT开发者在从这家软件巨头获得数十亿美元投资、并计划重组为营利性企业后，背",
-      "link": "https://36kr.com/newsflashes/3762063409234434?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-11",
+      "title": "沃尔玛旗下的 Flipkart 和亚马逊正在挤压印度的快速电子商务初创公司",
+      "summary": "分析师表示，Flipkart 持续向主要城市以外的地区扩张以及大幅折扣正在增加印度快速商业初创企业面临的风险。",
+      "link": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
+      "source": "TechCrunch",
+      "date": "Sun, 12 Ap",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "中信证券：流动性冲击扰动，互联网板块关注业绩韧性与AI主线",
-      "summary": "36氪获悉，中信证券研报称，进入2026年以来，互联网板块受AI叙事变化、互联网公司重回投入期带来对短期盈利节奏的担忧，以及地缘政治事件带来的市场风偏下降和流动性收紧等因素影响，估值回落至历史低位。展望2026年，考虑到流动性扰动的不确定性，建议关注低估值、业绩确定性较高、现金流稳健及股东回报较好的",
-      "link": "https://36kr.com/newsflashes/3761947040989958?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-11",
+      "title": "卡尔希在亚利桑那州刑事案件中赢得临时暂停",
+      "summary": "商品期货交易委员会周五宣布，它已获得临时限制令，阻止亚利桑那州追究其罪犯",
+      "link": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
+      "source": "TechCrunch",
+      "date": "Sat, 11 Ap",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -158,24 +158,6 @@
       "title": "ChatGPT 终于推出 100 美元/月的 Pro 套餐",
       "summary": "OpenAI 周四宣布了高级用户一直要求的东西：每月 100 美元的计划。此前，订阅费从每份 20 美元跃升至 200 美元。",
       "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-      "source": "TechCrunch",
-      "date": "Thu, 09 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "大众汽车在美国放弃全电动 ID.4，转向汽油 SUV",
-      "summary": "其美国工厂的所有资源都瞄准了即将推出的Atlas SUV。",
-      "link": "https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/",
-      "source": "TechCrunch",
-      "date": "Thu, 09 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Florida AG 宣布对 OpenAI 涉嫌涉及 ChatGPT 的枪击事件进行调查",
-      "summary": "据报道，去年 4 月，ChatGPT 被用来策划佛罗里达州立大学的袭击事件，造成两人死亡、五人受伤。一名遇难者家属",
-      "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
       "source": "TechCrunch",
       "date": "Thu, 09 Ap",
       "tag": "trend",
@@ -291,13 +273,13 @@
       "date": "2026-04-11"
     },
     {
-      "title": "多家快递公司宣布涨价",
-      "content": "受地区局势和油价波动影响，不仅航空燃油费在涨，快递费也要涨了。日前，UPS、DHL、联邦快递、顺丰国际等多家国际快递物流企业调整了燃油附加费收取标准，部分企业进行了上调。值得注意的是，不仅是国际快递件，受国际油价飙升与行业政策调整双重影响，国内多地的快递企业也于近期集体增设或者上调了燃油附加费。 （新华日报）",
-      "link": "https://36kr.com/newsflashes/3762081810760192?f=rss",
-      "source": "36Kr",
+      "title": "沃尔玛旗下的 Flipkart 和亚马逊正在挤压印度的快速电子商务初创公司",
+      "content": "分析师表示，Flipkart 持续向主要城市以外的地区扩张以及大幅折扣正在增加印度快速商业初创企业面临的风险。",
+      "link": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
+      "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-11"
+      "date": "Sun, 12 Ap"
     },
     {
       "title": "淘宝AI导购助手「淘宝问问」升级，支持复杂需求理解",
@@ -306,7 +288,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-11"
+      "date": "2026-04-12"
     },
     {
       "title": "京东言犀大模型客服覆盖全品类，问题解决率达92%",
@@ -315,7 +297,7 @@
       "source": "京东",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-11"
+      "date": "2026-04-12"
     },
     {
       "title": "拼多多AI商品描述自动生成，中小商家上架效率提升10倍",
@@ -324,7 +306,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-11"
+      "date": "2026-04-12"
     },
     {
       "title": "TikTok Shop AI驱动全球扩张，进入30个新市场",
@@ -333,7 +315,7 @@
       "source": "TechCrunch",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-11"
+      "date": "2026-04-12"
     },
     {
       "title": "SHEIN用AI预测时尚趋势，准确率超85%",
@@ -342,7 +324,7 @@
       "source": "晚点",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-11"
+      "date": "2026-04-12"
     },
     {
       "title": "Temu用AI优化全球供应链，跨境包裹5天送达",
@@ -351,7 +333,7 @@
       "source": "晚点",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-11"
+      "date": "2026-04-12"
     },
     {
       "title": "微信小店接入混元大模型，AI生成营销文案",
@@ -360,7 +342,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-11"
+      "date": "2026-04-12"
     },
     {
       "title": "Shopify AI店铺装修上线，一句话生成整站设计",
@@ -369,7 +351,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-11"
+      "date": "2026-04-12"
     },
     {
       "title": "得物AI真伪鉴定辅助系统上线，准确率99.2%",
@@ -378,7 +360,7 @@
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-11"
+      "date": "2026-04-12"
     },
     {
       "title": "闲鱼AI估价功能引爆用户增长，月活突破4亿",
@@ -387,7 +369,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-11"
+      "date": "2026-04-12"
     }
   ],
   "agents": [
@@ -400,7 +382,7 @@
         "GitHub"
       ],
       "likes": 2325,
-      "date": "2026-04-11"
+      "date": "2026-04-12"
     },
     {
       "title": "开源项目: manifest.json",
@@ -411,30 +393,19 @@
         "GitHub"
       ],
       "likes": 4324,
-      "date": "2026-04-11"
+      "date": "2026-04-12"
     },
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
-      "date": "2026-04-11"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "link": "https://github.com/sponsors/explore",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub",
         "LLM"
       ],
-      "likes": 7510,
-      "date": "2026-04-11"
+      "likes": 2526,
+      "date": "2026-04-12"
     },
     {
       "title": "独立开发者用AI搭建自动化内容工厂",
