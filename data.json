@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13 16:41:04",
+  "updatedAt": "2026-04-13 21:10:25",
   "news": [
     {
       "title": "荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线",
@@ -65,8 +65,26 @@
       "tagText": "资讯"
     },
     {
+      "title": "斯坦福大学的报告强调了人工智能内部人士与其他人之间日益脱节",
+      "summary": "斯坦福大学最新的人工智能指数显示，专家和公众之间的差距不断扩大，人们对就业、医疗保健和经济的焦虑日益加剧。",
+      "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "source": "TechCrunch",
+      "date": "Mon, 13 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Booking.com确认黑客访问了客户数据",
+      "summary": "这家旅游巨头通知客户，他们的个人数据，包括姓名、电子邮件地址和电话号码，可能已被安全访问",
+      "link": "https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data/",
+      "source": "TechCrunch",
+      "date": "Mon, 13 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Vercel 首席执行官 Guillermo Rauch 表示已做好 IPO 准备，人工智能代理推动收入激增",
-      "summary": "Rauch 在 HumanX 会议上谈到 IPO 时表示：“公司已经做好准备，而且每天都在准备得更充分。”",
+      "summary": "虽然许多在 ChatGPT 出现之前成立的初创公司都在努力为人工智能时代做好定位，但 Vercel 这个已有 10 年历史的开发工具和",
       "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
       "source": "TechCrunch",
       "date": "Mon, 13 Ap",
@@ -147,46 +165,10 @@
     },
     {
       "title": "沃尔玛旗下的 Flipkart 和亚马逊正在挤压印度的快速电子商务初创公司",
-      "summary": "分析师表示，Flipkart 持续向主要城市以外的地区扩张以及大幅折扣正在增加印度快速商业初创企业面临的风险。",
+      "summary": "分析师表示，Flipkart 持续向主要城市以外的地区扩张以及大幅折扣正在增加印度快速商务初创企业面临的风险。",
       "link": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
       "source": "TechCrunch",
       "date": "Sun, 12 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "卡尔希在亚利桑那州刑事案件中赢得临时暂停",
-      "summary": "商品期货交易委员会周五宣布，它已获得临时限制令，阻止亚利桑那州追究其罪犯",
-      "link": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
-      "source": "TechCrunch",
-      "date": "Sat, 11 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "山姆·奥尔特曼 (Sam Altman) 在其家遭到袭击后回应《纽约客》的“煽动性”文章",
-      "summary": "OpenAI 首席执行官的新博文既回应了对他家的明显攻击，又回应了《纽约客》的深入报道，对他的信任人提出了质疑",
-      "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-      "source": "TechCrunch",
-      "date": "Sat, 11 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Nvidia 支持的 SiFive 开放 AI 芯片估值达到 36.5 亿美元",
-      "summary": "这笔交易很有趣，原因有很多，其中包括 SiFive 的芯片设计基于 RISC-V，而不是 x86 或 ARM。",
-      "link": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
-      "source": "TechCrunch",
-      "date": "Sat, 11 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic 暂时禁止 OpenClaw 的创建者访问 Claude",
-      "summary": "这项禁令是在上周 Claude 对 OpenClaw 用户的定价发生变化后实施的。",
-      "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-      "source": "TechCrunch",
-      "date": "Fri, 10 Ap",
       "tag": "trend",
       "tagText": "资讯"
     }
@@ -319,7 +301,7 @@
     },
     {
       "title": "沃尔玛旗下的 Flipkart 和亚马逊正在挤压印度的快速电子商务初创公司",
-      "content": "分析师表示，Flipkart 持续向主要城市以外的地区扩张以及大幅折扣正在增加印度快速商业初创企业面临的风险。",
+      "content": "分析师表示，Flipkart 持续向主要城市以外的地区扩张以及大幅折扣正在增加印度快速商务初创企业面临的风险。",
       "link": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
       "source": "TechCrunch",
       "impact": "medium",
