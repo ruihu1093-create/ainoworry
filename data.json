@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-04-14 15:57:45",
+  "updatedAt": "2026-04-14 21:09:18",
   "news": [
+    {
+      "title": "Anthropic 联合创始人证实该公司向特朗普政府通报了 Mythos",
+      "summary": "在本周 Semafor 世界经济峰会上接受采访时，Anthropic 联合创始人 Jack Clark 解释了该公司仍与美国合作的原因。",
+      "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+      "source": "TechCrunch",
+      "date": "Tue, 14 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Waymo 开始测试，伦敦距离首个机器人出租车服务又近了一步",
+      "summary": "如果英国政府批准，Waymo 的商业服务最终将进行测试。",
+      "link": "https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/",
+      "source": "TechCrunch",
+      "date": "Tue, 14 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Max Hodak 的科学公司正准备将其第一个传感器放入人脑中",
+      "summary": "如果该设备被证明成功，将有助于解决多种神经系统疾病。一种早期用途可能是提供温和的电刺激",
+      "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+      "source": "TechCrunch",
+      "date": "Tue, 14 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "谷歌在 Chrome 中添加 AI 技能，帮助您保存最喜欢的工作流程",
+      "summary": "谷歌正在向 Chrome 添加“技能”，让用户可以跨网站保存和重复使用人工智能提示。该功能建立在 Gemini 浏览器集成的基础上。",
+      "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+      "source": "TechCrunch",
+      "date": "Tue, 14 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "金融风险管理平台 Pillar 在 a16z 领投的种子轮融资中筹集了 2000 万美元",
+      "summary": "Pillar 希望为中小型企业提供先进的机构级工具。 “我们的目标是让套期保值变得容易且方便",
+      "link": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/",
+      "source": "TechCrunch",
+      "date": "Tue, 14 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "在短短几周内，StrictlyVC 旧金山汇聚了来自 TDK Ventures、Replit 等公司的领导者",
       "summary": "今年首届 StrictlyVC 将在您不知不觉中来到旧金山。\n\n还有一些门票可供加入我们和我们的堆栈",
@@ -29,7 +74,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "从 App Store 启动两次后，vibe 编码应用程序 Anything 是如何重建的",
+      "title": "振动编码应用程序 Anything 在从 App Store 启动两次后如何重建",
       "summary": "Anything 计划在 App Store 下架后推出桌面配套应用程序来帮助移动应用程序开发。",
       "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
       "source": "TechCrunch",
@@ -59,33 +104,6 @@
       "title": "Uber 和 Nuro 开始在旧金山测试优质机器人出租车服务",
       "summary": "作为测试的一部分，Uber 员工现在可以欢呼 Lucid 机器人出租车。",
       "link": "https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/",
-      "source": "TechCrunch",
-      "date": "Mon, 13 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "斯坦福大学的报告强调了人工智能内部人士与其他人之间日益脱节",
-      "summary": "斯坦福大学最新的人工智能指数显示，专家和公众之间的差距不断扩大，人们对就业、医疗保健和经济的焦虑日益加剧。",
-      "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-      "source": "TechCrunch",
-      "date": "Mon, 13 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Booking.com确认黑客访问了客户数据",
-      "summary": "这家旅游巨头通知客户，他们的个人数据，包括姓名、电子邮件地址和电话号码，可能已被安全访问",
-      "link": "https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data/",
-      "source": "TechCrunch",
-      "date": "Mon, 13 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Vercel 首席执行官 Guillermo Rauch 表示已做好 IPO 准备，人工智能代理推动收入激增",
-      "summary": "虽然许多在 ChatGPT 出现之前成立的初创公司都在努力为人工智能时代做好定位，但 Vercel 这个已有 10 年历史的开发工具和",
-      "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
       "source": "TechCrunch",
       "date": "Mon, 13 Ap",
       "tag": "trend",
