@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-04-14 06:20:38",
+  "updatedAt": "2026-04-14 15:57:45",
   "news": [
+    {
+      "title": "在短短几周内，StrictlyVC 旧金山汇聚了来自 TDK Ventures、Replit 等公司的领导者",
+      "summary": "今年首届 StrictlyVC 将在您不知不觉中来到旧金山。\n\n还有一些门票可供加入我们和我们的堆栈",
+      "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "source": "TechCrunch",
+      "date": "Tue, 14 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "谷歌将 Gemini 个人智能功能引入印度",
+      "summary": "该功能允许用户连接 Gmail 和照片等 Google 帐户以获得个性化答案。",
+      "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+      "source": "TechCrunch",
+      "date": "Tue, 14 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Adobe 修复了黑客数月来利用的 PDF 零日安全漏洞",
+      "summary": "目前尚不清楚有多少人受到这次黑客活动的影响，但一名安全研究人员表示，黑客从 1 月 1 日起就开始针对受害者",
+      "link": "https://techcrunch.com/2026/04/14/adobe-fixes-pdf-zero-day-security-bug-that-hackers-have-exploited-for-months/",
+      "source": "TechCrunch",
+      "date": "Tue, 14 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "从 App Store 启动两次后，vibe 编码应用程序 Anything 是如何重建的",
+      "summary": "Anything 计划在 App Store 下架后推出桌面配套应用程序来帮助移动应用程序开发。",
+      "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
+      "source": "TechCrunch",
+      "date": "Tue, 14 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "一名亚马逊仓库工人在俄勒冈州工厂工作时死亡",
       "summary": "尽管亚马逊面临仓库安全问题，但该公司表示死亡与工作无关。",
@@ -52,60 +88,6 @@
       "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
       "source": "TechCrunch",
       "date": "Mon, 13 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anodot 遭黑客攻击导致十几家遭到入侵的公司面临勒索",
-      "summary": "Anodot 的数据泄露事件影响了 Rockstar Games 等客户，这是最新的一次黑客攻击，旨在窃取大量企业 gia 的数据",
-      "link": "https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over-a-dozen-breached-companies-facing-extortion/",
-      "source": "TechCrunch",
-      "date": "Mon, 13 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Slate Auto 筹集 6.5 亿美元为其经济实惠的电动卡车计划提供资金",
-      "summary": "Slate Auto 最新一轮融资由现有投资者 TWG Global 领投，该公司由洛杉矶道奇队老板马克·沃尔特 (Mark Walter) 经营。",
-      "link": "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/",
-      "source": "TechCrunch",
-      "date": "Mon, 13 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "特朗普官员可能鼓励银行测试 Anthropic 的神话模型",
-      "summary": "该报告尤其令人惊讶，因为国防部最近宣布 Anthropic 为供应链风险。",
-      "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-      "source": "TechCrunch",
-      "date": "Sun, 12 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "X 表示正在减少对点击诱饵账户的付款",
-      "summary": "X 公关负责人表示，X 正在削减向那些通过标题诱饵和快速新闻聚合“淹没时间线”的账户的付款。",
-      "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
-      "source": "TechCrunch",
-      "date": "Sun, 12 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "TechCrunch Mobility：谁在挖走所有自动驾驶汽车人才？",
-      "summary": "欢迎回到 TechCrunch Mobility，这里是未来交通的中心，现在人工智能比以往任何时候都更重要地发挥着作用。",
-      "link": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/",
-      "source": "TechCrunch",
-      "date": "Sun, 12 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "从法学硕士到幻觉，以下是常见人工智能术语的简单指南",
-      "summary": "人工智能的兴起带来了大量新术语和俚语。这是一个词汇表，其中包含一些最重要的单词和短语的定义",
-      "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch",
-      "date": "Sun, 12 Ap",
       "tag": "trend",
       "tagText": "资讯"
     }
@@ -209,6 +191,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "亚马逊将以 $11.57B 收购 Globalstar，以充实其卫星业务",
+      "content": "亚马逊周二同意以 115.7 亿美元现金收购卫星公司 Globalstar，该公司因为苹果的“紧急 SOS”功能提供支持而闻名。",
+      "link": "https://techcrunch.com/2026/04/14/amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-satellite-biz/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "Tue, 14 Ap"
+    },
     {
       "title": "一名亚马逊仓库工人在俄勒冈州工厂工作时死亡",
       "content": "尽管亚马逊面临仓库安全问题，但该公司表示死亡与工作无关。",
@@ -342,6 +333,17 @@
         "GitHub"
       ],
       "likes": 1697,
+      "date": "2026-04-14"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "An AI Hedge Fund Team",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-04-14"
     },
     {
