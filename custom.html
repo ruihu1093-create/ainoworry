@@ -221,7 +221,67 @@
       '编程', '开发工具', '生产力', '设计', '视频', '音乐'
     ];
 
-    // 信息类型分类
+    // AI学习视角分类
+    var aiLearningPerspectives = {
+      'AI新技术': {
+        keywords: ['发布', '推出', '新模型', '新版本', '突破', '创新', '升级', '新一代', '首创', '革命性', '重磅', 'gpt-5', 'claude 4', 'gemini', 'llama', '文心', '通义', '豆包', 'kimi', 'deepseek', 'mistral', 'grok'],
+        description: 'AI模型/技术发布与突破',
+        icon: '🔬',
+        color: '#ef4444'
+      },
+      'AI新产品': {
+        keywords: ['上线', '发布', '推出', '工具', '平台', '助手', '功能', '应用', '产品', '服务', 'notion ai', 'cursor', 'midjourney', 'runway', 'suno', 'canva', 'copilot', 'artifact'],
+        description: 'AI工具/产品/平台上线',
+        icon: '🚀',
+        color: '#f59e0b'
+      },
+      'AI解读视角': {
+        keywords: ['分析', '解读', '深度', '评论', '观点', '趋势', '预测', '展望', '报告', '洞察', '盘点', '总结', '为什么', '如何', '影响', '意义', '未来'],
+        description: 'AI行业分析/深度解读',
+        icon: '💡',
+        color: '#3b82f6'
+      },
+      'AI应用案例': {
+        keywords: ['案例', '实践', '实战', '落地', '应用', '使用', '工作流', '效率', '提升', '实现', '搭建', '打造', '月入', '粉丝', '变现'],
+        description: 'AI实际应用/落地案例',
+        icon: '🎯',
+        color: '#10b981'
+      },
+      'AI政策/行业': {
+        keywords: ['政策', '标准', '监管', '法规', '法案', '工信部', '教育部', '欧盟', '合规', '安全', '伦理', '白皮书', '战略', '规划'],
+        description: 'AI政策法规/行业动向',
+        icon: '📋',
+        color: '#8b5cf6'
+      },
+      'AI电商': {
+        keywords: ['电商', '淘宝', '京东', '拼多多', '亚马逊', 'shopify', '抖音', '直播', '带货', '选品', '客服', '营销', '跨境', 'temu', 'shein'],
+        description: 'AI电商应用',
+        icon: '🛍️',
+        color: '#ec4899'
+      }
+    };
+
+    // 学习价值评估
+    var learningValueTips = {
+      'AI新技术': '这类内容帮助你了解AI技术前沿，建议关注模型能力对比和技术演进路线，建立对AI发展脉络的整体认知',
+      'AI新产品': '这类内容帮助你发现实用AI工具，建议实际试用并记录体验，建立自己的AI工具箱',
+      'AI解读视角': '这类内容帮助你深入理解AI行业，建议结合多个观点形成自己的判断，培养AI思维',
+      'AI应用案例': '这类内容帮助你学习AI落地方法，建议参考案例中的工作流，尝试应用到自己的工作场景',
+      'AI政策/行业': '这类内容帮助你把握AI发展方向，建议关注政策变化对行业的影响，提前布局',
+      'AI电商': '这类内容帮助你了解AI商业应用，建议关注AI如何提升效率和创造价值的具体方法'
+    };
+
+    // 迭代方向建议（基于当前提交的内容类型）
+    var iterationSuggestions = {
+      'AI新技术': '建议也关注一些AI产品的实际应用案例，了解技术如何落地到具体场景',
+      'AI新产品': '建议了解这些产品背后的技术原理，知其然更知其所以然',
+      'AI解读视角': '建议多看看一线技术公司的产品发布，将观点与事实对照验证',
+      'AI应用案例': '建议关注一些行业趋势分析，了解你的案例在整体趋势中的位置',
+      'AI政策/行业': '建议同时关注具体产品和案例，将宏观趋势与微观实践结合',
+      'AI电商': '建议也了解一下其他行业的AI应用，拓展AI应用视野'
+    };
+
+    // 信息类型分类（保留原有用于来源分析）
     var infoCategories = {
       '新闻资讯': ['36kr', 'geekpark', 'latepost', 'ebrun', 'cifnews', 'theverge', 'techcrunch'],
       '技术博客': ['github', 'csdn', 'juejin', 'zhihu', 'medium', 'dev'],
@@ -231,18 +291,6 @@
       '产品官网': ['notion', 'cursor', 'midjourney', 'runway', 'suno', 'canva'],
       '电商平台': ['taobao', 'jd', 'amazon', 'shopify', 'pinduoduo', 'shein', 'temu'],
       'AI工具': ['ai', 'chatgpt', 'claude', 'gemini', 'llm', 'model']
-    };
-
-    // 迭代方向建议
-    var iterationSuggestions = {
-      '新闻资讯': '可以尝试提交更多不同领域的AI新闻，比如电商AI、医疗AI等，扩展视野',
-      '技术博客': '建议关注更多实战案例，比如具体项目开发教程或工具使用指南',
-      '社交媒体': '可以看看更多深度分析内容，了解AI应用的真实场景和效果',
-      '企业官网': '建议多关注各公司的产品更新和技术路线，把握行业发展方向',
-      '学术论文': '可以尝试将学术成果与实际应用结合，了解理论如何落地',
-      '产品官网': '建议实际试用一些AI工具，建立更直观的感受和判断',
-      '电商平台': '可以多关注AI如何改变消费体验和商业模式的案例',
-      'AI工具': '建议横向对比不同工具的特点，找到最适合自己的工作流'
     };
 
     // 初始化
@@ -327,7 +375,7 @@
       showToast('链接分析完成！', 'success');
     }
 
-    // 详细分析链接
+    // 详细分析链接（AI学习视角）
     function analyzeUrlDetailed(url) {
       try {
         var parsed = new URL(url);
@@ -338,8 +386,10 @@
         var result = {
           keywords: {},
           sources: {},
-          infoType: '综合',
-          detectedTypes: []
+          perspectives: [],      // AI学习视角分类
+          sourceType: '',        // 信息来源类型
+          learningValue: '',     // 学习价值评估
+          matchedPerspectives: [] // 匹配的视角详情
         };
 
         // 提取来源
@@ -361,42 +411,88 @@
           }
         });
 
-        // 判断信息类型
+        // AI学习视角分析
+        var perspectiveScores = {};
+        Object.keys(aiLearningPerspectives).forEach(function(perspective) {
+          var config = aiLearningPerspectives[perspective];
+          var score = 0;
+          config.keywords.forEach(function(kw) {
+            if (fullText.includes(kw.toLowerCase())) {
+              score += 1;
+            }
+          });
+          if (score > 0) {
+            perspectiveScores[perspective] = score;
+            result.perspectives.push(perspective);
+            result.matchedPerspectives.push({
+              name: perspective,
+              score: score,
+              icon: config.icon,
+              description: config.description,
+              color: config.color
+            });
+          }
+        });
+
+        // 确定主要视角（得分最高的）
+        if (result.perspectives.length > 0) {
+          result.matchedPerspectives.sort(function(a, b) { return b.score - a.score; });
+          result.mainPerspective = result.matchedPerspectives[0];
+          result.learningValue = learningValueTips[result.mainPerspective.name] || '';
+        } else {
+          result.mainPerspective = {
+            name: 'AI综合内容',
+            icon: '🌐',
+            description: '综合类AI资讯',
+            color: '#6b7280'
+          };
+          result.learningValue = '这类内容可能涉及多个AI领域，建议先确定你最感兴趣的细分方向，然后有针对性地深入学习';
+        }
+
+        // 判断信息来源类型
         Object.keys(infoCategories).forEach(function(category) {
           var keywords = infoCategories[category];
           var matched = keywords.some(function(kw) {
             return fullText.includes(kw.toLowerCase());
           });
           if (matched) {
-            result.detectedTypes.push(category);
+            result.sourceType = category;
           }
         });
-
-        // 确定主要类型
-        if (result.detectedTypes.length > 0) {
-          result.infoType = result.detectedTypes[0];
-        } else {
-          result.infoType = 'AI综合';
+        if (!result.sourceType) {
+          result.sourceType = '其他来源';
         }
 
         return result;
       } catch(e) {
         console.log('分析链接失败:', url, e);
-        return { keywords: {}, sources: {}, infoType: '未知', detectedTypes: [] };
+        return {
+          keywords: {},
+          sources: {},
+          perspectives: [],
+          sourceType: '未知',
+          learningValue: '',
+          matchedPerspectives: [],
+          mainPerspective: { name: '未知', icon: '❓', description: '无法识别', color: '#6b7280' }
+        };
       }
     }
 
-    // 显示反馈卡片
+    // 显示反馈卡片（AI学习视角）
     function showFeedback(url, analysis) {
       var feedbackArea = document.getElementById('feedback-area');
 
       // 获取迭代建议
+      var mainPerspectiveName = analysis.mainPerspective.name;
       var suggestion = '建议继续提交更多相关领域的链接，帮助系统更准确地了解你的兴趣';
-      analysis.detectedTypes.forEach(function(type) {
-        if (iterationSuggestions[type]) {
-          suggestion = iterationSuggestions[type];
-        }
-      });
+      if (iterationSuggestions[mainPerspectiveName]) {
+        suggestion = iterationSuggestions[mainPerspectiveName];
+      }
+
+      // 生成视角标签
+      var perspectiveTags = analysis.matchedPerspectives.map(function(p) {
+        return '<span class="keyword-tag" style="background: ' + p.color + '20; color: ' + p.color + '; border: 1px solid ' + p.color + '40;">' + p.icon + ' ' + p.name + '</span>';
+      }).join('');
 
       // 生成关键词标签
       var keywordTags = Object.entries(analysis.keywords)
@@ -409,28 +505,52 @@
       // 构建反馈卡片HTML
       var cardHtml = '<div class="feedback-card">' +
         '<div class="header">' +
-          '<div class="icon">✨</div>' +
+          '<div class="icon">' + analysis.mainPerspective.icon + '</div>' +
           '<div>' +
             '<div class="title">链接分析完成</div>' +
-            '<div class="subtitle">已学习你的新兴趣点</div>' +
+            '<div class="subtitle">已从AI学习角度解析你的兴趣点</div>' +
           '</div>' +
         '</div>' +
+
+        // AI学习视角
         '<div class="feedback-section">' +
-          '<h5>📂 检测到的信息类型</h5>' +
-          '<div class="info-type">' +
-            '<p>' + analysis.infoType + (analysis.detectedTypes.length > 1 ? '、' + analysis.detectedTypes.slice(1).join('、') : '') + '</p>' +
+          '<h5>🎓 AI学习视角</h5>' +
+          '<div class="info-type" style="border-left-color: ' + analysis.mainPerspective.color + '; background: ' + analysis.mainPerspective.color + '10;">' +
+            '<p style="color: ' + analysis.mainPerspective.color + ';">' + analysis.mainPerspective.icon + ' ' + analysis.mainPerspective.name + ' - ' + analysis.mainPerspective.description + '</p>' +
+          '</div>' +
+          (perspectiveTags ? '<div class="keyword-tags" style="margin-top: 10px;">' + perspectiveTags + '</div>' : '') +
+        '</div>' +
+
+        // 学习价值评估
+        (analysis.learningValue ? '<div class="feedback-section">' +
+          '<h5>💎 学习价值</h5>' +
+          '<div class="iteration-tip">' +
+            '<p>' + analysis.learningValue + '</p>' +
+          '</div>' +
+        '</div>' : '') +
+
+        // 提取的关键话题
+        '<div class="feedback-section">' +
+          '<h5>🏷️ 关键话题</h5>' +
+          (keywordTags ? '<div class="keyword-tags">' + keywordTags + '</div>' : '<p style="color: #9ca3af;">未检测到特定关键词，可能是综合类AI内容</p>') +
+        '</div>' +
+
+        // 信息来源
+        '<div class="feedback-section">' +
+          '<h5>📡 信息来源</h5>' +
+          '<div class="info-type" style="background: #f9fafb; border-left-color: #6b7280;">' +
+            '<p style="color: #4b5563;">' + analysis.sourceType + '</p>' +
           '</div>' +
         '</div>' +
-        '<div class="feedback-section">' +
-          '<h5>🏷️ 提取的关键话题</h5>' +
-          (keywordTags ? '<div class="keyword-tags">' + keywordTags + '</div>' : '<p>未检测到特定关键词，可能是综合类AI内容</p>') +
-        '</div>' +
+
+        // 后续建议
         '<div class="feedback-section">' +
           '<h5>💡 后续建议</h5>' +
           '<div class="iteration-tip">' +
             '<p>' + suggestion + '</p>' +
           '</div>' +
         '</div>' +
+
         '<div class="linked-url">链接：<a href="' + url + '" target="_blank" rel="noopener">' + url + '</a></div>' +
       '</div>';
 
