@@ -47,6 +47,7 @@
     .section-icon.products { background: linear-gradient(135deg, #4facfe, #00f2fe); }
     .section-icon.ecommerce { background: linear-gradient(135deg, #43e97b, #38f9d7); }
     .section-icon.agents { background: linear-gradient(135deg, #fa709a, #fee140); }
+    .section-icon.custom { background: linear-gradient(135deg, #a18cd1, #fbc2eb); }
     .section-title h3 { font-size: 20px; font-weight: 700; color: #1f2937; }
     .section-title p { font-size: 13px; color: #6b7280; }
     .section-count { font-size: 13px; color: #9ca3af; white-space: nowrap; }
@@ -108,6 +109,64 @@
     .agent-card p { font-size: 13px; color: #4b5563; line-height: 1.6; margin-bottom: 10px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
     .agent-card .tools { display: flex; flex-wrap: wrap; gap: 6px; }
     .agent-card .tool-tag { background: #f3f4f6; color: #374151; font-size: 11px; padding: 3px 10px; border-radius: 9999px; }
+
+    /* 个性化定制板块 */
+    .custom-section { background: linear-gradient(135deg, #f5f3ff 0%, #fdf2f8 100%); border-radius: 16px; padding: 28px; margin-bottom: 40px; }
+    .custom-header { text-align: center; margin-bottom: 24px; }
+    .custom-header .icon { font-size: 48px; margin-bottom: 8px; }
+    .custom-header h3 { font-size: 22px; font-weight: 700; color: #1f2937; }
+    .custom-header p { font-size: 14px; color: #6b7280; margin-top: 4px; }
+
+    /* 链接输入区 */
+    .link-input-area { background: white; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); margin-bottom: 20px; }
+    .link-input-area label { display: block; font-size: 14px; font-weight: 600; color: #374151; margin-bottom: 12px; }
+    .link-input-row { display: flex; gap: 8px; margin-bottom: 8px; }
+    .link-input-row input { flex: 1; padding: 10px 14px; border: 1px solid #e5e7eb; border-radius: 8px; font-size: 14px; transition: all 0.2s; outline: none; }
+    .link-input-row input:focus { border-color: #a78bfa; box-shadow: 0 0 0 3px rgba(167,139,250,0.15); }
+    .link-input-row input::placeholder { color: #9ca3af; }
+    .link-input-row .remove-btn { width: 36px; height: 36px; border-radius: 8px; border: none; background: #fee2e2; color: #dc2626; cursor: pointer; font-size: 18px; display: flex; align-items: center; justify-content: center; transition: all 0.2s; flex-shrink: 0; }
+    .link-input-row .remove-btn:hover { background: #fecaca; }
+    .add-link-btn { width: 100%; padding: 8px; border: 1px dashed #d1d5db; border-radius: 8px; background: transparent; color: #6b7280; font-size: 13px; cursor: pointer; transition: all 0.2s; margin-top: 4px; }
+    .add-link-btn:hover { border-color: #a78bfa; color: #a78bfa; }
+    .add-link-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+    .submit-btn { width: 100%; padding: 12px; border: none; border-radius: 10px; background: linear-gradient(135deg, #a78bfa, #f472b6); color: white; font-size: 15px; font-weight: 600; cursor: pointer; transition: all 0.3s; margin-top: 16px; }
+    .submit-btn:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(167,139,250,0.4); }
+    .submit-btn:active { transform: translateY(0); }
+
+    /* 偏好展示区 */
+    .preference-panel { background: white; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+    .preference-panel h4 { font-size: 15px; font-weight: 600; color: #374151; margin-bottom: 12px; display: flex; align-items: center; gap: 6px; }
+    .keyword-cloud { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
+    .keyword-tag { padding: 6px 14px; border-radius: 9999px; font-size: 13px; font-weight: 500; cursor: default; transition: all 0.2s; }
+    .keyword-tag:hover { transform: scale(1.05); }
+    .keyword-tag.level-5 { background: #7c3aed; color: white; }
+    .keyword-tag.level-4 { background: #a78bfa; color: white; }
+    .keyword-tag.level-3 { background: #c4b5fd; color: #4c1d95; }
+    .keyword-tag.level-2 { background: #ddd6fe; color: #5b21b6; }
+    .keyword-tag.level-1 { background: #f3e8ff; color: #6b21a8; }
+    .source-list { display: flex; flex-wrap: wrap; gap: 8px; }
+    .source-item { display: flex; align-items: center; gap: 6px; padding: 6px 12px; background: #f3f4f6; border-radius: 8px; font-size: 13px; color: #374151; }
+    .source-item .count { background: #a78bfa; color: white; padding: 1px 8px; border-radius: 9999px; font-size: 11px; font-weight: 600; }
+    .empty-state { text-align: center; padding: 24px; color: #9ca3af; }
+    .empty-state .emoji { font-size: 36px; margin-bottom: 8px; }
+    .empty-state p { font-size: 14px; }
+
+    /* 已提交链接列表 */
+    .submitted-links { margin-top: 20px; }
+    .submitted-links h4 { font-size: 15px; font-weight: 600; color: #374151; margin-bottom: 12px; display: flex; align-items: center; gap: 6px; }
+    .submitted-link { display: flex; align-items: center; justify-content: space-between; padding: 10px 14px; background: #f9fafb; border-radius: 8px; margin-bottom: 6px; font-size: 13px; }
+    .submitted-link .url { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: #4b5563; }
+    .submitted-link .url a { color: #7c3aed; text-decoration: none; }
+    .submitted-link .url a:hover { text-decoration: underline; }
+    .submitted-link .delete-btn { margin-left: 8px; padding: 4px 10px; border: none; border-radius: 6px; background: #fee2e2; color: #dc2626; font-size: 12px; cursor: pointer; transition: all 0.2s; flex-shrink: 0; }
+    .submitted-link .delete-btn:hover { background: #fecaca; }
+
+    /* 提示消息 */
+    .toast { position: fixed; top: 80px; left: 50%; transform: translateX(-50%) translateY(-20px); padding: 12px 24px; border-radius: 10px; font-size: 14px; font-weight: 500; z-index: 1000; opacity: 0; transition: all 0.3s; pointer-events: none; }
+    .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+    .toast.success { background: #dcfce7; color: #166534; border: 1px solid #bbf7d0; }
+    .toast.error { background: #fee2e2; color: #991b1b; border: 1px solid #fecaca; }
+    .toast.info { background: #eff6ff; color: #1e40af; border: 1px solid #bfdbfe; }
 
     /* 来源标签 */
     .source-tag { display: inline-block; font-size: 11px; padding: 2px 8px; border-radius: 4px; background: #f3f4f6; color: #6b7280; text-decoration: none; margin-top: 8px; }
@@ -189,6 +248,14 @@
       .agent-card .author-info .likes { font-size: 10px; }
       .agent-card .tool-tag { font-size: 10px; padding: 2px 8px; }
 
+      /* 个性化定制板块 */
+      .custom-section { padding: 20px 16px; }
+      .custom-header .icon { font-size: 40px; }
+      .custom-header h3 { font-size: 18px; }
+      .custom-header p { font-size: 13px; }
+      .link-input-area { padding: 16px; }
+      .preference-panel { padding: 16px; }
+
       /* 底部 */
       .footer { padding: 20px 16px; margin-top: 32px; }
       .footer .emoji { font-size: 24px; }
@@ -245,6 +312,7 @@
         <a href="#products">热点产品</a>
         <a href="#ecommerce">电商AI</a>
         <a href="#agents">Agent案例</a>
+        <a href="#custom">个性化</a>
       </div>
     </div>
   </nav>
@@ -325,6 +393,44 @@
         <button class="carousel-btn right" data-target="agents-carousel">›</button>
       </div>
     </section>
+
+    <!-- 个性化定制板块 -->
+    <section id="custom" class="custom-section">
+      <div class="custom-header">
+        <div class="icon">🎯</div>
+        <h3>打造你的专属AI资讯空间</h3>
+        <p>提交你感兴趣的AI相关网址，系统会学习你的偏好，为你呈现更符合预期的内容</p>
+      </div>
+
+      <!-- 链接输入区 -->
+      <div class="link-input-area">
+        <label>提交你关注的AI资讯链接（最多5个）</label>
+        <div id="link-inputs">
+          <div class="link-input-row">
+            <input type="url" placeholder="例如：https://36kr.com/ai" class="link-url-input">
+            <button class="remove-btn" onclick="removeLinkInput(this)" style="visibility: hidden;">×</button>
+          </div>
+        </div>
+        <button class="add-link-btn" id="add-link-btn" onclick="addLinkInput()">+ 添加更多链接</button>
+        <button class="submit-btn" onclick="submitLinks()">开始学习我的偏好</button>
+      </div>
+
+      <!-- 偏好展示区 -->
+      <div class="preference-panel" id="preference-panel">
+        <div id="preference-content">
+          <div class="empty-state">
+            <div class="emoji">📭</div>
+            <p>提交链接后，这里会展示你的AI学习兴趣画像</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- 已提交链接列表 -->
+      <div class="submitted-links" id="submitted-links" style="display: none;">
+        <h4>📌 已提交的链接</h4>
+        <div id="submitted-list"></div>
+      </div>
+    </section>
   </main>
 
   <footer class="footer">
@@ -332,6 +438,9 @@
     <p>AI不焦虑空间 · 让技术为人服务，而不是相反</p>
     <p class="sub">每周更新 · 精选内容 · 轻松阅读</p>
   </footer>
+
+  <!-- Toast消息 -->
+  <div class="toast" id="toast"></div>
 
   <script>
     // ===== 数据 =====
@@ -844,7 +953,287 @@
     document.addEventListener('DOMContentLoaded', function() {
       initPage();
       loadDataFromJson();
+      initCustomSection();
     });
+
+    // ===== 个性化定制板块 =====
+    var MAX_LINKS = 5;
+    var userPreferences = {
+      keywords: {},    // 关键词 -> 权重
+      sources: {},     // 来源域名 -> 计数
+      submittedLinks: []  // 已提交的链接列表
+    };
+
+    // AI相关关键词词典
+    var aiKeywords = [
+      'AI', '人工智能', '大模型', 'LLM', 'GPT', 'Claude', 'Gemini', 'DeepSeek',
+      '机器学习', '深度学习', '神经网络', 'NLP', '自然语言处理',
+      '计算机视觉', '图像识别', '语音识别', '自动驾驶', '机器人',
+      'AIGC', '生成式AI', '文生图', '文生视频', '多模态',
+      'Agent', '智能体', 'RAG', '向量数据库', 'Prompt',
+      'OpenAI', 'Anthropic', 'Google', 'Meta', '百度', '阿里', '腾讯', '字节',
+      'ChatGPT', '通义千问', '文心一言', 'Kimi', '豆包', '智谱',
+      '自动驾驶', '智能家居', 'AI医疗', 'AI教育', 'AI金融',
+      '算力', 'GPU', '芯片', '训练', '推理', '微调', '对齐'
+    ];
+
+    // 初始化个性化板块
+    function initCustomSection() {
+      loadPreferences();
+      renderPreferences();
+      renderSubmittedLinks();
+    }
+
+    // 从localStorage加载偏好
+    function loadPreferences() {
+      try {
+        var saved = localStorage.getItem('ai_preferences');
+        if (saved) {
+          userPreferences = JSON.parse(saved);
+        }
+      } catch(e) {
+        console.log('加载偏好数据失败:', e);
+      }
+    }
+
+    // 保存偏好到localStorage
+    function savePreferences() {
+      try {
+        localStorage.setItem('ai_preferences', JSON.stringify(userPreferences));
+      } catch(e) {
+        console.log('保存偏好数据失败:', e);
+      }
+    }
+
+    // 添加链接输入框
+    function addLinkInput() {
+      var container = document.getElementById('link-inputs');
+      var rows = container.querySelectorAll('.link-input-row');
+      if (rows.length >= MAX_LINKS) return;
+
+      var row = document.createElement('div');
+      row.className = 'link-input-row';
+      row.innerHTML = '<input type="url" placeholder="输入AI相关网址" class="link-url-input">' +
+        '<button class="remove-btn" onclick="removeLinkInput(this)">×</button>';
+      container.appendChild(row);
+
+      updateAddButton();
+    }
+
+    // 移除链接输入框
+    function removeLinkInput(btn) {
+      var container = document.getElementById('link-inputs');
+      var rows = container.querySelectorAll('.link-input-row');
+      if (rows.length <= 1) return;
+      btn.parentElement.remove();
+      updateAddButton();
+    }
+
+    // 更新添加按钮状态
+    function updateAddButton() {
+      var container = document.getElementById('link-inputs');
+      var rows = container.querySelectorAll('.link-input-row');
+      var btn = document.getElementById('add-link-btn');
+      btn.disabled = rows.length >= MAX_LINKS;
+      btn.textContent = rows.length >= MAX_LINKS ? '已达上限（5个）' : '+ 添加更多链接';
+
+      // 更新第一个删除按钮的可见性
+      var firstRemove = rows[0].querySelector('.remove-btn');
+      if (firstRemove) {
+        firstRemove.style.visibility = rows.length > 1 ? 'visible' : 'hidden';
+      }
+    }
+
+    // 提交链接
+    function submitLinks() {
+      var inputs = document.querySelectorAll('.link-url-input');
+      var urls = [];
+      inputs.forEach(function(input) {
+        var url = input.value.trim();
+        if (url && isValidUrl(url)) {
+          urls.push(url);
+        }
+      });
+
+      if (urls.length === 0) {
+        showToast('请至少输入一个有效的网址', 'error');
+        return;
+      }
+
+      // 检查重复
+      var newUrls = urls.filter(function(url) {
+        return !userPreferences.submittedLinks.includes(url);
+      });
+
+      if (newUrls.length === 0) {
+        showToast('这些链接已经提交过了', 'info');
+        return;
+      }
+
+      // 分析每个链接
+      newUrls.forEach(function(url) {
+        analyzeUrl(url);
+        userPreferences.submittedLinks.push(url);
+      });
+
+      savePreferences();
+      renderPreferences();
+      renderSubmittedLinks();
+      clearInputs();
+      showToast('已学习 ' + newUrls.length + ' 个链接的偏好！', 'success');
+    }
+
+    // 验证URL
+    function isValidUrl(str) {
+      try {
+        new URL(str);
+        return true;
+      } catch(e) {
+        return false;
+      }
+    }
+
+    // 分析链接提取偏好
+    function analyzeUrl(url) {
+      try {
+        var parsed = new URL(url);
+        var domain = parsed.hostname.replace('www.', '');
+        var path = parsed.pathname + parsed.hash;
+        var fullText = (url + ' ' + domain + ' ' + path).toLowerCase();
+
+        // 提取来源
+        userPreferences.sources[domain] = (userPreferences.sources[domain] || 0) + 1;
+
+        // 提取关键词
+        aiKeywords.forEach(function(kw) {
+          if (fullText.includes(kw.toLowerCase())) {
+            userPreferences.keywords[kw] = (userPreferences.keywords[kw] || 0) + 1;
+          }
+        });
+
+        // 从URL路径中提取可能的主题词
+        var pathWords = path.replace(/[-/_]/g, ' ').split(' ');
+        pathWords.forEach(function(word) {
+          word = word.trim();
+          if (word.length > 1 && word.length < 20) {
+            // 检查是否是中文关键词
+            if (/[\u4e00-\u9fff]/.test(word)) {
+              userPreferences.keywords[word] = (userPreferences.keywords[word] || 0) + 0.5;
+            }
+          }
+        });
+      } catch(e) {
+        console.log('分析链接失败:', url, e);
+      }
+    }
+
+    // 清空输入框
+    function clearInputs() {
+      var inputs = document.querySelectorAll('.link-url-input');
+      inputs.forEach(function(input) { input.value = ''; });
+    }
+
+    // 渲染偏好展示
+    function renderPreferences() {
+      var container = document.getElementById('preference-content');
+      var hasData = Object.keys(userPreferences.keywords).length > 0 || Object.keys(userPreferences.sources).length > 0;
+
+      if (!hasData) {
+        container.innerHTML = '<div class="empty-state"><div class="emoji">📭</div><p>提交链接后，这里会展示你的AI学习兴趣画像</p></div>';
+        return;
+      }
+
+      var html = '';
+
+      // 关键词云
+      var keywords = userPreferences.keywords;
+      var sortedKeywords = Object.entries(keywords)
+        .sort(function(a, b) { return b[1] - a[1]; })
+        .slice(0, 20);
+
+      if (sortedKeywords.length > 0) {
+        var maxWeight = sortedKeywords[0][1];
+        html += '<h4>🏷️ 兴趣关键词</h4><div class="keyword-cloud">';
+        sortedKeywords.forEach(function(item) {
+          var level = Math.ceil((item[1] / maxWeight) * 5);
+          html += '<span class="keyword-tag level-' + level + '">' + item[0] + ' (' + Math.round(item[1] * 10) / 10 + ')</span>';
+        });
+        html += '</div>';
+      }
+
+      // 来源偏好
+      var sources = userPreferences.sources;
+      var sortedSources = Object.entries(sources).sort(function(a, b) { return b[1] - a[1]; });
+
+      if (sortedSources.length > 0) {
+        html += '<h4 style="margin-top: 16px;">📡 关注来源</h4><div class="source-list">';
+        sortedSources.forEach(function(item) {
+          html += '<div class="source-item"><span>' + item[0] + '</span><span class="count">' + item[1] + '</span></div>';
+        });
+        html += '</div>';
+      }
+
+      container.innerHTML = html;
+    }
+
+    // 渲染已提交链接
+    function renderSubmittedLinks() {
+      var container = document.getElementById('submitted-links');
+      var list = document.getElementById('submitted-list');
+      var links = userPreferences.submittedLinks;
+
+      if (links.length === 0) {
+        container.style.display = 'none';
+        return;
+      }
+
+      container.style.display = 'block';
+      var html = '';
+      links.forEach(function(url, index) {
+        try {
+          var parsed = new URL(url);
+          var displayUrl = parsed.hostname + parsed.pathname;
+          if (displayUrl.length > 50) displayUrl = displayUrl.substring(0, 50) + '...';
+          html += '<div class="submitted-link">' +
+            '<span class="url"><a href="' + url + '" target="_blank" rel="noopener">' + displayUrl + '</a></span>' +
+            '<button class="delete-btn" onclick="deleteLink(' + index + ')">删除</button>' +
+            '</div>';
+        } catch(e) {
+          html += '<div class="submitted-link">' +
+            '<span class="url">' + url + '</span>' +
+            '<button class="delete-btn" onclick="deleteLink(' + index + ')">删除</button>' +
+            '</div>';
+        }
+      });
+      list.innerHTML = html;
+    }
+
+    // 删除已提交链接
+    function deleteLink(index) {
+      var url = userPreferences.submittedLinks[index];
+      userPreferences.submittedLinks.splice(index, 1);
+
+      // 重新计算偏好
+      userPreferences.keywords = {};
+      userPreferences.sources = {};
+      userPreferences.submittedLinks.forEach(function(link) {
+        analyzeUrl(link);
+      });
+
+      savePreferences();
+      renderPreferences();
+      renderSubmittedLinks();
+      showToast('已删除链接并更新偏好', 'info');
+    }
+
+    // 显示Toast消息
+    function showToast(message, type) {
+      var toast = document.getElementById('toast');
+      toast.textContent = message;
+      toast.className = 'toast ' + type;
+      setTimeout(function() { toast.classList.add('show'); }, 10);
+      setTimeout(function() { toast.classList.remove('show'); }, 3000);
+    }
   </script>
 </body>
 </html>
