@@ -2,24 +2,38 @@ name: Auto Update AI Data
 
 on:
   schedule:
-    - cron: '0 0,6,12,18 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *'  # 每6小时运行一次
+  workflow_dispatch:       # 支持手动触发
 
 permissions:
   contents: write
 
 jobs:
   update-data:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
       - name: Fetch AI data
         run: python3 fetch_data.py
+        continue-on-error: true
 
-      - name: Commit and push
+      - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git diff --cached --quiet && echo "No changes" || (git commit -m "chore: auto update $(date -u +%Y-%m-%d)" && git push)
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: auto update data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+            echo "Data updated successfully"
+          fi
