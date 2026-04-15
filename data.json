@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-04-15 15:55:29",
+  "updatedAt": "2026-04-15 20:32:04",
   "news": [
+    {
+      "title": "OpenAI 更新 Agents SDK，帮助企业构建更安全、更强大的代理",
+      "summary": "随着代理 AI 的不断普及，OpenAI 扩展了其代理构建工具包的功能。",
+      "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "借助 AI 驱动的营销工具，Hightouch 的年收入达到 1 亿美元",
+      "summary": "该初创公司表示，在为营销人员推出人工智能代理平台后，短短 20 个月内，其 ARR 就增长了 7000 万美元。",
+      "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "LinkedIn 数据显示，人工智能并不是招聘下降的罪魁祸首......",
+      "summary": "LinkedIn 表示，自 2022 年以来，招聘人数下降了 20%，但将放缓归咎于利率上升，而不是人工智能。",
+      "link": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI 学习应用 Gizmo 升级，拥有 1300 万用户和 2200 万美元投资",
+      "summary": "Gizmo 是一个人工智能驱动的学习平台，已吸引了超过 1300 万用户，刚刚获得 2200 万美元的 A 轮融资。",
+      "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "人工智能可以评判新闻吗？蒂尔支持的一家初创公司表示愿意，即使这可能会让举报人感到不寒而栗",
+      "summary": "Objection 是一家由泰尔支持的初创公司，旨在利用人工智能来评判新闻，让用户付费来挑战故事。批评人士警告称，这可能会让举报行为变得冷淡",
+      "link": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "谷歌推出适用于 Mac 的原生 Gemini 应用",
+      "summary": "您可以与 Gemini 共享他们屏幕上的任何内容，以获取有关他们当前正在查看的内容的帮助，包括本地文件。",
+      "link": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "这位由音乐家转型为生物技术创始人的人正在等待筹款",
+      "summary": "当格莱美提名歌手兼作曲家芦荟·布莱克 (Aloe Blacc) 尽管接种了疫苗和加强疫苗后感染了新冠病毒时，他试图资助研究以寻求更好的治疗方案。",
+      "link": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "印度振动编码初创公司 Emergent 进入类似 OpenClaw 的人工智能代理领域",
+      "summary": "Emergent 的 Wingman 允许用户通过 WhatsApp 和 Telegram 等平台上的聊天来管理和自动化任务。",
+      "link": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "出售鞋履业务后，Allbirds 转向人工智能",
       "summary": "Allbirds 正在放弃羊毛运动鞋，转向 AI 服务器，在锁定 5000 万美元的可转换融资额度后，更名为 NewBird AI。",
@@ -16,78 +88,6 @@
       "link": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
       "source": "TechCrunch-AI",
       "date": "2026-04-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Adobe全新Firefly AI助手可使用Creative Cloud应用程序完成任务",
-      "summary": "Adobe 表示，该助手可以跨 Firefly、Photoshop、Premiere、Lightroom、Express、Illustrator 等应用程序以及其他应用程序为您执行任务",
-      "link": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Gitar 是一家使用代理来保护代码安全的初创公司，以 900 万美元的价格脱颖而出",
-      "summary": "该公司使用人工智能来审查代码，这些代码现在通常也是由人工智能生成的。",
-      "link": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "这家初创公司押注 tokenmaxxing 将创造下一个计算巨头",
-      "summary": "Parasail 在 A 轮融资中筹集了 3200 万美元，这预示着模型和计算的未来将面临分裂。",
-      "link": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic 的崛起让一些 OpenAI 投资者重新考虑",
-      "summary": "一位支持这两家公司的投资者告诉英国《金融时报》，证明 OpenAI 最近一轮融资的合理性需要假设 IPO 估值达到 1.2 万亿美元或以上。",
-      "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic 联合创始人证实该公司向特朗普政府通报了 Mythos",
-      "summary": "在本周 Semafor 世界经济峰会上接受采访时，Anthropic 联合创始人 Jack Clark 解释了该公司仍与美国合作的原因。",
-      "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Max Hodak 的科学公司正准备将其第一个传感器放入人脑中",
-      "summary": "如果该设备被证明成功，将有助于解决多种神经系统疾病。一种早期用途可能是提供温和的电刺激",
-      "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "谷歌在 Chrome 中添加 AI 技能，帮助您保存最喜欢的工作流程",
-      "summary": "谷歌正在向 Chrome 添加“技能”，让用户可以跨网站保存和重复使用人工智能提示。该功能建立在 Gemini 浏览器集成的基础上。",
-      "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "在短短几周内，StrictlyVC 旧金山汇聚了来自 TDK Ventures、Replit 等公司的领导者",
-      "summary": "今年首届 StrictlyVC 将在您不知不觉中来到旧金山。\n\n还有一些门票可供加入我们和我们的堆栈",
-      "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-14",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -277,12 +277,23 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "An AI Hedge Fund Team",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk),",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
       "likes": 2046,
+      "date": "2026-04-15"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "An AI Hedge Fund Team",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
       "date": "2026-04-15"
     },
     {
@@ -348,19 +359,6 @@
         "TTS"
       ],
       "likes": 15600,
-      "date": "2026-04-15"
-    },
-    {
-      "title": "律师打造合同审查AI助手",
-      "author": "@法律界的码农",
-      "description": "基于RAG技术构建合同审查Agent，审查效率提升10倍。",
-      "link": "https://dify.ai/",
-      "tools": [
-        "Dify",
-        "GPT-4",
-        "RAG"
-      ],
-      "likes": 4560,
       "date": "2026-04-15"
     }
   ]
