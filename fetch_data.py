@@ -19,22 +19,32 @@ import urllib.parse
 # 禁用SSL验证（部分RSS源证书问题）
 ssl._create_default_https_context = lambda: ssl._create_unverified_context()
 
-def translate_to_zh(text, timeout=3):
-    """使用Google Translate免费API将英文翻译为中文（缩短超时时间）"""
+def translate_to_zh(text, timeout=3, max_retries=2):
+    """使用Google Translate免费API将英文翻译为中文（带重试机制）"""
     if not text:
         return text
     # 检测是否包含中文字符，如果有则不翻译
     if any('\u4e00' <= c <= '\u9fff' for c in text):
         return text
-    try:
-        url = f"https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q={urllib.parse.quote(text[:500])}"
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
-            result = json.loads(resp.read().decode('utf-8'))
-            if result and result[0]:
-                return ''.join(item[0] for item in result[0] if item[0])
-    except Exception:
-        pass
+    
+    # 重试机制
+    for attempt in range(max_retries):
+        try:
+            url = f"https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q={urllib.parse.quote(text[:500])}"
+            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                result = json.loads(resp.read().decode('utf-8'))
+                if result and result[0]:
+                    translated = ''.join(item[0] for item in result[0] if item[0])
+                    if translated:  # 确保翻译结果不为空
+                        return translated
+        except Exception as e:
+            if attempt < max_retries - 1:
+                print(f"    [翻译重试 {attempt+1}/{max_retries}]", file=sys.stderr)
+                import time
+                time.sleep(0.5)  # 短暂等待后重试
+            continue
+    
     return text  # 翻译失败返回原文
 
 def fetch_url(url, timeout=8):
@@ -132,35 +142,50 @@ def hash_id(text):
 # ===== 数据源 =====
 
 def fetch_news():
-    """1. AI科技新闻 - 多源聚合"""
+    """1. AI科技新闻 - 优化数据源"""
+    # 优先级排序：稳定源在前，不稳定源在后
     sources = [
-        ('36Kr', 'https://36kr.com/feed'),
-        ('TechCrunch', 'https://techcrunch.com/feed/'),
+        # 主要源（稳定、快速）
+        ('TechCrunch-AI', 'https://techcrunch.com/category/artificial-intelligence/feed/'),
         ('TheVerge-AI', 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml'),
+        # 备用源（可能较慢）
+        ('36Kr', 'https://36kr.com/feed'),
     ]
     results = []
+    
     for name, url in sources:
         print(f"  抓取 {name}...", file=sys.stderr)
-        items = parse_rss(url)
-        if not items:
-            print(f"    -> 无数据，跳过", file=sys.stderr)
+        try:
+            items = parse_rss(url)
+            if not items:
+                print(f"    -> 无数据，跳过", file=sys.stderr)
+                continue
+            
+            for item in items:
+                desc = clean_html(item['description'])[:150]
+                # 过滤AI相关内容
+                if any(kw in (item['title'] + desc).lower() for kw in ['ai', 'artificial intelligence', 'gpt', 'llm', '大模型', '人工智能', 'openai', 'anthropic', 'claude', 'deepseek', 'llama', 'gemini', 'robot', '模型']):
+                    # 翻译英文内容为中文
+                    title_zh = translate_to_zh(item['title'])
+                    desc_zh = translate_to_zh(desc)
+                    results.append({
+                        'title': title_zh,
+                        'summary': desc_zh,
+                        'link': item['link'],
+                        'source': name,
+                        'date': parse_date(item['pubDate']),
+                        'tag': 'trend',
+                        'tagText': '资讯'
+                    })
+            
+            # 如果已经获取足够数据，跳过后续源
+            if len(results) >= 12:
+                print(f"    -> 已获取足够数据，跳过后续源", file=sys.stderr)
+                break
+        except Exception as e:
+            print(f"    -> 抓取失败: {e}", file=sys.stderr)
             continue
-        for item in items:
-            desc = clean_html(item['description'])[:150]
-            # 过滤AI相关内容
-            if any(kw in (item['title'] + desc).lower() for kw in ['ai', 'artificial intelligence', 'gpt', 'llm', '大模型', '人工智能', 'openai', 'anthropic', 'claude', 'deepseek', 'llama', 'gemini', 'robot', '模型']):
-                # 翻译英文内容为中文
-                title_zh = translate_to_zh(item['title'])
-                desc_zh = translate_to_zh(desc)
-                results.append({
-                    'title': title_zh,
-                    'summary': desc_zh,
-                    'link': item['link'],
-                    'source': name,
-                    'date': parse_date(item['pubDate']),
-                    'tag': 'trend',
-                    'tagText': '资讯'
-                })
+    
     # 去重
     seen = set()
     unique = []
@@ -169,46 +194,61 @@ def fetch_news():
         if key not in seen:
             seen.add(key)
             unique.append(item)
-    return unique[:15]  # 减少返回数量
+    
+    # 如果数据不足，使用兜底数据补充
+    if len(unique) < 5:
+        print(f"    -> 数据不足，使用兜底数据补充", file=sys.stderr)
+        fallback = [
+            {'title': 'AI技术持续突破，多模态大模型能力显著提升', 'summary': '各大科技公司纷纷发布新一代AI模型，在推理、代码生成和视觉理解方面取得进展。', 'link': 'https://techcrunch.com/', 'source': 'TechCrunch', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '资讯'},
+            {'title': 'AI应用落地加速，企业服务市场快速增长', 'summary': 'AI技术在各行各业的应用不断深化，企业服务成为重要增长点。', 'link': 'https://www.theverge.com/', 'source': 'TheVerge', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '资讯'},
+        ]
+        for item in fallback:
+            if len(unique) >= 8:
+                break
+            if item['title'][:20] not in [u['title'][:20] for u in unique]:
+                unique.append(item)
+    
+    return unique[:12]  # 减少返回数量
 
 def fetch_products():
-    """2. AI热点产品 - ProductHunt + 兜底产品"""
-    sources = [
-        ('ProductHunt', 'https://www.producthunt.com/feed'),
-    ]
+    """2. AI热点产品 - 优化数据源"""
     results = []
-    for name, url in sources:
-        print(f"  抓取 {name}...", file=sys.stderr)
-        items = parse_rss(url)
-        if not items:
-            print(f"    -> 无数据，跳过", file=sys.stderr)
-            continue
-        for item in items:
-            desc = clean_html(item['description'])[:150]
-            title_lower = item['title'].lower()
-            if any(kw in title_lower for kw in ['ai', 'gpt', 'llm', 'agent', 'assistant', 'copilot', 'generator', '智能', '自动', '写作', '设计', '代码', 'tool', 'app']):
-                icon = '🚀'
-                if any(kw in title_lower for kw in ['code', 'dev', '编程']): icon = '💻'
-                elif any(kw in title_lower for kw in ['design', 'image', '视觉']): icon = '🎨'
-                elif any(kw in title_lower for kw in ['video', '视频']): icon = '🎬'
-                elif any(kw in title_lower for kw in ['music', '音频']): icon = '🎵'
-                elif any(kw in title_lower for kw in ['search', '搜索']): icon = '🔍'
-                elif any(kw in title_lower for kw in ['chat', '对话']): icon = '💬'
+    
+    # 尝试从ProductHunt获取
+    try:
+        print(f"  抓取 ProductHunt...", file=sys.stderr)
+        items = parse_rss('https://www.producthunt.com/feed')
+        if items:
+            for item in items:
+                desc = clean_html(item['description'])[:150]
+                title_lower = item['title'].lower()
+                if any(kw in title_lower for kw in ['ai', 'gpt', 'llm', 'agent', 'assistant', 'copilot', 'generator', '智能', '自动', '写作', '设计', '代码', 'tool', 'app']):
+                    icon = '🚀'
+                    if any(kw in title_lower for kw in ['code', 'dev', '编程']): icon = '💻'
+                    elif any(kw in title_lower for kw in ['design', 'image', '视觉']): icon = '🎨'
+                    elif any(kw in title_lower for kw in ['video', '视频']): icon = '🎬'
+                    elif any(kw in title_lower for kw in ['music', '音频']): icon = '🎵'
+                    elif any(kw in title_lower for kw in ['search', '搜索']): icon = '🔍'
+                    elif any(kw in title_lower for kw in ['chat', '对话']): icon = '💬'
 
-                # 翻译英文内容
-                name_zh = translate_to_zh(clean_html(item['title']))
-                desc_zh = translate_to_zh(desc)
-                results.append({
-                    'name': name_zh,
-                    'description': desc_zh,
-                    'link': item['link'],
-                    'source': name,
-                    'category': 'AI工具',
-                    'icon': icon,
-                    'date': parse_date(item['pubDate'])
-                })
-
-    # 兜底产品列表
+                    name_zh = translate_to_zh(clean_html(item['title']))
+                    desc_zh = translate_to_zh(desc)
+                    results.append({
+                        'name': name_zh,
+                        'description': desc_zh,
+                        'link': item['link'],
+                        'source': 'ProductHunt',
+                        'category': 'AI工具',
+                        'icon': icon,
+                        'date': parse_date(item['pubDate'])
+                    })
+            
+            if len(results) >= 8:
+                print(f"    -> 已获取足够数据", file=sys.stderr)
+    except Exception as e:
+        print(f"    -> ProductHunt抓取失败: {e}", file=sys.stderr)
+    
+    # 兜底产品列表（精选常用产品）
     fallback_products = [
         {'name': 'ChatGPT', 'description': 'OpenAI的AI对话助手，支持多模态输入和代码生成', 'link': 'https://chatgpt.com/', 'source': 'OpenAI', 'category': '综合助手', 'icon': '🤖'},
         {'name': 'Claude', 'description': 'Anthropic的AI助手，擅长长文分析、代码和创意写作', 'link': 'https://claude.ai/', 'source': 'Anthropic', 'category': '综合助手', 'icon': '⚡'},
@@ -220,141 +260,151 @@ def fetch_products():
         {'name': 'Runway', 'description': 'AI视频生成工具，支持电影级特效和专业级短视频', 'link': 'https://runwayml.com/', 'source': 'Runway', 'category': '视频制作', 'icon': '🎬'},
         {'name': 'Perplexity', 'description': 'AI搜索引擎，支持深度研究和实时联网搜索', 'link': 'https://www.perplexity.ai/', 'source': 'Perplexity', 'category': 'AI搜索', 'icon': '🔍'},
         {'name': 'Gamma', 'description': '一句话生成精美PPT和文档，支持品牌模板和数据图表', 'link': 'https://gamma.app/', 'source': 'Gamma', 'category': '演示文稿', 'icon': '📊'},
-        {'name': 'Canva Magic Studio', 'description': '一站式AI设计平台，海报、视频、社媒内容一键生成', 'link': 'https://www.canva.com/magic/', 'source': 'Canva', 'category': '设计工具', 'icon': '🎯'},
-        {'name': 'ElevenLabs', 'description': '超逼真语音合成，支持100+语言和声音克隆', 'link': 'https://elevenlabs.io/', 'source': 'ElevenLabs', 'category': '语音合成', 'icon': '🎙️'},
     ]
+    
     seen = set(p['name'] for p in results)
     for p in fallback_products:
         if p['name'] not in seen:
             results.append(p)
             seen.add(p['name'])
-    return results[:20]  # 减少返回数量
+        if len(results) >= 15:
+            break
+    
+    return results[:15]  # 减少返回数量
 
 def fetch_ecommerce():
-    """3. 电商AI新闻 - 多源聚合"""
+    """3. 电商AI新闻 - 优化数据源"""
+    # 优先级排序
     sources = [
-        ('36Kr', 'https://36kr.com/feed'),
         ('TechCrunch', 'https://techcrunch.com/feed/'),
-        ('晚点LatePost', 'https://www.latepost.com/rss'),
+        ('36Kr', 'https://36kr.com/feed'),
     ]
     results = []
     # 扩展关键词：覆盖更多电商相关表述
     ecommerce_keywords = [
-        # 平台名
-        '淘宝', '天猫', '京东', '拼多多', '抖音电商', '快手电商', '小红书电商',
-        'SHEIN', 'Temu', 'TikTok Shop', '亚马逊', 'Amazon', 'Shopify', 'Shopee', 'Lazada',
-        '得物', '闲鱼', '唯品会', '1688', '美团闪购', '盒马', '叮咚买菜',
-        # 行业词
-        '电商', '跨境', '零售', '直播带货', '选品', '客服', '网店', '店铺',
-        'ecommerce', 'e-commerce', 'shopify', 'amazon', 'retail', 'marketplace',
-        '卖家', '商家', 'GMV', '转化率', '供应链', '仓储', '物流',
+        '淘宝', '天猫', '京东', '拼多多', '抖音电商', 'SHEIN', 'Temu', 'TikTok Shop', '亚马逊', 'Shopify',
+        '电商', '跨境', '零售', '直播带货', 'ecommerce', 'amazon', 'retail', 'marketplace',
+        '卖家', '商家', 'GMV', '转化率', '供应链',
     ]
 
     for name, url in sources:
         print(f"  抓取 {name}...", file=sys.stderr)
-        items = parse_rss(url)
-        if not items:
-            print(f"    -> 无数据，跳过", file=sys.stderr)
+        try:
+            items = parse_rss(url)
+            if not items:
+                print(f"    -> 无数据，跳过", file=sys.stderr)
+                continue
+            
+            for item in items:
+                full_text = item['title'] + ' ' + clean_html(item['description'])
+                if any(kw in full_text for kw in ecommerce_keywords):
+                    impact = 'medium'
+                    impact_text = '中'
+                    if any(kw in full_text for kw in ['突破', '暴涨', '翻倍', '第一', '全面', 'record', 'surge']):
+                        impact = 'high'
+                        impact_text = '高'
+
+                    title_zh = translate_to_zh(clean_html(item['title']))
+                    content_zh = translate_to_zh(clean_html(item['description'])[:200])
+                    results.append({
+                        'title': title_zh,
+                        'content': content_zh,
+                        'link': item['link'],
+                        'source': name,
+                        'impact': impact,
+                        'impactText': impact_text,
+                        'date': parse_date(item['pubDate'])
+                    })
+            
+            if len(results) >= 10:
+                print(f"    -> 已获取足够数据", file=sys.stderr)
+                break
+        except Exception as e:
+            print(f"    -> 抓取失败: {e}", file=sys.stderr)
             continue
-        for item in items:
-            full_text = item['title'] + ' ' + clean_html(item['description'])
-            if any(kw in full_text for kw in ecommerce_keywords):
-                impact = 'medium'
-                impact_text = '中'
-                if any(kw in full_text for kw in ['突破', '暴涨', '翻倍', '第一', '全面', '首款', 'record', 'surge', 'breakthrough']):
-                    impact = 'high'
-                    impact_text = '高'
 
-                # 翻译英文内容
-                title_zh = translate_to_zh(clean_html(item['title']))
-                content_zh = translate_to_zh(clean_html(item['description'])[:200])
-                results.append({
-                    'title': title_zh,
-                    'content': content_zh,
-                    'link': item['link'],
-                    'source': name,
-                    'impact': impact,
-                    'impactText': impact_text,
-                    'date': parse_date(item['pubDate'])
-                })
-
-    # 兜底电商新闻（RSS源不足时补充）
+    # 兜底电商新闻
     fallback_ecommerce = [
-        {'title': '淘宝AI导购助手「淘宝问问」升级，支持复杂需求理解', 'content': '基于大语言模型的购物助手能够理解复杂需求，提供个性化推荐和比价服务。', 'link': 'https://36kr.com/', 'source': '36Kr', 'impact': 'high', 'impactText': '高', 'date': datetime.now().strftime('%Y-%m-%d')},
-        {'title': '京东言犀大模型客服覆盖全品类，问题解决率达92%', 'content': '自研大模型应用于客服场景，平均响应时间缩短至8秒。', 'link': 'https://www.jdcloud.com/', 'source': '京东', 'impact': 'high', 'impactText': '高', 'date': datetime.now().strftime('%Y-%m-%d')},
-        {'title': '拼多多AI商品描述自动生成，中小商家上架效率提升10倍', 'content': '商家只需上传商品图片，AI自动生成标题、描述、卖点和SEO关键词。', 'link': 'https://36kr.com/', 'source': '36Kr', 'impact': 'high', 'impactText': '高', 'date': datetime.now().strftime('%Y-%m-%d')},
-        {'title': 'TikTok Shop AI驱动全球扩张，进入30个新市场', 'content': 'AI自动翻译商品信息、匹配当地达人、生成本地化营销内容。', 'link': 'https://techcrunch.com/', 'source': 'TechCrunch', 'impact': 'high', 'impactText': '高', 'date': datetime.now().strftime('%Y-%m-%d')},
-        {'title': 'SHEIN用AI预测时尚趋势，准确率超85%', 'content': 'AI分析全球社交媒体和时装周数据，提前3个月预测爆款趋势。', 'link': 'https://www.latepost.com/', 'source': '晚点', 'impact': 'medium', 'impactText': '中', 'date': datetime.now().strftime('%Y-%m-%d')},
-        {'title': 'Temu用AI优化全球供应链，跨境包裹5天送达', 'content': 'AI预测各市场需求并智能调配全球仓储，大幅缩短配送时间。', 'link': 'https://www.latepost.com/', 'source': '晚点', 'impact': 'high', 'impactText': '高', 'date': datetime.now().strftime('%Y-%m-%d')},
-        {'title': '微信小店接入混元大模型，AI生成营销文案', 'content': '商家可自动生成营销文案、朋友圈素材和短视频脚本，千人千面精准触达。', 'link': 'https://36kr.com/', 'source': '36Kr', 'impact': 'high', 'impactText': '高', 'date': datetime.now().strftime('%Y-%m-%d')},
-        {'title': 'Shopify AI店铺装修上线，一句话生成整站设计', 'content': 'AI自动生成Banner、配色、字体和商品陈列布局。', 'link': 'https://techcrunch.com/', 'source': 'TechCrunch', 'impact': 'medium', 'impactText': '中', 'date': datetime.now().strftime('%Y-%m-%d')},
-        {'title': '得物AI真伪鉴定辅助系统上线，准确率99.2%', 'content': '用户拍照上传商品细节，AI实时比对正品数据库，鉴定时间缩短80%。', 'link': 'https://36kr.com/', 'source': '36Kr', 'impact': 'medium', 'impactText': '中', 'date': datetime.now().strftime('%Y-%m-%d')},
-        {'title': '闲鱼AI估价功能引爆用户增长，月活突破4亿', 'content': '拍照即可AI估价，准确率达90%，二手交易额同比增长65%。', 'link': 'https://36kr.com/', 'source': '36Kr', 'impact': 'high', 'impactText': '高', 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'title': '淘宝AI导购助手升级，支持复杂需求理解', 'content': '基于大语言模型的购物助手能够理解复杂需求，提供个性化推荐。', 'link': 'https://36kr.com/', 'source': '36Kr', 'impact': 'high', 'impactText': '高', 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'title': '京东言犀大模型客服覆盖全品类', 'content': '自研大模型应用于客服场景，问题解决率达92%。', 'link': 'https://www.jdcloud.com/', 'source': '京东', 'impact': 'high', 'impactText': '高', 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'title': '拼多多AI商品描述自动生成', 'content': '商家只需上传商品图片，AI自动生成标题、描述和卖点。', 'link': 'https://36kr.com/', 'source': '36Kr', 'impact': 'high', 'impactText': '高', 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'title': 'TikTok Shop AI驱动全球扩张', 'content': 'AI自动翻译商品信息、匹配当地达人、生成本地化营销内容。', 'link': 'https://techcrunch.com/', 'source': 'TechCrunch', 'impact': 'high', 'impactText': '高', 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'title': 'Shopify AI店铺装修上线', 'content': 'AI自动生成Banner、配色、字体和商品陈列布局。', 'link': 'https://techcrunch.com/', 'source': 'TechCrunch', 'impact': 'medium', 'impactText': '中', 'date': datetime.now().strftime('%Y-%m-%d')},
     ]
 
-    # 如果RSS数据不足，补充兜底数据
-    if len(results) < 15:
+    if len(results) < 8:
         seen = set(r['title'][:20] for r in results)
         for item in fallback_ecommerce:
             if item['title'][:20] not in seen:
                 results.append(item)
                 seen.add(item['title'][:20])
-            if len(results) >= 30:
+            if len(results) >= 10:
                 break
 
-    return results[:15]  # 减少返回数量
+    return results[:10]  # 减少返回数量
 
 def fetch_agents():
-    """4. 个人Agent案例 - 从GitHub Trending等获取"""
+    """4. 个人Agent案例 - 优化数据源"""
     results = []
+    
     # 尝试从 GitHub Trending 获取
-    content = fetch_url('https://github.com/trending?since=weekly')
-    if content:
-        repo_pattern = re.compile(r'href="/([^"]+)"')
-        desc_pattern = re.compile(r'<p[^>]*class="[^"]*col-9[^"]*"[^>]*>(.*?)</p>', re.DOTALL)
-        repos = repo_pattern.findall(content)
-        descs = desc_pattern.findall(content)
+    try:
+        print(f"  抓取 GitHub Trending...", file=sys.stderr)
+        content = fetch_url('https://github.com/trending?since=weekly', timeout=10)
+        if content:
+            repo_pattern = re.compile(r'href="/([^"]+)"')
+            desc_pattern = re.compile(r'<p[^>]*class="[^"]*col-9[^"]*"[^>]*>(.*?)</p>', re.DOTALL)
+            repos = repo_pattern.findall(content)
+            descs = desc_pattern.findall(content)
 
-        for i, repo_path in enumerate(repos[:20]):
-            if repo_path.startswith('trending') or 'trending' in repo_path:
-                continue
-            repo_name = repo_path.split('/')[-1] if '/' in repo_path else repo_path
-            desc = clean_html(descs[i])[:150] if i < len(descs) else ''
-            repo_lower = (repo_path + desc).lower()
-            if any(kw in repo_lower for kw in ['ai', 'agent', 'llm', 'gpt', 'bot', 'assistant', 'chatbot', 'auto', '智能', '生成', '创作']):
-                author_parts = repo_path.split('/')
-                author = f'@{author_parts[0]}' if len(author_parts) > 1 else '@anonymous'
-                tools = ['GitHub']
-                if 'langchain' in repo_lower: tools.append('LangChain')
-                if 'openai' in repo_lower or 'gpt' in repo_lower: tools.append('GPT-4')
-                if 'llm' in repo_lower: tools.append('LLM')
+            for i, repo_path in enumerate(repos[:15]):
+                if repo_path.startswith('trending') or 'trending' in repo_path:
+                    continue
+                repo_name = repo_path.split('/')[-1] if '/' in repo_path else repo_path
+                desc = clean_html(descs[i])[:150] if i < len(descs) else ''
+                repo_lower = (repo_path + desc).lower()
+                if any(kw in repo_lower for kw in ['ai', 'agent', 'llm', 'gpt', 'bot', 'assistant', 'chatbot', 'auto', '智能', '生成', '创作']):
+                    author_parts = repo_path.split('/')
+                    author = f'@{author_parts[0]}' if len(author_parts) > 1 else '@anonymous'
+                    tools = ['GitHub']
+                    if 'langchain' in repo_lower: tools.append('LangChain')
+                    if 'openai' in repo_lower or 'gpt' in repo_lower: tools.append('GPT-4')
+                    if 'llm' in repo_lower: tools.append('LLM')
 
-                results.append({
-                    'title': f'开源项目: {repo_name.strip()}',
-                    'author': author,
-                    'description': desc or f'GitHub热门AI项目 github.com/{repo_path}，本周获得大量关注',
-                    'link': f'https://github.com/{repo_path}',
-                    'tools': tools,
-                    'likes': 1000 + hash_id(repo_path) % 9000,
-                    'date': datetime.now().strftime('%Y-%m-%d')
-                })
+                    results.append({
+                        'title': f'开源项目: {repo_name.strip()}',
+                        'author': author,
+                        'description': desc or f'GitHub热门AI项目，本周获得大量关注',
+                        'link': f'https://github.com/{repo_path}',
+                        'tools': tools,
+                        'likes': 1000 + hash_id(repo_path) % 9000,
+                        'date': datetime.now().strftime('%Y-%m-%d')
+                    })
+            
+            if len(results) >= 5:
+                print(f"    -> 已获取足够数据", file=sys.stderr)
+    except Exception as e:
+        print(f"    -> GitHub Trending抓取失败: {e}", file=sys.stderr)
 
-    # 兜底案例
+    # 兜底案例（精选案例）
     fallback_agents = [
-        {'title': '独立开发者用AI搭建自动化内容工厂', 'author': '@技术小白不白', 'description': '一位非技术背景的产品经理，通过组合多个AI工具，搭建了从选题、写作到分发的全流程自动化系统，月更文章100+篇。', 'link': 'https://www.notion.com/product/ai', 'tools': ['ChatGPT', 'Notion', 'Zapier'], 'likes': 2340},
-        {'title': '退休教师用AI创作儿童故事', 'author': '@奶奶的故事屋', 'description': '70岁的王老师借助AI工具将多年教学经验转化为系列儿童故事，在多个平台连载，收获10万+粉丝。', 'link': 'https://www.doubao.com/', 'tools': ['文心一言', '剪映', '小红书'], 'likes': 5670},
-        {'title': '全职妈妈用AI开启副业月入2万', 'author': '@带娃也精彩', 'description': '利用AI做电商选品分析和商品文案生成，在闲暇时间运营3家网店，从零开始半年做到月入2万。', 'link': 'https://www.xiaohongshu.com/', 'tools': ['豆包', 'Canva', '1688'], 'likes': 8920},
-        {'title': '自由设计师的AI工作流分享', 'author': '@设计不脱发', 'description': '从客户沟通、需求分析到初稿生成，全流程AI辅助，项目交付时间缩短一半，客户满意度反而提升。', 'link': 'https://www.midjourney.com/', 'tools': ['Claude', 'Midjourney', 'Figma AI'], 'likes': 3120},
-        {'title': '乡村教师搭建AI英语陪练', 'author': '@山里的星光', 'description': '为山区学校搭建AI英语口语陪练系统，让农村孩子也能和"外教"练口语，覆盖周边8所小学。', 'link': 'https://www.kimi.com/', 'tools': ['Ollama', 'Whisper', 'TTS'], 'likes': 15600},
-        {'title': '小红书博主的AI创作全流程', 'author': '@效率成瘾患者', 'description': '从选题分析、文案撰写到封面设计全程AI辅助，日更3篇笔记仅需2小时，粉丝半年涨20万。', 'link': 'https://chatgpt.com/', 'tools': ['ChatGPT', 'Midjourney', 'Canva'], 'likes': 12300},
-        {'title': '律师打造合同审查AI助手', 'author': '@法律界的码农', 'description': '基于RAG技术构建合同审查Agent，导入法律知识库后可自动标注合同风险点，审查效率提升10倍。', 'link': 'https://dify.ai/', 'tools': ['Dify', 'GPT-4', 'RAG'], 'likes': 4560},
-        {'title': '外贸人的AI多语言客服系统', 'author': '@跨境老司机', 'description': '搭建了支持12种语言的AI客服机器人，自动回复询盘、报价和跟进，一个人管理6个国家市场。', 'link': 'https://www.coze.com/', 'tools': ['Coze', 'DeepL', 'GPT-4'], 'likes': 3780},
+        {'title': '独立开发者用AI搭建自动化内容工厂', 'author': '@技术小白不白', 'description': '通过组合多个AI工具，搭建了从选题、写作到分发的全流程自动化系统。', 'link': 'https://www.notion.com/product/ai', 'tools': ['ChatGPT', 'Notion', 'Zapier'], 'likes': 2340, 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'title': '退休教师用AI创作儿童故事', 'author': '@奶奶的故事屋', 'description': '借助AI工具将多年教学经验转化为系列儿童故事，收获10万+粉丝。', 'link': 'https://www.doubao.com/', 'tools': ['文心一言', '剪映', '小红书'], 'likes': 5670, 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'title': '全职妈妈用AI开启副业月入2万', 'author': '@带娃也精彩', 'description': '利用AI做电商选品分析和商品文案生成，半年做到月入2万。', 'link': 'https://www.xiaohongshu.com/', 'tools': ['豆包', 'Canva', '1688'], 'likes': 8920, 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'title': '自由设计师的AI工作流分享', 'author': '@设计不脱发', 'description': '全流程AI辅助，项目交付时间缩短一半，客户满意度反而提升。', 'link': 'https://www.midjourney.com/', 'tools': ['Claude', 'Midjourney', 'Figma AI'], 'likes': 3120, 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'title': '乡村教师搭建AI英语陪练', 'author': '@山里的星光', 'description': '为山区学校搭建AI英语口语陪练系统，覆盖周边8所小学。', 'link': 'https://www.kimi.com/', 'tools': ['Ollama', 'Whisper', 'TTS'], 'likes': 15600, 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'title': '律师打造合同审查AI助手', 'author': '@法律界的码农', 'description': '基于RAG技术构建合同审查Agent，审查效率提升10倍。', 'link': 'https://dify.ai/', 'tools': ['Dify', 'GPT-4', 'RAG'], 'likes': 4560, 'date': datetime.now().strftime('%Y-%m-%d')},
     ]
+    
     seen = set(a['title'][:20] for a in results)
     for a in fallback_agents:
         if a['title'][:20] not in seen:
             results.append(a)
-    return results[:15]  # 减少返回数量
+            seen.add(a['title'][:20])
+        if len(results) >= 10:
+            break
+    
+    return results[:10]  # 减少返回数量
 
 # ===== 兜底数据（所有源失败时使用） =====
 FALLBACK_DATA = {
@@ -400,23 +450,30 @@ def main():
     print("AI不焦虑空间 - 自动数据抓取", file=sys.stderr)
     print(f"开始时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}", file=sys.stderr)
     print("=" * 50, file=sys.stderr)
+    
+    start_time = datetime.now()
+    stats = {'news': 0, 'products': 0, 'ecommerce': 0, 'agents': 0, 'errors': []}
 
     try:
         # 抓取各类数据
         print("\n[1/4] 抓取AI科技新闻...", file=sys.stderr)
         news = fetch_news()
+        stats['news'] = len(news)
         print(f"  → 获取 {len(news)} 条", file=sys.stderr)
 
         print("\n[2/4] 抓取AI热点产品...", file=sys.stderr)
         products = fetch_products()
+        stats['products'] = len(products)
         print(f"  → 获取 {len(products)} 款", file=sys.stderr)
 
         print("\n[3/4] 抓取电商AI新闻...", file=sys.stderr)
         ecommerce = fetch_ecommerce()
+        stats['ecommerce'] = len(ecommerce)
         print(f"  → 获取 {len(ecommerce)} 条", file=sys.stderr)
 
         print("\n[4/4] 抓取Agent案例...", file=sys.stderr)
         agents = fetch_agents()
+        stats['agents'] = len(agents)
         print(f"  → 获取 {len(agents)} 个", file=sys.stderr)
 
         data = {
@@ -428,25 +485,30 @@ def main():
         }
     except Exception as e:
         print(f"\n[WARNING] 抓取过程出错: {e}，使用兜底数据", file=sys.stderr)
+        stats['errors'].append(str(e))
         data = FALLBACK_DATA
 
-    # 确保至少有一些数据
-    if not data.get('news') and not data.get('products'):
-        print("\n[WARNING] 所有数据源失败，使用兜底数据", file=sys.stderr)
+    # 健康检查：确保至少有一些数据
+    total_items = len(data.get('news', [])) + len(data.get('products', [])) + len(data.get('ecommerce', [])) + len(data.get('agents', []))
+    if total_items < 10:
+        print(f"\n[WARNING] 数据量不足 ({total_items}项)，使用兜底数据", file=sys.stderr)
         data = FALLBACK_DATA
 
+    # 计算执行时间
+    elapsed = (datetime.now() - start_time).total_seconds()
+    
     # 写入文件
     try:
         with open('data.json', 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
         print(f"\n{'=' * 50}", file=sys.stderr)
         print(f"完成! 数据已写入 data.json", file=sys.stderr)
-        print(f"新闻:{len(data.get('news',[]))} 产品:{len(data.get('products',[]))} 电商:{len(data.get('ecommerce',[]))} Agent:{len(data.get('agents',[]))}", file=sys.stderr)
+        print(f"统计: 新闻:{stats['news']} 产品:{stats['products']} 电商:{stats['ecommerce']} Agent:{stats['agents']}", file=sys.stderr)
+        print(f"总耗时: {elapsed:.1f}秒", file=sys.stderr)
         print(f"{'=' * 50}", file=sys.stderr)
     except Exception as e:
         print(f"\n[FATAL ERROR] 写入data.json失败: {e}", file=sys.stderr)
-        # 即使写入失败也返回成功，因为已有之前的data.json
-        sys.exit(0)
+        sys.exit(1)
 
 if __name__ == '__main__':
     main()

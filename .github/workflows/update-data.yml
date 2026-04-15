@@ -11,6 +11,8 @@ permissions:
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    timeout-minutes: 10  # 设置超时时间
+    
     steps:
       - uses: actions/checkout@v4
         with:
@@ -25,6 +27,16 @@ jobs:
         run: python3 fetch_data.py
         continue-on-error: true
 
+      - name: Health check
+        run: |
+          if [ -f data.json ]; then
+            echo "✓ data.json exists"
+            python3 -c "import json; data=json.load(open('data.json')); print(f'✓ Data valid: {len(data.get(\"news\",[]))} news, {len(data.get(\"products\",[]))} products')"
+          else
+            echo "✗ data.json missing"
+            exit 1
+          fi
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
@@ -35,5 +47,5 @@ jobs:
           else
             git commit -m "chore: auto update data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             git push
-            echo "Data updated successfully"
+            echo "✓ Data updated successfully"
           fi
