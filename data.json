@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-04-15 01:47:55",
+  "updatedAt": "2026-04-15 10:40:40",
   "news": [
     {
-      "title": "报告称，人工智能数据中心初创公司 Fluidstack 在估值达到 7.5B 几个月后，正在以 18B 美元的估值进行 1B 轮融资谈判",
+      "title": "Anthropic 的崛起让一些 OpenAI 投资者重新考虑",
+      "summary": "一位支持这两家公司的投资者告诉英国《金融时报》，证明 OpenAI 最近一轮融资的合理性需要假设 IPO 估值达到 1.2 万亿美元或以上。",
+      "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+      "source": "TechCrunch",
+      "date": "Wed, 15 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "报告称，人工智能数据中心初创公司 Fluidstack 正在以 18B 美元的估值进行 1B 轮谈判，几个月后估值达到 7.5B 美元",
       "summary": "据报道，Fluidstack 获得 500 亿美元的为 Anthropic 建设数据中心的交易后，融资源源不断。",
       "link": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
       "source": "TechCrunch",
@@ -41,69 +50,6 @@
       "title": "谷歌在 Chrome 中添加 AI 技能，帮助您保存最喜欢的工作流程",
       "summary": "谷歌正在向 Chrome 添加“技能”，让用户可以跨网站保存和重复使用人工智能提示。该功能建立在 Gemini 浏览器集成的基础上。",
       "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-      "source": "TechCrunch",
-      "date": "Tue, 14 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "金融风险管理平台 Pillar 在 a16z 领投的种子轮融资中筹集了 2000 万美元",
-      "summary": "Pillar 希望为中小型企业提供先进的机构级工具。 “我们的目标是让套期保值变得容易且方便",
-      "link": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/",
-      "source": "TechCrunch",
-      "date": "Tue, 14 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "在短短几周内，StrictlyVC 旧金山汇聚了来自 TDK Ventures、Replit 等公司的领导者",
-      "summary": "今年首届 StrictlyVC 将在您不知不觉中来到旧金山。\n\n还有一些门票可供加入我们和我们的堆栈",
-      "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-      "source": "TechCrunch",
-      "date": "Tue, 14 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "谷歌将 Gemini 个人智能功能引入印度",
-      "summary": "该功能允许用户连接 Gmail 和照片等 Google 帐户以获得个性化答案。",
-      "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
-      "source": "TechCrunch",
-      "date": "Tue, 14 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Adobe 修复了黑客数月来利用的 PDF 零日安全漏洞",
-      "summary": "目前尚不清楚有多少人受到这次黑客活动的影响，但一名安全研究人员表示，黑客从 1 月 1 日起就开始针对受害者",
-      "link": "https://techcrunch.com/2026/04/14/adobe-fixes-pdf-zero-day-security-bug-that-hackers-have-exploited-for-months/",
-      "source": "TechCrunch",
-      "date": "Tue, 14 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "振动编码应用程序 Anything 在从 App Store 启动两次后如何重建",
-      "summary": "Anything 计划在 App Store 下架后推出桌面配套应用程序来帮助移动应用程序开发。",
-      "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
-      "source": "TechCrunch",
-      "date": "Tue, 14 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "一名亚马逊仓库工人在俄勒冈州工厂工作时死亡",
-      "summary": "尽管亚马逊面临仓库安全问题，但该公司表示死亡与工作无关。",
-      "link": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/",
-      "source": "TechCrunch",
-      "date": "Tue, 14 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI 收购了人工智能个人理财初创公司 Hiro",
-      "summary": "此次收购表明 OpenAI 正在将一项功能构建到 ChatGPT 中：财务规划。",
-      "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
       "source": "TechCrunch",
       "date": "Tue, 14 Ap",
       "tag": "trend",
@@ -209,24 +155,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "亚马逊将以 $11.57B 收购 Globalstar，以充实其卫星业务",
-      "content": "亚马逊周二同意以 115.7 亿美元现金收购卫星公司 Globalstar，该公司因为苹果的“紧急 SOS”功能提供支持而闻名。",
-      "link": "https://techcrunch.com/2026/04/14/amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-satellite-biz/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "Tue, 14 Ap"
-    },
-    {
-      "title": "一名亚马逊仓库工人在俄勒冈州工厂工作时死亡",
-      "content": "尽管亚马逊面临仓库安全问题，但该公司表示死亡与工作无关。",
-      "link": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "Tue, 14 Ap"
-    },
     {
       "title": "淘宝AI导购助手「淘宝问问」升级，支持复杂需求理解",
       "content": "基于大语言模型的购物助手能够理解复杂需求，提供个性化推荐和比价服务。",
@@ -345,7 +273,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -354,14 +282,14 @@
       "date": "2026-04-15"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
+      "title": "开源项目: collections",
+      "author": "@anonymous",
       "description": "An AI Hedge Fund Team",
-      "link": "https://github.com/sponsors/explore",
+      "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
-      "likes": 7510,
+      "likes": 2046,
       "date": "2026-04-15"
     },
     {
