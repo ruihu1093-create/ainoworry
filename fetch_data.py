@@ -86,6 +86,44 @@ def clean_html(text):
         return ''
     return re.sub(r'<[^>]+>', '', text).strip()
 
+def parse_date(date_str):
+    """解析RSS日期为YYYY-MM-DD格式"""
+    if not date_str:
+        return datetime.now().strftime('%Y-%m-%d')
+    try:
+        # 尝试解析常见RSS日期格式
+        # Tue, 14 Apr 2026 10:30:00 +0000
+        # 2026-04-14T10:30:00Z
+        # Apr 14, 2026
+        date_str = date_str.strip()
+        
+        # 先尝试直接截取前10位（如果是YYYY-MM-DD格式）
+        if re.match(r'\d{4}-\d{2}-\d{2}', date_str):
+            return date_str[:10]
+        
+        # 使用email.utils解析RFC 2822日期格式
+        from email.utils import parsedate_to_datetime
+        dt = parsedate_to_datetime(date_str)
+        return dt.strftime('%Y-%m-%d')
+    except Exception:
+        pass
+    
+    # 最后尝试手动解析
+    try:
+        # 处理 "Tue, 14 Apr 2026" 格式
+        months = {'Jan':'01','Feb':'02','Mar':'03','Apr':'04','May':'05','Jun':'06',
+                  'Jul':'07','Aug':'08','Sep':'09','Oct':'10','Nov':'11','Dec':'12'}
+        parts = date_str.replace(',', '').split()
+        if len(parts) >= 3:
+            day = parts[-3].zfill(2) if parts[-3].isdigit() else '01'
+            month = months.get(parts[-2][:3], '01')
+            year = parts[-1] if len(parts[-1]) == 4 else datetime.now().year
+            return f"{year}-{month}-{day}"
+    except Exception:
+        pass
+    
+    return datetime.now().strftime('%Y-%m-%d')
+
 def hash_id(text):
     """生成短hash"""
     h = hashlib.md5(text.encode()).hexdigest()
@@ -119,7 +157,7 @@ def fetch_news():
                     'summary': desc_zh,
                     'link': item['link'],
                     'source': name,
-                    'date': item['pubDate'][:10] if item['pubDate'] else datetime.now().strftime('%Y-%m-%d'),
+                    'date': parse_date(item['pubDate']),
                     'tag': 'trend',
                     'tagText': '资讯'
                 })
@@ -167,7 +205,7 @@ def fetch_products():
                     'source': name,
                     'category': 'AI工具',
                     'icon': icon,
-                    'date': item['pubDate'][:10] if item['pubDate'] else datetime.now().strftime('%Y-%m-%d')
+                    'date': parse_date(item['pubDate'])
                 })
 
     # 兜底产品列表
@@ -237,7 +275,7 @@ def fetch_ecommerce():
                     'source': name,
                     'impact': impact,
                     'impactText': impact_text,
-                    'date': item['pubDate'][:10] if item['pubDate'] else datetime.now().strftime('%Y-%m-%d')
+                    'date': parse_date(item['pubDate'])
                 })
 
     # 兜底电商新闻（RSS源不足时补充）
