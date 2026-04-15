@@ -1,21 +1,57 @@
 {
-  "updatedAt": "2026-04-15 10:40:40",
+  "updatedAt": "2026-04-15 15:55:29",
   "news": [
     {
-      "title": "Anthropic 的崛起让一些 OpenAI 投资者重新考虑",
-      "summary": "一位支持这两家公司的投资者告诉英国《金融时报》，证明 OpenAI 最近一轮融资的合理性需要假设 IPO 估值达到 1.2 万亿美元或以上。",
-      "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-      "source": "TechCrunch",
-      "date": "Wed, 15 Ap",
+      "title": "出售鞋履业务后，Allbirds 转向人工智能",
+      "summary": "Allbirds 正在放弃羊毛运动鞋，转向 AI 服务器，在锁定 5000 万美元的可转换融资额度后，更名为 NewBird AI。",
+      "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-15",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "报告称，人工智能数据中心初创公司 Fluidstack 正在以 18B 美元的估值进行 1B 轮谈判，几个月后估值达到 7.5B 美元",
-      "summary": "据报道，Fluidstack 获得 500 亿美元的为 Anthropic 建设数据中心的交易后，融资源源不断。",
-      "link": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
-      "source": "TechCrunch",
-      "date": "Tue, 14 Ap",
+      "title": "里德·霍夫曼 (Reid Hoffman) 参与“代币最大化”争论",
+      "summary": "里德·霍夫曼 (Reid Hoffman) 表示，跟踪人工智能代币的使用情况可以衡量采用情况，但他警告说，它应该与背景相结合，而不是被视为直接生产力满足",
+      "link": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Adobe全新Firefly AI助手可使用Creative Cloud应用程序完成任务",
+      "summary": "Adobe 表示，该助手可以跨 Firefly、Photoshop、Premiere、Lightroom、Express、Illustrator 等应用程序以及其他应用程序为您执行任务",
+      "link": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Gitar 是一家使用代理来保护代码安全的初创公司，以 900 万美元的价格脱颖而出",
+      "summary": "该公司使用人工智能来审查代码，这些代码现在通常也是由人工智能生成的。",
+      "link": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "这家初创公司押注 tokenmaxxing 将创造下一个计算巨头",
+      "summary": "Parasail 在 A 轮融资中筹集了 3200 万美元，这预示着模型和计算的未来将面临分裂。",
+      "link": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic 的崛起让一些 OpenAI 投资者重新考虑",
+      "summary": "一位支持这两家公司的投资者告诉英国《金融时报》，证明 OpenAI 最近一轮融资的合理性需要假设 IPO 估值达到 1.2 万亿美元或以上。",
+      "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-15",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -23,17 +59,8 @@
       "title": "Anthropic 联合创始人证实该公司向特朗普政府通报了 Mythos",
       "summary": "在本周 Semafor 世界经济峰会上接受采访时，Anthropic 联合创始人 Jack Clark 解释了该公司仍与美国合作的原因。",
       "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-      "source": "TechCrunch",
-      "date": "Tue, 14 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Waymo 开始测试，伦敦距离首个机器人出租车服务又近了一步",
-      "summary": "如果英国政府批准，Waymo 的商业服务最终将进行测试。",
-      "link": "https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/",
-      "source": "TechCrunch",
-      "date": "Tue, 14 Ap",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-14",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -41,8 +68,8 @@
       "title": "Max Hodak 的科学公司正准备将其第一个传感器放入人脑中",
       "summary": "如果该设备被证明成功，将有助于解决多种神经系统疾病。一种早期用途可能是提供温和的电刺激",
       "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
-      "source": "TechCrunch",
-      "date": "Tue, 14 Ap",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-14",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -50,8 +77,35 @@
       "title": "谷歌在 Chrome 中添加 AI 技能，帮助您保存最喜欢的工作流程",
       "summary": "谷歌正在向 Chrome 添加“技能”，让用户可以跨网站保存和重复使用人工智能提示。该功能建立在 Gemini 浏览器集成的基础上。",
       "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-      "source": "TechCrunch",
-      "date": "Tue, 14 Ap",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "在短短几周内，StrictlyVC 旧金山汇聚了来自 TDK Ventures、Replit 等公司的领导者",
+      "summary": "今年首届 StrictlyVC 将在您不知不觉中来到旧金山。\n\n还有一些门票可供加入我们和我们的堆栈",
+      "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "粗门完成数千万A+轮融资，在AI时代让更多人“出门”｜36氪首发",
+      "summary": "36氪获悉，线下兴趣活动社区“粗门”已完成新一轮融资，投资方为一家长期关注消费与生活方式领域的香港家族基金。&nbsp;本轮资金将主要用于扩大品牌影响力、提升优质主理人供给，并加速社区生态与玩法体系建设。这也是粗门继2023年获得Keep战略投资后的又一次融资。\n  粗门正在试图重构一件逐渐被忽视的",
+      "link": "https://36kr.com/p/3766710136570368?f=rss",
+      "source": "36Kr",
+      "date": "2026-04-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "8点1氪丨许家印一审当庭认罪悔罪；交管部门回应新能源车牌绿色变白色；生成内容涉黄，哩布哩布AI回应",
+      "summary": "今日热点导览\n  可能含有“永久性化学物”，Lululemon在美被调查\n  近一周“一口价”黄金产品最高下跌17%\n  中国将健全药品价格形成机制\n  离境退税2.0版措施预计4月底前推出\n  苹果加码iPhone Fold\n  TOP3大新闻\n  恒大集",
+      "link": "https://36kr.com/p/3767326268392199?f=rss",
+      "source": "36Kr",
+      "date": "2026-04-15",
       "tag": "trend",
       "tagText": "资讯"
     }
@@ -136,28 +190,12 @@
       "source": "Gamma",
       "category": "演示文稿",
       "icon": "📊"
-    },
-    {
-      "name": "Canva Magic Studio",
-      "description": "一站式AI设计平台，海报、视频、社媒内容一键生成",
-      "link": "https://www.canva.com/magic/",
-      "source": "Canva",
-      "category": "设计工具",
-      "icon": "🎯"
-    },
-    {
-      "name": "ElevenLabs",
-      "description": "超逼真语音合成，支持100+语言和声音克隆",
-      "link": "https://elevenlabs.io/",
-      "source": "ElevenLabs",
-      "category": "语音合成",
-      "icon": "🎙️"
     }
   ],
   "ecommerce": [
     {
-      "title": "淘宝AI导购助手「淘宝问问」升级，支持复杂需求理解",
-      "content": "基于大语言模型的购物助手能够理解复杂需求，提供个性化推荐和比价服务。",
+      "title": "淘宝AI导购助手升级，支持复杂需求理解",
+      "content": "基于大语言模型的购物助手能够理解复杂需求，提供个性化推荐。",
       "link": "https://36kr.com/",
       "source": "36Kr",
       "impact": "high",
@@ -165,8 +203,8 @@
       "date": "2026-04-15"
     },
     {
-      "title": "京东言犀大模型客服覆盖全品类，问题解决率达92%",
-      "content": "自研大模型应用于客服场景，平均响应时间缩短至8秒。",
+      "title": "京东言犀大模型客服覆盖全品类",
+      "content": "自研大模型应用于客服场景，问题解决率达92%。",
       "link": "https://www.jdcloud.com/",
       "source": "京东",
       "impact": "high",
@@ -174,8 +212,8 @@
       "date": "2026-04-15"
     },
     {
-      "title": "拼多多AI商品描述自动生成，中小商家上架效率提升10倍",
-      "content": "商家只需上传商品图片，AI自动生成标题、描述、卖点和SEO关键词。",
+      "title": "拼多多AI商品描述自动生成",
+      "content": "商家只需上传商品图片，AI自动生成标题、描述和卖点。",
       "link": "https://36kr.com/",
       "source": "36Kr",
       "impact": "high",
@@ -183,7 +221,7 @@
       "date": "2026-04-15"
     },
     {
-      "title": "TikTok Shop AI驱动全球扩张，进入30个新市场",
+      "title": "TikTok Shop AI驱动全球扩张",
       "content": "AI自动翻译商品信息、匹配当地达人、生成本地化营销内容。",
       "link": "https://techcrunch.com/",
       "source": "TechCrunch",
@@ -192,57 +230,12 @@
       "date": "2026-04-15"
     },
     {
-      "title": "SHEIN用AI预测时尚趋势，准确率超85%",
-      "content": "AI分析全球社交媒体和时装周数据，提前3个月预测爆款趋势。",
-      "link": "https://www.latepost.com/",
-      "source": "晚点",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-15"
-    },
-    {
-      "title": "Temu用AI优化全球供应链，跨境包裹5天送达",
-      "content": "AI预测各市场需求并智能调配全球仓储，大幅缩短配送时间。",
-      "link": "https://www.latepost.com/",
-      "source": "晚点",
-      "impact": "high",
-      "impactText": "高",
-      "date": "2026-04-15"
-    },
-    {
-      "title": "微信小店接入混元大模型，AI生成营销文案",
-      "content": "商家可自动生成营销文案、朋友圈素材和短视频脚本，千人千面精准触达。",
-      "link": "https://36kr.com/",
-      "source": "36Kr",
-      "impact": "high",
-      "impactText": "高",
-      "date": "2026-04-15"
-    },
-    {
-      "title": "Shopify AI店铺装修上线，一句话生成整站设计",
+      "title": "Shopify AI店铺装修上线",
       "content": "AI自动生成Banner、配色、字体和商品陈列布局。",
       "link": "https://techcrunch.com/",
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-15"
-    },
-    {
-      "title": "得物AI真伪鉴定辅助系统上线，准确率99.2%",
-      "content": "用户拍照上传商品细节，AI实时比对正品数据库，鉴定时间缩短80%。",
-      "link": "https://36kr.com/",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-15"
-    },
-    {
-      "title": "闲鱼AI估价功能引爆用户增长，月活突破4亿",
-      "content": "拍照即可AI估价，准确率达90%，二手交易额同比增长65%。",
-      "link": "https://36kr.com/",
-      "source": "36Kr",
-      "impact": "high",
-      "impactText": "高",
       "date": "2026-04-15"
     }
   ],
@@ -295,98 +288,80 @@
     {
       "title": "独立开发者用AI搭建自动化内容工厂",
       "author": "@技术小白不白",
-      "description": "一位非技术背景的产品经理，通过组合多个AI工具，搭建了从选题、写作到分发的全流程自动化系统，月更文章100+篇。",
+      "description": "通过组合多个AI工具，搭建了从选题、写作到分发的全流程自动化系统。",
       "link": "https://www.notion.com/product/ai",
       "tools": [
         "ChatGPT",
         "Notion",
         "Zapier"
       ],
-      "likes": 2340
+      "likes": 2340,
+      "date": "2026-04-15"
     },
     {
       "title": "退休教师用AI创作儿童故事",
       "author": "@奶奶的故事屋",
-      "description": "70岁的王老师借助AI工具将多年教学经验转化为系列儿童故事，在多个平台连载，收获10万+粉丝。",
+      "description": "借助AI工具将多年教学经验转化为系列儿童故事，收获10万+粉丝。",
       "link": "https://www.doubao.com/",
       "tools": [
         "文心一言",
         "剪映",
         "小红书"
       ],
-      "likes": 5670
+      "likes": 5670,
+      "date": "2026-04-15"
     },
     {
       "title": "全职妈妈用AI开启副业月入2万",
       "author": "@带娃也精彩",
-      "description": "利用AI做电商选品分析和商品文案生成，在闲暇时间运营3家网店，从零开始半年做到月入2万。",
+      "description": "利用AI做电商选品分析和商品文案生成，半年做到月入2万。",
       "link": "https://www.xiaohongshu.com/",
       "tools": [
         "豆包",
         "Canva",
         "1688"
       ],
-      "likes": 8920
+      "likes": 8920,
+      "date": "2026-04-15"
     },
     {
       "title": "自由设计师的AI工作流分享",
       "author": "@设计不脱发",
-      "description": "从客户沟通、需求分析到初稿生成，全流程AI辅助，项目交付时间缩短一半，客户满意度反而提升。",
+      "description": "全流程AI辅助，项目交付时间缩短一半，客户满意度反而提升。",
       "link": "https://www.midjourney.com/",
       "tools": [
         "Claude",
         "Midjourney",
         "Figma AI"
       ],
-      "likes": 3120
+      "likes": 3120,
+      "date": "2026-04-15"
     },
     {
       "title": "乡村教师搭建AI英语陪练",
       "author": "@山里的星光",
-      "description": "为山区学校搭建AI英语口语陪练系统，让农村孩子也能和\"外教\"练口语，覆盖周边8所小学。",
+      "description": "为山区学校搭建AI英语口语陪练系统，覆盖周边8所小学。",
       "link": "https://www.kimi.com/",
       "tools": [
         "Ollama",
         "Whisper",
         "TTS"
       ],
-      "likes": 15600
-    },
-    {
-      "title": "小红书博主的AI创作全流程",
-      "author": "@效率成瘾患者",
-      "description": "从选题分析、文案撰写到封面设计全程AI辅助，日更3篇笔记仅需2小时，粉丝半年涨20万。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "Midjourney",
-        "Canva"
-      ],
-      "likes": 12300
+      "likes": 15600,
+      "date": "2026-04-15"
     },
     {
       "title": "律师打造合同审查AI助手",
       "author": "@法律界的码农",
-      "description": "基于RAG技术构建合同审查Agent，导入法律知识库后可自动标注合同风险点，审查效率提升10倍。",
+      "description": "基于RAG技术构建合同审查Agent，审查效率提升10倍。",
       "link": "https://dify.ai/",
       "tools": [
         "Dify",
         "GPT-4",
         "RAG"
       ],
-      "likes": 4560
-    },
-    {
-      "title": "外贸人的AI多语言客服系统",
-      "author": "@跨境老司机",
-      "description": "搭建了支持12种语言的AI客服机器人，自动回复询盘、报价和跟进，一个人管理6个国家市场。",
-      "link": "https://www.coze.com/",
-      "tools": [
-        "Coze",
-        "DeepL",
-        "GPT-4"
-      ],
-      "likes": 3780
+      "likes": 4560,
+      "date": "2026-04-15"
     }
   ]
 }
