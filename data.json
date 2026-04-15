@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-04-14 21:09:18",
+  "updatedAt": "2026-04-15 01:47:55",
   "news": [
+    {
+      "title": "报告称，人工智能数据中心初创公司 Fluidstack 在估值达到 7.5B 几个月后，正在以 18B 美元的估值进行 1B 轮融资谈判",
+      "summary": "据报道，Fluidstack 获得 500 亿美元的为 Anthropic 建设数据中心的交易后，融资源源不断。",
+      "link": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
+      "source": "TechCrunch",
+      "date": "Tue, 14 Ap",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic 联合创始人证实该公司向特朗普政府通报了 Mythos",
       "summary": "在本周 Semafor 世界经济峰会上接受采访时，Anthropic 联合创始人 Jack Clark 解释了该公司仍与美国合作的原因。",
@@ -97,15 +106,6 @@
       "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
       "source": "TechCrunch",
       "date": "Tue, 14 Ap",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Uber 和 Nuro 开始在旧金山测试优质机器人出租车服务",
-      "summary": "作为测试的一部分，Uber 员工现在可以欢呼 Lucid 机器人出租车。",
-      "link": "https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/",
-      "source": "TechCrunch",
-      "date": "Mon, 13 Ap",
       "tag": "trend",
       "tagText": "资讯"
     }
@@ -234,7 +234,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
       "title": "京东言犀大模型客服覆盖全品类，问题解决率达92%",
@@ -243,7 +243,7 @@
       "source": "京东",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
       "title": "拼多多AI商品描述自动生成，中小商家上架效率提升10倍",
@@ -252,7 +252,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
       "title": "TikTok Shop AI驱动全球扩张，进入30个新市场",
@@ -261,7 +261,7 @@
       "source": "TechCrunch",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
       "title": "SHEIN用AI预测时尚趋势，准确率超85%",
@@ -270,7 +270,7 @@
       "source": "晚点",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
       "title": "Temu用AI优化全球供应链，跨境包裹5天送达",
@@ -279,7 +279,7 @@
       "source": "晚点",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
       "title": "微信小店接入混元大模型，AI生成营销文案",
@@ -288,7 +288,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
       "title": "Shopify AI店铺装修上线，一句话生成整站设计",
@@ -297,7 +297,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
       "title": "得物AI真伪鉴定辅助系统上线，准确率99.2%",
@@ -306,7 +306,7 @@
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
       "title": "闲鱼AI估价功能引爆用户增长，月活突破4亿",
@@ -315,7 +315,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     }
   ],
   "agents": [
@@ -329,7 +329,7 @@
         "LLM"
       ],
       "likes": 2325,
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
       "title": "开源项目: manifest.json",
@@ -340,7 +340,7 @@
         "GitHub"
       ],
       "likes": 4324,
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
       "title": "开源项目: topics",
@@ -351,7 +351,7 @@
         "GitHub"
       ],
       "likes": 1697,
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
       "title": "开源项目: explore",
@@ -362,7 +362,7 @@
         "GitHub"
       ],
       "likes": 7510,
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
       "title": "独立开发者用AI搭建自动化内容工厂",
