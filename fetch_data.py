@@ -19,8 +19,8 @@ import urllib.parse
 # 禁用SSL验证（部分RSS源证书问题）
 ssl._create_default_https_context = lambda: ssl._create_unverified_context()
 
-def translate_to_zh(text, timeout=5):
-    """使用Google Translate免费API将英文翻译为中文"""
+def translate_to_zh(text, timeout=3):
+    """使用Google Translate免费API将英文翻译为中文（缩短超时时间）"""
     if not text:
         return text
     # 检测是否包含中文字符，如果有则不翻译
@@ -37,8 +37,8 @@ def translate_to_zh(text, timeout=5):
         pass
     return text  # 翻译失败返回原文
 
-def fetch_url(url, timeout=15):
-    """获取URL内容"""
+def fetch_url(url, timeout=8):
+    """获取URL内容（缩短超时时间）"""
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
     req = urllib.request.Request(url, headers=headers)
     try:
@@ -64,7 +64,7 @@ def parse_rss(url):
             content = content[rss_start:]
 
         root = ET.fromstring(content)
-        for item in root.findall('.//item')[:20]:
+        for item in root.findall('.//item')[:10]:  # 减少每个源抓取数量
             title = item.find('title')
             link = item.find('link')
             desc = item.find('description')
@@ -131,7 +131,7 @@ def fetch_news():
         if key not in seen:
             seen.add(key)
             unique.append(item)
-    return unique[:30]
+    return unique[:15]  # 减少返回数量
 
 def fetch_products():
     """2. AI热点产品 - ProductHunt + 兜底产品"""
@@ -190,7 +190,7 @@ def fetch_products():
         if p['name'] not in seen:
             results.append(p)
             seen.add(p['name'])
-    return results[:40]
+    return results[:20]  # 减少返回数量
 
 def fetch_ecommerce():
     """3. 电商AI新闻 - 多源聚合"""
@@ -264,7 +264,7 @@ def fetch_ecommerce():
             if len(results) >= 30:
                 break
 
-    return results[:30]
+    return results[:15]  # 减少返回数量
 
 def fetch_agents():
     """4. 个人Agent案例 - 从GitHub Trending等获取"""
@@ -316,7 +316,7 @@ def fetch_agents():
     for a in fallback_agents:
         if a['title'][:20] not in seen:
             results.append(a)
-    return results[:30]
+    return results[:15]  # 减少返回数量
 
 # ===== 兜底数据（所有源失败时使用） =====
 FALLBACK_DATA = {
