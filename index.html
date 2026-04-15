@@ -516,9 +516,22 @@
 
     // ===== 工具函数 =====
     function getRelativeTime(dateStr) {
-      var now = new Date(); var date = new Date(dateStr);
-      var diff = Math.floor((now - date) / (1000 * 60 * 60 * 24));
-      if (diff === 0) return '今天'; if (diff === 1) return '昨天'; return diff + '天前';
+      if (!dateStr) return '最近';
+      try {
+        var now = new Date();
+        var date = new Date(dateStr);
+        // 检查日期是否有效
+        if (isNaN(date.getTime())) return '最近';
+        var diff = Math.floor((now - date) / (1000 * 60 * 60 * 24));
+        if (diff < 0) return '今天';
+        if (diff === 0) return '今天';
+        if (diff === 1) return '昨天';
+        if (diff < 7) return diff + '天前';
+        if (diff < 30) return Math.floor(diff / 7) + '周前';
+        return Math.floor(diff / 30) + '个月前';
+      } catch(e) {
+        return '最近';
+      }
     }
 
     // ===== 来源URL映射 =====
