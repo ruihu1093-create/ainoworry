@@ -1,9 +1,36 @@
 {
-  "updatedAt": "2026-04-16 16:57:28",
+  "updatedAt": "2026-04-16 20:11:28",
   "news": [
     {
+      "title": "OpenAI 瞄准 Anthropic，通过增强的 Codex 使其在桌面上拥有更强大的功能",
+      "summary": "OpenAI 的代理编码工具已经进行了重大改造，具有各种新的功能和能力。",
+      "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic CPO 在有报道称将提供竞争产品后离开 Figma 董事会",
+      "summary": "对于担心 SaaS 末日的投资者来说，Krieger 的离职以及任何即将推出的设计工具将是另一个数据点——最大的人工智能实验室将面临 SaaS 灾难。",
+      "link": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google 现在可让您通过 AI 模式并排探索网络",
+      "summary": "现在，当您在 Chrome 桌面上使用 AI 模式时，单击链接将与 AI 模式并排打开网页。",
+      "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "InsightFinder 融资 1500 万美元，帮助公司找出 AI 代理出错的地方",
-      "summary": "首席执行官Helen Gu表示，当今行业面临的最大问题不仅仅是监控和诊断AI模型哪里出了问题，而是诊断",
+      "summary": "首席执行官 Helen Gu 表示，当今行业面临的最大问题不仅仅是监控和诊断 AI 模型哪里出了问题，还包括如何解决人工智能模型的问题。",
       "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
       "source": "TechCrunch-AI",
       "date": "2026-04-16",
@@ -21,7 +48,7 @@
     },
     {
       "title": "Roblox 的 AI 助手获得新的代理工具来规划、构建和测试游戏",
-      "summary": "新的新工具旨在帮助创作者完成整个开发过程。",
+      "summary": "新工具旨在帮助创作者完成整个开发过程。",
       "link": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
       "source": "TechCrunch-AI",
       "date": "2026-04-16",
@@ -56,24 +83,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "这家模拟初创公司希望成为物理人工智能的光标",
-      "summary": "Antioch 筹集了 850 万美元种子轮资金，为新一代机器人制造商创建模拟工具。",
-      "link": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI 更新 Agents SDK，帮助企业构建更安全、更强大的代理",
-      "summary": "随着代理 AI 的不断普及，OpenAI 扩展了其代理构建工具包的功能。",
-      "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "智元旗下觅蜂发布一站式物理 AI 数据服务平台｜最前线",
       "summary": "2026年，大语言模型和视频生成大模型都在疯狂烧token，而具身机器人行业却正在经历“无token可烧”的局面。大模型能像人一样读书，而具身智能要去真实的世界里摸爬滚打才能获取数据——数据的匮乏成为了卡住全行业的瓶颈。\n  4月16日，智元机器人旗下觅蜂科技发布一站式物理 AI 数据服务平台，希望",
       "link": "https://36kr.com/p/3769501816439555?f=rss",
@@ -95,15 +104,6 @@
       "title": "新加坡的AI征途：孕育下一个“硅谷”",
       "summary": "“Punggol”，是一个位于新加坡东北部的新区，它有一个可爱的中文名：“榜鹅”，读起来，确实像某种动物的叫声。\n  Punggol其实是马来语，翻译过来，是指用木棍敲打果树，把果子打下来。\n  而现实中的榜鹅镇，相当长一段时间，都被大片大片森林覆盖。当新加坡乌节路的写字楼一栋栋拔地而起时，榜鹅还是",
       "link": "https://36kr.com/p/3768997634130434?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "找100个被资本选中的答案｜2026“最受关注”企业名册评选启动",
-      "summary": "出品｜36氪创投研究院\n  文｜罗婧、杜梦\n  当资本褪去浮躁、回归理性，当概念让位于落地、实效成为行业硬通货，当AI深度重构产业格局、硬科技筑牢行业发展底色， 2026年的一级市场，已然迈入真实价值主导的全新创投时代。\n  <stro",
-      "link": "https://36kr.com/p/3768967684096521?f=rss",
       "source": "36Kr",
       "date": "2026-04-16",
       "tag": "trend",
@@ -193,15 +193,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "第一季度美国零售商的 AI 流量增长了 393%，这也增加了他们的收入",
-      "content": "Adobe 表示，3 月份美国零售网站的 AI 流量也猛增了 269%，与非 AI 购物者相比，访问者的转化率更高，收入也更高。",
-      "link": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-16"
-    },
     {
       "title": "氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型",
       "content": "大公司：\n  亚马逊全球智能枢纽仓（GWD）深圳首仓面向卖家正式开放\n  3",
