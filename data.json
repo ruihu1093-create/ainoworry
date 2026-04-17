@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-04-16 20:11:28",
+  "updatedAt": "2026-04-17 06:24:39",
   "news": [
+    {
+      "title": "Factory 估值达到 1.5B 美元，为企业构建 AI 编码",
+      "summary": "这家成立三年的初创公司在 Khosla Ventures 的带领下筹集了 1.5 亿美元资金。",
+      "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Luma 推出人工智能驱动的制作工作室，推出以信仰为中心的 Wonder Project",
+      "summary": "该工作室的第一个项目将讲述摩西和奥斯卡奖得主本·金斯利的故事，将于今年春天在 Prime Video 上发布。",
+      "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "报告称，高端人工智能正在洽谈以 20 亿美元估值筹集资金",
+      "summary": "据报道，人工智能基础设施公司 Upscale AI 正在洽谈筹集自七个月前推出以来的第三轮融资。",
+      "link": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "热门机器人初创公司Physical Intelligence表示，其新的机器人大脑可以解决从未教授过的任务",
+      "summary": "新模型称为 π0.7，代表了该公司向通用机器人这一长期追求的目标迈出的早期但有意义的一步。",
+      "link": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI 瞄准 Anthropic，通过增强的 Codex 使其在桌面上拥有更强大的功能",
       "summary": "OpenAI 的代理编码工具已经进行了重大改造，具有各种新的功能和能力。",
@@ -56,29 +92,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Runway 首席执行官表示，人工智能可以帮助好莱坞制作 50 部电影，而不是一部价值 1 亿美元的大片",
-      "summary": "Runway 的首席执行官表示，人工智能可以帮助电影公司以一部影片的成本制作数十部影片，投注量将提高制作热门影片的几率。",
-      "link": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "由于 RAM 短缺，Meta 提高了 Quest 3 和 Quest 3S 的价格",
-      "summary": "从 4 月 19 日开始，Meta Quest 3S (128GB) 和 Meta Quest 3S (256GB) 的价格将分别上涨 50 美元至 349.99 美元和 449.99 美元。价格",
-      "link": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Canva的AI助手现在可以调用各种工具为您进行设计",
-      "summary": "Canva 人工智能助手的最新版本可让用户通过文本提示创建可编辑的设计。",
-      "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-16",
+      "title": "8点1氪丨全季大连某酒店账号公开多名客人特殊订单备注；金立手机创始人被曝在印尼卖家具；雷军将连播15小时测试新SU7续航",
+      "summary": "今日热点导览\n  丝芭传媒：创始人王子杰去世，享年63岁\n  国家统计局：日均词元调用量突破140万亿，较上年末增长40%\n  京东发布机器人产业服务全景图\n  为加速重塑Siri，苹果安排近200名工程师培训AI编程\n  特朗普签发多项输油管道许可，以促进美加之间的石油运输\n  TOP3",
+      "link": "https://36kr.com/p/3770155029398018?f=rss",
+      "source": "36Kr",
+      "date": "2026-04-17",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -86,24 +104,6 @@
       "title": "智元旗下觅蜂发布一站式物理 AI 数据服务平台｜最前线",
       "summary": "2026年，大语言模型和视频生成大模型都在疯狂烧token，而具身机器人行业却正在经历“无token可烧”的局面。大模型能像人一样读书，而具身智能要去真实的世界里摸爬滚打才能获取数据——数据的匮乏成为了卡住全行业的瓶颈。\n  4月16日，智元机器人旗下觅蜂科技发布一站式物理 AI 数据服务平台，希望",
       "link": "https://36kr.com/p/3769501816439555?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型",
-      "summary": "大公司：\n  亚马逊全球智能枢纽仓（GWD）深圳首仓面向卖家正式开放\n  3",
-      "link": "https://36kr.com/p/3769360179298818?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "新加坡的AI征途：孕育下一个“硅谷”",
-      "summary": "“Punggol”，是一个位于新加坡东北部的新区，它有一个可爱的中文名：“榜鹅”，读起来，确实像某种动物的叫声。\n  Punggol其实是马来语，翻译过来，是指用木棍敲打果树，把果子打下来。\n  而现实中的榜鹅镇，相当长一段时间，都被大片大片森林覆盖。当新加坡乌节路的写字楼一栋栋拔地而起时，榜鹅还是",
-      "link": "https://36kr.com/p/3768997634130434?f=rss",
       "source": "36Kr",
       "date": "2026-04-16",
       "tag": "trend",
@@ -194,6 +194,15 @@
   ],
   "ecommerce": [
     {
+      "title": "8点1氪丨全季大连某酒店账号公开多名客人特殊订单备注；金立手机创始人被曝在印尼卖家具；雷军将连播15小时测试新SU7续航",
+      "content": "今日热点导览\n  丝芭传媒：创始人王子杰去世，享年63岁\n  国家统计局：日均词元调用量突破140万亿，较上年末增长40%\n  京东发布机器人产业服务全景图\n  为加速重塑Siri，苹果安排近200名工程师培训AI编程\n  特朗普签发多项输油管道许可，以促进美加之间的石油运输\n  TOP3",
+      "link": "https://36kr.com/p/3770155029398018?f=rss",
+      "source": "36Kr",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-04-17"
+    },
+    {
       "title": "氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型",
       "content": "大公司：\n  亚马逊全球智能枢纽仓（GWD）深圳首仓面向卖家正式开放\n  3",
       "link": "https://36kr.com/p/3769360179298818?f=rss",
@@ -212,22 +221,13 @@
       "date": "2026-04-16"
     },
     {
-      "title": "8点1氪丨美国将退还超1万亿元关税；多家银行密集停发信用卡；滴露回应使用宠物消毒液后5只幼猫死亡",
-      "content": "今日热点导览\n  京东宣布推出“机器人救护车”\n  抖音集团将投入5亿专项资金扶持真人短剧\n  永辉超市38亿追款获胜，王健林等承担连带保证责任\n  张雪机车LOGO抄袭？设计公司发声明回应\n  小米汽车公布降噪处理新专利\n  TOP 3大新闻\n  美国将退",
-      "link": "https://36kr.com/p/3768734631527176?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-16"
-    },
-    {
       "title": "淘宝AI导购助手升级，支持复杂需求理解",
       "content": "基于大语言模型的购物助手能够理解复杂需求，提供个性化推荐。",
       "link": "https://36kr.com/",
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
       "title": "京东言犀大模型客服覆盖全品类",
@@ -236,7 +236,7 @@
       "source": "京东",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
       "title": "拼多多AI商品描述自动生成",
@@ -245,7 +245,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
       "title": "TikTok Shop AI驱动全球扩张",
@@ -254,7 +254,7 @@
       "source": "TechCrunch",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
       "title": "Shopify AI店铺装修上线",
@@ -263,7 +263,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     }
   ],
   "agents": [
@@ -277,7 +277,7 @@
         "LLM"
       ],
       "likes": 2325,
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
       "title": "开源项目: manifest.json",
@@ -288,7 +288,7 @@
         "GitHub"
       ],
       "likes": 4324,
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
       "title": "开源项目: explore",
@@ -299,7 +299,7 @@
         "GitHub"
       ],
       "likes": 3045,
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
       "title": "开源项目: collections",
@@ -310,7 +310,7 @@
         "GitHub"
       ],
       "likes": 2046,
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
       "title": "开源项目: events",
@@ -321,7 +321,7 @@
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
       "title": "开源项目: explore",
@@ -332,7 +332,7 @@
         "GitHub"
       ],
       "likes": 7510,
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
       "title": "独立开发者用AI搭建自动化内容工厂",
@@ -345,7 +345,7 @@
         "Zapier"
       ],
       "likes": 2340,
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
       "title": "退休教师用AI创作儿童故事",
@@ -358,7 +358,7 @@
         "小红书"
       ],
       "likes": 5670,
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
       "title": "全职妈妈用AI开启副业月入2万",
@@ -371,7 +371,7 @@
         "1688"
       ],
       "likes": 8920,
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
       "title": "自由设计师的AI工作流分享",
@@ -384,7 +384,7 @@
         "Figma AI"
       ],
       "likes": 3120,
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     }
   ]
 }
