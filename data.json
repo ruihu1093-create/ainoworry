@@ -1,10 +1,37 @@
 {
-  "updatedAt": "2026-04-17 15:41:56",
+  "updatedAt": "2026-04-17 20:10:05",
   "news": [
+    {
+      "title": "资料来源：随着企业增长激增，Cursor 正在洽谈以 50B 美元估值筹集 2B+ 美元资金",
+      "summary": "回归的支持者 a16z 和 Thrive 预计将领投本轮融资。",
+      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Tokenmaxxing、OpenAI 的疯狂购物以及 AI 焦虑差距 ",
+      "summary": "人工智能内部人士与其他人之间的差距正在扩大，支出、怀疑甚至新词汇都开始表明这一点。而操作",
+      "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic 推出 Claude Design，一款用于创建快速视觉效果的新产品",
       "summary": "该公司表示，Claude Design 旨在帮助没有设计背景的创始人和产品经理等人更轻松地分享他们的想法",
       "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "我们的代币最大化是否会走向无路可走？",
+      "summary": "人工智能内部人士与其他人之间的差距正在扩大，支出、怀疑甚至新词汇都开始表明这一点。而操作",
+      "link": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
       "source": "TechCrunch-AI",
       "date": "2026-04-17",
       "tag": "trend",
@@ -56,42 +83,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic CPO 在有报道称将提供竞争产品后离开 Figma 董事会",
-      "summary": "对于担心 SaaS 末日的投资者来说，Krieger 的离职以及任何即将推出的设计工具将是另一个数据点——最大的人工智能实验室将面临 SaaS 灾难。",
-      "link": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google 现在可让您通过 AI 模式并排探索网络",
-      "summary": "现在，当您在 Chrome 桌面上使用 AI 模式时，单击链接将与 AI 模式并排打开网页。",
-      "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "InsightFinder 融资 1500 万美元，帮助公司找出 AI 代理出错的地方",
-      "summary": "首席执行官 Helen Gu 表示，当今行业面临的最大问题不仅仅是监控和诊断 AI 模型哪里出了问题，还包括如何解决人工智能模型的问题。",
-      "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "第一季度美国零售商的 AI 流量增长了 393%，这也增加了他们的收入",
-      "summary": "Adobe 表示，3 月份美国零售网站的 AI 流量也猛增 269%，与非 AI 购物者相比，访问者的转化率更高，收入也更高",
-      "link": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体",
       "summary": "文｜邱晓芬\n  编辑｜苏建勋\n  2026年，AI正在加速从云端落地到端侧。近期，模型厂商和手机厂商都在背后开始发力——\n  3月下旬，国内几大手机厂商几乎同时推送了端侧AI的大规模更新，把原本仅限于旗舰机的AI能力下放到中端和千元机市场。自此，端侧AI终于成为大部分智",
       "link": "https://36kr.com/p/3770819743728131?f=rss",
@@ -104,6 +95,15 @@
       "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
       "summary": "文｜王欣逸\n  编辑｜苏建勋\n  龙虾热还在继续。\n  4月16日，荣耀进行了一场史上最短的发布会，正式发布此前预热的“养虾本”——荣耀MagicBook系列轻薄本。\n  即便OpenClaw已经刷屏了两个多月，但对于普通用户而言，要养一只原装龙虾，并没有",
       "link": "https://36kr.com/p/3770787623404293?f=rss",
+      "source": "36Kr",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "玩腻了AI的年轻人，爱上桔子酒店的「手搓」生活？",
+      "summary": "<img 数据-img-size-val=\"1080,1528\" src =“https://img.36krcdn.com/hsossms/20260417/v2_c0e8c7027ea145d2bb9f6b7e3bd85108@5362858_oswg1122123oswg1080oswg15",
+      "link": "https://36kr.com/p/3770578424676866?f=rss",
       "source": "36Kr",
       "date": "2026-04-17",
       "tag": "trend",
