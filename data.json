@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-04-17 06:24:39",
+  "updatedAt": "2026-04-17 15:41:56",
   "news": [
+    {
+      "title": "Anthropic 推出 Claude Design，一款用于创建快速视觉效果的新产品",
+      "summary": "该公司表示，Claude Design 旨在帮助没有设计背景的创始人和产品经理等人更轻松地分享他们的想法",
+      "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Factory 估值达到 1.5B 美元，为企业构建 AI 编码",
       "summary": "这家成立三年的初创公司在 Khosla Ventures 的带领下筹集了 1.5 亿美元资金。",
@@ -83,29 +92,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Roblox 的 AI 助手获得新的代理工具来规划、构建和测试游戏",
-      "summary": "新工具旨在帮助创作者完成整个开发过程。",
-      "link": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "8点1氪丨全季大连某酒店账号公开多名客人特殊订单备注；金立手机创始人被曝在印尼卖家具；雷军将连播15小时测试新SU7续航",
-      "summary": "今日热点导览\n  丝芭传媒：创始人王子杰去世，享年63岁\n  国家统计局：日均词元调用量突破140万亿，较上年末增长40%\n  京东发布机器人产业服务全景图\n  为加速重塑Siri，苹果安排近200名工程师培训AI编程\n  特朗普签发多项输油管道许可，以促进美加之间的石油运输\n  TOP3",
-      "link": "https://36kr.com/p/3770155029398018?f=rss",
+      "title": "专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体",
+      "summary": "文｜邱晓芬\n  编辑｜苏建勋\n  2026年，AI正在加速从云端落地到端侧。近期，模型厂商和手机厂商都在背后开始发力——\n  3月下旬，国内几大手机厂商几乎同时推送了端侧AI的大规模更新，把原本仅限于旗舰机的AI能力下放到中端和千元机市场。自此，端侧AI终于成为大部分智",
+      "link": "https://36kr.com/p/3770819743728131?f=rss",
       "source": "36Kr",
       "date": "2026-04-17",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "智元旗下觅蜂发布一站式物理 AI 数据服务平台｜最前线",
-      "summary": "2026年，大语言模型和视频生成大模型都在疯狂烧token，而具身机器人行业却正在经历“无token可烧”的局面。大模型能像人一样读书，而具身智能要去真实的世界里摸爬滚打才能获取数据——数据的匮乏成为了卡住全行业的瓶颈。\n  4月16日，智元机器人旗下觅蜂科技发布一站式物理 AI 数据服务平台，希望",
-      "link": "https://36kr.com/p/3769501816439555?f=rss",
+      "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
+      "summary": "文｜王欣逸\n  编辑｜苏建勋\n  龙虾热还在继续。\n  4月16日，荣耀进行了一场史上最短的发布会，正式发布此前预热的“养虾本”——荣耀MagicBook系列轻薄本。\n  即便OpenClaw已经刷屏了两个多月，但对于普通用户而言，要养一只原装龙虾，并没有",
+      "link": "https://36kr.com/p/3770787623404293?f=rss",
       "source": "36Kr",
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "tag": "trend",
       "tagText": "资讯"
     }
@@ -194,6 +194,15 @@
   ],
   "ecommerce": [
     {
+      "title": "「日清」换高周转，钱大妈筑牢生鲜护城河",
+      "content": "零售业的风向，正在从线上狂奔转向线下深耕。\n  从沃尔玛试水社区店、东方甄选宣布开设实体店，到盒马、七鲜、小象持续加码线下门店，再到春节期间线下零售额增速一举反超线上，实体门店的价值正在被全面重估。\n  这背后是底层商业逻辑的回归。一方面，完善的物流基建已逐渐缩窄线上线下的价格鸿沟；另一方面，在追求质价比的同时，当下的消费者愈发注重体验式消费。</p",
+      "link": "https://36kr.com/p/3770699297800707?f=rss",
+      "source": "36Kr",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-04-17"
+    },
+    {
       "title": "8点1氪丨全季大连某酒店账号公开多名客人特殊订单备注；金立手机创始人被曝在印尼卖家具；雷军将连播15小时测试新SU7续航",
       "content": "今日热点导览\n  丝芭传媒：创始人王子杰去世，享年63岁\n  国家统计局：日均词元调用量突破140万亿，较上年末增长40%\n  京东发布机器人产业服务全景图\n  为加速重塑Siri，苹果安排近200名工程师培训AI编程\n  特朗普签发多项输油管道许可，以促进美加之间的石油运输\n  TOP3",
       "link": "https://36kr.com/p/3770155029398018?f=rss",
@@ -201,24 +210,6 @@
       "impact": "high",
       "impactText": "高",
       "date": "2026-04-17"
-    },
-    {
-      "title": "氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型",
-      "content": "大公司：\n  亚马逊全球智能枢纽仓（GWD）深圳首仓面向卖家正式开放\n  3",
-      "link": "https://36kr.com/p/3769360179298818?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-16"
-    },
-    {
-      "title": "要做电商Agent OS，前钉钉最年轻副总裁创立的「攀峰智能」再次完成数千万天使轮融资",
-      "content": "文｜王欣逸\n  编辑｜邓咏仪\n  36氪获悉，近日，攀峰智能已完成数千万元天使轮融资，本轮融资由华控资本领投、云时资本跟投，将用于模型研发、团队增长以及市场扩张。\n  攀峰智能（K2 Lab）成立于2025年10月，成立仅一个月，便拿到了来自云时资本的数千万元融资。其三",
-      "link": "https://36kr.com/p/3768320373441281?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-16"
     },
     {
       "title": "淘宝AI导购助手升级，支持复杂需求理解",
@@ -291,20 +282,20 @@
       "date": "2026-04-17"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: topics",
       "author": "@anonymous",
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "link": "https://github.com/explore",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 3045,
+      "likes": 1697,
       "date": "2026-04-17"
     },
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "description": "An AI Hedge Fund Team",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -315,7 +306,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk),",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -326,7 +317,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "An AI Hedge Fund Team",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
