@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-04-17 20:10:05",
+  "updatedAt": "2026-04-18 05:53:14",
   "news": [
+    {
+      "title": "萨姆·奥尔特曼的世界项目希望扩大其人类验证帝国。第一站：Tinder。",
+      "summary": "World 以其以 Orb 为中心的匿名验证项目引起了人们的关注（但也引起了很大的兴趣），它正在寻求扩大其影响力",
+      "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "凯文·威尔 (Kevin Weil) 和比尔·皮布尔斯 (Bill Peebles) 退出 OpenAI，公司继续摆脱“支线任务”",
+      "summary": "随着 OpenAI 关闭 Sora 并解散其科学团队，Kevin Weil 和 Bill Peebles 将离开 OpenAI，这标志着 OpenAI 急剧转向消费领域。",
+      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "资料来源：随着企业增长激增，Cursor 正在洽谈以 50B 美元估值筹集 2B+ 美元资金",
       "summary": "回归的支持者 a16z 和 Thrive 预计将领投本轮融资。",
@@ -65,20 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "热门机器人初创公司Physical Intelligence表示，其新的机器人大脑可以解决从未教授过的任务",
-      "summary": "新模型称为 π0.7，代表了该公司向通用机器人这一长期追求的目标迈出的早期但有意义的一步。",
-      "link": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI 瞄准 Anthropic，通过增强的 Codex 使其在桌面上拥有更强大的功能",
-      "summary": "OpenAI 的代理编码工具已经进行了重大改造，具有各种新的功能和能力。",
-      "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-16",
+      "title": "智元机器人，要做AI大模型平台和开放生态",
+      "summary": "文｜王毓婵\n  编辑｜杨轩\n  当一家机器人公司决定做AI大模型平台和开放生态，它会给行业带来什么？\n  上个月，智元刚刚跨过“机器人量产下线一万台”的门槛。4月17日，这家由前华为“天才少年”彭志辉与前华为副总裁邓泰华共同创立的机器人公司在合作伙伴大会上，花了大量的时间和篇幅介绍软件上的新产品。相",
+      "link": "https://36kr.com/p/3770721219035649?f=rss",
+      "source": "36Kr",
+      "date": "2026-04-18",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -95,15 +104,6 @@
       "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
       "summary": "文｜王欣逸\n  编辑｜苏建勋\n  龙虾热还在继续。\n  4月16日，荣耀进行了一场史上最短的发布会，正式发布此前预热的“养虾本”——荣耀MagicBook系列轻薄本。\n  即便OpenClaw已经刷屏了两个多月，但对于普通用户而言，要养一只原装龙虾，并没有",
       "link": "https://36kr.com/p/3770787623404293?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "玩腻了AI的年轻人，爱上桔子酒店的「手搓」生活？",
-      "summary": "<img 数据-img-size-val=\"1080,1528\" src =“https://img.36krcdn.com/hsossms/20260417/v2_c0e8c7027ea145d2bb9f6b7e3bd85108@5362858_oswg1122123oswg1080oswg15",
-      "link": "https://36kr.com/p/3770578424676866?f=rss",
       "source": "36Kr",
       "date": "2026-04-17",
       "tag": "trend",
@@ -203,22 +203,13 @@
       "date": "2026-04-17"
     },
     {
-      "title": "8点1氪丨全季大连某酒店账号公开多名客人特殊订单备注；金立手机创始人被曝在印尼卖家具；雷军将连播15小时测试新SU7续航",
-      "content": "今日热点导览\n  丝芭传媒：创始人王子杰去世，享年63岁\n  国家统计局：日均词元调用量突破140万亿，较上年末增长40%\n  京东发布机器人产业服务全景图\n  为加速重塑Siri，苹果安排近200名工程师培训AI编程\n  特朗普签发多项输油管道许可，以促进美加之间的石油运输\n  TOP3",
-      "link": "https://36kr.com/p/3770155029398018?f=rss",
-      "source": "36Kr",
-      "impact": "high",
-      "impactText": "高",
-      "date": "2026-04-17"
-    },
-    {
       "title": "淘宝AI导购助手升级，支持复杂需求理解",
       "content": "基于大语言模型的购物助手能够理解复杂需求，提供个性化推荐。",
       "link": "https://36kr.com/",
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-17"
+      "date": "2026-04-18"
     },
     {
       "title": "京东言犀大模型客服覆盖全品类",
@@ -227,7 +218,7 @@
       "source": "京东",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-17"
+      "date": "2026-04-18"
     },
     {
       "title": "拼多多AI商品描述自动生成",
@@ -236,7 +227,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-17"
+      "date": "2026-04-18"
     },
     {
       "title": "TikTok Shop AI驱动全球扩张",
@@ -245,7 +236,7 @@
       "source": "TechCrunch",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-17"
+      "date": "2026-04-18"
     },
     {
       "title": "Shopify AI店铺装修上线",
@@ -254,7 +245,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-17"
+      "date": "2026-04-18"
     }
   ],
   "agents": [
@@ -268,7 +259,7 @@
         "LLM"
       ],
       "likes": 2325,
-      "date": "2026-04-17"
+      "date": "2026-04-18"
     },
     {
       "title": "开源项目: manifest.json",
@@ -279,7 +270,7 @@
         "GitHub"
       ],
       "likes": 4324,
-      "date": "2026-04-17"
+      "date": "2026-04-18"
     },
     {
       "title": "开源项目: topics",
@@ -290,7 +281,7 @@
         "GitHub"
       ],
       "likes": 1697,
-      "date": "2026-04-17"
+      "date": "2026-04-18"
     },
     {
       "title": "开源项目: collections",
@@ -301,7 +292,7 @@
         "GitHub"
       ],
       "likes": 2046,
-      "date": "2026-04-17"
+      "date": "2026-04-18"
     },
     {
       "title": "开源项目: events",
@@ -312,7 +303,7 @@
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-04-17"
+      "date": "2026-04-18"
     },
     {
       "title": "开源项目: explore",
@@ -323,7 +314,7 @@
         "GitHub"
       ],
       "likes": 7510,
-      "date": "2026-04-17"
+      "date": "2026-04-18"
     },
     {
       "title": "独立开发者用AI搭建自动化内容工厂",
@@ -336,7 +327,7 @@
         "Zapier"
       ],
       "likes": 2340,
-      "date": "2026-04-17"
+      "date": "2026-04-18"
     },
     {
       "title": "退休教师用AI创作儿童故事",
@@ -349,7 +340,7 @@
         "小红书"
       ],
       "likes": 5670,
-      "date": "2026-04-17"
+      "date": "2026-04-18"
     },
     {
       "title": "全职妈妈用AI开启副业月入2万",
@@ -362,7 +353,7 @@
         "1688"
       ],
       "likes": 8920,
-      "date": "2026-04-17"
+      "date": "2026-04-18"
     },
     {
       "title": "自由设计师的AI工作流分享",
@@ -375,7 +366,7 @@
         "Figma AI"
       ],
       "likes": 3120,
-      "date": "2026-04-17"
+      "date": "2026-04-18"
     }
   ]
 }
