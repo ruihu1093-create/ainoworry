@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-04-18 19:56:10",
+  "updatedAt": "2026-04-19 06:19:12",
   "news": [
+    {
+      "title": "特斯拉将机器人出租车服务引入达拉斯和休斯顿",
+      "summary": "该公司去年在奥斯汀推出并开始提供无人出租车乘车服务，目前在德克萨斯州的三个城市提供机器人出租车服务。",
+      "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "人工智能芯片初创公司 Cerebras 申请 IPO",
       "summary": "近几个月来，该公司宣布与 Amazon Web Services 达成协议，在 Amazon 数据中心使用 Cerebras 芯片，并与 Ope 达成协议",
@@ -68,15 +77,6 @@
       "title": "Anthropic 推出 Claude Design，一款用于创建快速视觉效果的新产品",
       "summary": "该公司表示，Claude Design 旨在帮助没有设计背景的创始人和产品经理等人更轻松地分享他们的想法",
       "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "我们的代币最大化是否会走向无路可走？",
-      "summary": "人工智能内部人士与其他人之间的差距正在扩大，支出、怀疑甚至新词汇都开始表明这一点。而操作",
-      "link": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
       "source": "TechCrunch-AI",
       "date": "2026-04-17",
       "tag": "trend",
@@ -209,7 +209,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-18"
+      "date": "2026-04-19"
     },
     {
       "title": "京东言犀大模型客服覆盖全品类",
@@ -218,7 +218,7 @@
       "source": "京东",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-18"
+      "date": "2026-04-19"
     },
     {
       "title": "拼多多AI商品描述自动生成",
@@ -227,7 +227,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-18"
+      "date": "2026-04-19"
     },
     {
       "title": "TikTok Shop AI驱动全球扩张",
@@ -236,7 +236,7 @@
       "source": "TechCrunch",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-18"
+      "date": "2026-04-19"
     },
     {
       "title": "Shopify AI店铺装修上线",
@@ -245,7 +245,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-18"
+      "date": "2026-04-19"
     }
   ],
   "agents": [
@@ -259,7 +259,7 @@
         "LLM"
       ],
       "likes": 2325,
-      "date": "2026-04-18"
+      "date": "2026-04-19"
     },
     {
       "title": "开源项目: manifest.json",
@@ -270,7 +270,7 @@
         "GitHub"
       ],
       "likes": 4324,
-      "date": "2026-04-18"
+      "date": "2026-04-19"
     },
     {
       "title": "开源项目: collections",
@@ -281,7 +281,7 @@
         "GitHub"
       ],
       "likes": 2046,
-      "date": "2026-04-18"
+      "date": "2026-04-19"
     },
     {
       "title": "开源项目: events",
@@ -292,7 +292,7 @@
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-04-18"
+      "date": "2026-04-19"
     },
     {
       "title": "开源项目: explore",
@@ -304,7 +304,7 @@
         "LLM"
       ],
       "likes": 7510,
-      "date": "2026-04-18"
+      "date": "2026-04-19"
     },
     {
       "title": "独立开发者用AI搭建自动化内容工厂",
@@ -317,7 +317,7 @@
         "Zapier"
       ],
       "likes": 2340,
-      "date": "2026-04-18"
+      "date": "2026-04-19"
     },
     {
       "title": "退休教师用AI创作儿童故事",
@@ -330,7 +330,7 @@
         "小红书"
       ],
       "likes": 5670,
-      "date": "2026-04-18"
+      "date": "2026-04-19"
     },
     {
       "title": "全职妈妈用AI开启副业月入2万",
@@ -343,7 +343,7 @@
         "1688"
       ],
       "likes": 8920,
-      "date": "2026-04-18"
+      "date": "2026-04-19"
     },
     {
       "title": "自由设计师的AI工作流分享",
@@ -356,7 +356,7 @@
         "Figma AI"
       ],
       "likes": 3120,
-      "date": "2026-04-18"
+      "date": "2026-04-19"
     },
     {
       "title": "乡村教师搭建AI英语陪练",
@@ -369,7 +369,7 @@
         "TTS"
       ],
       "likes": 15600,
-      "date": "2026-04-18"
+      "date": "2026-04-19"
     }
   ]
 }
