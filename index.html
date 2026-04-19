@@ -90,7 +90,7 @@
     .news-card .date { font-size: 11px; color: #9ca3af; }
     .news-card h4 { font-size: 16px; font-weight: 700; color: #1f2937; margin-bottom: 6px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
     .news-card p { font-size: 13px; color: #4b5563; line-height: 1.6; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-    .news-card .source { font-size: 11px; color: #9ca3af; margin-top: 10px; }
+    .news-card .source { font-size: 11px; color: #9ca3af; margin-top: 10px; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
 
     /* 产品卡片 */
     .product-card { width: 220px; text-align: center; }
@@ -131,9 +131,24 @@
     .toast.info { background: #eff6ff; color: #1e40af; border: 1px solid #bfdbfe; }
 
     /* 来源标签 */
-    .source-tag { display: inline-block; font-size: 11px; padding: 2px 8px; border-radius: 4px; background: #f3f4f6; color: #6b7280; text-decoration: none; margin-top: 8px; }
-    .source-tag.linked { background: #eff6ff; color: #2563eb; cursor: pointer; }
-    .source-tag.linked:hover { background: #dbeafe; color: #1d4ed8; }
+    .source-tag { display: inline-flex; align-items: center; gap: 3px; font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 9999px; background: #f3f4f6; color: #6b7280; text-decoration: none; white-space: nowrap; }
+    .source-tag.linked { cursor: pointer; }
+    .source-tag.linked:hover { opacity: 0.85; }
+    /* 各媒体来源主题色 */
+    .source-tag[data-src="量子位"] { background: #fef3c7; color: #b45309; }
+    .source-tag[data-src="机器之心"] { background: #dbeafe; color: #1d4ed8; }
+    .source-tag[data-src="新智元"] { background: #d1fae5; color: #047857; }
+    .source-tag[data-src="晚点LatePost"] { background: #ede9fe; color: #6d28d9; }
+    .source-tag[data-src="暗涌Waves"] { background: #fce7f3; color: #be185d; }
+    .source-tag[data-src="Founder Park"] { background: #fee2e2; color: #b91c1c; }
+    .source-tag[data-src="36Kr"] { background: #ecfdf5; color: #065f46; }
+    .source-tag[data-src="极客公园"] { background: #fff7ed; color: #c2410c; }
+    .source-tag[data-src="特工宇宙"] { background: #f0f9ff; color: #0369a1; }
+    .source-tag[data-src="TechCrunch"] { background: #fff1f2; color: #be123c; }
+    .source-tag[data-src="VentureBeat"] { background: #f5f3ff; color: #7c3aed; }
+    .source-tag[data-src="TheVerge"] { background: #fdf4ff; color: #a21caf; }
+    .source-tag[data-src="Hugging Face"] { background: #fffbeb; color: #92400e; }
+    .source-tag[data-src="ProductHunt"] { background: #fff7ed; color: #ea580c; }
     .card h4 a { color: inherit; text-decoration: none; transition: color 0.2s; }
     .card h4 a:hover { color: #2563eb; text-decoration: underline; }
 
@@ -703,13 +718,30 @@
     }
 
     // ===== 来源URL映射 =====
-    // 从 data.json 加载的数据已经包含完整的链接信息
-    var sourceUrls = {};
+    var sourceUrls = {
+      '量子位':         'https://www.qbitai.com/',
+      '机器之心':       'https://www.jiqizhixin.com/',
+      '新智元':         'https://www.xinzhiyuan.net/',
+      '晚点LatePost':   'https://www.latepost.com/',
+      '暗涌Waves':      'https://www.waves.com.cn/',
+      'Founder Park':    'https://mp.weixin.qq.com/s/founder-park',
+      '36Kr':            'https://36kr.com/',
+      '极客公园':       'https://www.geekpark.net/',
+      '特工宇宙':       'https://www.tezign.com/',
+      'TechCrunch':      'https://techcrunch.com/',
+      'VentureBeat':     'https://venturebeat.com/',
+      'TheVerge':        'https://www.theverge.com/',
+      'Hugging Face':    'https://huggingface.co/blog',
+      'ProductHunt':     'https://www.producthunt.com/',
+      '京东':            'https://www.jdcloud.com/',
+    };
 
     function renderSourceTag(name) {
+      if (!name) return '';
       var url = sourceUrls[name];
-      if (url) return '<a href="' + url + '" target="_blank" rel="noopener" class="source-tag linked">' + name + ' ↗</a>';
-      return '<span class="source-tag">' + name + '</span>';
+      var dataSrc = ' data-src="' + name + '"';
+      if (url) return '<a href="' + url + '" target="_blank" rel="noopener" class="source-tag linked"' + dataSrc + '>' + name + ' ↗</a>';
+      return '<span class="source-tag"' + dataSrc + '>' + name + '</span>';
     }
 
     // ===== 渲染 =====
@@ -724,10 +756,11 @@
       c.innerHTML = newsData.map(function(item, i) {
         var link = item.link || '';
         var titleHtml = link ? '<h4><a href="' + link + '" target="_blank" rel="noopener">' + item.title + '</a></h4>' : '<h4>' + item.title + '</h4>';
+        var srcTag = item.source ? renderSourceTag(item.source) : '';
         return '<div class="card news-card ' + item.tag + '">' +
           '<div class="top-row"><span class="tag ' + item.tag + '">' + (item.tagText || '资讯') + '</span><span class="date">' + getRelativeTime(item.date) + '</span></div>' +
           titleHtml + '<p>' + item.summary + '</p>' +
-          '<div class="source">' + item.date + ' · ' + renderSourceTag(item.source) + '</div></div>';
+          '<div class="source"><span>' + item.date + '</span>' + (srcTag ? srcTag : '') + '</div></div>';
       }).join('');
     }
 
@@ -742,9 +775,11 @@
       c.innerHTML = productsData.map(function(item, i) {
         var link = item.link || '';
         var titleHtml = link ? '<h4><a href="' + link + '" target="_blank" rel="noopener">' + item.name + '</a></h4>' : '<h4>' + item.name + '</h4>';
+        var srcTag = item.source ? renderSourceTag(item.source) : '';
         return '<div class="card product-card"><div class="icon">' + item.icon + '</div>' +
           titleHtml + '<span class="category">' + item.category + '</span>' +
-          '<p>' + item.description + '</p>' + (item.source ? renderSourceTag(item.source) : '') + '</div>';
+          '<p>' + item.description + '</p>' +
+          (srcTag ? '<div style="margin-top:8px;">' + srcTag + '</div>' : '') + '</div>';
       }).join('');
     }
 
@@ -787,7 +822,10 @@
         var srcTag = item.source ? renderSourceTag(item.source) : '';
         return '<div class="card ecommerce-card"><div class="top-row">' + titleHtml +
           '<span class="impact ' + item.impact + '">影响: ' + item.impactText + '</span></div>' +
-          '<p>' + item.content + '</p><div class="date">' + item.date + '（' + getRelativeTime(item.date) + '）' + (srcTag ? ' · ' + srcTag : '') + '</div></div>';
+          '<p>' + item.content + '</p>' +
+          '<div class="date" style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;">' +
+          '<span>' + item.date + '（' + getRelativeTime(item.date) + '）</span>' +
+          (srcTag ? srcTag : '') + '</div></div>';
       }).join('');
     }
 
