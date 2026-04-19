@@ -152,6 +152,10 @@
     .model-meta { display: flex; align-items: center; gap: 6px; }
     .model-company { font-size: 11px; color: #6b7280; }
     .model-date { font-size: 10px; color: #9ca3af; }
+    .model-highlight { font-size: 10px; color: #4b5563; margin-top: 3px; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .model-highlight .hl-tag { color: #7c3aed; font-weight: 600; margin-right: 2px; }
+    .model-card a.model-link { text-decoration: none; color: inherit; display: block; }
+    .model-card a.model-link:hover .model-name { color: #7c3aed; }
     .section-icon.models { background: linear-gradient(135deg, #8b5cf6, #a78bfa); }
     .section-icon.github { background: linear-gradient(135deg, #f59e0b, #fbbf24); }
 
@@ -442,274 +446,216 @@
         <span class="section-count" id="models-count"></span>
       </div>
       <div class="models-grid" id="models-grid">
-        <!-- 国内模型 -->
+        <!-- 国内文本模型 -->
         <div class="models-column">
           <div class="models-column-header">🇨🇳 国内模型</div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">通义千问</span>
-              <span class="model-version">Qwen3-235B</span>
-              <span class="model-badge new">最新</span>
-              <span class="model-badge multi">多模态</span>
-            </div>
+
+          <div class="model-card"><a href="https://chat.qwen.ai" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">通义千问</span><span class="model-version">Qwen3-235B</span><span class="model-badge new">最新</span><span class="model-badge multi">多模态</span></div>
             <div class="model-meta"><span class="model-company">阿里巴巴</span><span class="model-date">2026年4月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">DeepSeek</span>
-              <span class="model-version">V4</span>
-              <span class="model-badge hot">热门</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>2350亿参数MoE架构，推理能力全面升级。<span class="hl-tag">本次更新</span>支持思考模式切换，代码、数学性能大幅提升。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://chat.deepseek.com" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">DeepSeek</span><span class="model-version">V4</span><span class="model-badge hot">热门</span></div>
             <div class="model-meta"><span class="model-company">深度求索</span><span class="model-date">2026年2月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Kimi</span>
-              <span class="model-version">k2.0</span>
-              <span class="model-badge multi">多模态</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>极低训练成本，开源强者。<span class="hl-tag">本次更新</span>推理速度提升，长文本理解能力更强。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://kimi.moonshot.cn" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Kimi</span><span class="model-version">k2.0</span><span class="model-badge multi">多模态</span></div>
             <div class="model-meta"><span class="model-company">月之暗面</span><span class="model-date">2026年</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">GLM</span>
-              <span class="model-version">5</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>超长文本窗口+图文理解。<span class="hl-tag">本次更新</span>支持多图输入，搜索增强，推理更快。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://chatglm.cn" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">GLM</span><span class="model-version">5</span></div>
             <div class="model-meta"><span class="model-company">智谱AI</span><span class="model-date">2026年2月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">文心</span>
-              <span class="model-version">X1.1</span>
-              <span class="model-badge multi">多模态</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>图文多模态+长文档理解。<span class="hl-tag">本次更新</span>工具调用能力升级，支持更多 Agent 场景。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://yiyan.baidu.com" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">文心</span><span class="model-version">X1.1</span><span class="model-badge multi">多模态</span></div>
             <div class="model-meta"><span class="model-company">百度</span><span class="model-date">2026年3月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">豆包</span>
-              <span class="model-version">2.0 Pro</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>深度搜索集成+图文生成。<span class="hl-tag">本次更新</span>搜索引用更准确，答题实时性增强。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://www.doubao.com" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">豆包</span><span class="model-version">2.0 Pro</span></div>
             <div class="model-meta"><span class="model-company">字节跳动</span><span class="model-date">2026年</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Hunyuan</span>
-              <span class="model-version">A52B</span>
-              <span class="model-badge open">开源</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>日常办公+创作场景优化。<span class="hl-tag">本次更新</span>多轮对话更顺滑，写作指令跟随能力升级。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://hunyuan.tencent.com" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Hunyuan</span><span class="model-version">A52B</span><span class="model-badge open">开源</span></div>
             <div class="model-meta"><span class="model-company">腾讯</span><span class="model-date">2026年3月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">MiniMax</span>
-              <span class="model-version">M1</span>
-              <span class="model-badge multi">多模态</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>MoE开源，中文能力出色。<span class="hl-tag">本次更新</span>参数量520亿，权重全面开放。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://www.minimaxi.com" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">MiniMax</span><span class="model-version">M1</span><span class="model-badge multi">多模态</span></div>
             <div class="model-meta"><span class="model-company">MiniMax</span><span class="model-date">2026年3月</span></div>
-          </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>长文本+语音+图像一体。<span class="hl-tag">本次更新</span>上下文窗口100万token，强化Agent工具调用。</div>
+          </a></div>
         </div>
-        <!-- 国内多模态/视频模型 -->
+
+        <!-- 国内图像/视频 -->
         <div class="models-column">
-          <div class="models-column-header">🇨🇳 国内圖像/视频</div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Wan</span>
-              <span class="model-version">2.1-T2V</span>
-              <span class="model-badge new">最新</span>
-            </div>
+          <div class="models-column-header">🇨🇳 国内图像/视频</div>
+
+          <div class="model-card"><a href="https://wan.video" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Wan</span><span class="model-version">2.1-T2V</span><span class="model-badge new">最新</span></div>
             <div class="model-meta"><span class="model-company">阿里巴巴</span><span class="model-date">2026年3月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">CogVideo</span>
-              <span class="model-version">X2</span>
-              <span class="model-badge open">开源</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>高质量文生视频开源模型。<span class="hl-tag">本次更新</span>动作一致性提升，支持更长时长视频。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://cogvideox.github.io" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">CogVideo</span><span class="model-version">X2</span><span class="model-badge open">开源</span></div>
             <div class="model-meta"><span class="model-company">智谱AI</span><span class="model-date">2026年</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">即梦</span>
-              <span class="model-version">3.0</span>
-              <span class="model-badge multi">图生视频</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>全开源视频生成，可本地部署。<span class="hl-tag">本次更新</span>帧一致性更高，分辨率升至720P。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://jimeng.jianying.com" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">即梦</span><span class="model-version">3.0</span><span class="model-badge multi">图生视频</span></div>
             <div class="model-meta"><span class="model-company">字节跳动</span><span class="model-date">2026年</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Step-Video</span>
-              <span class="model-version">T2V</span>
-              <span class="model-badge open">开源</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>图生视频+文生视频一体。<span class="hl-tag">本次更新</span>開放商业化API，制作质量大幅提升。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://github.com/stepfun-ai/Step-Video-T2V" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Step-Video</span><span class="model-version">T2V</span><span class="model-badge open">开源</span></div>
             <div class="model-meta"><span class="model-company">阶问山川</span><span class="model-date">2026年2月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">HiDream</span>
-              <span class="model-version">I1</span>
-              <span class="model-badge open">开源</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>国内开源视频模型先驱者。<span class="hl-tag">本次更新</span>权重开放，30fps高帧率视频。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://hidream.ai" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">HiDream</span><span class="model-version">I1</span><span class="model-badge open">开源</span></div>
             <div class="model-meta"><span class="model-company">海彼文思</span><span class="model-date">2026年3月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">FLUX</span>
-              <span class="model-version">Kontext</span>
-              <span class="model-badge hot">热门</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>170亿参数开源图像生成。<span class="hl-tag">本次更新</span>全局一致性更高，推理速度更快。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://blackforestlabs.ai" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">FLUX</span><span class="model-version">Kontext</span><span class="model-badge hot">热门</span></div>
             <div class="model-meta"><span class="model-company">Black Forest</span><span class="model-date">2026年4月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Kling</span>
-              <span class="model-version">2.0 Master</span>
-              <span class="model-badge hot">热门</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>图像上下文理解+精确编辑。<span class="hl-tag">本次更新</span>支持局部修改，不破坏全图。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://klingai.com" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Kling</span><span class="model-version">2.0 Master</span><span class="model-badge hot">热门</span></div>
             <div class="model-meta"><span class="model-company">快手科技</span><span class="model-date">2026年2月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Hailuo</span>
-              <span class="model-version">Video 1.5</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>国内领先的视频生成平台。<span class="hl-tag">本次更新</span>动作连贯性大幅提升，单片最长3分钟。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://hailuo.ai" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Hailuo</span><span class="model-version">Video 1.5</span></div>
             <div class="model-meta"><span class="model-company">MiniMax</span><span class="model-date">2026年</span></div>
-          </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>写实风格视频生成实力强。<span class="hl-tag">本次更新</span>添加世界一致性模型，固定镜头更稳。</div>
+          </a></div>
         </div>
-        <!-- 国外模型 -->
+
+        <!-- 国外文本模型 -->
         <div class="models-column">
           <div class="models-column-header">🌍 国外文本模型</div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">GPT-6</span>
-              <span class="model-version">"Spud"</span>
-              <span class="model-badge new">最新</span>
-            </div>
+
+          <div class="model-card"><a href="https://chat.openai.com" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">GPT-6</span><span class="model-version">"Spud"</span><span class="model-badge new">最新</span></div>
             <div class="model-meta"><span class="model-company">OpenAI</span><span class="model-date">2026年4月14日</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">o4-mini</span>
-              <span class="model-version">high</span>
-              <span class="model-badge hot">热门</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>全面对齐GPT系列旗舰。<span class="hl-tag">本次更新</span>多模态进一步常规化，推理速度大幅提升。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://chat.openai.com" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">o4-mini</span><span class="model-version">high</span><span class="model-badge hot">热门</span></div>
             <div class="model-meta"><span class="model-company">OpenAI</span><span class="model-date">2026年4月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Claude</span>
-              <span class="model-version">Opus 4.6</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>轻量推理神器，性价比极高。<span class="hl-tag">本次更新</span>代码、数学推理能力超过o3，成本降低80%。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://claude.ai" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Claude</span><span class="model-version">Opus 4.6</span></div>
             <div class="model-meta"><span class="model-company">Anthropic</span><span class="model-date">2026年2月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Gemini</span>
-              <span class="model-version">2.5 Pro</span>
-              <span class="model-badge hot">热门</span>
-              <span class="model-badge multi">多模态</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>长文本写作和代码基准之一。<span class="hl-tag">本次更新</span>计算机使用能力增强，工具调用更可靠。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://gemini.google.com" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Gemini</span><span class="model-version">2.5 Pro</span><span class="model-badge hot">热门</span><span class="model-badge multi">多模态</span></div>
             <div class="model-meta"><span class="model-company">Google</span><span class="model-date">2026年3月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Llama</span>
-              <span class="model-version">4 Scout</span>
-              <span class="model-badge open">开源</span>
-              <span class="model-badge multi">多模态</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>当前最强多模态长文本窗口。<span class="hl-tag">本次更新</span>思考迎头赶上、程序能力显著提升。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://llama.meta.com" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Llama</span><span class="model-version">4 Scout</span><span class="model-badge open">开源</span><span class="model-badge multi">多模态</span></div>
             <div class="model-meta"><span class="model-company">Meta</span><span class="model-date">2026年4月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Grok</span>
-              <span class="model-version">3</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>开源多模态旗舰，全面开放。<span class="hl-tag">本次更新</span>1000万token上下文，图像理解达商业模型级别。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://grok.x.ai" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Grok</span><span class="model-version">3</span></div>
             <div class="model-meta"><span class="model-company">xAI</span><span class="model-date">2026年2月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Mistral</span>
-              <span class="model-version">Large 3</span>
-              <span class="model-badge open">开源</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>实时X平台数据对接，时效性强。<span class="hl-tag">本次更新</span>推理能力大幅增强，数学竞赛达 SOTA。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://mistral.ai" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Mistral</span><span class="model-version">Large 3</span><span class="model-badge open">开源</span></div>
             <div class="model-meta"><span class="model-company">Mistral</span><span class="model-date">2026年2月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Command R</span>
-              <span class="model-version">+</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>欧洲领先开源模型，隐私友好。<span class="hl-tag">本次更新</span>代码能力显著提升，支持更多语言。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://cohere.com" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Command R</span><span class="model-version">+</span></div>
             <div class="model-meta"><span class="model-company">Cohere</span><span class="model-date">2026年</span></div>
-          </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>企业级RAG与工具调用专项。<span class="hl-tag">本次更新</span>检索精度提升，支持更大知识库接入。</div>
+          </a></div>
         </div>
-        <!-- 国外多模态/视频 -->
+
+        <!-- 国外图像/视频/音频 -->
         <div class="models-column">
           <div class="models-column-header">🌍 国外图像/视频/音频</div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Sora</span>
-              <span class="model-version">Turbo</span>
-              <span class="model-badge multi">文生视频</span>
-            </div>
+
+          <div class="model-card"><a href="https://sora.com" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Sora</span><span class="model-version">Turbo</span><span class="model-badge multi">文生视频</span></div>
             <div class="model-meta"><span class="model-company">OpenAI</span><span class="model-date">2026年</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Veo</span>
-              <span class="model-version">3</span>
-              <span class="model-badge new">最新</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>物理世界理解+长时间视频。<span class="hl-tag">本次更新</span>生成速度3倍提升，开放商业API。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://deepmind.google/veo" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Veo</span><span class="model-version">3</span><span class="model-badge new">最新</span></div>
             <div class="model-meta"><span class="model-company">Google</span><span class="model-date">2026年4月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Gemma</span>
-              <span class="model-version">4系列</span>
-              <span class="model-badge open">开源</span>
-              <span class="model-badge multi">多模态</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>超高清视频+声音同步生成。<span class="hl-tag">本次更新</span>支持4K输出，内容一致性大幅提升。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://ai.google.dev/gemma" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Gemma</span><span class="model-version">4系列</span><span class="model-badge open">开源</span><span class="model-badge multi">多模态</span></div>
             <div class="model-meta"><span class="model-company">Google</span><span class="model-date">2026年4月11日</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Imagen</span>
-              <span class="model-version">4</span>
-              <span class="model-badge new">最新</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>轻量开源多模态，设备端部署首选。<span class="hl-tag">本次更新</span>2B/9B/27B洗牲，图像理解能力首次加入。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://imagen.research.google" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Imagen</span><span class="model-version">4</span><span class="model-badge new">最新</span></div>
             <div class="model-meta"><span class="model-company">Google</span><span class="model-date">2026年4月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Runway</span>
-              <span class="model-version">Gen-4</span>
-              <span class="model-badge hot">热门</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>高精度图像生成，文字渲染准确。<span class="hl-tag">本次更新</span>带有内容水印，编辑能力更强。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://runwayml.com" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Runway</span><span class="model-version">Gen-4</span><span class="model-badge hot">热门</span></div>
             <div class="model-meta"><span class="model-company">Runway</span><span class="model-date">2026年3月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Luma</span>
-              <span class="model-version">Dream Machine 2</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>视频创作工具标杆，电影级效果。<span class="hl-tag">本次更新</span>超高清+门店内容一致性。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://lumalabs.ai" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Luma</span><span class="model-version">Dream Machine 2</span></div>
             <div class="model-meta"><span class="model-company">Luma AI</span><span class="model-date">2026年3月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">ElevenLabs</span>
-              <span class="model-version">v3</span>
-              <span class="model-badge hot">音频</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>物理真实感视频生成。<span class="hl-tag">本次更新</span>新增镜头运动控制，动态范围更自然。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://elevenlabs.io" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">ElevenLabs</span><span class="model-version">v3</span><span class="model-badge hot">音频</span></div>
             <div class="model-meta"><span class="model-company">ElevenLabs</span><span class="model-date">2026年3月</span></div>
-          </div>
-          <div class="model-card">
-            <div class="model-header">
-              <span class="model-name">Stable Diffusion</span>
-              <span class="model-version">4</span>
-              <span class="model-badge open">开源</span>
-            </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>最优AI语音克隆+配音工具。<span class="hl-tag">本次更新</span>情感表达更自然，延迟降至200ms。</div>
+          </a></div>
+
+          <div class="model-card"><a href="https://stability.ai" target="_blank" rel="noopener" class="model-link">
+            <div class="model-header"><span class="model-name">Stable Diffusion</span><span class="model-version">4</span><span class="model-badge open">开源</span></div>
             <div class="model-meta"><span class="model-company">Stability AI</span><span class="model-date">2026年3月</span></div>
-          </div>
+            <div class="model-highlight"><span class="hl-tag">最大特点</span>开源图像生成基石，极强定制性。<span class="hl-tag">本次更新</span>架构重写，节奏控制更精确。</div>
+          </a></div>
         </div>
       </div>
     </section>
