@@ -249,5 +249,159 @@
       ],
       "likes": 4560
     }
+  ],
+  "github": [
+    {
+      "name": "open-webui",
+      "author": "open-webui",
+      "description": "用户友好的AI聊天界面，支持Ollama、OpenAI等多种大模型后端本地部署",
+      "link": "https://github.com/open-webui/open-webui",
+      "stars": 89000,
+      "trend": 1200,
+      "forks": 8900,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "UI"
+        }
+      ],
+      "icon": "🌐",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "ollama",
+      "author": "ollama",
+      "description": "本地运行Llama、Mistral、Gemma等大模型最简便方式，一行命令启动",
+      "link": "https://github.com/ollama/ollama",
+      "stars": 128000,
+      "trend": 2300,
+      "forks": 11200,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Local"
+        }
+      ],
+      "icon": "🦙",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "dify",
+      "author": "langgenius",
+      "description": "开源LLM应用开发平台，可视化AI工作流编排与RAG管道",
+      "link": "https://github.com/langgenius/dify",
+      "stars": 82000,
+      "trend": 980,
+      "forks": 12100,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "icon": "⚡",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "ComfyUI",
+      "author": "comfyanonymous",
+      "description": "强大的节点式图像AI生成工作流工具，支持SD、Flux等模型",
+      "link": "https://github.com/comfyanonymous/ComfyUI",
+      "stars": 65000,
+      "trend": 750,
+      "forks": 7300,
+      "tags": [
+        {
+          "name": "Image"
+        },
+        {
+          "name": "AI"
+        }
+      ],
+      "icon": "🎨",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "langchain",
+      "author": "langchain-ai",
+      "description": "构建LLM应用程序的核心框架，提供链式调用与工具集成",
+      "link": "https://github.com/langchain-ai/langchain",
+      "stars": 96000,
+      "trend": 600,
+      "forks": 16000,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Agent"
+        }
+      ],
+      "icon": "🔗",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "lobe-chat",
+      "author": "lobehub",
+      "description": "开源高性能AI聊天框架，支持多模型、插件系统与私有化部署",
+      "link": "https://github.com/lobehub/lobe-chat",
+      "stars": 51000,
+      "trend": 830,
+      "forks": 5600,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "UI"
+        }
+      ],
+      "icon": "💬",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "AutoGPT",
+      "author": "Significant-Gravitas",
+      "description": "自主AI代理平台，让GPT模型自动拆解任务并持续执行",
+      "link": "https://github.com/Significant-Gravitas/AutoGPT",
+      "stars": 170000,
+      "trend": 500,
+      "forks": 44000,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Auto"
+        }
+      ],
+      "icon": "🤖",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "vllm",
+      "author": "vllm-project",
+      "description": "高吞吐量LLM推理与服务引擎，PagedAttention大幅提升GPU利用率",
+      "link": "https://github.com/vllm-project/vllm",
+      "stars": 40000,
+      "trend": 920,
+      "forks": 6100,
+      "tags": [
+        {
+          "name": "Inference"
+        },
+        {
+          "name": "GPU"
+        }
+      ],
+      "icon": "🚀",
+      "date": "2026-04-19"
+    }
   ]
 }
