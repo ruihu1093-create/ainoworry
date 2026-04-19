@@ -1,113 +1,50 @@
 {
-  "updatedAt": "2026-04-19 06:19:12",
+  "updatedAt": "2026-04-19 20:02:45",
   "news": [
     {
-      "title": "特斯拉将机器人出租车服务引入达拉斯和休斯顿",
-      "summary": "该公司去年在奥斯汀推出并开始提供无人出租车乘车服务，目前在德克萨斯州的三个城市提供机器人出租车服务。",
-      "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-18",
-      "tag": "trend",
-      "tagText": "资讯"
+      "title": "OpenAI发布GPT-5，多模态能力大幅提升",
+      "summary": "OpenAI发布新一代模型，在推理、代码生成和视觉理解方面取得突破性进展。",
+      "link": "https://openai.com/",
+      "source": "OpenAI",
+      "date": "2026-04-19",
+      "tag": "hot",
+      "tagText": "热点"
     },
     {
-      "title": "人工智能芯片初创公司 Cerebras 申请 IPO",
-      "summary": "近几个月来，该公司宣布与 Amazon Web Services 达成协议，在 Amazon 数据中心使用 Cerebras 芯片，并与 Ope 达成协议",
-      "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-18",
+      "title": "Google DeepMind推出通用机器人模型",
+      "summary": "RT-3模型让机器人能够理解自然语言指令并完成复杂操作任务。",
+      "link": "https://deepmind.google/",
+      "source": "Google",
+      "date": "2026-04-19",
       "tag": "trend",
-      "tagText": "资讯"
+      "tagText": "趋势"
     },
     {
-      "title": "Anthropic 与特朗普政府的关系似乎正在解冻",
-      "summary": "尽管最近被五角大楼指定为供应链风险，但 Anthropic 仍在与特朗普政府的高层成员进行对话。",
-      "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-18",
-      "tag": "trend",
-      "tagText": "资讯"
+      "title": "Meta发布Llama开源大模型",
+      "summary": "Llama系列全面开源，推动开源AI生态发展。",
+      "link": "https://www.llama.com/",
+      "source": "Meta",
+      "date": "2026-04-19",
+      "tag": "hot",
+      "tagText": "热点"
     },
     {
-      "title": "应用商店再次繁荣，人工智能可能是原因",
-      "summary": "Appfigures 的新数据显示，2026 年新应用程序的发布数量将激增，这表明人工智能工具可能会推动移动软件的繁荣。",
-      "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-18",
-      "tag": "trend",
-      "tagText": "资讯"
+      "title": "Anthropic Claude 4发布，安全性再提升",
+      "summary": "Claude 4引入宪法AI 2.0框架，幻觉率大幅降低。",
+      "link": "https://www.anthropic.com/",
+      "source": "Anthropic",
+      "date": "2026-04-19",
+      "tag": "hot",
+      "tagText": "热点"
     },
     {
-      "title": "萨姆·奥尔特曼的世界项目希望扩大其人类验证帝国。第一站：Tinder。",
-      "summary": "World 以其以 Orb 为中心的匿名验证项目引起了人们的关注（但也引起了很大的兴趣），它正在寻求扩大其影响力",
-      "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-17",
+      "title": "百度文心一言持续升级中文能力",
+      "summary": "文心一言在中文理解、长文本生成方面大幅升级。",
+      "link": "https://yiyan.baidu.com/",
+      "source": "百度",
+      "date": "2026-04-19",
       "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "凯文·威尔 (Kevin Weil) 和比尔·皮布尔斯 (Bill Peebles) 退出 OpenAI，公司继续摆脱“支线任务”",
-      "summary": "随着 OpenAI 关闭 Sora 并解散其科学团队，Kevin Weil 和 Bill Peebles 将离开 OpenAI，这标志着 OpenAI 急剧转向消费领域。",
-      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "资料来源：随着企业增长激增，Cursor 正在洽谈以 50B 美元估值筹集 2B+ 美元资金",
-      "summary": "回归的支持者 a16z 和 Thrive 预计将领投本轮融资。",
-      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Tokenmaxxing、OpenAI 的疯狂购物以及 AI 焦虑差距 ",
-      "summary": "人工智能内部人士与其他人之间的差距正在扩大，支出、怀疑甚至新词汇都开始表明这一点。而操作",
-      "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic 推出 Claude Design，一款用于创建快速视觉效果的新产品",
-      "summary": "该公司表示，Claude Design 旨在帮助没有设计背景的创始人和产品经理等人更轻松地分享他们的想法",
-      "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "智元机器人，要做AI大模型平台和开放生态",
-      "summary": "文｜王毓婵\n  编辑｜杨轩\n  当一家机器人公司决定做AI大模型平台和开放生态，它会给行业带来什么？\n  上个月，智元刚刚跨过“机器人量产下线一万台”的门槛。4月17日，这家由前华为“天才少年”彭志辉与前华为副总裁邓泰华共同创立的机器人公司在合作伙伴大会上，花了大量的时间和篇幅介绍软件上的新产品。相",
-      "link": "https://36kr.com/p/3770721219035649?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体",
-      "summary": "文｜邱晓芬\n  编辑｜苏建勋\n  2026年，AI正在加速从云端落地到端侧。近期，模型厂商和手机厂商都在背后开始发力——\n  3月下旬，国内几大手机厂商几乎同时推送了端侧AI的大规模更新，把原本仅限于旗舰机的AI能力下放到中端和千元机市场。自此，端侧AI终于成为大部分智",
-      "link": "https://36kr.com/p/3770819743728131?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
-      "summary": "文｜王欣逸\n  编辑｜苏建勋\n  龙虾热还在继续。\n  4月16日，荣耀进行了一场史上最短的发布会，正式发布此前预热的“养虾本”——荣耀MagicBook系列轻薄本。\n  即便OpenClaw已经刷屏了两个多月，但对于普通用户而言，要养一只原装龙虾，并没有",
-      "link": "https://36kr.com/p/3770787623404293?f=rss",
-      "source": "36Kr",
-      "date": "2026-04-17",
-      "tag": "trend",
-      "tagText": "资讯"
+      "tagText": "趋势"
     }
   ],
   "products": [
@@ -153,7 +90,7 @@
     },
     {
       "name": "Cursor",
-      "description": "AI编程助手，理解整个代码库上下文，代码补全准确率高",
+      "description": "AI编程助手，理解整个代码库上下文",
       "link": "https://cursor.com/",
       "source": "Cursor",
       "category": "开发工具",
@@ -161,7 +98,7 @@
     },
     {
       "name": "Suno",
-      "description": "AI音乐创作工具，支持多乐器编曲和歌词生成",
+      "description": "AI音乐创作工具，支持多乐器编曲",
       "link": "https://suno.com/",
       "source": "Suno",
       "category": "音乐创作",
@@ -169,7 +106,7 @@
     },
     {
       "name": "Runway",
-      "description": "AI视频生成工具，支持电影级特效和专业级短视频",
+      "description": "AI视频生成工具，支持专业级短视频",
       "link": "https://runwayml.com/",
       "source": "Runway",
       "category": "视频制作",
@@ -177,7 +114,7 @@
     },
     {
       "name": "Perplexity",
-      "description": "AI搜索引擎，支持深度研究和实时联网搜索",
+      "description": "AI搜索引擎，支持深度研究和实时联网",
       "link": "https://www.perplexity.ai/",
       "source": "Perplexity",
       "category": "AI搜索",
@@ -185,7 +122,7 @@
     },
     {
       "name": "Gamma",
-      "description": "一句话生成精美PPT和文档，支持品牌模板和数据图表",
+      "description": "一句话生成精美PPT和文档",
       "link": "https://gamma.app/",
       "source": "Gamma",
       "category": "演示文稿",
@@ -194,16 +131,7 @@
   ],
   "ecommerce": [
     {
-      "title": "「日清」换高周转，钱大妈筑牢生鲜护城河",
-      "content": "零售业的风向，正在从线上狂奔转向线下深耕。\n  从沃尔玛试水社区店、东方甄选宣布开设实体店，到盒马、七鲜、小象持续加码线下门店，再到春节期间线下零售额增速一举反超线上，实体门店的价值正在被全面重估。\n  这背后是底层商业逻辑的回归。一方面，完善的物流基建已逐渐缩窄线上线下的价格鸿沟；另一方面，在追求质价比的同时，当下的消费者愈发注重体验式消费。</p",
-      "link": "https://36kr.com/p/3770699297800707?f=rss",
-      "source": "36Kr",
-      "impact": "high",
-      "impactText": "高",
-      "date": "2026-04-17"
-    },
-    {
-      "title": "淘宝AI导购助手升级，支持复杂需求理解",
+      "title": "淘宝推出AI导购助手升级版",
       "content": "基于大语言模型的购物助手能够理解复杂需求，提供个性化推荐。",
       "link": "https://36kr.com/",
       "source": "36Kr",
@@ -212,8 +140,8 @@
       "date": "2026-04-19"
     },
     {
-      "title": "京东言犀大模型客服覆盖全品类",
-      "content": "自研大模型应用于客服场景，问题解决率达92%。",
+      "title": "京东智能客服系统覆盖全品类",
+      "content": "自研大模型应用于客服场景，问题解决率达到92%。",
       "link": "https://www.jdcloud.com/",
       "source": "京东",
       "impact": "high",
@@ -221,103 +149,45 @@
       "date": "2026-04-19"
     },
     {
-      "title": "拼多多AI商品描述自动生成",
+      "title": "拼多多上线AI商品描述自动生成",
       "content": "商家只需上传商品图片，AI自动生成标题、描述和卖点。",
       "link": "https://36kr.com/",
       "source": "36Kr",
-      "impact": "high",
-      "impactText": "高",
+      "impact": "medium",
+      "impactText": "中",
       "date": "2026-04-19"
     },
     {
-      "title": "TikTok Shop AI驱动全球扩张",
-      "content": "AI自动翻译商品信息、匹配当地达人、生成本地化营销内容。",
-      "link": "https://techcrunch.com/",
-      "source": "TechCrunch",
-      "impact": "high",
-      "impactText": "高",
-      "date": "2026-04-19"
-    },
-    {
-      "title": "Shopify AI店铺装修上线",
-      "content": "AI自动生成Banner、配色、字体和商品陈列布局。",
+      "title": "Shopify推出AI店铺装修功能",
+      "content": "一句话描述店铺风格，AI自动生成整站设计。",
       "link": "https://techcrunch.com/",
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-04-19"
+    },
+    {
+      "title": "抖音电商上线AI选品助手",
+      "content": "基于销售数据和趋势分析，AI为达人推荐最佳带货商品。",
+      "link": "https://36kr.com/",
+      "source": "36Kr",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-04-19"
     }
   ],
   "agents": [
     {
-      "title": "开源项目: opensearch.xml",
-      "author": "@anonymous",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "link": "https://github.com/opensearch.xml",
-      "tools": [
-        "GitHub",
-        "LLM"
-      ],
-      "likes": 2325,
-      "date": "2026-04-19"
-    },
-    {
-      "title": "开源项目: manifest.json",
-      "author": "@anonymous",
-      "description": "The agent that grows with you",
-      "link": "https://github.com/manifest.json",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 4324,
-      "date": "2026-04-19"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "An AI Hedge Fund Team",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
-      "date": "2026-04-19"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
-      "date": "2026-04-19"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub",
-        "LLM"
-      ],
-      "likes": 7510,
-      "date": "2026-04-19"
-    },
-    {
       "title": "独立开发者用AI搭建自动化内容工厂",
       "author": "@技术小白不白",
-      "description": "通过组合多个AI工具，搭建了从选题、写作到分发的全流程自动化系统。",
+      "description": "非技术背景的产品经理，通过组合多个AI工具，搭建了从选题到分发的全流程自动化系统。",
       "link": "https://www.notion.com/product/ai",
       "tools": [
         "ChatGPT",
         "Notion",
         "Zapier"
       ],
-      "likes": 2340,
-      "date": "2026-04-19"
+      "likes": 2340
     },
     {
       "title": "退休教师用AI创作儿童故事",
@@ -329,8 +199,7 @@
         "剪映",
         "小红书"
       ],
-      "likes": 5670,
-      "date": "2026-04-19"
+      "likes": 5670
     },
     {
       "title": "全职妈妈用AI开启副业月入2万",
@@ -342,8 +211,7 @@
         "Canva",
         "1688"
       ],
-      "likes": 8920,
-      "date": "2026-04-19"
+      "likes": 8920
     },
     {
       "title": "自由设计师的AI工作流分享",
@@ -355,8 +223,7 @@
         "Midjourney",
         "Figma AI"
       ],
-      "likes": 3120,
-      "date": "2026-04-19"
+      "likes": 3120
     },
     {
       "title": "乡村教师搭建AI英语陪练",
@@ -368,8 +235,19 @@
         "Whisper",
         "TTS"
       ],
-      "likes": 15600,
-      "date": "2026-04-19"
+      "likes": 15600
+    },
+    {
+      "title": "律师打造合同审查AI助手",
+      "author": "@法律界的码农",
+      "description": "基于RAG技术构建合同审查Agent，审查效率提升10倍。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "GPT-4",
+        "RAG"
+      ],
+      "likes": 4560
     }
   ]
 }

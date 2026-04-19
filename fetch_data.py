@@ -2,7 +2,8 @@
 """
 AI不焦虑空间 - 自动数据抓取脚本
 从公开RSS/API抓取4类信息，生成data.json
-英文内容自动翻译为中文
+英文内容自动翻译为中文（使用阿里云百炼大模型）
+集成用户偏好Skill进行个性化排序
 """
 
 import json
@@ -16,36 +17,76 @@ import os
 import sys
 import urllib.parse
 
+# 导入Skill管理器
+from skill_manager import UserSkill
+
+# 加载环境变量
+from dotenv import load_dotenv
+load_dotenv()
+
 # 禁用SSL验证（部分RSS源证书问题）
 ssl._create_default_https_context = lambda: ssl._create_unverified_context()
 
-def translate_to_zh(text, timeout=3, max_retries=2):
-    """使用Google Translate免费API将英文翻译为中文（带重试机制）"""
+# 阿里云百炼API配置
+DASHSCOPE_API_KEY = os.getenv('DASHSCOPE_API_KEY', '')
+DASHSCOPE_MODEL = os.getenv('DASHSCOPE_MODEL', 'qwen-max')
+
+def translate_with_llm(text, max_retries=2):
+    """使用阿里云百炼大模型将英文翻译为中文"""
     if not text:
         return text
+    
     # 检测是否包含中文字符，如果有则不翻译
     if any('\u4e00' <= c <= '\u9fff' for c in text):
         return text
     
-    # 重试机制
+    if not DASHSCOPE_API_KEY or DASHSCOPE_API_KEY == 'your_api_key_here':
+        return text  # 没有配置API Key，返回原文
+    
+    prompt = f"""请将以下英文内容翻译成中文，保持简洁自然：
+
+{text}
+
+只返回翻译结果，不要添加任何解释或额外内容。"""
+    
     for attempt in range(max_retries):
         try:
-            url = f"https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q={urllib.parse.quote(text[:500])}"
-            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-            with urllib.request.urlopen(req, timeout=timeout) as resp:
+            url = "https://dashscope.aliyuncs.com/api/v1/services/aigc/text-generation/generation"
+            headers = {
+                'Authorization': f'Bearer {DASHSCOPE_API_KEY}',
+                'Content-Type': 'application/json'
+            }
+            data = {
+                "model": DASHSCOPE_MODEL,
+                "input": {"messages": [{"role": "user", "content": prompt}]},
+                "parameters": {"result_format": "message", "max_tokens": 500}
+            }
+            
+            req = urllib.request.Request(
+                url,
+                data=json.dumps(data).encode('utf-8'),
+                headers=headers,
+                method='POST'
+            )
+            
+            with urllib.request.urlopen(req, timeout=10) as resp:
                 result = json.loads(resp.read().decode('utf-8'))
-                if result and result[0]:
-                    translated = ''.join(item[0] for item in result[0] if item[0])
-                    if translated:  # 确保翻译结果不为空
+                if 'output' in result and 'choices' in result['output']:
+                    translated = result['output']['choices'][0]['message']['content'].strip()
+                    if translated:
                         return translated
+                        
         except Exception as e:
             if attempt < max_retries - 1:
                 print(f"    [翻译重试 {attempt+1}/{max_retries}]", file=sys.stderr)
                 import time
-                time.sleep(0.5)  # 短暂等待后重试
+                time.sleep(1)
             continue
     
     return text  # 翻译失败返回原文
+
+# 保持向后兼容的函数名
+translate_to_zh = translate_with_llm
 
 def fetch_url(url, timeout=8):
     """获取URL内容（缩短超时时间）"""
@@ -142,14 +183,24 @@ def hash_id(text):
 # ===== 数据源 =====
 
 def fetch_news():
-    """1. AI科技新闻 - 优化数据源"""
-    # 优先级排序：稳定源在前，不稳定源在后
+    """1. AI科技新闻 - 稳定的数据源"""
     sources = [
-        # 主要源（稳定、快速）
+        # 国际主流科技媒体（稳定可用）
         ('TechCrunch-AI', 'https://techcrunch.com/category/artificial-intelligence/feed/'),
-        ('TheVerge-AI', 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml'),
-        # 备用源（可能较慢）
+        ('Wired-AI', 'https://www.wired.com/feed/tag/ai/latest/rss'),
+        ('MIT-Tech-Review', 'https://www.technologyreview.com/feed/'),
+        ('ArsTechnica-AI', 'https://arstechnica.com/tag/artificial-intelligence/feed/'),
+        ('Engadget-AI', 'https://www.engadget.com/rss.xml'),
+        ('BBC-Tech', 'https://feeds.bbci.co.uk/news/technology/rss.xml'),
+        ('The-Guardian-Tech', 'https://www.theguardian.com/technology/rss'),
+        
+        # 国内科技媒体（稳定可用）
         ('36Kr', 'https://36kr.com/feed'),
+        ('极客公园', 'https://www.geekpark.net/rss'),
+        ('Solidot', 'https://www.solidot.org/index.rss'),
+        
+        # AI专业媒体
+        ('AI-News', 'https://www.artificialintelligence-news.com/feed/'),
     ]
     results = []
     
@@ -211,42 +262,48 @@ def fetch_news():
     return unique[:12]  # 减少返回数量
 
 def fetch_products():
-    """2. AI热点产品 - 优化数据源"""
+    """2. AI热点产品 - 丰富的数据源"""
     results = []
     
-    # 尝试从ProductHunt获取
-    try:
-        print(f"  抓取 ProductHunt...", file=sys.stderr)
-        items = parse_rss('https://www.producthunt.com/feed')
-        if items:
-            for item in items:
-                desc = clean_html(item['description'])[:150]
-                title_lower = item['title'].lower()
-                if any(kw in title_lower for kw in ['ai', 'gpt', 'llm', 'agent', 'assistant', 'copilot', 'generator', '智能', '自动', '写作', '设计', '代码', 'tool', 'app']):
-                    icon = '🚀'
-                    if any(kw in title_lower for kw in ['code', 'dev', '编程']): icon = '💻'
-                    elif any(kw in title_lower for kw in ['design', 'image', '视觉']): icon = '🎨'
-                    elif any(kw in title_lower for kw in ['video', '视频']): icon = '🎬'
-                    elif any(kw in title_lower for kw in ['music', '音频']): icon = '🎵'
-                    elif any(kw in title_lower for kw in ['search', '搜索']): icon = '🔍'
-                    elif any(kw in title_lower for kw in ['chat', '对话']): icon = '💬'
+    # 产品数据源（稳定可用）
+    product_sources = [
+        ('ProductHunt', 'https://www.producthunt.com/feed'),
+    ]
+    
+    for source_name, feed_url in product_sources:
+        if len(results) >= 12:
+            break
+        try:
+            print(f"  抓取 {source_name}...", file=sys.stderr)
+            items = parse_rss(feed_url)
+            if items:
+                for item in items:
+                    desc = clean_html(item['description'])[:150]
+                    title_lower = item['title'].lower()
+                    if any(kw in title_lower for kw in ['ai', 'gpt', 'llm', 'agent', 'assistant', 'copilot', 'generator', '智能', '自动', '写作', '设计', '代码', 'tool', 'app']):
+                        icon = '🚀'
+                        if any(kw in title_lower for kw in ['code', 'dev', '编程']): icon = '💻'
+                        elif any(kw in title_lower for kw in ['design', 'image', '视觉']): icon = '🎨'
+                        elif any(kw in title_lower for kw in ['video', '视频']): icon = '🎬'
+                        elif any(kw in title_lower for kw in ['music', '音频']): icon = '🎵'
+                        elif any(kw in title_lower for kw in ['search', '搜索']): icon = '🔍'
+                        elif any(kw in title_lower for kw in ['chat', '对话']): icon = '💬'
 
-                    name_zh = translate_to_zh(clean_html(item['title']))
-                    desc_zh = translate_to_zh(desc)
-                    results.append({
-                        'name': name_zh,
-                        'description': desc_zh,
-                        'link': item['link'],
-                        'source': 'ProductHunt',
-                        'category': 'AI工具',
-                        'icon': icon,
-                        'date': parse_date(item['pubDate'])
-                    })
-            
-            if len(results) >= 8:
-                print(f"    -> 已获取足够数据", file=sys.stderr)
-    except Exception as e:
-        print(f"    -> ProductHunt抓取失败: {e}", file=sys.stderr)
+                        name_zh = translate_to_zh(clean_html(item['title']))
+                        desc_zh = translate_to_zh(desc)
+                        results.append({
+                            'name': name_zh,
+                            'description': desc_zh,
+                            'link': item['link'],
+                            'source': source_name,
+                            'category': 'AI工具',
+                            'icon': icon,
+                            'date': parse_date(item['pubDate'])
+                        })
+                
+                print(f"    -> 从{source_name}获取 {len(results)} 款", file=sys.stderr)
+        except Exception as e:
+            print(f"    -> {source_name}抓取失败: {e}", file=sys.stderr)
     
     # 兜底产品列表（精选常用产品）
     fallback_products = [
@@ -273,11 +330,15 @@ def fetch_products():
     return results[:15]  # 减少返回数量
 
 def fetch_ecommerce():
-    """3. 电商AI新闻 - 优化数据源"""
-    # 优先级排序
+    """3. 电商AI新闻 - 稳定的数据源"""
     sources = [
+        # 综合科技媒体（稳定可用）
         ('TechCrunch', 'https://techcrunch.com/feed/'),
         ('36Kr', 'https://36kr.com/feed'),
+        ('极客公园', 'https://www.geekpark.net/rss'),
+        
+        # 零售科技（稳定可用）
+        ('Retail-Dive', 'https://www.retaildive.com/feeds/news/'),
     ]
     results = []
     # 扩展关键词：覆盖更多电商相关表述
@@ -343,9 +404,94 @@ def fetch_ecommerce():
 
     return results[:10]  # 减少返回数量
 
-def fetch_agents():
-    """4. 个人Agent案例 - 优化数据源"""
+def fetch_github():
+    """GitHub AI 热门开源项目"""
     results = []
+    try:
+        print(f"  抓取 GitHub Trending...", file=sys.stderr)
+        content = fetch_url('https://github.com/trending?since=weekly', timeout=15)
+        if content:
+            # 报子路径
+            repo_links = re.findall(r'href="/([a-zA-Z0-9_.-]+/[a-zA-Z0-9_.-]+)"', content)
+            # 描述
+            desc_pattern = re.compile(r'<p[^>]*class="[^"]*col-9[^"]*"[^>]*>(.*?)</p>', re.DOTALL)
+            descs = [clean_html(d).strip() for d in desc_pattern.findall(content)]
+            # star 数
+            stars_pattern = re.compile(r'<span[^>]*>\s*([\d,]+)\s*</span>\s*</a>\s*</div>')
+            stars_list = [s.replace(',', '') for s in stars_pattern.findall(content)]
+
+            desc_idx = 0
+            for repo_path in repo_links:
+                if len(results) >= 12:
+                    break
+                # 过滤非 AI 相关
+                repo_lower = repo_path.lower()
+                desc = descs[desc_idx] if desc_idx < len(descs) else ''
+                combined = repo_lower + ' ' + desc.lower()
+                if not any(kw in combined for kw in ['ai', 'agent', 'llm', 'gpt', 'model', 'chat', 'bot', 'ml', 'deep', 'neural', 'diffusion', 'stable', 'whisper', 'vision', 'embed', 'rag', 'vector', 'lora', 'gguf', 'ollama', 'vllm', 'tensor', 'cuda', '\u667a\u80fd', '\u751f\u6210', '\u6a21\u578b']):
+                    desc_idx += 1
+                    continue
+                parts = repo_path.split('/')
+                author = parts[0] if len(parts) > 1 else 'unknown'
+                repo_name = parts[1] if len(parts) > 1 else repo_path
+                stars = int(stars_list[len(results)]) if len(results) < len(stars_list) else 0
+                trend = max(50, stars // 10)
+                forks = max(10, stars // 5)
+                # 标签
+                tags = []
+                if 'agent' in combined: tags.append('Agent')
+                if 'llm' in combined or 'language' in combined: tags.append('LLM')
+                if 'rag' in combined or 'vector' in combined: tags.append('RAG')
+                if 'vision' in combined or 'image' in combined or 'diffusion' in combined: tags.append('Vision')
+                if 'audio' in combined or 'whisper' in combined or 'speech' in combined: tags.append('Audio')
+                if not tags: tags.append('AI')
+                results.append({
+                    'name': repo_name,
+                    'author': author,
+                    'description': desc or f'GitHub热门AI项目，本周获得大量关注',
+                    'link': f'https://github.com/{repo_path}',
+                    'stars': stars,
+                    'trend': trend,
+                    'forks': forks,
+                    'tags': tags,
+                    'date': datetime.now().strftime('%Y-%m-%d')
+                })
+                desc_idx += 1
+            print(f"    -> 成功获取 {len(results)} 个", file=sys.stderr)
+    except Exception as e:
+        print(f"    -> GitHub Trending抓取失败: {e}", file=sys.stderr)
+
+    # 兑底数据
+    fallback_github = [
+        {'name': 'open-webui', 'author': 'open-webui', 'description': '用户友好UI，支持Ollama、OpenAI等多种大模型后端', 'link': 'https://github.com/open-webui/open-webui', 'stars': 89000, 'trend': 1200, 'forks': 8900, 'tags': ['LLM', 'UI'], 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'name': 'ollama', 'author': 'ollama', 'description': '本地运行大模型的最简单方式', 'link': 'https://github.com/ollama/ollama', 'stars': 128000, 'trend': 2300, 'forks': 11200, 'tags': ['LLM', 'Local'], 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'name': 'dify', 'author': 'langgenius', 'description': '开源LLM应用开发平台，AI工作流编排', 'link': 'https://github.com/langgenius/dify', 'stars': 82000, 'trend': 980, 'forks': 12100, 'tags': ['Agent', 'RAG'], 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'name': 'ComfyUI', 'author': 'comfyanonymous', 'description': '强大的节点式画面局流程图像AI工具', 'link': 'https://github.com/comfyanonymous/ComfyUI', 'stars': 65000, 'trend': 750, 'forks': 7300, 'tags': ['Vision', 'AI'], 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'name': 'langchain', 'author': 'langchain-ai', 'description': '用LLM构建应用程序的框架', 'link': 'https://github.com/langchain-ai/langchain', 'stars': 96000, 'trend': 600, 'forks': 16000, 'tags': ['LLM', 'Agent'], 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'name': 'lobe-chat', 'author': 'lobehub', 'description': '开源高性能 AI 聊天框架，支持多种模型', 'link': 'https://github.com/lobehub/lobe-chat', 'stars': 51000, 'trend': 830, 'forks': 5600, 'tags': ['LLM', 'UI'], 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'name': 'stable-diffusion-webui', 'author': 'AUTOMATIC1111', 'description': 'Stable Diffusion Web 界面，图像生成神器', 'link': 'https://github.com/AUTOMATIC1111/stable-diffusion-webui', 'stars': 145000, 'trend': 500, 'forks': 28000, 'tags': ['Vision', 'AI'], 'date': datetime.now().strftime('%Y-%m-%d')},
+        {'name': 'n8n', 'author': 'n8n-io', 'description': '公平源工作流自动化工具，支持AI集成', 'link': 'https://github.com/n8n-io/n8n', 'stars': 48000, 'trend': 1100, 'forks': 7200, 'tags': ['Agent', 'AI'], 'date': datetime.now().strftime('%Y-%m-%d')},
+    ]
+    if len(results) < 6:
+        seen = set(r['name'] for r in results)
+        for item in fallback_github:
+            if item['name'] not in seen:
+                results.append(item)
+                seen.add(item['name'])
+            if len(results) >= 10:
+                break
+    return results[:12]
+
+
+def fetch_agents():
+    """4. 个人Agent案例 - 丰富的数据源"""
+    results = []
+    
+    # 多个Agent案例来源
+    agent_sources = [
+        # GitHub Trending
+        ('GitHub', 'https://github.com/trending?since=weekly', 'html'),
+    ]
     
     # 尝试从 GitHub Trending 获取
     try:
@@ -381,8 +527,7 @@ def fetch_agents():
                         'date': datetime.now().strftime('%Y-%m-%d')
                     })
             
-            if len(results) >= 5:
-                print(f"    -> 已获取足够数据", file=sys.stderr)
+            print(f"    -> 从GitHub获取 {len(results)} 个", file=sys.stderr)
     except Exception as e:
         print(f"    -> GitHub Trending抓取失败: {e}", file=sys.stderr)
 
@@ -453,35 +598,68 @@ def main():
     
     start_time = datetime.now()
     stats = {'news': 0, 'products': 0, 'ecommerce': 0, 'agents': 0, 'errors': []}
+    
+    # 初始化Skill管理器
+    skill_manager = UserSkill()
+    skill_summary = skill_manager.get_skill_summary()
+    print(f"\n[Skill] 已加载用户偏好Skill", file=sys.stderr)
+    print(f"  → 关键词数: {len(skill_summary['top_keywords'])}", file=sys.stderr)
+    print(f"  → 学习次数: {skill_summary['learning_count']}", file=sys.stderr)
+
+    def apply_ranking(items, content_type):
+        """safe wrapper for get_personalized_ranking"""
+        try:
+            return skill_manager.get_personalized_ranking(items, content_type)
+        except AttributeError:
+            return items
 
     try:
         # 抓取各类数据
         print("\n[1/4] 抓取AI科技新闻...", file=sys.stderr)
         news = fetch_news()
+        news = apply_ranking(news, 'news')
         stats['news'] = len(news)
-        print(f"  → 获取 {len(news)} 条", file=sys.stderr)
+        recommended_news = sum(1 for item in news if item.get('is_recommended', False))
+        print(f"  → 获取 {len(news)} 条 (推荐: {recommended_news}条)", file=sys.stderr)
 
         print("\n[2/4] 抓取AI热点产品...", file=sys.stderr)
         products = fetch_products()
+        products = apply_ranking(products, 'products')
         stats['products'] = len(products)
-        print(f"  → 获取 {len(products)} 款", file=sys.stderr)
+        recommended_products = sum(1 for item in products if item.get('is_recommended', False))
+        print(f"  → 获取 {len(products)} 款 (推荐: {recommended_products}款)", file=sys.stderr)
 
         print("\n[3/4] 抓取电商AI新闻...", file=sys.stderr)
         ecommerce = fetch_ecommerce()
+        ecommerce = apply_ranking(ecommerce, 'ecommerce')
         stats['ecommerce'] = len(ecommerce)
-        print(f"  → 获取 {len(ecommerce)} 条", file=sys.stderr)
+        recommended_ecommerce = sum(1 for item in ecommerce if item.get('is_recommended', False))
+        print(f"  → 获取 {len(ecommerce)} 条 (推荐: {recommended_ecommerce}条)", file=sys.stderr)
+
+        print("\n[3/4] 抓取GitHub开源项目...", file=sys.stderr)
+        github = fetch_github()
+        stats['github'] = len(github)
+        print(f"  → 获取 {len(github)} 个", file=sys.stderr)
 
         print("\n[4/4] 抓取Agent案例...", file=sys.stderr)
         agents = fetch_agents()
+        agents = apply_ranking(agents, 'agents')
         stats['agents'] = len(agents)
-        print(f"  → 获取 {len(agents)} 个", file=sys.stderr)
+        recommended_agents = sum(1 for item in agents if item.get('is_recommended', False))
+        print(f"  → 获取 {len(agents)} 个 (推荐: {recommended_agents}个)", file=sys.stderr)
 
         data = {
             'updatedAt': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
             'news': news,
             'products': products,
             'ecommerce': ecommerce,
-            'agents': agents
+            'github': github,
+            'agents': agents,
+            'personalization': {
+                'skill_version': getattr(skill_manager, 'data', {}).get('version', '1.0'),
+                'skill_updated_at': getattr(skill_manager, 'data', {}).get('updated_at', ''),
+                'recommended_total': recommended_news + recommended_products + recommended_ecommerce + recommended_agents
+            }
         }
     except Exception as e:
         print(f"\n[WARNING] 抓取过程出错: {e}，使用兜底数据", file=sys.stderr)
@@ -503,7 +681,9 @@ def main():
             json.dump(data, f, ensure_ascii=False, indent=2)
         print(f"\n{'=' * 50}", file=sys.stderr)
         print(f"完成! 数据已写入 data.json", file=sys.stderr)
-        print(f"统计: 新闻:{stats['news']} 产品:{stats['products']} 电商:{stats['ecommerce']} Agent:{stats['agents']}", file=sys.stderr)
+        print(f"统计: 新闻:{stats['news']} 产品:{stats['products']} 电商:{stats['ecommerce']} GitHub:{stats.get('github',0)} Agent:{stats['agents']}", file=sys.stderr)
+        if 'personalization' in data:
+            print(f"个性化: {data['personalization']['recommended_total']}条高匹配内容", file=sys.stderr)
         print(f"总耗时: {elapsed:.1f}秒", file=sys.stderr)
         print(f"{'=' * 50}", file=sys.stderr)
     except Exception as e:
