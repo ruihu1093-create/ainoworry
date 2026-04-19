@@ -19,6 +19,11 @@
     .navbar-links { display: flex; gap: 20px; }
     .navbar-links a { color: white; text-decoration: none; font-size: 14px; transition: opacity 0.2s; }
     .navbar-links a:hover { opacity: 0.8; text-decoration: underline; }
+    .navbar-personal { display: flex; align-items: center; gap: 6px; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); border-radius: 20px; padding: 4px 12px 4px 8px; cursor: pointer; transition: all 0.2s; text-decoration: none; flex-shrink: 0; }
+    .navbar-personal:hover { background: rgba(255,255,255,0.25); }
+    .navbar-personal .p-icon { font-size: 15px; }
+    .navbar-personal .p-text { font-size: 12px; font-weight: 600; color: white; white-space: nowrap; }
+    .navbar-personal .p-tag { font-size: 10px; color: rgba(255,255,255,0.85); background: rgba(255,255,255,0.2); border-radius: 8px; padding: 1px 6px; white-space: nowrap; }
 
     /* Hero */
     .hero { background: white; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center; padding: 10px 24px 8px; }
@@ -184,6 +189,7 @@
       .navbar-brand .emoji { font-size: 24px; }
       .navbar-brand h1 { font-size: 18px; }
       .navbar-brand p { font-size: 11px; }
+      .navbar-personal .p-text { display: none; }
 
       /* Hero区域 */
       .hero { padding: 8px 16px 6px; }
@@ -319,7 +325,11 @@
         <a href="#agents">Agent案例</a>
         <a href="#models">模型版本</a>
       </div>
-
+      <a href="custom.html" class="navbar-personal" id="navbar-personal-btn">
+        <span class="p-icon">🎯</span>
+        <span class="p-text">个性化</span>
+        <span class="p-tag" id="navbar-pref-tag">设置偏好</span>
+      </a>
     </div>
   </nav>
 
