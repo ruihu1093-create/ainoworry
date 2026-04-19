@@ -19,14 +19,16 @@
     .navbar-links { display: flex; gap: 20px; }
     .navbar-links a { color: white; text-decoration: none; font-size: 14px; transition: opacity 0.2s; }
     .navbar-links a:hover { opacity: 0.8; text-decoration: underline; }
-    .navbar-personal { display: flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); border-radius: 20px; padding: 6px 16px 6px 10px; cursor: pointer; transition: all 0.2s; text-decoration: none; flex-shrink: 0; min-width: 160px; }
+    .navbar-personal { display: flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); border-radius: 20px; padding: 5px 14px 5px 10px; cursor: pointer; transition: all 0.2s; text-decoration: none; flex-shrink: 0; }
     .navbar-personal:hover { background: rgba(255,255,255,0.25); }
-    .navbar-personal .p-icon { font-size: 16px; }
+    .navbar-personal .p-icon { font-size: 15px; }
     .navbar-personal .p-text { font-size: 12px; font-weight: 700; color: white; white-space: nowrap; letter-spacing: 0.3px; }
     .navbar-personal .p-divider { width: 1px; height: 14px; background: rgba(255,255,255,0.35); flex-shrink: 0; }
-    .navbar-personal .p-tags { display: flex; align-items: center; gap: 4px; flex-wrap: nowrap; overflow: hidden; }
-    .navbar-personal .p-tag { font-size: 10px; color: rgba(255,255,255,0.95); background: rgba(255,255,255,0.2); border-radius: 8px; padding: 2px 7px; white-space: nowrap; max-width: 70px; overflow: hidden; text-overflow: ellipsis; }
-    .navbar-personal .p-tag.p-tag-count { background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.7); font-size: 9px; padding: 2px 5px; }
+    .navbar-personal .p-tags { display: flex; align-items: center; gap: 4px; flex-wrap: nowrap; }
+    .navbar-personal .p-tag { font-size: 10px; color: rgba(255,255,255,0.95); background: rgba(255,255,255,0.2); border-radius: 8px; padding: 2px 7px; white-space: nowrap; }
+    .navbar-personal .p-tag.p-tag-kw { background: rgba(167,139,250,0.45); color: white; font-weight: 600; }
+    .navbar-personal .p-tag.p-tag-meta { background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.75); font-size: 9px; }
+    .navbar-personal .p-tag.p-tag-edit { background: rgba(255,255,255,0.25); color: white; font-size: 10px; font-weight: 600; border-radius: 8px; }
 
     /* Hero */
     .hero { background: linear-gradient(135deg, #f8f7ff 0%, #fff 60%, #f0fdf4 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.08); text-align: center; padding: 28px 24px 20px; position: relative; overflow: hidden; }
@@ -1157,15 +1159,16 @@
         var sortedKeywords = Object.entries(keywords).sort(function(a, b) { return b[1] - a[1]; }).slice(0, 5);
         var linkCount = (prefs.submittedLinks || []).length;
             
-        // 更新 navbar 标签区：展示Top2关键词 + 链接数
+        // 更新 navbar 标签区：展示Top3关键词 + 已提交数
         if (navTagsContainer) {
           var tagsHtml = '';
           if (sortedKeywords.length > 0) {
-            sortedKeywords.slice(0, 2).forEach(function(item) {
-              tagsHtml += '<span class="p-tag">' + item[0] + '</span>';
+            sortedKeywords.slice(0, 3).forEach(function(item, idx) {
+              var cls = idx === 0 ? 'p-tag p-tag-kw' : 'p-tag';
+              tagsHtml += '<span class="' + cls + '">' + item[0] + '</span>';
             });
-            if (sortedKeywords.length > 2) {
-              tagsHtml += '<span class="p-tag p-tag-count">+' + (sortedKeywords.length - 2) + '</span>';
+            if (linkCount > 0) {
+              tagsHtml += '<span class="p-tag p-tag-meta">' + linkCount + '个链接</span>';
             }
           } else if (linkCount > 0) {
             tagsHtml = '<span class="p-tag">已分析' + linkCount + '个</span>';
