@@ -367,7 +367,6 @@
       <div class="big-emoji">🧘</div>
       <h2>深呼吸，AI时代也可以很从容</h2>
     </div>
-    <p class="hero-sub">每周精选最重要的AI资讯，帮你过滤噪音，只关注真正有价值的内容</p>
     <div class="hero-bottom">
       <!-- 状态栏 -->
       <div class="status-bar">
@@ -704,6 +703,26 @@
     var agentsData = [];
 
     // ===== 工具函数 =====
+    // 来源多样化排序：将数组重排，使前N张卡片来自不同来源
+    function diversifyBySource(arr) {
+      if (!arr || arr.length === 0) return arr;
+      var result = [];
+      var buckets = {};
+      arr.forEach(function(item) {
+        var src = item.source || '__unknown__';
+        if (!buckets[src]) buckets[src] = [];
+        buckets[src].push(item);
+      });
+      var sources = Object.keys(buckets);
+      var maxLen = Math.max.apply(null, sources.map(function(s){ return buckets[s].length; }));
+      for (var i = 0; i < maxLen; i++) {
+        sources.forEach(function(src) {
+          if (buckets[src][i] !== undefined) result.push(buckets[src][i]);
+        });
+      }
+      return result;
+    }
+
     function getRelativeTime(dateStr) {
       if (!dateStr) return '最近';
       try {
@@ -788,7 +807,8 @@
         return;
       }
       document.getElementById('news-count').textContent = '共 ' + newsData.length + ' 条 · 左右滑动查看';
-      c.innerHTML = newsData.map(function(item, i) {
+      var displayNews = diversifyBySource(newsData);
+      c.innerHTML = displayNews.map(function(item, i) {
         var link = item.link || '';
         var titleHtml = link ? '<h4><a href="' + link + '" target="_blank" rel="noopener">' + item.title + '</a></h4>' : '<h4>' + item.title + '</h4>';
         var srcTag = item.source ? renderSourceTag(item.source) : '';
@@ -855,7 +875,8 @@
         return;
       }
       document.getElementById('ecommerce-count').textContent = '共 ' + ecommerceData.length + ' 条 · 左右滑动查看';
-      c.innerHTML = ecommerceData.map(function(item, i) {
+      var displayEcommerce = diversifyBySource(ecommerceData);
+      c.innerHTML = displayEcommerce.map(function(item, i) {
         var link = item.link || '';
         var titleHtml = link ? '<h4><a href="' + link + '" target="_blank" rel="noopener">' + item.title + '</a></h4>' : '<h4>' + item.title + '</h4>';
         var srcTag = item.source ? renderSourceTag(item.source) : '';
