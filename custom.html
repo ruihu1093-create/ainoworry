@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>个性化定制 - AI不焦虑空间</title>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.loli.net/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body { font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif; background: #f9fafb; color: #1f2937; line-height: 1.6; min-height: 100vh; display: flex; flex-direction: column; }
@@ -326,10 +326,14 @@
       }
     }
 
+    // API服务器地址（本地开发使用localhost，生产环境改为实际地址）
+    var API_BASE_URL = window.location.hostname === 'localhost' ? 'http://localhost:5000/api' : 'http://116.62.6.75/ainoworry-api';
+
     // 提交单个链接
-    function submitLink() {
+    async function submitLink() {
       var input = document.getElementById('link-input');
       var url = input.value.trim();
+      var btn = document.getElementById('submit-btn');
 
       if (!url || !isValidUrl(url)) {
         showToast('请输入有效的网址', 'error');
@@ -348,15 +352,51 @@
         return;
       }
 
-      // 分析链接
-      var analysis = analyzeUrlDetailed(url);
+      // 禁用按钮，显示加载状态
+      btn.disabled = true;
+      btn.textContent = '分析中...';
+      showToast('正在使用AI分析链接...', 'info');
 
+      try {
+        // 调用后端API进行分析
+        var response = await fetch(API_BASE_URL + '/analyze-link', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ url: url })
+        });
+
+        var result = await response.json();
+
+        if (result.error) {
+          showToast('分析失败: ' + result.message, 'error');
+          // 回退到本地分析
+          var analysis = analyzeUrlDetailed(url);
+          processAnalysisResult(url, analysis);
+        } else {
+          // 使用AI分析结果
+          processAnalysisResult(url, result.analysis);
+          showToast('AI分析完成！已更新你的偏好Skill', 'success');
+        }
+      } catch (error) {
+        console.log('API调用失败，使用本地分析:', error);
+        // 回退到本地分析
+        var analysis = analyzeUrlDetailed(url);
+        processAnalysisResult(url, analysis);
+        showToast('本地分析完成', 'success');
+      } finally {
+        btn.disabled = false;
+        btn.textContent = '分析链接';
+      }
+    }
+
+    // 处理分析结果
+    function processAnalysisResult(url, analysis) {
       // 更新偏好
       userPreferences.submittedLinks.push(url);
-      Object.keys(analysis.keywords).forEach(function(kw) {
-        userPreferences.keywords[kw] = (userPreferences.keywords[kw] || 0) + analysis.keywords[kw];
+      Object.keys(analysis.keywords || {}).forEach(function(kw) {
+        userPreferences.keywords[kw] = (userPreferences.keywords[kw] || 0) + (analysis.keywords[kw] || 1);
       });
-      Object.keys(analysis.sources).forEach(function(src) {
+      Object.keys(analysis.sources || {}).forEach(function(src) {
         userPreferences.sources[src] = (userPreferences.sources[src] || 0) + 1;
       });
 
@@ -370,9 +410,7 @@
       renderSubmittedLinks();
 
       // 清空输入
-      input.value = '';
-
-      showToast('链接分析完成！', 'success');
+      document.getElementById('link-input').value = '';
     }
 
     // 详细分析链接（AI学习视角）
@@ -482,66 +520,75 @@
     function showFeedback(url, analysis) {
       var feedbackArea = document.getElementById('feedback-area');
 
+      // 判断是AI分析结果还是本地分析结果
+      var isAIAnalysis = analysis.learning_perspective !== undefined;
+      var mainPerspectiveName = isAIAnalysis ? analysis.learning_perspective : (analysis.mainPerspective ? analysis.mainPerspective.name : 'AI综合内容');
+      var learningValue = isAIAnalysis ? analysis.learning_value : (analysis.learningValue || '');
+      var keywords = analysis.keywords || {};
+      var interestTags = analysis.interest_tags || [];
+      var sources = analysis.sources || {};
+
       // 获取迭代建议
-      var mainPerspectiveName = analysis.mainPerspective.name;
       var suggestion = '建议继续提交更多相关领域的链接，帮助系统更准确地了解你的兴趣';
       if (iterationSuggestions[mainPerspectiveName]) {
         suggestion = iterationSuggestions[mainPerspectiveName];
       }
 
-      // 生成视角标签
-      var perspectiveTags = analysis.matchedPerspectives.map(function(p) {
-        return '<span class="keyword-tag" style="background: ' + p.color + '20; color: ' + p.color + '; border: 1px solid ' + p.color + '40;">' + p.icon + ' ' + p.name + '</span>';
-      }).join('');
-
       // 生成关键词标签
-      var keywordTags = Object.entries(analysis.keywords)
+      var keywordTags = Object.entries(keywords)
         .sort(function(a, b) { return b[1] - a[1]; })
         .slice(0, 8)
         .map(function(item) {
-          return '<span class="keyword-tag">' + item[0] + '</span>';
+          return '<span class="keyword-tag">' + item[0] + ' (' + item[1] + ')</span>';
         }).join('');
+
+      // 生成兴趣标签
+      var interestTagsHtml = interestTags.map(function(tag) {
+        return '<span class="keyword-tag" style="background: #dbeafe; color: #1e40af;">' + tag + '</span>';
+      }).join('');
+
+      // 确定分析类型图标和颜色
+      var analysisIcon = isAIAnalysis ? '🤖' : '💻';
+      var analysisTitle = isAIAnalysis ? 'AI智能分析完成' : '本地分析完成';
+      var analysisSubtitle = isAIAnalysis ? '大模型已解析你的兴趣偏好并更新Skill' : '基于规则解析你的兴趣点';
 
       // 构建反馈卡片HTML
       var cardHtml = '<div class="feedback-card">' +
         '<div class="header">' +
-          '<div class="icon">' + analysis.mainPerspective.icon + '</div>' +
+          '<div class="icon">' + analysisIcon + '</div>' +
           '<div>' +
-            '<div class="title">链接分析完成</div>' +
-            '<div class="subtitle">已从AI学习角度解析你的兴趣点</div>' +
+            '<div class="title">' + analysisTitle + '</div>' +
+            '<div class="subtitle">' + analysisSubtitle + '</div>' +
           '</div>' +
         '</div>' +
 
         // AI学习视角
         '<div class="feedback-section">' +
-          '<h5>🎓 AI学习视角</h5>' +
-          '<div class="info-type" style="border-left-color: ' + analysis.mainPerspective.color + '; background: ' + analysis.mainPerspective.color + '10;">' +
-            '<p style="color: ' + analysis.mainPerspective.color + ';">' + analysis.mainPerspective.icon + ' ' + analysis.mainPerspective.name + ' - ' + analysis.mainPerspective.description + '</p>' +
+          '<h5>🎓 内容类型识别</h5>' +
+          '<div class="info-type" style="border-left-color: #7c3aed; background: #f5f3ff;">' +
+            '<p style="color: #7c3aed;">' + mainPerspectiveName + '</p>' +
           '</div>' +
-          (perspectiveTags ? '<div class="keyword-tags" style="margin-top: 10px;">' + perspectiveTags + '</div>' : '') +
         '</div>' +
 
         // 学习价值评估
-        (analysis.learningValue ? '<div class="feedback-section">' +
+        (learningValue ? '<div class="feedback-section">' +
           '<h5>💎 学习价值</h5>' +
           '<div class="iteration-tip">' +
-            '<p>' + analysis.learningValue + '</p>' +
+            '<p>' + learningValue + '</p>' +
           '</div>' +
         '</div>' : '') +
 
         // 提取的关键话题
         '<div class="feedback-section">' +
-          '<h5>🏷️ 关键话题</h5>' +
-          (keywordTags ? '<div class="keyword-tags">' + keywordTags + '</div>' : '<p style="color: #9ca3af;">未检测到特定关键词，可能是综合类AI内容</p>') +
+          '<h5>🏷️ 提取的关键词</h5>' +
+          (keywordTags ? '<div class="keyword-tags">' + keywordTags + '</div>' : '<p style="color: #9ca3af;">未检测到特定关键词</p>') +
         '</div>' +
 
-        // 信息来源
-        '<div class="feedback-section">' +
-          '<h5>📡 信息来源</h5>' +
-          '<div class="info-type" style="background: #f9fafb; border-left-color: #6b7280;">' +
-            '<p style="color: #4b5563;">' + analysis.sourceType + '</p>' +
-          '</div>' +
-        '</div>' +
+        // 兴趣标签
+        (interestTagsHtml ? '<div class="feedback-section">' +
+          '<h5>🎯 兴趣标签</h5>' +
+          '<div class="keyword-tags">' + interestTagsHtml + '</div>' +
+        '</div>' : '') +
 
         // 后续建议
         '<div class="feedback-section">' +
@@ -564,7 +611,7 @@
       }
     }
 
-    // 渲染偏好展示
+    // 渲染偏好展示 - 详细版AI兴趣画像
     function renderPreferences() {
       var container = document.getElementById('preference-content');
       var hasData = Object.keys(userPreferences.keywords).length > 0 || Object.keys(userPreferences.sources).length > 0;
@@ -575,32 +622,103 @@
       }
 
       var html = '';
+      
+      // ===== 1. 兴趣概览统计 =====
+      var totalKeywords = Object.keys(userPreferences.keywords).length;
+      var totalSources = Object.keys(userPreferences.sources).length;
+      var totalLinks = userPreferences.submittedLinks.length;
+      var totalWeight = Object.values(userPreferences.keywords).reduce(function(a, b) { return a + b; }, 0);
+      
+      html += '<div style="background: linear-gradient(135deg, #f5f3ff 0%, #ede9fe 100%); border-radius: 12px; padding: 16px; margin-bottom: 20px;">';
+      html += '<h4 style="font-size: 14px; font-weight: 600; color: #5b21b6; margin-bottom: 12px;">📊 学习概览</h4>';
+      html += '<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; text-align: center;">';
+      html += '<div><div style="font-size: 24px; font-weight: 700; color: #7c3aed;">' + totalLinks + '</div><div style="font-size: 12px; color: #6b7280;">已提交</div></div>';
+      html += '<div><div style="font-size: 24px; font-weight: 700; color: #7c3aed;">' + totalKeywords + '</div><div style="font-size: 12px; color: #6b7280;">关键词</div></div>';
+      html += '<div><div style="font-size: 24px; font-weight: 700; color: #7c3aed;">' + totalSources + '</div><div style="font-size: 12px; color: #6b7280;">来源</div></div>';
+      html += '<div><div style="font-size: 24px; font-weight: 700; color: #7c3aed;">' + Math.round(totalWeight) + '</div><div style="font-size: 12px; color: #6b7280;">总权重</div></div>';
+      html += '</div></div>';
 
-      // 关键词云
-      var keywords = userPreferences.keywords;
-      var sortedKeywords = Object.entries(keywords)
-        .sort(function(a, b) { return b[1] - a[1]; })
-        .slice(0, 25);
-
+      // ===== 2. 核心兴趣领域（权重最高的前3个） =====
+      var sortedKeywords = Object.entries(userPreferences.keywords)
+        .sort(function(a, b) { return b[1] - a[1]; });
+      
       if (sortedKeywords.length > 0) {
-        var maxWeight = sortedKeywords[0][1];
-        html += '<h4 style="font-size: 15px; font-weight: 600; color: #4b5563; margin-bottom: 12px;">🏷️ 兴趣关键词</h4><div class="keyword-cloud">';
-        sortedKeywords.forEach(function(item) {
-          var level = Math.ceil((item[1] / maxWeight) * 5);
-          html += '<span class="keyword-tag level-' + level + '">' + item[0] + ' (' + Math.round(item[1] * 10) / 10 + ')</span>';
+        var topKeywords = sortedKeywords.slice(0, 3);
+        html += '<div style="margin-bottom: 20px;">';
+        html += '<h4 style="font-size: 14px; font-weight: 600; color: #4b5563; margin-bottom: 12px;">🎯 核心兴趣领域</h4>';
+        html += '<div style="display: flex; flex-direction: column; gap: 8px;">';
+        
+        topKeywords.forEach(function(item, index) {
+          var percentage = Math.round((item[1] / totalWeight) * 100);
+          var colors = ['#7c3aed', '#8b5cf6', '#a78bfa'];
+          var bgColors = ['#f5f3ff', '#ede9fe', '#ddd6fe'];
+          html += '<div style="display: flex; align-items: center; gap: 10px;">';
+          html += '<div style="width: 24px; height: 24px; border-radius: 50%; background: ' + colors[index] + '; color: white; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 600;">' + (index + 1) + '</div>';
+          html += '<div style="flex: 1;">';
+          html += '<div style="display: flex; justify-content: space-between; margin-bottom: 4px;">';
+          html += '<span style="font-size: 13px; font-weight: 500; color: #374151;">' + item[0] + '</span>';
+          html += '<span style="font-size: 12px; color: #6b7280;">' + item[1].toFixed(1) + ' (' + percentage + '%)</span>';
+          html += '</div>';
+          html += '<div style="height: 6px; background: #e5e7eb; border-radius: 3px; overflow: hidden;">';
+          html += '<div style="height: 100%; width: ' + percentage + '%; background: ' + colors[index] + '; border-radius: 3px; transition: width 0.3s;"></div>';
+          html += '</div></div></div>';
         });
-        html += '</div>';
+        
+        html += '</div></div>';
       }
 
-      // 来源偏好
+      // ===== 3. 完整关键词云 =====
+      if (sortedKeywords.length > 0) {
+        html += '<div style="margin-bottom: 20px;">';
+        html += '<h4 style="font-size: 14px; font-weight: 600; color: #4b5563; margin-bottom: 12px;">🏷️ 全部兴趣标签</h4>';
+        html += '<div class="keyword-cloud">';
+        var maxWeight = sortedKeywords[0][1];
+        sortedKeywords.slice(0, 20).forEach(function(item) {
+          var level = Math.ceil((item[1] / maxWeight) * 5);
+          var opacity = 0.6 + (item[1] / maxWeight) * 0.4;
+          html += '<span class="keyword-tag level-' + level + '" style="opacity: ' + opacity + ';">' + item[0] + '</span>';
+        });
+        html += '</div></div>';
+      }
+
+      // ===== 4. 来源偏好分析 =====
       var sources = userPreferences.sources;
       var sortedSources = Object.entries(sources).sort(function(a, b) { return b[1] - a[1]; });
 
       if (sortedSources.length > 0) {
-        html += '<h4 style="font-size: 15px; font-weight: 600; color: #4b5563; margin-bottom: 12px; margin-top: 8px;">📡 关注来源</h4><div class="source-list">';
+        html += '<div style="margin-bottom: 16px;">';
+        html += '<h4 style="font-size: 14px; font-weight: 600; color: #4b5563; margin-bottom: 12px;">📡 信息来源偏好</h4>';
+        html += '<div style="display: flex; flex-wrap: wrap; gap: 8px;">';
         sortedSources.forEach(function(item) {
-          html += '<div class="source-item"><span>' + item[0] + '</span><span class="count">' + item[1] + '</span></div>';
+          var sourceColors = {
+            'xiaohongshu.com': '#ff2442',
+            'baijiahao.baidu.com': '#2932e1',
+            'zhihu.com': '#0084ff',
+            'twitter.com': '#1da1f2',
+            'x.com': '#1da1f2',
+            'github.com': '#24292e'
+          };
+          var color = sourceColors[item[0]] || '#6b7280';
+          html += '<div style="display: flex; align-items: center; gap: 6px; padding: 6px 12px; background: #f9fafb; border-radius: 20px; border: 1px solid #e5e7eb;">';
+          html += '<span style="width: 8px; height: 8px; border-radius: 50%; background: ' + color + ';"></span>';
+          html += '<span style="font-size: 13px; color: #374151;">' + item[0] + '</span>';
+          html += '<span style="font-size: 11px; color: #9ca3af; background: #f3f4f6; padding: 2px 6px; border-radius: 10px;">' + item[1] + '</span>';
+          html += '</div>';
         });
+        html += '</div></div>';
+      }
+      
+      // ===== 5. 学习建议 =====
+      if (totalLinks > 0) {
+        html += '<div style="background: #fef3c7; border-radius: 12px; padding: 16px; border-left: 4px solid #f59e0b;">';
+        html += '<h4 style="font-size: 13px; font-weight: 600; color: #92400e; margin-bottom: 8px;">💡 个性化建议</h4>';
+        if (totalLinks < 3) {
+          html += '<p style="font-size: 13px; color: #a16207; margin: 0;">你刚提交了 ' + totalLinks + ' 个链接，系统正在了解你的兴趣。建议再提交 2-3 个不同类型的AI链接，帮助系统更准确地推荐内容。</p>';
+        } else if (totalKeywords < 5) {
+          html += '<p style="font-size: 13px; color: #a16207; margin: 0;">你的兴趣关键词较少，建议尝试关注更多AI细分领域（如AI编程、AI设计、AI视频等），让推荐更加多元化。</p>';
+        } else {
+          html += '<p style="font-size: 13px; color: #a16207; margin: 0;">系统已充分了解你的AI兴趣偏好！首页内容已根据你的画像进行个性化排序，推荐内容会优先展示与你兴趣匹配度高的资讯。</p>';
+        }
         html += '</div>';
       }
 
