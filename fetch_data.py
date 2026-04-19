@@ -500,16 +500,18 @@ def fetch_github():
                 forks = max(10, stars // 5)
                 # 标签
                 tags = []
-                if 'agent' in combined: tags.append('Agent')
-                if 'llm' in combined or 'language' in combined: tags.append('LLM')
-                if 'rag' in combined or 'vector' in combined: tags.append('RAG')
-                if 'vision' in combined or 'image' in combined or 'diffusion' in combined: tags.append('Vision')
-                if 'audio' in combined or 'whisper' in combined or 'speech' in combined: tags.append('Audio')
-                if not tags: tags.append('AI')
+                if 'agent' in combined: tags.append({'name': 'Agent'})
+                if 'llm' in combined or 'language' in combined: tags.append({'name': 'LLM'})
+                if 'rag' in combined or 'vector' in combined: tags.append({'name': 'RAG'})
+                if 'vision' in combined or 'image' in combined or 'diffusion' in combined: tags.append({'name': 'Vision'})
+                if 'audio' in combined or 'whisper' in combined or 'speech' in combined: tags.append({'name': 'Audio'})
+                if not tags: tags.append({'name': 'AI'})
+                # 描述翻试中文
+                desc_zh = translate_to_zh(desc) if desc else 'GitHub热门AI项目，本周获得大量关注'
                 results.append({
                     'name': repo_name,
                     'author': author,
-                    'description': desc or f'GitHub热门AI项目，本周获得大量关注',
+                    'description': desc_zh,
                     'link': f'https://github.com/{repo_path}',
                     'stars': stars,
                     'trend': trend,

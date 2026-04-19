@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-19 20:57:22",
+  "updatedAt": "2026-04-19 21:06:35",
   "news": [
     {
       "title": "特斯拉将其机器人出租车服务带到达拉斯和休斯顿",
-      "summary": "该公司现在在三个城市提供机器人出租车服务，全部位于德克萨斯州，继去年在奥斯汀推出并在没有安全员的情况下开始提供乘车服务之后。",
+      "summary": "该公司现在在三个城市提供机器人出租车服务，全部位于德克萨斯州，自去年在奥斯汀推出并在没有安全员的情况下开始提供乘车服务以来。",
       "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
       "source": "TechCrunch-AI",
       "date": "2026-04-18",
@@ -12,7 +12,7 @@
     },
     {
       "title": "AI芯片初创公司Cerebras申请IPO",
-      "summary": "近几个月，该公司宣布与亚马逊网络服务达成协议，将在亚马逊数据中心使用Cerebras芯片，以及与Ope的交易。",
+      "summary": "近几个月来，公司宣布与亚马逊网络服务达成协议，将在亚马逊数据中心使用Cerebras芯片，以及与Ope的交易。",
       "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
       "source": "TechCrunch-AI",
       "date": "2026-04-18",
@@ -21,7 +21,7 @@
     },
     {
       "title": "Anthropic与特朗普政府的关系似乎正在缓和。",
-      "summary": "尽管最近被五角大楼列为供应链风险，Anthropic仍在与特朗普政府的高级成员进行沟通。",
+      "summary": "尽管最近被五角大楼列为供应链风险，Anthropic仍在与特朗普政府的高层成员进行对话。",
       "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
       "source": "TechCrunch-AI",
       "date": "2026-04-18",
@@ -29,8 +29,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "应用商店再次繁荣，AI可能是原因",
-      "summary": "Appfigures的新数据显示，2026年新应用发布量激增，表明AI工具可能正在推动移动软件的繁荣。",
+      "title": "App Store再次繁荣起来，这可能是因为AI",
+      "summary": "Appfigures 的新数据显示，2026 年新应用发布数量激增，表明 AI 工具可能正在推动移动软件的繁荣。",
       "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
       "source": "TechCrunch-AI",
       "date": "2026-04-18",
@@ -39,7 +39,7 @@
     },
     {
       "title": "Sam Altman的项目World计划扩大其真人验证帝国。第一站：Tinder。",
-      "summary": "World的以Orb为中心的匿名验证项目引起了广泛关注（同时也激起了很多兴趣），现在正寻求扩大其影响力。",
+      "summary": "World的以Orb为中心的匿名验证项目引起了人们的关注（同时也激发了极大兴趣），正寻求扩大其影响力。",
       "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
       "source": "TechCrunch-AI",
       "date": "2026-04-17",
@@ -47,8 +47,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Kevin Weil 和 Bill Peebles 离开 OpenAI，公司继续削减“副业”",
-      "summary": "Kevin Weil 和 Bill Peebles 将离开 OpenAI，因为公司关闭了 Sora 并解散了其科学团队，这标志着公司正急剧转向远离消费者市场。",
+      "title": "Kevin Weil和Bill Peebles离开OpenAI，公司继续削减“副业”",
+      "summary": "Kevin Weil 和 Bill Peebles 将离开 OpenAI，因为公司关闭了 Sora 并解散了其科学团队，这标志着公司从消费者市场急剧转向。",
       "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
       "source": "TechCrunch-AI",
       "date": "2026-04-17",
@@ -56,8 +56,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "消息来源：Cursor正洽谈以500亿美元估值筹集超过20亿美元资金，因企业增长激增",
-      "summary": "预计 returning backers a16z 和 Thrive 将领投此轮融资。",
+      "title": "消息来源：Cursor正商讨以500亿美元估值筹集超过20亿美元资金，因企业增长激增",
+      "summary": "预计a16z和Thrive将领导这一轮融资。",
       "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
       "source": "TechCrunch-AI",
       "date": "2026-04-17",
@@ -65,8 +65,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Token最大化，OpenAI的购物狂欢，以及人工智能焦虑差距",
-      "summary": "AI圈内人与其他人之间的差距正在扩大，支出、猜疑甚至新词汇都开始显现这一点。",
+      "title": "Token最大化，OpenAI的购物狂潮，以及人工智能焦虑差距",
+      "summary": "AI内部人士与其他人的差距正在扩大，支出、怀疑甚至新词汇的出现都开始显示出这一点。",
       "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
       "source": "TechCrunch-AI",
       "date": "2026-04-17",
@@ -84,7 +84,7 @@
     },
     {
       "title": "只需2分钟即可破解欧盟的新年龄验证应用",
-      "summary": "加上：连锁健身房和酒店巨头发生重大数据泄露，Bluesky遭受破坏性DDoS攻击，ICE雇佣可疑人员等。",
+      "summary": "此外：一家健身房连锁和酒店巨头发生重大数据泄露，Bluesky遭受破坏性DDoS攻击，ICE雇佣存疑，等等。",
       "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
       "source": "Wired-AI",
       "date": "2026-04-18",
@@ -93,7 +93,7 @@
     },
     {
       "title": "Schematik 是“硬件的光标”。Anthropic 想要加入",
-      "summary": "Schematik 是一个旨在帮助人们为物理设备编写代码的程序。希望它不会炸掉任何东西。",
+      "summary": "Schematik 是一个旨在帮助人们为物理设备编写代码的程序。希望它不会把任何东西炸飞。",
       "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
       "source": "Wired-AI",
       "date": "2026-04-18",
@@ -101,8 +101,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI高管Kevin Weil将离开公司",
-      "summary": "前Instagram副总裁将离开ChatGPT的制造商，他领导的人工智能科学应用将被合并到Codex中。",
+      "title": "OpenAI高管Kevin Weil将离职",
+      "summary": "前Instagram副总裁将离开ChatGPT的制造商，他所领导的AI科学应用将被整合到Codex中。",
       "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
       "source": "Wired-AI",
       "date": "2026-04-17",
@@ -111,7 +111,7 @@
     },
     {
       "title": "用AI写我的故事？除非我死了",
-      "summary": "借助AI的写作正以提高效率的名义悄悄进入新闻编辑室。但这种权衡可能比出版商愿意承认的更为深远。",
+      "summary": "借助人工智能的写作正以提高效率的名义悄然进入新闻编辑室。但这种权衡可能比出版商愿意承认的更为深远。",
       "link": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
       "source": "Wired-AI",
       "date": "2026-04-17",
@@ -119,8 +119,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "马斯克与阿尔特曼之争是为了OpenAI的灵魂之战",
-      "summary": "在马斯克诉阿尔特曼案中，陪审团将很快决定OpenAI是否偏离了其确保AGI造福人类的创始使命。以下是需要了解的内容。",
+      "title": "马斯克与奥特曼之争是为了OpenAI的灵魂",
+      "summary": "在马斯克诉阿尔特曼案中，陪审团将很快决定OpenAI是否偏离了其确保通用人工智能造福人类的创始使命。以下是需要了解的信息。",
       "link": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
       "source": "Wired-AI",
       "date": "2026-04-16",
@@ -128,8 +128,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "英国启动6.75亿美元主权人工智能基金",
-      "summary": "为了减少对其他国家技术的依赖，英国政府正在大力投资本土的人工智能初创企业。",
+      "title": "英国启动6.75亿美元主权AI基金",
+      "summary": "为了减少对其他国家技术的依赖，英国政府正在投入资源支持本土的人工智能初创企业。",
       "link": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
       "source": "Wired-AI",
       "date": "2026-04-16",
@@ -137,8 +137,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "谷歌的AI模式更新试图在Chrome中消除标签页切换",
-      "summary": "谷歌对其Chrome浏览器中AI模式的最新更新旨在让你一旦开始在线搜索，聊天机器人式的搜索工具就会一直存在。",
+      "title": "谷歌的AI模式更新试图消除Chrome中的标签页切换问题",
+      "summary": "谷歌对其Chrome浏览器中AI模式的最新更新旨在让你一旦开始在线搜索，聊天机器人式的搜索工具就会一直伴随左右。",
       "link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
       "source": "Wired-AI",
       "date": "2026-04-16",
@@ -147,7 +147,7 @@
     },
     {
       "title": "Anthropic计划在伦敦大规模扩张",
-      "summary": "随着与美国政府的紧张关系加剧，Anthropic 已租用了一个新办公室，该办公室有足够的空间将其在伦敦的200人团队扩大四倍。",
+      "summary": "随着与美国政府的紧张关系加剧，Anthropic 已在伦敦租用了新的办公空间，足以将其200人的员工数量增加到四倍。",
       "link": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
       "source": "Wired-AI",
       "date": "2026-04-16",
@@ -155,7 +155,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "下载：尼安德特人内心世界的坏消息，以及人工智能战争中的人类幻象",
+      "title": "下载：尼安德特人内心世界的坏消息，以及人工智能战争中的人类幻觉",
       "summary": "这是今天的《下载》版，我们的工作日通讯，为您提供每日科技世界的动态。",
       "link": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
       "source": "MIT-Tech-Review",
@@ -541,7 +541,7 @@
       "date": "2026-04-17"
     },
     {
-      "title": "Backcountry收购Coalatree，同时推出品牌孵化器",
+      "title": "Backcountry 收购 Coalatree 并推出品牌孵化器",
       "content": "这家零售商在九月收购了自行车公司Velotech，正在寻找与新兴品牌更多的合作机会。",
       "link": "https://www.retaildive.com/news/backcountry-brand-incubator-acquires-coalatree/817752/",
       "source": "Retail-Dive",
@@ -698,117 +698,135 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description": "一个CLAUDE.md文件，用于改进Claude代码行为，源自Andrej Karpathy对大语言模型编程陷阱的观察。",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        "LLM"
+        {
+          "name": "LLM"
+        }
       ],
       "date": "2026-04-19"
     },
     {
       "name": "developers",
       "author": "trending",
-      "description": "The agent that grows with you",
+      "description": "与你一同成长的代理",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        "Agent"
+        {
+          "name": "Agent"
+        }
       ],
       "date": "2026-04-19"
     },
     {
       "name": "andrej-karpathy-skills",
       "author": "multica-ai",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "description": "一个Claude代码插件，它会自动捕获Claude在你编程期间的所有操作，使用AI（通过Claude的agent-sdk）进行压缩，并将相关上下文注入到未来的会话中。",
       "link": "https://github.com/multica-ai/andrej-karpathy-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        "Agent"
+        {
+          "name": "Agent"
+        }
       ],
       "date": "2026-04-19"
     },
     {
       "name": "hermes-agent",
       "author": "NousResearch",
-      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "description": "基于GEP的AI代理自进化引擎。基因组进化协议。| evomap.ai",
       "link": "https://github.com/NousResearch/hermes-agent",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        "Agent"
+        {
+          "name": "Agent"
+        }
       ],
       "date": "2026-04-19"
     },
     {
       "name": "thedotmack",
       "author": "sponsors",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "description": "自进化代理：从3.3K行种子代码开始，以六分之一的令牌消耗实现全系统控制",
       "link": "https://github.com/sponsors/thedotmack",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        "Agent"
+        {
+          "name": "Agent"
+        }
       ],
       "date": "2026-04-19"
     },
     {
       "name": "claude-mem",
       "author": "thedotmack",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "description": "Kronos：金融市场的语言基础模型",
       "link": "https://github.com/thedotmack/claude-mem",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        "LLM"
+        {
+          "name": "LLM"
+        }
       ],
       "date": "2026-04-19"
     },
     {
       "name": "copilot-swe-agent",
       "author": "apps",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "description": "开源的托管代理平台。将编码代理转变为真正的队友——分配任务、跟踪进度、组合技能。",
       "link": "https://github.com/apps/copilot-swe-agent",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        "Agent"
+        {
+          "name": "Agent"
+        }
       ],
       "date": "2026-04-19"
     },
     {
       "name": "evolver",
       "author": "EvoMap",
-      "description": "An AI Hedge Fund Team",
+      "description": "一支AI对冲基金团队",
       "link": "https://github.com/EvoMap/evolver",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        "AI"
+        {
+          "name": "AI"
+        }
       ],
       "date": "2026-04-19"
     },
     {
       "name": "GenericAgent",
       "author": "lsdefine",
-      "description": "Python tool for converting files and office documents to Markdown.",
+      "description": "Python工具，用于将文件和办公文档转换为Markdown。",
       "link": "https://github.com/lsdefine/GenericAgent",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        "Agent"
+        {
+          "name": "Agent"
+        }
       ],
       "date": "2026-04-19"
     },
@@ -821,33 +839,39 @@
       "trend": 50,
       "forks": 10,
       "tags": [
-        "LLM"
+        {
+          "name": "LLM"
+        }
       ],
       "date": "2026-04-19"
     },
     {
       "name": "multica",
       "author": "multica-ai",
-      "description": "The open-source voice synthesis studio",
+      "description": "开源语音合成工作室",
       "link": "https://github.com/multica-ai/multica",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        "AI"
+        {
+          "name": "AI"
+        }
       ],
       "date": "2026-04-19"
     },
     {
       "name": "ai-hedge-fund",
       "author": "virattt",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "description": "VoxCPM2：无需分词器的多语言语音合成、创意声音设计和真实克隆",
       "link": "https://github.com/virattt/ai-hedge-fund",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        "Audio"
+        {
+          "name": "Audio"
+        }
       ],
       "date": "2026-04-19"
     }

@@ -829,7 +829,11 @@
       }
       document.getElementById('github-count').textContent = '共 ' + githubData.length + ' 个 · 左右滑动查看';
       c.innerHTML = githubData.map(function(item, i) {
-        var tagsHtml = item.tags ? item.tags.map(function(t) { return '<span class="github-tag ' + (t.type || '') + '">' + t.name + '</span>'; }).join('') : '';
+        var tagsHtml = item.tags ? item.tags.map(function(t) {
+          var tagName = (typeof t === 'string') ? t : (t.name || '');
+          var tagType = (typeof t === 'string') ? '' : (t.type || '');
+          return '<span class="github-tag ' + tagType + '">' + tagName + '</span>';
+        }).join('') : '';
         return '<div class="github-card">' +
           '<div class="github-header">' +
           '<div class="github-icon">' + (item.icon || '⭐') + '</div>' +
