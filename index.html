@@ -19,11 +19,14 @@
     .navbar-links { display: flex; gap: 20px; }
     .navbar-links a { color: white; text-decoration: none; font-size: 14px; transition: opacity 0.2s; }
     .navbar-links a:hover { opacity: 0.8; text-decoration: underline; }
-    .navbar-personal { display: flex; align-items: center; gap: 6px; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); border-radius: 20px; padding: 4px 12px 4px 8px; cursor: pointer; transition: all 0.2s; text-decoration: none; flex-shrink: 0; }
+    .navbar-personal { display: flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); border-radius: 20px; padding: 6px 16px 6px 10px; cursor: pointer; transition: all 0.2s; text-decoration: none; flex-shrink: 0; min-width: 160px; }
     .navbar-personal:hover { background: rgba(255,255,255,0.25); }
-    .navbar-personal .p-icon { font-size: 15px; }
-    .navbar-personal .p-text { font-size: 12px; font-weight: 600; color: white; white-space: nowrap; }
-    .navbar-personal .p-tag { font-size: 10px; color: rgba(255,255,255,0.85); background: rgba(255,255,255,0.2); border-radius: 8px; padding: 1px 6px; white-space: nowrap; }
+    .navbar-personal .p-icon { font-size: 16px; }
+    .navbar-personal .p-text { font-size: 12px; font-weight: 700; color: white; white-space: nowrap; letter-spacing: 0.3px; }
+    .navbar-personal .p-divider { width: 1px; height: 14px; background: rgba(255,255,255,0.35); flex-shrink: 0; }
+    .navbar-personal .p-tags { display: flex; align-items: center; gap: 4px; flex-wrap: nowrap; overflow: hidden; }
+    .navbar-personal .p-tag { font-size: 10px; color: rgba(255,255,255,0.95); background: rgba(255,255,255,0.2); border-radius: 8px; padding: 2px 7px; white-space: nowrap; max-width: 70px; overflow: hidden; text-overflow: ellipsis; }
+    .navbar-personal .p-tag.p-tag-count { background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.7); font-size: 9px; padding: 2px 5px; }
 
     /* Hero */
     .hero { background: linear-gradient(135deg, #f8f7ff 0%, #fff 60%, #f0fdf4 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.08); text-align: center; padding: 28px 24px 20px; position: relative; overflow: hidden; }
@@ -350,7 +353,10 @@
       <a href="custom.html" class="navbar-personal" id="navbar-personal-btn">
         <span class="p-icon">🎯</span>
         <span class="p-text">个性化</span>
-        <span class="p-tag" id="navbar-pref-tag">设置偏好</span>
+        <span class="p-divider"></span>
+        <span class="p-tags" id="navbar-pref-tags">
+          <span class="p-tag" id="navbar-pref-tag">设置偏好</span>
+        </span>
       </a>
     </div>
   </nav>
@@ -1104,27 +1110,42 @@
       try {
         var saved = localStorage.getItem('ai_preferences');
         var navTag = document.getElementById('navbar-pref-tag');
+        var navTagsContainer = document.getElementById('navbar-pref-tags');
         var container = document.getElementById('user-preference-tags');
         var miniContainer = document.getElementById('user-preference-tags-mini');
-        
+            
         // 如果没有保存的偏好
         if (!saved) {
-          if (navTag) navTag.textContent = '设置偏好';
+          if (navTagsContainer) navTagsContainer.innerHTML = '<span class="p-tag">设置偏好</span>';
           var emptyHtml = '<a href="custom.html" style="font-size: 13px; color: #7c3aed; text-decoration: none; padding: 6px 12px; background: white; border-radius: 20px; border: 1px solid #ddd6fe;">👉 点击设置你的AI兴趣偏好</a>';
           if (container) container.innerHTML = emptyHtml;
           if (miniContainer) miniContainer.innerHTML = '<span style="font-size: 11px; color: #9ca3af;">暂无偏好</span>';
           return;
         }
-        
+            
         var prefs = JSON.parse(saved);
         var keywords = prefs.keywords || {};
         var sortedKeywords = Object.entries(keywords).sort(function(a, b) { return b[1] - a[1]; }).slice(0, 5);
-        
-        // 更新 navbar 右上角标签
-        if (navTag) {
-          navTag.textContent = sortedKeywords.length > 0 ? sortedKeywords[0][0] + ' 等' + sortedKeywords.length + '项' : '已设置';
+        var linkCount = (prefs.submittedLinks || []).length;
+            
+        // 更新 navbar 标签区：展示Top2关键词 + 链接数
+        if (navTagsContainer) {
+          var tagsHtml = '';
+          if (sortedKeywords.length > 0) {
+            sortedKeywords.slice(0, 2).forEach(function(item) {
+              tagsHtml += '<span class="p-tag">' + item[0] + '</span>';
+            });
+            if (sortedKeywords.length > 2) {
+              tagsHtml += '<span class="p-tag p-tag-count">+' + (sortedKeywords.length - 2) + '</span>';
+            }
+          } else if (linkCount > 0) {
+            tagsHtml = '<span class="p-tag">已分析' + linkCount + '个</span>';
+          } else {
+            tagsHtml = '<span class="p-tag">已设置</span>';
+          }
+          navTagsContainer.innerHTML = tagsHtml;
         }
-        
+            
         // 主区域显示（兼容旧逻辑）
         if (container) {
           var html = '';
@@ -1137,7 +1158,7 @@
           html += '<a href="custom.html" style="font-size: 12px; color: #7c3aed; text-decoration: none; margin-left: 8px; padding: 4px 10px; background: white; border-radius: 12px; border: 1px solid #ddd6fe;">编辑</a>';
           container.innerHTML = html;
         }
-        
+            
         // 右上角迷你卡片显示
         if (miniContainer) {
           var miniHtml = '';
@@ -1152,12 +1173,11 @@
           }
           miniContainer.innerHTML = miniHtml;
         }
-        
+            
         // 更新推荐统计
         var recCountEl = document.getElementById('rec-count');
         var matchRateEl = document.getElementById('match-rate');
         if (recCountEl && matchRateEl) {
-          // 计算推荐内容数量（从data.json中获取）
           var totalRec = 0;
           if (typeof newsData !== 'undefined') {
             totalRec += newsData.filter(function(item) { return item.is_recommended; }).length;
@@ -1171,16 +1191,11 @@
           if (typeof agentsData !== 'undefined') {
             totalRec += agentsData.filter(function(item) { return item.is_recommended; }).length;
           }
-          
           recCountEl.textContent = totalRec > 0 ? totalRec : '--';
-          
-          // 计算平均匹配度
           var avgMatch = sortedKeywords.length > 0 ? Math.round(sortedKeywords.reduce(function(a, b) { return a + b[1]; }, 0) / sortedKeywords.length * 10) : 0;
           matchRateEl.textContent = avgMatch > 0 ? avgMatch + '%' : '--';
         }
-      } catch(e) {
-        console.log('加载偏好失败:', e);
-      }
+      } catch(e) {}
     }
 
     document.addEventListener('DOMContentLoaded', function() {
