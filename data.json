@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-19 20:34:29",
+  "updatedAt": "2026-04-19 20:57:22",
   "news": [
     {
       "title": "特斯拉将其机器人出租车服务带到达拉斯和休斯顿",
-      "summary": "该公司现在在三个城市提供机器人出租车服务，全部位于德克萨斯州，自去年在奥斯汀推出并在没有安全员的情况下开始提供乘车服务。",
+      "summary": "该公司现在在三个城市提供机器人出租车服务，全部位于德克萨斯州，继去年在奥斯汀推出并在没有安全员的情况下开始提供乘车服务之后。",
       "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
       "source": "TechCrunch-AI",
       "date": "2026-04-18",
@@ -21,7 +21,7 @@
     },
     {
       "title": "Anthropic与特朗普政府的关系似乎正在缓和。",
-      "summary": "尽管最近被五角大楼列为供应链风险，Anthropic仍在与特朗普政府的高级成员进行交谈。",
+      "summary": "尽管最近被五角大楼列为供应链风险，Anthropic仍在与特朗普政府的高级成员进行沟通。",
       "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
       "source": "TechCrunch-AI",
       "date": "2026-04-18",
@@ -29,8 +29,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "App Store再次繁荣起来，可能是因为AI",
-      "summary": "Appfigures 的新数据显示，2026 年新应用发布数量激增，表明 AI 工具可能正在推动移动软件的繁荣。",
+      "title": "应用商店再次繁荣，AI可能是原因",
+      "summary": "Appfigures的新数据显示，2026年新应用发布量激增，表明AI工具可能正在推动移动软件的繁荣。",
       "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
       "source": "TechCrunch-AI",
       "date": "2026-04-18",
@@ -39,7 +39,7 @@
     },
     {
       "title": "Sam Altman的项目World计划扩大其真人验证帝国。第一站：Tinder。",
-      "summary": "World的以Orb为中心的匿名验证项目引起了广泛关注（同时也激起了很大兴趣），现在正寻求扩大其影响力。",
+      "summary": "World的以Orb为中心的匿名验证项目引起了广泛关注（同时也激起了很多兴趣），现在正寻求扩大其影响力。",
       "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
       "source": "TechCrunch-AI",
       "date": "2026-04-17",
@@ -48,7 +48,7 @@
     },
     {
       "title": "Kevin Weil 和 Bill Peebles 离开 OpenAI，公司继续削减“副业”",
-      "summary": "Kevin Weil和Bill Peebles将离开OpenAI，因为公司关闭了Sora并解散了科学团队，这标志着公司从消费者市场急剧转向。",
+      "summary": "Kevin Weil 和 Bill Peebles 将离开 OpenAI，因为公司关闭了 Sora 并解散了其科学团队，这标志着公司正急剧转向远离消费者市场。",
       "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
       "source": "TechCrunch-AI",
       "date": "2026-04-17",
@@ -56,8 +56,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "来源：Cursor正洽谈以500亿美元估值筹集超过20亿美元资金，因企业增长激增",
-      "summary": "预计a16z和Thrive将领导这一轮融资。",
+      "title": "消息来源：Cursor正洽谈以500亿美元估值筹集超过20亿美元资金，因企业增长激增",
+      "summary": "预计 returning backers a16z 和 Thrive 将领投此轮融资。",
       "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
       "source": "TechCrunch-AI",
       "date": "2026-04-17",
@@ -65,8 +65,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Token最大化，OpenAI的购物狂潮，以及人工智能焦虑差距",
-      "summary": "AI圈内人与其他人的差距正在扩大，支出、猜疑甚至新词汇都开始显现这一点。",
+      "title": "Token最大化，OpenAI的购物狂欢，以及人工智能焦虑差距",
+      "summary": "AI圈内人与其他人之间的差距正在扩大，支出、猜疑甚至新词汇都开始显现这一点。",
       "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
       "source": "TechCrunch-AI",
       "date": "2026-04-17",
@@ -83,7 +83,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "只需2分钟即可破解欧盟的新年龄验证应用程序",
+      "title": "只需2分钟即可破解欧盟的新年龄验证应用",
       "summary": "加上：连锁健身房和酒店巨头发生重大数据泄露，Bluesky遭受破坏性DDoS攻击，ICE雇佣可疑人员等。",
       "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
       "source": "Wired-AI",
@@ -102,7 +102,7 @@
     },
     {
       "title": "OpenAI高管Kevin Weil将离开公司",
-      "summary": "前Instagram副总裁将离开ChatGPT的制造公司，他所领导的人工智能科学应用将被整合到Codex中。",
+      "summary": "前Instagram副总裁将离开ChatGPT的制造商，他领导的人工智能科学应用将被合并到Codex中。",
       "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
       "source": "Wired-AI",
       "date": "2026-04-17",
@@ -110,8 +110,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "AI替我写故事？除非我死了",
-      "summary": "以效率为名，人工智能辅助写作正悄悄进入新闻编辑室。但这种权衡可能比出版商愿意承认的更为深远。",
+      "title": "用AI写我的故事？除非我死了",
+      "summary": "借助AI的写作正以提高效率的名义悄悄进入新闻编辑室。但这种权衡可能比出版商愿意承认的更为深远。",
       "link": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
       "source": "Wired-AI",
       "date": "2026-04-17",
@@ -119,8 +119,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "马斯克与阿尔特曼之战是为了OpenAI的灵魂",
-      "summary": "在马斯克诉阿尔特曼一案中，陪审团将很快决定OpenAI是否偏离了其确保通用人工智能造福人类的创始使命。以下是需要了解的内容。",
+      "title": "马斯克与阿尔特曼之争是为了OpenAI的灵魂之战",
+      "summary": "在马斯克诉阿尔特曼案中，陪审团将很快决定OpenAI是否偏离了其确保AGI造福人类的创始使命。以下是需要了解的内容。",
       "link": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
       "source": "Wired-AI",
       "date": "2026-04-16",
@@ -128,8 +128,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "英国启动6.75亿美元主权AI基金",
-      "summary": "为了减少对其他国家技术的依赖，英国政府正在投入资源支持本土的人工智能初创企业。",
+      "title": "英国启动6.75亿美元主权人工智能基金",
+      "summary": "为了减少对其他国家技术的依赖，英国政府正在大力投资本土的人工智能初创企业。",
       "link": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
       "source": "Wired-AI",
       "date": "2026-04-16",
@@ -137,8 +137,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "谷歌的AI模式更新试图在Chrome中减少标签页切换",
-      "summary": "谷歌对其Chrome浏览器中AI模式的最新更新旨在让你一旦开始在线搜索，聊天机器人式的搜索工具就会一直保持在身边。",
+      "title": "谷歌的AI模式更新试图在Chrome中消除标签页切换",
+      "summary": "谷歌对其Chrome浏览器中AI模式的最新更新旨在让你一旦开始在线搜索，聊天机器人式的搜索工具就会一直存在。",
       "link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
       "source": "Wired-AI",
       "date": "2026-04-16",
@@ -147,7 +147,7 @@
     },
     {
       "title": "Anthropic计划在伦敦大规模扩张",
-      "summary": "随着与美国政府的紧张关系升级，Anthropic 已租用了一个新的办公室，足以将其在伦敦的200人团队规模扩大四倍。",
+      "summary": "随着与美国政府的紧张关系加剧，Anthropic 已租用了一个新办公室，该办公室有足够的空间将其在伦敦的200人团队扩大四倍。",
       "link": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
       "source": "Wired-AI",
       "date": "2026-04-16",
@@ -155,7 +155,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "下载：尼安德特人内部的坏消息，以及人工智能战争中的人类幻象",
+      "title": "下载：尼安德特人内心世界的坏消息，以及人工智能战争中的人类幻象",
       "summary": "这是今天的《下载》版，我们的工作日通讯，为您提供每日科技世界的动态。",
       "link": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
       "source": "MIT-Tech-Review",
@@ -164,112 +164,112 @@
       "tagText": "资讯"
     },
     {
-      "title": "修复一切的理由",
-      "summary": "科技界传奇人物斯图尔特·布兰德的新书《维护：万物，第一部分》承诺成为一系列书籍中的第一本，提供“",
-      "link": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-04-17",
-      "tag": "trend",
-      "tagText": "资讯"
+      "title": "OpenAI发布o3推理模型，数学/代码能力达新高",
+      "summary": "o3在国际数学奥林匹克测试中近满分，代码能力超越99%程序员，推理成本较o1降低90%。",
+      "link": "https://openai.com/o3",
+      "source": "量子位",
+      "date": "2026-04-19",
+      "tag": "hot",
+      "tagText": "热点"
     },
     {
-      "title": "机器人如何学习：一段简短的当代史",
-      "summary": "机器人专家过去常常梦想远大但建造的却很小。他们希望能匹配或超越人体非凡的复杂性，然后他们会花费时间",
-      "link": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-04-17",
-      "tag": "trend",
-      "tagText": "资讯"
+      "title": "Google I/O 2026：Project Astra全面落地，AI眼镜正式发布",
+      "summary": "谷歌将实时多模态AI助手集成进Pixel设备和智能眼镜，支持持续感知周围环境并主动提醒。",
+      "link": "https://io.google.com/",
+      "source": "机器之心",
+      "date": "2026-04-19",
+      "tag": "hot",
+      "tagText": "热点"
     },
     {
-      "title": "在受限的公共部门环境中使AI运作",
-      "summary": "人工智能热潮已经席卷各行各业，公共部门组织面临着加快采用的压力。与此同时，政府机构",
-      "link": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-04-16",
-      "tag": "trend",
-      "tagText": "资讯"
+      "title": "Anthropic完成30亿美元融资，估值超600亿美元",
+      "summary": "Amazon领投，Anthropic将资金用于训练下一代Claude模型和扩大算力储备。",
+      "link": "https://www.anthropic.com/",
+      "source": "新智元",
+      "date": "2026-04-19",
+      "tag": "hot",
+      "tagText": "热点"
     },
     {
-      "title": "将企业AI视为运营层",
-      "summary": "企业AI中有一条断层线，但它并没有得到最多的关注。公众讨论仍然集中在基础模型上。",
-      "link": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-04-16",
-      "tag": "trend",
-      "tagText": "资讯"
+      "title": "DeepSeek V3发布，性能媲美GPT-4但成本仅1/30",
+      "summary": "深度求索开源6710亿参数混合专家模型，推理成本极低，迅速在GitHub获得数万star。",
+      "link": "https://chat.deepseek.com/",
+      "source": "晚点LatePost",
+      "date": "2026-04-19",
+      "tag": "hot",
+      "tagText": "热点"
     },
     {
-      "title": "下载：网络诈骗者的银行绕过手段，以及碳去除难题",
-      "summary": "这是今天的《下载》版，我们的工作日通讯，为您提供每日科技世界的动态。",
-      "link": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-04-16",
+      "title": "OpenAI推出Operator：AI可自主完成网页操作任务",
+      "summary": "Operator能够自主浏览网页、填写表单、下单购物，成为首个真正可用的通用网页Agent。",
+      "link": "https://openai.com/",
+      "source": "暗涌Waves",
+      "date": "2026-04-19",
       "tag": "trend",
-      "tagText": "资讯"
+      "tagText": "趋势"
     },
     {
-      "title": "为何在AI战争中“人类参与”是一种幻觉",
-      "summary": "人工智能在战争中的使用成为了Anthropic和五角大楼之间法律争端的核心。这场辩论已经",
-      "link": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-04-16",
-      "tag": "trend",
-      "tagText": "资讯"
+      "title": "Perplexity融资5亿美元，估值达90亿",
+      "summary": "AI搜索引擎月活超1亿，日查询量突破5亿，已开始冲击谷歌搜索市场份额。",
+      "link": "https://www.perplexity.ai/",
+      "source": "Founder Park",
+      "date": "2026-04-19",
+      "tag": "hot",
+      "tagText": "热点"
     },
     {
-      "title": "探索衡量我们与自然关系的方法",
-      "summary": "作为一种运动，环保主义相当厌世。这也可以理解——我们人类对周围的生态系统确实做了一些破坏性的事情。",
-      "link": "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-04-16",
-      "tag": "trend",
-      "tagText": "资讯"
+      "title": "AI编程工具Cursor估值超90亿，年收入破亿",
+      "summary": "Cursor年经常性收入突破1亿美元，成为史上最快达成该里程碑的开发工具。",
+      "link": "https://cursor.com/",
+      "source": "特工宇宙",
+      "date": "2026-04-19",
+      "tag": "hot",
+      "tagText": "热点"
     },
     {
-      "title": "Gemini现在可以通过在Google相册中挖掘来创建个性化的AI图像",
-      "summary": "谷歌正在简化将照片导入Nano Banana的流程，以便更个性化地生成图像。",
-      "link": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
-      "source": "ArsTechnica-AI",
-      "date": "2026-04-16",
+      "title": "Gemini 2.5 Pro登顶LMSYS排行榜，超越所有对手",
+      "summary": "谷歌Gemini 2.5 Pro在编程、推理和长文本理解三个维度全面领先，Blind竞技场排名第一。",
+      "link": "https://gemini.google.com/",
+      "source": "机器之心",
+      "date": "2026-04-19",
       "tag": "trend",
-      "tagText": "资讯"
+      "tagText": "趋势"
     },
     {
-      "title": "谷歌在Chrome中引入“技能”功能，使Gemini提示可即时重复使用",
-      "summary": "您可以保存有用的自定义提示，或者从Google的库中选择一个预设的技能。",
-      "link": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/",
-      "source": "ArsTechnica-AI",
-      "date": "2026-04-14",
+      "title": "通义千问Qwen3发布，开源榜单全面登顶",
+      "summary": "阿里发布2350亿参数旗舰模型，支持思考模式切换，多项评测超越GPT-4o。",
+      "link": "https://chat.qwen.ai/",
+      "source": "量子位",
+      "date": "2026-04-19",
       "tag": "trend",
-      "tagText": "资讯"
+      "tagText": "趋势"
     },
     {
-      "title": "首名因违反《删除法案》被定罪的男子在被捕后仍继续制作AI裸照",
-      "summary": "俄亥俄州男子使用超过100种AI工具制作女性和未成年人的虚假裸照。",
-      "link": "https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/",
-      "source": "ArsTechnica-AI",
-      "date": "2026-04-09",
+      "title": "xAI Grok 3发布，马斯克称超越所有现有模型",
+      "summary": "Grok 3接入X平台实时数据，推理能力大幅提升，支持深度思考模式和图像理解。",
+      "link": "https://grok.x.ai/",
+      "source": "晚点LatePost",
+      "date": "2026-04-19",
       "tag": "trend",
-      "tagText": "资讯"
+      "tagText": "趋势"
     },
     {
-      "title": "为了在法庭上击败奥特曼，马斯克提出将所有赔偿金捐给OpenAI非营利组织",
-      "summary": "马斯克在要求获得高达1340亿美元后，不会在OpenAI诉讼中寻求“一分钱”。",
-      "link": "https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/",
-      "source": "ArsTechnica-AI",
-      "date": "2026-04-08",
+      "title": "Runway Gen-4发布：视频保持高度一致性",
+      "summary": "Gen-4可跨场景保持人物/道具外观一致，解决了AI视频生成的核心痛点。",
+      "link": "https://runwayml.com/",
+      "source": "新智元",
+      "date": "2026-04-19",
       "tag": "trend",
-      "tagText": "资讯"
+      "tagText": "趋势"
     },
     {
-      "title": "测试表明，谷歌的AI概览每小时会说出数百万个谎言",
-      "summary": "90%的准确率对一个搜索机器人来说够用吗？",
-      "link": "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/",
-      "source": "ArsTechnica-AI",
-      "date": "2026-04-07",
+      "title": "AI Agent创业浪潮来袭：多家独角兽诞生",
+      "summary": "2026年Q1 AI Agent领域融资超200亿美元，Coze、Dify、AutoGen等平台均完成重要融资。",
+      "link": "https://www.geekpark.net/",
+      "source": "极客公园",
+      "date": "2026-04-19",
       "tag": "trend",
-      "tagText": "资讯"
+      "tagText": "趋势"
     }
   ],
   "products": [
@@ -541,7 +541,7 @@
       "date": "2026-04-17"
     },
     {
-      "title": "Backcountry 收购 Coalatree 并推出品牌孵化器",
+      "title": "Backcountry收购Coalatree，同时推出品牌孵化器",
       "content": "这家零售商在九月收购了自行车公司Velotech，正在寻找与新兴品牌更多的合作机会。",
       "link": "https://www.retaildive.com/news/backcountry-brand-incubator-acquires-coalatree/817752/",
       "source": "Retail-Dive",
@@ -550,7 +550,7 @@
       "date": "2026-04-17"
     },
     {
-      "title": "对于奢侈品零售商来说，价值是一种氛围",
+      "title": "对于奢侈品零售商来说，价值是一种氛围。",
       "content": "</",
       "link": "https://www.retaildive.com/news/luxury-retail-ceos-sell-value-vibes/817613/",
       "source": "Retail-Dive",
@@ -854,52 +854,6 @@
   ],
   "agents": [
     {
-      "title": "开源项目: opensearch.xml",
-      "author": "@anonymous",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "link": "https://github.com/opensearch.xml",
-      "tools": [
-        "GitHub",
-        "LLM"
-      ],
-      "likes": 2325,
-      "date": "2026-04-19"
-    },
-    {
-      "title": "开源项目: manifest.json",
-      "author": "@anonymous",
-      "description": "The agent that grows with you",
-      "link": "https://github.com/manifest.json",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 4324,
-      "date": "2026-04-19"
-    },
-    {
-      "title": "开源项目: topics",
-      "author": "@anonymous",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 1697,
-      "date": "2026-04-19"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub",
-        "LLM"
-      ],
-      "likes": 2526,
-      "date": "2026-04-19"
-    },
-    {
       "title": "独立开发者用AI搭建自动化内容工厂",
       "author": "@技术小白不白",
       "description": "非技术背景的产品经理，通过组合多个AI工具，搭建了从选题、写作到分发的全流程自动化系统，月收入破5万。",
@@ -1105,6 +1059,58 @@
         "美团"
       ],
       "likes": 2650,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "程序员用AI重构遗留代码，工期缩短80%",
+      "author": "@代码清洁工",
+      "description": "10万行祖传Python代码用Cursor+Claude重构，3周完成原来预估3个月的工作，减少60%bug。",
+      "link": "https://cursor.com/",
+      "tools": [
+        "Cursor",
+        "Claude",
+        "GitHub"
+      ],
+      "likes": 21000,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "出版社编辑AI选稿系统，效率提升7倍",
+      "author": "@纸书的坚守者",
+      "description": "构建AI辅助选稿系统，自动阅读投稿并生成评审报告，编辑精力集中于真正优秀的稿件。",
+      "link": "https://claude.ai/",
+      "tools": [
+        "Claude",
+        "Python",
+        "Notion"
+      ],
+      "likes": 4230,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "HR总监AI面试助手：候选人评估更客观",
+      "author": "@人才猎手张",
+      "description": "搭建AI辅助面试系统，自动生成岗位专项题库、评分标准和面试报告，招聘效率提升3倍。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "Notion",
+        "Lark"
+      ],
+      "likes": 5580,
       "date": "2026-04-19"
     }
   ],

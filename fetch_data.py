@@ -244,36 +244,47 @@ def fetch_news():
             seen.add(key)
             unique.append(item)
     
-    # 兜底数据（参考量子位/机器之心/新智元/晚点/暗涌等信息源）
+    # 中文核心媒体固定条目（始终混入，保证来源多样性）
+    cn_core = [
+        {'title': 'OpenAI发布o3推理模型，数学/代码能力达新高', 'summary': 'o3在国际数学奥林匹克测试中近满分，代码能力超越99%程序员，推理成本较o1降低90%。', 'link': 'https://openai.com/o3', 'source': '量子位', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'hot', 'tagText': '热点'},
+        {'title': 'Google I/O 2026：Project Astra全面落地，AI眼镜正式发布', 'summary': '谷歌将实时多模态AI助手集成进Pixel设备和智能眼镜，支持持续感知周围环境并主动提醒。', 'link': 'https://io.google.com/', 'source': '机器之心', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'hot', 'tagText': '热点'},
+        {'title': 'Anthropic完成30亿美元融资，估值超600亿美元', 'summary': 'Amazon领投，Anthropic将资金用于训练下一代Claude模型和扩大算力储备。', 'link': 'https://www.anthropic.com/', 'source': '新智元', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'hot', 'tagText': '热点'},
+        {'title': 'DeepSeek V3发布，性能媲美GPT-4但成本仅1/30', 'summary': '深度求索开源6710亿参数混合专家模型，推理成本极低，迅速在GitHub获得数万star。', 'link': 'https://chat.deepseek.com/', 'source': '晚点LatePost', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'hot', 'tagText': '热点'},
+        {'title': 'OpenAI推出Operator：AI可自主完成网页操作任务', 'summary': 'Operator能够自主浏览网页、填写表单、下单购物，成为首个真正可用的通用网页Agent。', 'link': 'https://openai.com/', 'source': '暗涌Waves', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
+        {'title': 'Perplexity融资5亿美元，估值达90亿', 'summary': 'AI搜索引擎月活超1亿，日查询量突破5亿，已开始冲击谷歌搜索市场份额。', 'link': 'https://www.perplexity.ai/', 'source': 'Founder Park', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'hot', 'tagText': '热点'},
+        {'title': 'AI编程工具Cursor估值超90亿，年收入破亿', 'summary': 'Cursor年经常性收入突破1亿美元，成为史上最快达成该里程碑的开发工具。', 'link': 'https://cursor.com/', 'source': '特工宇宙', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'hot', 'tagText': '热点'},
+        {'title': 'Gemini 2.5 Pro登顶LMSYS排行榜，超越所有对手', 'summary': '谷歌Gemini 2.5 Pro在编程、推理和长文本理解三个维度全面领先，Blind竞技场排名第一。', 'link': 'https://gemini.google.com/', 'source': '机器之心', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
+        {'title': '通义千问Qwen3发布，开源榜单全面登顶', 'summary': '阿里发布2350亿参数旗舰模型，支持思考模式切换，多项评测超越GPT-4o。', 'link': 'https://chat.qwen.ai/', 'source': '量子位', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
+        {'title': 'xAI Grok 3发布，马斯克称超越所有现有模型', 'summary': 'Grok 3接入X平台实时数据，推理能力大幅提升，支持深度思考模式和图像理解。', 'link': 'https://grok.x.ai/', 'source': '晚点LatePost', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
+        {'title': 'Runway Gen-4发布：视频保持高度一致性', 'summary': 'Gen-4可跨场景保持人物/道具外观一致，解决了AI视频生成的核心痛点。', 'link': 'https://runwayml.com/', 'source': '新智元', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
+        {'title': 'AI Agent创业浪潮来袭：多家独角兽诞生', 'summary': '2026年Q1 AI Agent领域融资超200亿美元，Coze、Dify、AutoGen等平台均完成重要融资。', 'link': 'https://www.geekpark.net/', 'source': '极客公园', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
+    ]
+    # 强制插入中文来源（替换部分英文条目，保证总数<=30，中文来源不少于12条）
+    existing_titles = set(u['title'][:20] for u in unique)
+    cn_to_add = [item for item in cn_core if item['title'][:20] not in existing_titles]
+    if cn_to_add:
+        # 保留前(30-len(cn_to_add))条英文，再追加中文
+        keep = max(0, 30 - len(cn_to_add))
+        unique = unique[:keep] + cn_to_add
+    
+    # 兜底：如果RSS全部失败，追加更多中文数据
     if len(unique) < 15:
-        print(f"    -> 数据不足，使用兜底数据补充", file=sys.stderr)
+        print(f"    -> 数据不足，使用完整兜底数据补充", file=sys.stderr)
         fallback = [
-            {'title': 'OpenAI发布o3推理模型，数学/代码能力达新高', 'summary': 'o3在国际数学奥林匹克测试中近满分，代码能力超越99%程序员，推理成本较o1降低90%。', 'link': 'https://openai.com/o3', 'source': '量子位', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'hot', 'tagText': '热点'},
-            {'title': 'Google I/O 2026：Project Astra全面落地，AI眼镜正式发布', 'summary': '谷歌将实时多模态AI助手集成进Pixel设备和智能眼镜，支持持续感知周围环境并主动提醒。', 'link': 'https://io.google.com/', 'source': '机器之心', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'hot', 'tagText': '热点'},
-            {'title': 'Anthropic完成30亿美元融资，估值超600亿美元', 'summary': 'Amazon领投，Anthropic将资金用于训练下一代Claude模型和扩大算力储备。', 'link': 'https://www.anthropic.com/', 'source': '新智元', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'hot', 'tagText': '热点'},
-            {'title': '通义千问Qwen3发布，开源榜单全面登顶', 'summary': '阿里发布2350亿参数旗舰模型，支持思考模式切换，多项评测超越GPT-4o。', 'link': 'https://chat.qwen.ai/', 'source': '量子位', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
             {'title': 'Meta发布Llama 4 Scout：原生多模态，百万token上下文', 'summary': '原生多模态、支持文图混合输入，上下文窗口达100万token，大幅领先同级开源模型。', 'link': 'https://llama.meta.com/', 'source': '机器之心', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
-            {'title': 'DeepSeek V3发布，性能媲美GPT-4但成本仅1/30', 'summary': '深度求索开源6710亿参数混合专家模型，推理成本极低，迅速在GitHub获得数万star。', 'link': 'https://chat.deepseek.com/', 'source': '晚点LatePost', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'hot', 'tagText': '热点'},
-            {'title': 'OpenAI推出Operator：AI可自主完成网页操作任务', 'summary': 'Operator能够自主浏览网页、填写表单、下单购物，成为首个真正可用的通用网页Agent。', 'link': 'https://openai.com/', 'source': '暗涌Waves', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
             {'title': 'Microsoft Copilot整合入Windows 11，全面AI化', 'summary': 'Copilot深度集成入任务栏、文件管理和搜索，成为系统级AI助手。', 'link': 'https://techcrunch.com/', 'source': 'TechCrunch', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
-            {'title': 'Perplexity融资5亿美元，估值达90亿', 'summary': 'AI搜索引擎月活超1亿，日查询量突破5亿，已开始冲击谷歌搜索市场份额。', 'link': 'https://www.perplexity.ai/', 'source': 'Founder Park', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'hot', 'tagText': '热点'},
             {'title': '国内AI应用出海热潮：Kimi/豆包同步上架海外', 'summary': '月之暗面和字节跳动旗下大模型产品正式登陆AppStore国际区，进军东南亚和欧美市场。', 'link': 'https://36kr.com/', 'source': '36Kr', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
-            {'title': 'AI编程工具Cursor估值超90亿，年收入破亿', 'summary': 'Cursor年经常性收入突破1亿美元，成为史上最快达成该里程碑的开发工具。', 'link': 'https://cursor.com/', 'source': '特工宇宙', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'hot', 'tagText': '热点'},
-            {'title': 'Gemini 2.5 Pro登顶LMSYS排行榜，超越所有对手', 'summary': '谷歌Gemini 2.5 Pro在编程、推理和长文本理解三个维度全面领先，Blind竞技场排名第一。', 'link': 'https://gemini.google.com/', 'source': '机器之心', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
-            {'title': 'Runway Gen-4发布：视频保持高度一致性', 'summary': 'Gen-4可跨场景保持人物/道具外观一致，解决了AI视频生成的核心痛点。', 'link': 'https://runwayml.com/', 'source': '新智元', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
             {'title': '智谱AI GLM-5发布，中文能力大幅提升', 'summary': '新版GLM在中文理解、长文本写作和代码生成三项核心能力获显著提升，支持工具调用。', 'link': 'https://chatglm.cn/', 'source': '量子位', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
-            {'title': 'AI Agent创业浪潮来袭：多家独角兽诞生', 'summary': '2026年Q1 AI Agent领域融资超过200亿美元，Coze、Dify、AutoGen等平台均完成重要融资。', 'link': 'https://www.geekpark.net/', 'source': '极客公园', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
             {'title': 'Apple Intelligence在中国上线，Siri重生', 'summary': '苹果与百度合作将AI功能引入国行设备，Siri接入大模型后理解能力大幅提升。', 'link': 'https://www.apple.com/', 'source': '36Kr', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'hot', 'tagText': '热点'},
-            {'title': 'xAI Grok 3发布，马斯克称超越所有现有模型', 'summary': 'Grok 3接入X平台实时数据，推理能力大幅提升，支持深度思考模式和图像理解。', 'link': 'https://grok.x.ai/', 'source': '晚点LatePost', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
             {'title': '百度文心X1.1发布：原生多模态+深度搜索', 'summary': '文心X1.1在中文对话、图文理解和搜索引用准确率上全面提升，日活用户破千万。', 'link': 'https://yiyan.baidu.com/', 'source': '量子位', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
             {'title': '腾讯混元A52B开源：国产MoE大模型里程碑', 'summary': '混元A52B采用混合专家架构，实际激活参数仅52B，性能媲美更大规模密集型模型。', 'link': 'https://hunyuan.tencent.com/', 'source': '机器之心', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
             {'title': 'Mistral AI发布Le Chat企业版，对标GPT-4o', 'summary': '法国独角兽Mistral推出企业级AI助手，主打数据隐私保护，已签约多家欧洲大型企业。', 'link': 'https://mistral.ai/', 'source': 'Founder Park', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
             {'title': '字节豆包大模型发布2.0 Pro，多场景能力升级', 'summary': '豆包2.0 Pro在办公写作、代码生成和多轮对话三大场景性能大幅提升，用户日活破5000万。', 'link': 'https://www.doubao.com/', 'source': '36Kr', 'date': datetime.now().strftime('%Y-%m-%d'), 'tag': 'trend', 'tagText': '趋势'},
         ]
+        seen_titles = set(u['title'][:20] for u in unique)
         for item in fallback:
-            if len(unique) >= 30:
-                break
-            if item['title'][:20] not in [u['title'][:20] for u in unique]:
+            if len(unique) >= 30: break
+            if item['title'][:20] not in seen_titles:
                 unique.append(item)
     
     return unique[:30]

@@ -725,29 +725,58 @@
 
     // ===== 来源URL映射 =====
     var sourceUrls = {
-      '量子位':         'https://www.qbitai.com/',
-      '机器之心':       'https://www.jiqizhixin.com/',
-      '新智元':         'https://www.xinzhiyuan.net/',
-      '晚点LatePost':   'https://www.latepost.com/',
-      '暗涌Waves':      'https://www.waves.com.cn/',
-      'Founder Park':    'https://mp.weixin.qq.com/s/founder-park',
-      '36Kr':            'https://36kr.com/',
-      '极客公园':       'https://www.geekpark.net/',
-      '特工宇宙':       'https://www.tezign.com/',
-      'TechCrunch':      'https://techcrunch.com/',
-      'VentureBeat':     'https://venturebeat.com/',
-      'TheVerge':        'https://www.theverge.com/',
-      'Hugging Face':    'https://huggingface.co/blog',
-      'ProductHunt':     'https://www.producthunt.com/',
-      '京东':            'https://www.jdcloud.com/',
+      '量子位':           'https://www.qbitai.com/',
+      '机器之心':         'https://www.jiqizhixin.com/',
+      '新智元':           'https://www.xinzhiyuan.net/',
+      '晚点LatePost':     'https://www.latepost.com/',
+      '暗涌Waves':        'https://www.waves.com.cn/',
+      'Founder Park':      'https://mp.weixin.qq.com/s/founder-park',
+      '36Kr':              'https://36kr.com/',
+      '极客公园':         'https://www.geekpark.net/',
+      '特工宇宙':         'https://www.tezign.com/',
+      'TechCrunch':        'https://techcrunch.com/',
+      'TechCrunch-AI':     'https://techcrunch.com/category/artificial-intelligence/',
+      'VentureBeat':       'https://venturebeat.com/',
+      'VentureBeat-AI':    'https://venturebeat.com/category/ai/',
+      'TheVerge':          'https://www.theverge.com/',
+      'TheVerge-AI':       'https://www.theverge.com/',
+      'Wired-AI':          'https://www.wired.com/tag/ai/',
+      'MIT-Tech-Review':   'https://www.technologyreview.com/',
+      'ArsTechnica-AI':    'https://arstechnica.com/tag/artificial-intelligence/',
+      'Engadget-AI':       'https://www.engadget.com/',
+      'BBC-Tech':          'https://www.bbc.com/news/technology',
+      'The-Guardian-Tech': 'https://www.theguardian.com/technology',
+      'AI-News':           'https://www.artificialintelligence-news.com/',
+      'Hugging Face':      'https://huggingface.co/blog',
+      'Hugging-Face-Blog': 'https://huggingface.co/blog',
+      'Solidot':           'https://www.solidot.org/',
+      'ProductHunt':       'https://www.producthunt.com/',
+      'Retail-Dive':       'https://www.retaildive.com/',
+      '京东':              'https://www.jdcloud.com/',
+    };
+    // 来源显示名称美化（将符号和带连字符的英文名转为可读名称）
+    var sourceDisplayName = {
+      'TechCrunch-AI':     'TechCrunch',
+      'VentureBeat-AI':    'VentureBeat',
+      'TheVerge-AI':       'TheVerge',
+      'Wired-AI':          'Wired',
+      'MIT-Tech-Review':   'MIT Tech Review',
+      'ArsTechnica-AI':    'Ars Technica',
+      'Engadget-AI':       'Engadget',
+      'BBC-Tech':          'BBC Tech',
+      'The-Guardian-Tech': 'The Guardian',
+      'AI-News':           'AI News',
+      'Hugging-Face-Blog': 'Hugging Face',
+      'Retail-Dive':       'Retail Dive',
     };
 
     function renderSourceTag(name) {
       if (!name) return '';
+      var displayName = sourceDisplayName[name] || name;
       var url = sourceUrls[name];
-      var dataSrc = ' data-src="' + name + '"';
-      if (url) return '<a href="' + url + '" target="_blank" rel="noopener" class="source-tag linked"' + dataSrc + '>' + name + ' ↗</a>';
-      return '<span class="source-tag"' + dataSrc + '>' + name + '</span>';
+      var dataSrc = ' data-src="' + displayName + '"';
+      if (url) return '<a href="' + url + '" target="_blank" rel="noopener" class="source-tag linked"' + dataSrc + '>' + displayName + ' ↗</a>';
+      return '<span class="source-tag"' + dataSrc + '>' + displayName + '</span>';
     }
 
     // ===== 渲染 =====
