@@ -963,27 +963,27 @@
     // ===== 初始化 =====
     function initPage() {
       updateTime(); updateClock();
-      initCountdown(); // 初始化倒计时
-      renderNews(); renderProducts(); renderGithub(); renderEcommerce(); renderAgents();
-      initCarousels();
+      initCountdown();
       setInterval(function() { updateClock(); updateCountdown(); }, 1000);
-      
-      // 首次加载时记录更新时间
       if (!localStorage.getItem('lastUpdateTime')) {
         localStorage.setItem('lastUpdateTime', Date.now().toString());
       }
     }
 
-    // 尝试从JSON加载数据，失败则使用内嵌数据
+    // 尝试从 JSON 加载数据，失败则使用内嵌数据
     function loadDataFromJson() {
-      console.log('[Data] 开始加载 data.json...');
-      fetch('data.json?v=' + Date.now())
+      // 利用内嵌数据先快速首屏渲染
+      renderNews(); renderProducts(); renderGithub(); renderEcommerce(); renderAgents();
+      initCarousels();
+    
+      // 用带缓存时间戳的 URL，5分钟内使用浏览器缓存
+      var cacheKey = Math.floor(Date.now() / 300000);
+      fetch('data.json?v=' + cacheKey)
         .then(function(resp) { 
           if (!resp.ok) throw new Error('Network error: ' + resp.status);
           return resp.json();
         })
         .then(function(data) {
-          console.log('[Data] 加载成功:', data);
           // 更新数据
           if (data.news && data.news.length) {
             newsData = data.news.map(function(item) {
@@ -997,7 +997,6 @@
                 source: item.source || '网络'
               };
             });
-            console.log('[Data] News加载:', newsData.length, '条');
           }
           if (data.products && data.products.length) {
             productsData = data.products.map(function(item) {
@@ -1009,7 +1008,6 @@
                 link: item.link || ''
               };
             });
-            console.log('[Data] Products加载:', productsData.length, '款');
           }
           if (data.github && data.github.length) {
             githubData = data.github.map(function(item) {
@@ -1017,7 +1015,7 @@
                 name: item.name || item.repo,
                 author: item.author || 'unknown',
                 description: item.description || '',
-                url: item.url || item.link || '',
+                link: item.link || item.url || '',
                 stars: item.stars || '0',
                 trend: item.trend || '+0',
                 forks: item.forks || '0',
@@ -1025,7 +1023,6 @@
                 tags: item.tags || []
               };
             });
-            console.log('[Data] GitHub加载:', githubData.length, '个');
           }
           if (data.ecommerce && data.ecommerce.length) {
             ecommerceData = data.ecommerce.map(function(item) {
@@ -1039,7 +1036,6 @@
                 date: item.date || new Date().toISOString().slice(0,10)
               };
             });
-            console.log('[Data] Ecommerce加载:', ecommerceData.length, '条');
           }
           if (data.agents && data.agents.length) {
             agentsData = data.agents.map(function(item) {
@@ -1052,21 +1048,16 @@
                 likes: item.likes || 1000
               };
             });
-            console.log('[Data] Agents加载:', agentsData.length, '个');
           }
-          // 更新时间显示
           if (data.updatedAt) {
             document.getElementById('update-time').textContent = data.updatedAt;
           }
-          // 重新渲染
+          // 数据加载完成后更新渲染
           renderNews(); renderProducts(); renderGithub(); renderEcommerce(); renderAgents();
           initCarousels();
-          console.log('[Data] 渲染完成');
         })
         .catch(function(err) {
-          console.error('[Data] 加载失败:', err.message);
-          // 显示错误信息
-          document.getElementById('news-carousel').innerHTML = '<div class="card" style="text-align:center;padding:40px;color:#dc2626;">数据加载失败，请刷新重试</div>';
+          // 静默失败，不覆盖内嵌数据的首屏渲染
         });
     }
 
@@ -1155,8 +1146,8 @@
     }
 
     document.addEventListener('DOMContentLoaded', function() {
+      loadDataFromJson(); // 首屏先用内嵌数据渲染，后台异步运行加载
       initPage();
-      loadDataFromJson();
       loadUserPreferences();
     });
 
