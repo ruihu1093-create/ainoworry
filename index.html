@@ -19,16 +19,15 @@
     .navbar-links { display: flex; gap: 20px; }
     .navbar-links a { color: white; text-decoration: none; font-size: 14px; transition: opacity 0.2s; }
     .navbar-links a:hover { opacity: 0.8; text-decoration: underline; }
-    .navbar-personal { display: flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); border-radius: 20px; padding: 5px 14px 5px 10px; cursor: pointer; transition: all 0.2s; text-decoration: none; flex-shrink: 0; }
-    .navbar-personal:hover { background: rgba(255,255,255,0.25); }
+    .navbar-personal { display: flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.95); border: none; border-radius: 20px; padding: 6px 14px 6px 10px; cursor: pointer; transition: all 0.2s; text-decoration: none; flex-shrink: 0; box-shadow: 0 2px 8px rgba(0,0,0,0.15); }
+    .navbar-personal:hover { background: white; box-shadow: 0 4px 14px rgba(0,0,0,0.2); transform: translateY(-1px); }
     .navbar-personal .p-icon { font-size: 15px; }
-    .navbar-personal .p-text { font-size: 12px; font-weight: 700; color: white; white-space: nowrap; letter-spacing: 0.3px; }
-    .navbar-personal .p-divider { width: 1px; height: 14px; background: rgba(255,255,255,0.35); flex-shrink: 0; }
+    .navbar-personal .p-text { font-size: 12px; font-weight: 700; color: #7c3aed; white-space: nowrap; letter-spacing: 0.3px; }
+    .navbar-personal .p-divider { width: 1px; height: 14px; background: #e5e7eb; flex-shrink: 0; }
     .navbar-personal .p-tags { display: flex; align-items: center; gap: 4px; flex-wrap: nowrap; }
-    .navbar-personal .p-tag { font-size: 10px; color: rgba(255,255,255,0.95); background: rgba(255,255,255,0.2); border-radius: 8px; padding: 2px 7px; white-space: nowrap; }
-    .navbar-personal .p-tag.p-tag-kw { background: rgba(167,139,250,0.45); color: white; font-weight: 600; }
-    .navbar-personal .p-tag.p-tag-meta { background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.75); font-size: 9px; }
-    .navbar-personal .p-tag.p-tag-edit { background: rgba(255,255,255,0.25); color: white; font-size: 10px; font-weight: 600; border-radius: 8px; }
+    .navbar-personal .p-tag { font-size: 10px; color: #7c3aed; background: #ede9fe; border-radius: 8px; padding: 2px 7px; white-space: nowrap; font-weight: 500; }
+    .navbar-personal .p-tag.p-tag-kw { background: #7c3aed; color: white; font-weight: 700; }
+    .navbar-personal .p-tag.p-tag-meta { background: #f3f4f6; color: #6b7280; font-size: 9px; }
 
     /* Hero */
     .hero { background: linear-gradient(135deg, #f8f7ff 0%, #fff 60%, #f0fdf4 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.08); text-align: center; padding: 28px 24px 20px; position: relative; overflow: hidden; }
@@ -380,7 +379,6 @@
       <!-- 时间信息 -->
       <div class="update-time">
         更新：<span id="update-time"></span>
-        <span class="realtime-clock">当前：<span id="current-time"></span></span>
       </div>
     </div>
   </header>
@@ -1041,9 +1039,9 @@
 
     // ===== 初始化 =====
     function initPage() {
-      updateTime(); updateClock();
+      updateTime();
       initCountdown();
-      setInterval(function() { updateClock(); updateCountdown(); }, 1000);
+      setInterval(function() { updateCountdown(); }, 1000);
       if (!localStorage.getItem('lastUpdateTime')) {
         localStorage.setItem('lastUpdateTime', Date.now().toString());
       }
@@ -1141,24 +1139,24 @@
     }
 
     // 加载并显示用户偏好标签
+    // 全局默认偏好（千人千面底座）
+    // 最终用户设置会覆盖此默认内容
+    var DEFAULT_PREFERENCES = {
+      keywords: { 'AI': 6, '技术分享': 4, '小红书': 2, 'Agent': 3, '大模型': 3 },
+      sources: { '量子位': 2, '机器之心': 1 },
+      submittedLinks: []
+    };
+
     function loadUserPreferences() {
       try {
         var saved = localStorage.getItem('ai_preferences');
-        var navTag = document.getElementById('navbar-pref-tag');
         var navTagsContainer = document.getElementById('navbar-pref-tags');
         var container = document.getElementById('user-preference-tags');
         var miniContainer = document.getElementById('user-preference-tags-mini');
-            
-        // 如果没有保存的偏好
-        if (!saved) {
-          if (navTagsContainer) navTagsContainer.innerHTML = '<span class="p-tag">设置偏好</span>';
-          var emptyHtml = '<a href="custom.html" style="font-size: 13px; color: #7c3aed; text-decoration: none; padding: 6px 12px; background: white; border-radius: 20px; border: 1px solid #ddd6fe;">👉 点击设置你的AI兴趣偏好</a>';
-          if (container) container.innerHTML = emptyHtml;
-          if (miniContainer) miniContainer.innerHTML = '<span style="font-size: 11px; color: #9ca3af;">暂无偏好</span>';
-          return;
-        }
-            
-        var prefs = JSON.parse(saved);
+
+        // 没有个人设置则用默认偏好（全局运营设置）
+        var prefs = saved ? JSON.parse(saved) : DEFAULT_PREFERENCES;
+        var isDefault = !saved;
         var keywords = prefs.keywords || {};
         var sortedKeywords = Object.entries(keywords).sort(function(a, b) { return b[1] - a[1]; }).slice(0, 5);
         var linkCount = (prefs.submittedLinks || []).length;
@@ -1179,19 +1177,23 @@
           } else {
             tagsHtml = '<span class="p-tag">已设置</span>';
           }
+          // 未自定义的用户，尾部加一个灰色提示
+          if (isDefault) {
+            tagsHtml += '<span class="p-tag p-tag-meta">默认</span>';
+          }
           navTagsContainer.innerHTML = tagsHtml;
         }
             
-        // 主区域显示（兼容旧逻辑）
+        // 主区域显示
         if (container) {
           var html = '';
           sortedKeywords.slice(0, 3).forEach(function(item) {
             html += '<span style="font-size: 12px; padding: 4px 10px; background: white; color: #7c3aed; border-radius: 12px; border: 1px solid #ddd6fe;">' + item[0] + '</span>';
           });
           if (sortedKeywords.length > 0) {
-            html += '<span style="font-size: 11px; color: #6b7280; margin-left: 8px;">优先展示相关内容</span>';
+            html += '<span style="font-size: 11px; color: #6b7280; margin-left: 8px;">' + (isDefault ? '当前为推荐默认内容' : '优先展示相关内容') + '</span>';
           }
-          html += '<a href="custom.html" style="font-size: 12px; color: #7c3aed; text-decoration: none; margin-left: 8px; padding: 4px 10px; background: white; border-radius: 12px; border: 1px solid #ddd6fe;">编辑</a>';
+          html += '<a href="custom.html" style="font-size: 12px; color: #7c3aed; text-decoration: none; margin-left: 8px; padding: 4px 10px; background: white; border-radius: 12px; border: 1px solid #ddd6fe;">' + (isDefault ? '自定义偏好' : '编辑') + '</a>';
           container.innerHTML = html;
         }
             
