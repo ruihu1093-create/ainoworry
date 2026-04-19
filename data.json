@@ -1,56 +1,281 @@
 {
-  "updatedAt": "2026-04-19 20:02:45",
+  "updatedAt": "2026-04-19 20:34:29",
   "news": [
     {
-      "title": "OpenAI发布GPT-5，多模态能力大幅提升",
-      "summary": "OpenAI发布新一代模型，在推理、代码生成和视觉理解方面取得突破性进展。",
-      "link": "https://openai.com/",
-      "source": "OpenAI",
-      "date": "2026-04-19",
-      "tag": "hot",
-      "tagText": "热点"
-    },
-    {
-      "title": "Google DeepMind推出通用机器人模型",
-      "summary": "RT-3模型让机器人能够理解自然语言指令并完成复杂操作任务。",
-      "link": "https://deepmind.google/",
-      "source": "Google",
-      "date": "2026-04-19",
+      "title": "特斯拉将其机器人出租车服务带到达拉斯和休斯顿",
+      "summary": "该公司现在在三个城市提供机器人出租车服务，全部位于德克萨斯州，自去年在奥斯汀推出并在没有安全员的情况下开始提供乘车服务。",
+      "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-18",
       "tag": "trend",
-      "tagText": "趋势"
+      "tagText": "资讯"
     },
     {
-      "title": "Meta发布Llama开源大模型",
-      "summary": "Llama系列全面开源，推动开源AI生态发展。",
-      "link": "https://www.llama.com/",
-      "source": "Meta",
-      "date": "2026-04-19",
-      "tag": "hot",
-      "tagText": "热点"
-    },
-    {
-      "title": "Anthropic Claude 4发布，安全性再提升",
-      "summary": "Claude 4引入宪法AI 2.0框架，幻觉率大幅降低。",
-      "link": "https://www.anthropic.com/",
-      "source": "Anthropic",
-      "date": "2026-04-19",
-      "tag": "hot",
-      "tagText": "热点"
-    },
-    {
-      "title": "百度文心一言持续升级中文能力",
-      "summary": "文心一言在中文理解、长文本生成方面大幅升级。",
-      "link": "https://yiyan.baidu.com/",
-      "source": "百度",
-      "date": "2026-04-19",
+      "title": "AI芯片初创公司Cerebras申请IPO",
+      "summary": "近几个月，该公司宣布与亚马逊网络服务达成协议，将在亚马逊数据中心使用Cerebras芯片，以及与Ope的交易。",
+      "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-18",
       "tag": "trend",
-      "tagText": "趋势"
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic与特朗普政府的关系似乎正在缓和。",
+      "summary": "尽管最近被五角大楼列为供应链风险，Anthropic仍在与特朗普政府的高级成员进行交谈。",
+      "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "App Store再次繁荣起来，可能是因为AI",
+      "summary": "Appfigures 的新数据显示，2026 年新应用发布数量激增，表明 AI 工具可能正在推动移动软件的繁荣。",
+      "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Sam Altman的项目World计划扩大其真人验证帝国。第一站：Tinder。",
+      "summary": "World的以Orb为中心的匿名验证项目引起了广泛关注（同时也激起了很大兴趣），现在正寻求扩大其影响力。",
+      "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Kevin Weil 和 Bill Peebles 离开 OpenAI，公司继续削减“副业”",
+      "summary": "Kevin Weil和Bill Peebles将离开OpenAI，因为公司关闭了Sora并解散了科学团队，这标志着公司从消费者市场急剧转向。",
+      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "来源：Cursor正洽谈以500亿美元估值筹集超过20亿美元资金，因企业增长激增",
+      "summary": "预计a16z和Thrive将领导这一轮融资。",
+      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Token最大化，OpenAI的购物狂潮，以及人工智能焦虑差距",
+      "summary": "AI圈内人与其他人的差距正在扩大，支出、猜疑甚至新词汇都开始显现这一点。",
+      "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic推出Claude Design，一款用于快速创建视觉效果的新产品",
+      "summary": "该公司表示，Claude Design旨在帮助没有设计背景的创始人和产品经理更轻松地分享他们的想法。",
+      "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "只需2分钟即可破解欧盟的新年龄验证应用程序",
+      "summary": "加上：连锁健身房和酒店巨头发生重大数据泄露，Bluesky遭受破坏性DDoS攻击，ICE雇佣可疑人员等。",
+      "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+      "source": "Wired-AI",
+      "date": "2026-04-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Schematik 是“硬件的光标”。Anthropic 想要加入",
+      "summary": "Schematik 是一个旨在帮助人们为物理设备编写代码的程序。希望它不会炸掉任何东西。",
+      "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+      "source": "Wired-AI",
+      "date": "2026-04-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI高管Kevin Weil将离开公司",
+      "summary": "前Instagram副总裁将离开ChatGPT的制造公司，他所领导的人工智能科学应用将被整合到Codex中。",
+      "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+      "source": "Wired-AI",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI替我写故事？除非我死了",
+      "summary": "以效率为名，人工智能辅助写作正悄悄进入新闻编辑室。但这种权衡可能比出版商愿意承认的更为深远。",
+      "link": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
+      "source": "Wired-AI",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "马斯克与阿尔特曼之战是为了OpenAI的灵魂",
+      "summary": "在马斯克诉阿尔特曼一案中，陪审团将很快决定OpenAI是否偏离了其确保通用人工智能造福人类的创始使命。以下是需要了解的内容。",
+      "link": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
+      "source": "Wired-AI",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "英国启动6.75亿美元主权AI基金",
+      "summary": "为了减少对其他国家技术的依赖，英国政府正在投入资源支持本土的人工智能初创企业。",
+      "link": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
+      "source": "Wired-AI",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "谷歌的AI模式更新试图在Chrome中减少标签页切换",
+      "summary": "谷歌对其Chrome浏览器中AI模式的最新更新旨在让你一旦开始在线搜索，聊天机器人式的搜索工具就会一直保持在身边。",
+      "link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
+      "source": "Wired-AI",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic计划在伦敦大规模扩张",
+      "summary": "随着与美国政府的紧张关系升级，Anthropic 已租用了一个新的办公室，足以将其在伦敦的200人团队规模扩大四倍。",
+      "link": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
+      "source": "Wired-AI",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "下载：尼安德特人内部的坏消息，以及人工智能战争中的人类幻象",
+      "summary": "这是今天的《下载》版，我们的工作日通讯，为您提供每日科技世界的动态。",
+      "link": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "修复一切的理由",
+      "summary": "科技界传奇人物斯图尔特·布兰德的新书《维护：万物，第一部分》承诺成为一系列书籍中的第一本，提供“",
+      "link": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "机器人如何学习：一段简短的当代史",
+      "summary": "机器人专家过去常常梦想远大但建造的却很小。他们希望能匹配或超越人体非凡的复杂性，然后他们会花费时间",
+      "link": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-04-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "在受限的公共部门环境中使AI运作",
+      "summary": "人工智能热潮已经席卷各行各业，公共部门组织面临着加快采用的压力。与此同时，政府机构",
+      "link": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "将企业AI视为运营层",
+      "summary": "企业AI中有一条断层线，但它并没有得到最多的关注。公众讨论仍然集中在基础模型上。",
+      "link": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "下载：网络诈骗者的银行绕过手段，以及碳去除难题",
+      "summary": "这是今天的《下载》版，我们的工作日通讯，为您提供每日科技世界的动态。",
+      "link": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "为何在AI战争中“人类参与”是一种幻觉",
+      "summary": "人工智能在战争中的使用成为了Anthropic和五角大楼之间法律争端的核心。这场辩论已经",
+      "link": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "探索衡量我们与自然关系的方法",
+      "summary": "作为一种运动，环保主义相当厌世。这也可以理解——我们人类对周围的生态系统确实做了一些破坏性的事情。",
+      "link": "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Gemini现在可以通过在Google相册中挖掘来创建个性化的AI图像",
+      "summary": "谷歌正在简化将照片导入Nano Banana的流程，以便更个性化地生成图像。",
+      "link": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
+      "source": "ArsTechnica-AI",
+      "date": "2026-04-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "谷歌在Chrome中引入“技能”功能，使Gemini提示可即时重复使用",
+      "summary": "您可以保存有用的自定义提示，或者从Google的库中选择一个预设的技能。",
+      "link": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/",
+      "source": "ArsTechnica-AI",
+      "date": "2026-04-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "首名因违反《删除法案》被定罪的男子在被捕后仍继续制作AI裸照",
+      "summary": "俄亥俄州男子使用超过100种AI工具制作女性和未成年人的虚假裸照。",
+      "link": "https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/",
+      "source": "ArsTechnica-AI",
+      "date": "2026-04-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "为了在法庭上击败奥特曼，马斯克提出将所有赔偿金捐给OpenAI非营利组织",
+      "summary": "马斯克在要求获得高达1340亿美元后，不会在OpenAI诉讼中寻求“一分钱”。",
+      "link": "https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/",
+      "source": "ArsTechnica-AI",
+      "date": "2026-04-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "测试表明，谷歌的AI概览每小时会说出数百万个谎言",
+      "summary": "90%的准确率对一个搜索机器人来说够用吗？",
+      "link": "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/",
+      "source": "ArsTechnica-AI",
+      "date": "2026-04-07",
+      "tag": "trend",
+      "tagText": "资讯"
     }
   ],
   "products": [
     {
       "name": "ChatGPT",
-      "description": "OpenAI的AI对话助手，支持多模态输入和代码生成",
+      "description": "OpenAI旗舰AI对话助手，支持多模态输入、代码生成和DALL·E图像创作",
       "link": "https://chatgpt.com/",
       "source": "OpenAI",
       "category": "综合助手",
@@ -58,7 +283,7 @@
     },
     {
       "name": "Claude",
-      "description": "Anthropic的AI助手，擅长长文分析、代码和创意写作",
+      "description": "Anthropic的AI助手，擅长超长文档分析、代码审查和严谨写作",
       "link": "https://claude.ai/",
       "source": "Anthropic",
       "category": "综合助手",
@@ -66,55 +291,191 @@
     },
     {
       "name": "Gemini",
-      "description": "Google的AI模型，深度集成Gmail、Drive等办公场景",
+      "description": "Google多模态AI，深度整合Gmail、Docs、Drive等全套办公工具",
       "link": "https://gemini.google.com/",
       "source": "Google",
       "category": "综合助手",
       "icon": "♊"
     },
     {
-      "name": "Midjourney",
-      "description": "AI图像生成工具，文字描述即可生成高质量图片",
-      "link": "https://www.midjourney.com/",
-      "source": "Midjourney",
-      "category": "创意设计",
-      "icon": "🎨"
+      "name": "Kimi",
+      "description": "月之暗面旗下AI助手，支持200万token超长上下文，深度联网搜索",
+      "link": "https://kimi.moonshot.cn/",
+      "source": "月之暗面",
+      "category": "综合助手",
+      "icon": "🌙"
     },
     {
-      "name": "Notion AI",
-      "description": "Notion内置AI，支持会议摘要、任务分解和知识图谱",
-      "link": "https://www.notion.com/product/ai",
-      "source": "Notion",
-      "category": "生产力",
-      "icon": "📝"
+      "name": "豆包",
+      "description": "字节跳动AI助手，语音对话自然流畅，日常办公与创意写作均擅长",
+      "link": "https://www.doubao.com/",
+      "source": "字节跳动",
+      "category": "综合助手",
+      "icon": "🫘"
+    },
+    {
+      "name": "Grok",
+      "description": "xAI出品，实时接入X平台数据，思维发散、幽默风趣的AI助手",
+      "link": "https://grok.x.ai/",
+      "source": "xAI",
+      "category": "综合助手",
+      "icon": "🤡"
     },
     {
       "name": "Cursor",
-      "description": "AI编程助手，理解整个代码库上下文",
+      "description": "AI原生代码编辑器，理解整个代码库上下文，支持多文件同步编辑",
       "link": "https://cursor.com/",
       "source": "Cursor",
       "category": "开发工具",
       "icon": "💻"
     },
     {
-      "name": "Suno",
-      "description": "AI音乐创作工具，支持多乐器编曲",
-      "link": "https://suno.com/",
-      "source": "Suno",
-      "category": "音乐创作",
-      "icon": "🎵"
+      "name": "GitHub Copilot",
+      "description": "微软/GitHub代码AI，支持VS Code等主流IDE，代码补全精准率行业最高",
+      "link": "https://github.com/features/copilot",
+      "source": "GitHub",
+      "category": "开发工具",
+      "icon": "🐙"
     },
     {
-      "name": "Runway",
-      "description": "AI视频生成工具，支持专业级短视频",
+      "name": "Windsurf",
+      "description": "Codeium推出的AI编程IDE，支持Agentic模式自动完成复杂编程任务",
+      "link": "https://codeium.com/windsurf",
+      "source": "Codeium",
+      "category": "开发工具",
+      "icon": "🏄"
+    },
+    {
+      "name": "Replit AI",
+      "description": "在线AI编程平台，零配置自动部署，适合快速原型开发",
+      "link": "https://replit.com/",
+      "source": "Replit",
+      "category": "开发工具",
+      "icon": "🔧"
+    },
+    {
+      "name": "v0.dev",
+      "description": "Vercel出品，自然语言生成React组件和UI页面，一键部署上线",
+      "link": "https://v0.dev/",
+      "source": "Vercel",
+      "category": "开发工具",
+      "icon": "⚡"
+    },
+    {
+      "name": "Midjourney",
+      "description": "AI图像生成领导者，风格多样，商业插画和艺术创作首选",
+      "link": "https://www.midjourney.com/",
+      "source": "Midjourney",
+      "category": "图像创作",
+      "icon": "🎨"
+    },
+    {
+      "name": "DALL·E 3",
+      "description": "OpenAI文生图模型，文字渲染精准，整合在ChatGPT中一键使用",
+      "link": "https://openai.com/dall-e-3",
+      "source": "OpenAI",
+      "category": "图像创作",
+      "icon": "🖼️"
+    },
+    {
+      "name": "Stable Diffusion WebUI",
+      "description": "开源图像生成神器，本地部署零费用，支持海量LoRA和插件扩展",
+      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "source": "AUTOMATIC1111",
+      "category": "图像创作",
+      "icon": "🌈"
+    },
+    {
+      "name": "Adobe Firefly",
+      "description": "企业级AI创意套件，无缝融入Photoshop/Illustrator，商用授权安心",
+      "link": "https://firefly.adobe.com/",
+      "source": "Adobe",
+      "category": "图像创作",
+      "icon": "🔥"
+    },
+    {
+      "name": "Canva AI",
+      "description": "AI驱动的设计平台，内置文生图和设计建议，新手10分钟出稿",
+      "link": "https://www.canva.com/",
+      "source": "Canva",
+      "category": "图像创作",
+      "icon": "✏️"
+    },
+    {
+      "name": "Runway Gen-4",
+      "description": "AI视频生成标杆，角色一致性大幅提升，支持电影级高清特效",
       "link": "https://runwayml.com/",
       "source": "Runway",
       "category": "视频制作",
       "icon": "🎬"
     },
     {
+      "name": "即梦",
+      "description": "字节跳动旗下图/文生视频平台，与剪映深度融合，创作到发布一体化",
+      "link": "https://jimeng.jianying.com/",
+      "source": "字节跳动",
+      "category": "视频制作",
+      "icon": "🎥"
+    },
+    {
+      "name": "Kling",
+      "description": "快手出品AI视频生成，运动一致性强，单片最长3分钟",
+      "link": "https://klingai.com/",
+      "source": "快手",
+      "category": "视频制作",
+      "icon": "📹"
+    },
+    {
+      "name": "Sora",
+      "description": "OpenAI文生视频，物理世界理解深度，时长可达60秒",
+      "link": "https://sora.com/",
+      "source": "OpenAI",
+      "category": "视频制作",
+      "icon": "🌊"
+    },
+    {
+      "name": "HeyGen",
+      "description": "AI数字人视频平台，支持口型同步和多语言配音，营销视频批量生产",
+      "link": "https://www.heygen.com/",
+      "source": "HeyGen",
+      "category": "视频制作",
+      "icon": "👤"
+    },
+    {
+      "name": "Suno",
+      "description": "AI音乐创作神器，输入歌词和风格描述即可生成完整歌曲",
+      "link": "https://suno.com/",
+      "source": "Suno",
+      "category": "音乐创作",
+      "icon": "🎵"
+    },
+    {
+      "name": "ElevenLabs",
+      "description": "顶级AI语音克隆和TTS，情感表达自然，延迟低至200ms",
+      "link": "https://elevenlabs.io/",
+      "source": "ElevenLabs",
+      "category": "语音合成",
+      "icon": "🎙️"
+    },
+    {
+      "name": "Udio",
+      "description": "AI音乐生成平台，支持多种曲风和乐器组合，可商用授权",
+      "link": "https://www.udio.com/",
+      "source": "Udio",
+      "category": "音乐创作",
+      "icon": "🎶"
+    },
+    {
+      "name": "Notion AI",
+      "description": "内嵌AI的知识管理工具，支持自动总结会议纪要和任务拆解",
+      "link": "https://www.notion.com/product/ai",
+      "source": "Notion",
+      "category": "生产力",
+      "icon": "📝"
+    },
+    {
       "name": "Perplexity",
-      "description": "AI搜索引擎，支持深度研究和实时联网",
+      "description": "AI搜索引擎，实时联网深度研究，引用来源清晰可验证",
       "link": "https://www.perplexity.ai/",
       "source": "Perplexity",
       "category": "AI搜索",
@@ -122,17 +483,84 @@
     },
     {
       "name": "Gamma",
-      "description": "一句话生成精美PPT和文档",
+      "description": "一句话生成精美演示文稿，支持品牌模板、数据图表和在线分享",
       "link": "https://gamma.app/",
       "source": "Gamma",
       "category": "演示文稿",
       "icon": "📊"
+    },
+    {
+      "name": "Napkin AI",
+      "description": "输入文字自动生成信息图表和可视化图解，一键嵌入文档",
+      "link": "https://www.napkin.ai/",
+      "source": "Napkin",
+      "category": "可视化",
+      "icon": "📈"
+    },
+    {
+      "name": "Dify",
+      "description": "开源LLM应用开发平台，可视化构建RAG管道和AI工作流",
+      "link": "https://dify.ai/",
+      "source": "Dify",
+      "category": "AI开发",
+      "icon": "⚙️"
+    },
+    {
+      "name": "Coze",
+      "description": "字节跳动出品的AI Bot平台，零代码构建智能助手并发布到多渠道",
+      "link": "https://www.coze.cn/",
+      "source": "字节跳动",
+      "category": "AI开发",
+      "icon": "🤖"
+    },
+    {
+      "name": "n8n",
+      "description": "开源AI工作流自动化工具，可本地部署，支持500+应用集成",
+      "link": "https://n8n.io/",
+      "source": "n8n",
+      "category": "自动化",
+      "icon": "🔄"
+    },
+    {
+      "name": "Tavily",
+      "description": "AI Agent专用搜索API，实时数据获取延迟低，适合构建Agent工具链",
+      "link": "https://tavily.com/",
+      "source": "Tavily",
+      "category": "AI开发",
+      "icon": "🕸️"
     }
   ],
   "ecommerce": [
     {
-      "title": "淘宝推出AI导购助手升级版",
-      "content": "基于大语言模型的购物助手能够理解复杂需求，提供个性化推荐。",
+      "title": "「日清」换高周转，钱大妈筑牢生鲜护城河",
+      "content": "零售业的风向，正在从线上狂奔转向线下深耕。\n  从沃尔玛试水社区店、东方甄选宣布开设实体店，到盒马、七鲜、小象持续加码线下门店，再到春节期间线下零售额增速一举反超线上，实体门店的价值正在被全面重估。\n  这背后是底层商业逻辑的回归。一方面，完善的物流基建已逐渐缩窄线上线下的价格鸿沟；另一方面，在追求质价比的同时，当下的消费者愈发注重体验式消费。</p",
+      "link": "https://36kr.com/p/3770699297800707?f=rss",
+      "source": "36Kr",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Backcountry 收购 Coalatree 并推出品牌孵化器",
+      "content": "这家零售商在九月收购了自行车公司Velotech，正在寻找与新兴品牌更多的合作机会。",
+      "link": "https://www.retaildive.com/news/backcountry-brand-incubator-acquires-coalatree/817752/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "对于奢侈品零售商来说，价值是一种氛围",
+      "content": "</",
+      "link": "https://www.retaildive.com/news/luxury-retail-ceos-sell-value-vibes/817613/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
+      "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
       "source": "36Kr",
       "impact": "high",
@@ -140,8 +568,8 @@
       "date": "2026-04-19"
     },
     {
-      "title": "京东智能客服系统覆盖全品类",
-      "content": "自研大模型应用于客服场景，问题解决率达到92%。",
+      "title": "京东言犀大模型客服覆盖全品类，问题解决率92%",
+      "content": "自研大模型应用于客服场景，支持多轮追问和复杂退换货流程处理。",
       "link": "https://www.jdcloud.com/",
       "source": "京东",
       "impact": "high",
@@ -149,17 +577,26 @@
       "date": "2026-04-19"
     },
     {
-      "title": "拼多多上线AI商品描述自动生成",
-      "content": "商家只需上传商品图片，AI自动生成标题、描述和卖点。",
+      "title": "拼多多AI商品描述自动生成，商家效率提升10倍",
+      "content": "商家只需上传图片，AI自动生成标题、卖点和详情页，日均服务商家超50万。",
       "link": "https://36kr.com/",
       "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
+      "impact": "high",
+      "impactText": "高",
       "date": "2026-04-19"
     },
     {
-      "title": "Shopify推出AI店铺装修功能",
-      "content": "一句话描述店铺风格，AI自动生成整站设计。",
+      "title": "TikTok Shop AI选品系统全球上线",
+      "content": "AI实时分析销售数据和趋势，自动推荐爆款商品给创作者，带货成功率提升40%。",
+      "link": "https://techcrunch.com/",
+      "source": "TechCrunch",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "Shopify AI建站+运营一键通：从选品到广告全自动",
+      "content": "Magic功能集成AI写文案、设计Banner、投Facebook广告于一体，独立站门槛大幅降低。",
       "link": "https://techcrunch.com/",
       "source": "TechCrunch",
       "impact": "medium",
@@ -167,241 +604,513 @@
       "date": "2026-04-19"
     },
     {
-      "title": "抖音电商上线AI选品助手",
-      "content": "基于销售数据和趋势分析，AI为达人推荐最佳带货商品。",
+      "title": "SHEIN AI设计系统：7天从趋势到上架",
+      "content": "AI实时监控全球时尚趋势，自动生成设计稿并输出生产工单，已实现款式数量是传统品牌的100倍。",
       "link": "https://36kr.com/",
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
       "date": "2026-04-19"
+    },
+    {
+      "title": "亚马逊AI定价系统：实时竞争对手监控+自动调价",
+      "content": "新一代AI定价引擎每10分钟更新一次竞品价格，动态调整最优售价，卖家GMV平均提升18%。",
+      "link": "https://techcrunch.com/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "抖音AI直播间：数字人主播全天无休带货",
+      "content": "基于最新多模态大模型的数字人主播，可实时互动、回答产品问题，单场直播销售额破千万。",
+      "link": "https://36kr.com/",
+      "source": "36Kr",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "Temu AI供应链优化：海外仓备货准确率提升60%",
+      "content": "AI预测模型分析历史销售数据和节日趋势，提前安排最优备货量，滞销率大幅下降。",
+      "link": "https://36kr.com/",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "微信小店AI推荐算法升级，私域转化率翻番",
+      "content": "腾讯为微信小店接入自研推荐大模型，基于用户社交关系和购买历史精准推送商品。",
+      "link": "https://www.geekpark.net/",
+      "source": "极客公园",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "跨境卖家AI客服工具：支持40+语言实时翻译",
+      "content": "多家AI客服平台推出跨境专版，自动识别买家语言并用母语回复，退货率降低25%。",
+      "link": "https://techcrunch.com/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "天猫AI主图生成：上新效率提升5倍",
+      "content": "商家只需拍摄样品，AI自动生成白底图、场景图和详情图，支持一键批量处理。",
+      "link": "https://36kr.com/",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "小红书AI种草内容审核：违规率降至0.1%",
+      "content": "新一代AI内容审核模型同时识别违规图文，处理速度是人工的200倍。",
+      "link": "https://www.geekpark.net/",
+      "source": "极客公园",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "eBay AI鉴定系统：二手商品真伪识别准确率99%",
+      "content": "买家上传照片即可获得AI鉴定报告，支持奢侈品、球鞋、手表等多品类，买卖双方信任度大幅提升。",
+      "link": "https://techcrunch.com/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "唯品会AI个性化专场：精准匹配打折商品与用户喜好",
+      "content": "通过分析用户历史购买和浏览记录，AI为每位用户生成专属特卖专场，点击率提升45%。",
+      "link": "https://36kr.com/",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-19"
+    }
+  ],
+  "github": [
+    {
+      "name": "explore",
+      "author": "sponsors",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "link": "https://github.com/sponsors/explore",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        "LLM"
+      ],
+      "date": "2026-04-19"
+    },
+    {
+      "name": "developers",
+      "author": "trending",
+      "description": "The agent that grows with you",
+      "link": "https://github.com/trending/developers",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        "Agent"
+      ],
+      "date": "2026-04-19"
+    },
+    {
+      "name": "andrej-karpathy-skills",
+      "author": "multica-ai",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        "Agent"
+      ],
+      "date": "2026-04-19"
+    },
+    {
+      "name": "hermes-agent",
+      "author": "NousResearch",
+      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        "Agent"
+      ],
+      "date": "2026-04-19"
+    },
+    {
+      "name": "thedotmack",
+      "author": "sponsors",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "link": "https://github.com/sponsors/thedotmack",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        "Agent"
+      ],
+      "date": "2026-04-19"
+    },
+    {
+      "name": "claude-mem",
+      "author": "thedotmack",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        "LLM"
+      ],
+      "date": "2026-04-19"
+    },
+    {
+      "name": "copilot-swe-agent",
+      "author": "apps",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "link": "https://github.com/apps/copilot-swe-agent",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        "Agent"
+      ],
+      "date": "2026-04-19"
+    },
+    {
+      "name": "evolver",
+      "author": "EvoMap",
+      "description": "An AI Hedge Fund Team",
+      "link": "https://github.com/EvoMap/evolver",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-04-19"
+    },
+    {
+      "name": "GenericAgent",
+      "author": "lsdefine",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "link": "https://github.com/lsdefine/GenericAgent",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        "Agent"
+      ],
+      "date": "2026-04-19"
+    },
+    {
+      "name": "Kronos",
+      "author": "shiyu-coder",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        "LLM"
+      ],
+      "date": "2026-04-19"
+    },
+    {
+      "name": "multica",
+      "author": "multica-ai",
+      "description": "The open-source voice synthesis studio",
+      "link": "https://github.com/multica-ai/multica",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-04-19"
+    },
+    {
+      "name": "ai-hedge-fund",
+      "author": "virattt",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "link": "https://github.com/virattt/ai-hedge-fund",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        "Audio"
+      ],
+      "date": "2026-04-19"
     }
   ],
   "agents": [
     {
+      "title": "开源项目: opensearch.xml",
+      "author": "@anonymous",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "link": "https://github.com/opensearch.xml",
+      "tools": [
+        "GitHub",
+        "LLM"
+      ],
+      "likes": 2325,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "开源项目: manifest.json",
+      "author": "@anonymous",
+      "description": "The agent that grows with you",
+      "link": "https://github.com/manifest.json",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 4324,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub",
+        "LLM"
+      ],
+      "likes": 2526,
+      "date": "2026-04-19"
+    },
+    {
       "title": "独立开发者用AI搭建自动化内容工厂",
       "author": "@技术小白不白",
-      "description": "非技术背景的产品经理，通过组合多个AI工具，搭建了从选题到分发的全流程自动化系统。",
+      "description": "非技术背景的产品经理，通过组合多个AI工具，搭建了从选题、写作到分发的全流程自动化系统，月收入破5万。",
       "link": "https://www.notion.com/product/ai",
       "tools": [
         "ChatGPT",
         "Notion",
         "Zapier"
       ],
-      "likes": 2340
+      "likes": 2340,
+      "date": "2026-04-19"
     },
     {
-      "title": "退休教师用AI创作儿童故事",
+      "title": "退休教师用AI创作儿童故事系列",
       "author": "@奶奶的故事屋",
-      "description": "借助AI工具将多年教学经验转化为系列儿童故事，收获10万+粉丝。",
+      "description": "借助AI工具将多年教学经验转化为系列儿童故事，累计销售2万册，收获10万+粉丝。",
       "link": "https://www.doubao.com/",
       "tools": [
         "文心一言",
         "剪映",
         "小红书"
       ],
-      "likes": 5670
+      "likes": 5670,
+      "date": "2026-04-19"
     },
     {
       "title": "全职妈妈用AI开启副业月入2万",
       "author": "@带娃也精彩",
-      "description": "利用AI做电商选品分析和商品文案生成，半年做到月入2万。",
+      "description": "利用AI做电商选品分析和商品文案生成，无技术背景半年做到月入2万稳定收入。",
       "link": "https://www.xiaohongshu.com/",
       "tools": [
         "豆包",
         "Canva",
         "1688"
       ],
-      "likes": 8920
+      "likes": 8920,
+      "date": "2026-04-19"
     },
     {
-      "title": "自由设计师的AI工作流分享",
+      "title": "自由设计师的AI工作流完整分享",
       "author": "@设计不脱发",
-      "description": "全流程AI辅助，项目交付时间缩短一半，客户满意度反而提升。",
+      "description": "全流程AI辅助设计提案、执行和交付，项目时间缩短60%，客户满意度反而更高。",
       "link": "https://www.midjourney.com/",
       "tools": [
         "Claude",
         "Midjourney",
         "Figma AI"
       ],
-      "likes": 3120
+      "likes": 3120,
+      "date": "2026-04-19"
     },
     {
-      "title": "乡村教师搭建AI英语陪练",
+      "title": "乡村教师搭建AI英语陪练系统",
       "author": "@山里的星光",
-      "description": "为山区学校搭建AI英语口语陪练系统，覆盖周边8所小学。",
+      "description": "为山区学校搭建AI英语口语陪练系统，覆盖周边8所小学500+学生，获央视报道。",
       "link": "https://www.kimi.com/",
       "tools": [
         "Ollama",
         "Whisper",
         "TTS"
       ],
-      "likes": 15600
+      "likes": 15600,
+      "date": "2026-04-19"
     },
     {
-      "title": "律师打造合同审查AI助手",
+      "title": "律师打造合同审查AI助手，效率提升10倍",
       "author": "@法律界的码农",
-      "description": "基于RAG技术构建合同审查Agent，审查效率提升10倍。",
+      "description": "基于RAG技术构建合同审查Agent，能识别风险条款并给出修改建议，已服务50+企业客户。",
       "link": "https://dify.ai/",
       "tools": [
         "Dify",
         "GPT-4",
         "RAG"
       ],
-      "likes": 4560
+      "likes": 4560,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "中学老师用AI批改作文，从4小时到20分钟",
+      "author": "@语文老王",
+      "description": "构建了基于Claude的作文批改系统，自动评分并生成针对性评语，每周节省16小时工作量。",
+      "link": "https://claude.ai/",
+      "tools": [
+        "Claude",
+        "Notion",
+        "Python"
+      ],
+      "likes": 7830,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "地方创业者用AI做非遗文创，登上央视",
+      "author": "@苗绣数字工坊",
+      "description": "将苗族传统刺绣图案数字化，用AI生成现代文创产品设计，年销售额从10万增至120万。",
+      "link": "https://www.doubao.com/",
+      "tools": [
+        "Midjourney",
+        "豆包",
+        "淘宝"
+      ],
+      "likes": 12400,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "保险代理人打造AI客户服务助手",
+      "author": "@保险小张",
+      "description": "用Coze搭建了能回答保险问题、计算保费和生成方案的AI助手，客户响应时间从2小时缩至3分钟。",
+      "link": "https://www.coze.cn/",
+      "tools": [
+        "Coze",
+        "GPT-4",
+        "微信"
+      ],
+      "likes": 2890,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "农村电商创业者AI选品系统月销百万",
+      "author": "@大山里的淘金客",
+      "description": "搭建AI舆情监控+选品分析系统，提前2周发现爆款趋势，从年销50万增长到月销百万。",
+      "link": "https://36kr.com/",
+      "tools": [
+        "豆包",
+        "Python",
+        "1688"
+      ],
+      "likes": 9600,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "医生用AI整理患者随访记录",
+      "author": "@心内科张医生",
+      "description": "用AI将口述查房记录自动整理为结构化病历，每天节省90分钟，患者随访准确率提升。",
+      "link": "https://kimi.moonshot.cn/",
+      "tools": [
+        "Kimi",
+        "Whisper",
+        "Excel"
+      ],
+      "likes": 5210,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "婚庆公司AI策划：从5小时到30分钟",
+      "author": "@幸福婚礼策划",
+      "description": "AI根据新人喜好自动生成婚礼主题、流程和供应商方案，策划效率提升10倍，客单价提升30%。",
+      "link": "https://www.doubao.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "Canva"
+      ],
+      "likes": 4100,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "编剧用AI预研剧本：6个月工作量缩至2周",
+      "author": "@剧本工厂老王",
+      "description": "用AI辅助剧本大纲设计、角色设定和对白润色，同时服务项目数量从2个增加到8个。",
+      "link": "https://claude.ai/",
+      "tools": [
+        "Claude",
+        "ChatGPT",
+        "Notion"
+      ],
+      "likes": 3780,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "财务顾问搭建AI报表分析助手",
+      "author": "@CFO老李",
+      "description": "基于本地部署的开源大模型搭建财务分析Agent，能读取报表自动识别风险和异常项，数据不出企业。",
+      "link": "https://ollama.com/",
+      "tools": [
+        "Ollama",
+        "DeepSeek",
+        "Python"
+      ],
+      "likes": 6300,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
+      "date": "2026-04-19"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
+      "date": "2026-04-19"
     }
   ],
-  "github": [
-    {
-      "name": "open-webui",
-      "author": "open-webui",
-      "description": "用户友好的AI聊天界面，支持Ollama、OpenAI等多种大模型后端本地部署",
-      "link": "https://github.com/open-webui/open-webui",
-      "stars": 89000,
-      "trend": 1200,
-      "forks": 8900,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "UI"
-        }
-      ],
-      "icon": "🌐",
-      "date": "2026-04-19"
-    },
-    {
-      "name": "ollama",
-      "author": "ollama",
-      "description": "本地运行Llama、Mistral、Gemma等大模型最简便方式，一行命令启动",
-      "link": "https://github.com/ollama/ollama",
-      "stars": 128000,
-      "trend": 2300,
-      "forks": 11200,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Local"
-        }
-      ],
-      "icon": "🦙",
-      "date": "2026-04-19"
-    },
-    {
-      "name": "dify",
-      "author": "langgenius",
-      "description": "开源LLM应用开发平台，可视化AI工作流编排与RAG管道",
-      "link": "https://github.com/langgenius/dify",
-      "stars": 82000,
-      "trend": 980,
-      "forks": 12100,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "RAG"
-        }
-      ],
-      "icon": "⚡",
-      "date": "2026-04-19"
-    },
-    {
-      "name": "ComfyUI",
-      "author": "comfyanonymous",
-      "description": "强大的节点式图像AI生成工作流工具，支持SD、Flux等模型",
-      "link": "https://github.com/comfyanonymous/ComfyUI",
-      "stars": 65000,
-      "trend": 750,
-      "forks": 7300,
-      "tags": [
-        {
-          "name": "Image"
-        },
-        {
-          "name": "AI"
-        }
-      ],
-      "icon": "🎨",
-      "date": "2026-04-19"
-    },
-    {
-      "name": "langchain",
-      "author": "langchain-ai",
-      "description": "构建LLM应用程序的核心框架，提供链式调用与工具集成",
-      "link": "https://github.com/langchain-ai/langchain",
-      "stars": 96000,
-      "trend": 600,
-      "forks": 16000,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Agent"
-        }
-      ],
-      "icon": "🔗",
-      "date": "2026-04-19"
-    },
-    {
-      "name": "lobe-chat",
-      "author": "lobehub",
-      "description": "开源高性能AI聊天框架，支持多模型、插件系统与私有化部署",
-      "link": "https://github.com/lobehub/lobe-chat",
-      "stars": 51000,
-      "trend": 830,
-      "forks": 5600,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "UI"
-        }
-      ],
-      "icon": "💬",
-      "date": "2026-04-19"
-    },
-    {
-      "name": "AutoGPT",
-      "author": "Significant-Gravitas",
-      "description": "自主AI代理平台，让GPT模型自动拆解任务并持续执行",
-      "link": "https://github.com/Significant-Gravitas/AutoGPT",
-      "stars": 170000,
-      "trend": 500,
-      "forks": 44000,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Auto"
-        }
-      ],
-      "icon": "🤖",
-      "date": "2026-04-19"
-    },
-    {
-      "name": "vllm",
-      "author": "vllm-project",
-      "description": "高吞吐量LLM推理与服务引擎，PagedAttention大幅提升GPU利用率",
-      "link": "https://github.com/vllm-project/vllm",
-      "stars": 40000,
-      "trend": 920,
-      "forks": 6100,
-      "tags": [
-        {
-          "name": "Inference"
-        },
-        {
-          "name": "GPU"
-        }
-      ],
-      "icon": "🚀",
-      "date": "2026-04-19"
-    }
-  ]
+  "personalization": {
+    "skill_version": "1.0",
+    "skill_updated_at": "",
+    "recommended_total": 0
+  }
 }
