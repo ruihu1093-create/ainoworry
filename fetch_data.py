@@ -17,12 +17,22 @@ import os
 import sys
 import urllib.parse
 
-# 导入Skill管理器
-from skill_manager import UserSkill
+# 导入Skill管理器（可选，本地运行时启用个性化排序）
+try:
+    from skill_manager import UserSkill
+    SKILL_AVAILABLE = True
+except ImportError:
+    SKILL_AVAILABLE = False
+    class UserSkill:
+        def get_skill_summary(self): return {'top_keywords': [], 'learning_count': 0}
+        def get_personalized_ranking(self, items, t): return items
 
 # 加载环境变量
-from dotenv import load_dotenv
-load_dotenv()
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
 
 # 禁用SSL验证（部分RSS源证书问题）
 ssl._create_default_https_context = lambda: ssl._create_unverified_context()
