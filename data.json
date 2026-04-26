@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-26 17:11:53",
+  "updatedAt": "2026-04-26 20:00:02",
   "news": [
     {
       "title": "To buy this Bay Area home, you’ll need Anthropic equity",
@@ -782,14 +782,14 @@
     {
       "name": "claude-context",
       "author": "zilliztech",
-      "description": "My personal directory of skills, straight from my .claude directory.",
+      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
       "link": "https://github.com/zilliztech/claude-context",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-04-26"
@@ -900,7 +900,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "My personal directory of skills, straight from my .claude directory.",
+      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
