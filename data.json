@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-04-26 14:10:46",
+  "updatedAt": "2026-04-26 17:11:53",
   "news": [
+    {
+      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+      "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic created a test marketplace for agent-on-agent commerce",
       "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real g",
@@ -149,15 +158,6 @@
       "title": "Three reasons why DeepSeek’s new model matters",
       "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts ",
       "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-04-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: supercharged scams and studying AI healthcare",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
       "source": "MIT-Tech-Review",
       "date": "2026-04-24",
       "tag": "trend",
