@@ -308,7 +308,7 @@ def fetch_products():
     ]
     
     for source_name, feed_url in product_sources:
-        if len(results) >= 30:
+        if len(results) >= 45:
             break
         try:
             print(f"  抓取 {source_name}...", file=sys.stderr)
@@ -382,6 +382,18 @@ def fetch_products():
         {'name': 'Coze', 'description': '字节跳动出品的AI Bot平台，零代码构建智能助手并发布到多渠道', 'link': 'https://www.coze.cn/', 'source': '字节跳动', 'category': 'AI开发', 'icon': '🤖'},
         {'name': 'n8n', 'description': '开源AI工作流自动化工具，可本地部署，支持500+应用集成', 'link': 'https://n8n.io/', 'source': 'n8n', 'category': '自动化', 'icon': '🔄'},
         {'name': 'Tavily', 'description': 'AI Agent专用搜索API，实时数据获取延迟低，适合构建Agent工具链', 'link': 'https://tavily.com/', 'source': 'Tavily', 'category': 'AI开发', 'icon': '🕸️'},
+        # 近期新热门
+        {'name': 'DeepSeek', 'description': '深度求索开源大模型，推理能力比肩GPT-4o，API价格极具竞争力', 'link': 'https://www.deepseek.com/', 'source': 'DeepSeek', 'category': '综合助手', 'icon': '🐋'},
+        {'name': 'Manus', 'description': '全球首个通用AI Agent，可自主完成复杂多步骤任务，操作电脑如同真人', 'link': 'https://manus.im/', 'source': 'Monica', 'category': 'AI Agent', 'icon': '🦾'},
+        {'name': 'NotebookLM', 'description': 'Google出品AI笔记本，上传文档自动生成播客、FAQ和思维导图', 'link': 'https://notebooklm.google.com/', 'source': 'Google', 'category': '生产力', 'icon': '📓'},
+        {'name': 'Lovable', 'description': '自然语言生成全栈Web应用，对话即可部署上线，无需写一行代码', 'link': 'https://lovable.dev/', 'source': 'Lovable', 'category': '开发工具', 'icon': '💖'},
+        {'name': 'Bolt.new', 'description': 'StackBlitz出品AI全栈开发工具，浏览器内直接运行和部署应用', 'link': 'https://bolt.new/', 'source': 'StackBlitz', 'category': '开发工具', 'icon': '⚡'},
+        {'name': 'Claude Artifacts', 'description': 'Claude内置的实时预览功能，对话生成可运行的代码和交互式内容', 'link': 'https://claude.ai/', 'source': 'Anthropic', 'category': '开发工具', 'icon': '🧩'},
+        {'name': 'Pika', 'description': 'AI视频创作平台，支持图片转视频和角色动态化，操作极简', 'link': 'https://pika.art/', 'source': 'Pika', 'category': '视频制作', 'icon': '✨'},
+        {'name': '通义灵码', 'description': '阿里云出品AI编程助手，深度集成VSCode和JetBrains，中文理解能力强', 'link': 'https://tongyi.aliyun.com/lingma', 'source': '阿里云', 'category': '开发工具', 'icon': '💡'},
+        {'name': 'MiniMax', 'description': '国产多模态大模型，文字图像视频语音全覆盖，API开放生态完善', 'link': 'https://www.minimax.com/', 'source': 'MiniMax', 'category': '综合助手', 'icon': '🌟'},
+        {'name': 'Hailuo AI', 'description': 'MiniMax旗下AI视频生成，运镜表现力强，免费额度充足适合入门', 'link': 'https://hailuoai.com/', 'source': 'MiniMax', 'category': '视频制作', 'icon': '🌊'},
+        {'name': 'Trae', 'description': '字节跳动出品AI IDE，集成多模型切换，免费使用Claude和GPT-4o', 'link': 'https://www.trae.ai/', 'source': '字节跳动', 'category': '开发工具', 'icon': '🛸'},
     ]
     
     seen = set(p['name'] for p in results)
@@ -389,10 +401,10 @@ def fetch_products():
         if p['name'] not in seen:
             results.append(p)
             seen.add(p['name'])
-        if len(results) >= 32:
+        if len(results) >= 45:
             break
     
-    return results[:32]
+    return results[:45]
 
 def fetch_ecommerce():
     """3. 电商AI新闻 - 稳定的数据源"""
