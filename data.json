@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-04-27 09:31:35",
+  "updatedAt": "2026-04-27 16:00:46",
   "news": [
+    {
+      "title": "China blocks Meta’s $2B Manus deal after months-long probe",
+      "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+      "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI could be making a phone with AI agents replacing apps",
+      "summary": "The phone could go into mass production in 2028, an analyst says.",
+      "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "To buy this Bay Area home, you’ll need Anthropic equity",
       "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
@@ -56,29 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Meta’s loss is Thinking Machines’ gain",
-      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-      "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-      "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-      "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google to invest up to $40B in Anthropic in cash and compute",
-      "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, c",
-      "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-24",
+      "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
+      "summary": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”",
+      "link": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
+      "source": "Wired-AI",
+      "date": "2026-04-27",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -146,20 +146,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
-      "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
-      "link": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
-      "source": "Wired-AI",
-      "date": "2026-04-22",
+      "title": "Rebuilding the data stack for AI",
+      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is ",
+      "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-04-27",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Three reasons why DeepSeek’s new model matters",
-      "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than it",
-      "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
       "source": "MIT-Tech-Review",
-      "date": "2026-04-24",
+      "date": "2026-04-27",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -528,26 +528,105 @@
       "source": "Tavily",
       "category": "AI开发",
       "icon": "🕸️"
+    },
+    {
+      "name": "DeepSeek",
+      "description": "深度求索开源大模型，推理能力比肩GPT-4o，API价格极具竞争力",
+      "link": "https://www.deepseek.com/",
+      "source": "DeepSeek",
+      "category": "综合助手",
+      "icon": "🐋"
+    },
+    {
+      "name": "Manus",
+      "description": "全球首个通用AI Agent，可自主完成复杂多步骤任务，操作电脑如同真人",
+      "link": "https://manus.im/",
+      "source": "Monica",
+      "category": "AI Agent",
+      "icon": "🦾"
+    },
+    {
+      "name": "NotebookLM",
+      "description": "Google出品AI笔记本，上传文档自动生成播客、FAQ和思维导图",
+      "link": "https://notebooklm.google.com/",
+      "source": "Google",
+      "category": "生产力",
+      "icon": "📓"
+    },
+    {
+      "name": "Lovable",
+      "description": "自然语言生成全栈Web应用，对话即可部署上线，无需写一行代码",
+      "link": "https://lovable.dev/",
+      "source": "Lovable",
+      "category": "开发工具",
+      "icon": "💖"
+    },
+    {
+      "name": "Bolt.new",
+      "description": "StackBlitz出品AI全栈开发工具，浏览器内直接运行和部署应用",
+      "link": "https://bolt.new/",
+      "source": "StackBlitz",
+      "category": "开发工具",
+      "icon": "⚡"
+    },
+    {
+      "name": "Claude Artifacts",
+      "description": "Claude内置的实时预览功能，对话生成可运行的代码和交互式内容",
+      "link": "https://claude.ai/",
+      "source": "Anthropic",
+      "category": "开发工具",
+      "icon": "🧩"
+    },
+    {
+      "name": "Pika",
+      "description": "AI视频创作平台，支持图片转视频和角色动态化，操作极简",
+      "link": "https://pika.art/",
+      "source": "Pika",
+      "category": "视频制作",
+      "icon": "✨"
+    },
+    {
+      "name": "通义灵码",
+      "description": "阿里云出品AI编程助手，深度集成VSCode和JetBrains，中文理解能力强",
+      "link": "https://tongyi.aliyun.com/lingma",
+      "source": "阿里云",
+      "category": "开发工具",
+      "icon": "💡"
+    },
+    {
+      "name": "MiniMax",
+      "description": "国产多模态大模型，文字图像视频语音全覆盖，API开放生态完善",
+      "link": "https://www.minimax.com/",
+      "source": "MiniMax",
+      "category": "综合助手",
+      "icon": "🌟"
+    },
+    {
+      "name": "Hailuo AI",
+      "description": "MiniMax旗下AI视频生成，运镜表现力强，免费额度充足适合入门",
+      "link": "https://hailuoai.com/",
+      "source": "MiniMax",
+      "category": "视频制作",
+      "icon": "🌊"
+    },
+    {
+      "name": "Trae",
+      "description": "字节跳动出品AI IDE，集成多模型切换，免费使用Claude和GPT-4o",
+      "link": "https://www.trae.ai/",
+      "source": "字节跳动",
+      "category": "开发工具",
+      "icon": "🛸"
     }
   ],
   "ecommerce": [
     {
-      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-      "content": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-      "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-25"
-    },
-    {
-      "title": "科氪 | 国民好车深蓝L06增程版亮相北京车展 京东PLUS会员购车直减7000多元",
-      "content": "4月24日，2026北京国际汽车展览会在京正式开幕。京东汽车与深蓝汽车联合推出的国民好车2.0——深蓝L06增程版登陆深蓝汽车展台，以行业首创会员购车折扣、车展专属权益及越级产品实力，吸引更多汽车用户关注。\n  <img data-img-size-val=\"1135,757\" src=\"https://img.36kr",
-      "link": "https://36kr.com/p/3782437007039488?f=rss",
+      "title": "未岚大陆第100万台智能割草机器人下线，马来西亚产线已完成、全面启动生产｜最前线",
+      "content": "作者｜黄楠\n  编辑｜袁斯来\n  近日，智能割草机器人公司未岚大陆第100万台智能割草机器人下线仪式在其常州研发生产基地举办。未岚大陆CEO任冠佼、总裁兼CTO陈子冲、德国莱茵TÜV电子电气产品服务全球高级副总裁郝福来（Frank Holzmann）等出席仪式。\n  在割草机器人赛道竞争白热化的节点，百万台是对技术路线选择、供应链韧性与",
+      "link": "https://36kr.com/p/3784879395134465?f=rss",
       "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-26"
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-04-27"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -704,23 +783,8 @@
     {
       "name": "free-claude-code",
       "author": "Alishahryar1",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "link": "https://github.com/Alishahryar1/free-claude-code",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-04-27"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-      "link": "https://github.com/apps/dependabot",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -732,16 +796,31 @@
       "date": "2026-04-27"
     },
     {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-04-27"
+    },
+    {
       "name": "Fincept-Corporation",
       "author": "sponsors",
-      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
       "link": "https://github.com/sponsors/Fincept-Corporation",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-04-27"
@@ -777,25 +856,40 @@
       "date": "2026-04-27"
     },
     {
-      "name": "thunderbird",
-      "author": "sponsors",
-      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
-      "link": "https://github.com/sponsors/thunderbird",
+      "name": "andrej-karpathy-skills",
+      "author": "forrestchang",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-04-27"
     },
     {
-      "name": "thunderbolt",
-      "author": "thunderbird",
+      "name": "mattpocock",
+      "author": "sponsors",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "link": "https://github.com/sponsors/mattpocock",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Vision"
+        }
+      ],
+      "date": "2026-04-27"
+    },
+    {
+      "name": "skills",
+      "author": "mattpocock",
       "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
-      "link": "https://github.com/thunderbird/thunderbolt",
+      "link": "https://github.com/mattpocock/skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -809,30 +903,12 @@
     {
       "name": "hackingtool",
       "author": "Z4nzu",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "link": "https://github.com/Z4nzu/hackingtool",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        {
-          "name": "Vision"
-        }
-      ],
-      "date": "2026-04-27"
-    },
-    {
-      "name": "GenericAgent",
-      "author": "lsdefine",
-      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-      "link": "https://github.com/lsdefine/GenericAgent",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
         {
           "name": "RAG"
         }
@@ -840,10 +916,10 @@
       "date": "2026-04-27"
     },
     {
-      "name": "android-reverse-engineering-skill",
-      "author": "SimoneAvogadro",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "link": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "name": "GenericAgent",
+      "author": "lsdefine",
+      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+      "link": "https://github.com/lsdefine/GenericAgent",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -857,14 +933,14 @@
     {
       "name": "mksglu",
       "author": "sponsors",
-      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "link": "https://github.com/sponsors/mksglu",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-04-27"
@@ -885,7 +961,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -896,7 +972,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
