@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27 00:01:02",
+  "updatedAt": "2026-04-27 09:31:35",
   "news": [
     {
       "title": "To buy this Bay Area home, you’ll need Anthropic equity",
@@ -156,7 +156,7 @@
     },
     {
       "title": "Three reasons why DeepSeek’s new model matters",
-      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts ",
+      "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than it",
       "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
       "source": "MIT-Tech-Review",
       "date": "2026-04-24",
@@ -550,24 +550,6 @@
       "date": "2026-04-26"
     },
     {
-      "title": "科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA",
-      "content": "4月25日，在2026北京国际汽车展览会现场，京东汽车与212越野车宣布达成战略合作。京东汽车将作为线上独家渠道，销售212越野车首个越野生态系列METTA旗下全新车型——T01 METTA和T01 METTA巴丹吉林，新车上市指导价分别为18.99万元和21.99万元，京东PLUS会员购车更可享至高3000元购车补贴。同时，京东汽车还将联合越野e族发起“全民越野合伙人”招募计",
-      "link": "https://36kr.com/p/3782434723355655?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-26"
-    },
-    {
-      "title": "Consumers are down, yet retail sales keep going up. How long can this last?",
-      "content": "<img src=\"https://imgproxy.divecdn.com/N440WaeUYVRTgesHSTDhihjBCt7mBBHC20U1x53vHXE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUzNDYwNTY1LmpwZw==",
-      "link": "https://www.retaildive.com/news/retailers-q1-healthy-retail-sales-iran-war-consumer-sentiment-behavior/818228/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-23"
-    },
-    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -782,7 +764,7 @@
     {
       "name": "claude-context",
       "author": "zilliztech",
-      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
       "link": "https://github.com/zilliztech/claude-context",
       "stars": 0,
       "trend": 50,
@@ -797,7 +779,7 @@
     {
       "name": "thunderbird",
       "author": "sponsors",
-      "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
       "link": "https://github.com/sponsors/thunderbird",
       "stars": 0,
       "trend": 50,
@@ -812,38 +794,8 @@
     {
       "name": "thunderbolt",
       "author": "thunderbird",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
       "link": "https://github.com/thunderbird/thunderbolt",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Vision"
-        }
-      ],
-      "date": "2026-04-27"
-    },
-    {
-      "name": "hackingtool",
-      "author": "Z4nzu",
-      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-      "link": "https://github.com/Z4nzu/hackingtool",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "RAG"
-        }
-      ],
-      "date": "2026-04-27"
-    },
-    {
-      "name": "GenericAgent",
-      "author": "lsdefine",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "link": "https://github.com/lsdefine/GenericAgent",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -855,25 +807,58 @@
       "date": "2026-04-27"
     },
     {
+      "name": "hackingtool",
+      "author": "Z4nzu",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "link": "https://github.com/Z4nzu/hackingtool",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Vision"
+        }
+      ],
+      "date": "2026-04-27"
+    },
+    {
+      "name": "GenericAgent",
+      "author": "lsdefine",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "link": "https://github.com/lsdefine/GenericAgent",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-04-27"
+    },
+    {
       "name": "android-reverse-engineering-skill",
       "author": "SimoneAvogadro",
-      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "link": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-04-27"
     },
     {
-      "name": "Open-Generative-AI",
-      "author": "Anil-matcha",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "name": "mksglu",
+      "author": "sponsors",
+      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "link": "https://github.com/sponsors/mksglu",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -900,7 +885,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -911,7 +896,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -922,7 +907,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with",
+      "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
