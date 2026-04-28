@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-04-28 16:13:44",
+  "updatedAt": "2026-04-28 20:53:56",
   "news": [
+    {
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+      "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+      "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+      "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+      "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with th",
+      "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "YouTube is testing an AI-powered search feature that shows guided answers",
       "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
@@ -12,8 +39,17 @@
     },
     {
       "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
-      "summary": "Tank OS puts OpenClaw AI agents into a container that let's it run reliably and more safely, especially for those running fleets of them.",
+      "summary": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
       "link": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Otter’s new feature lets users search across their enterprise tools",
+      "summary": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting d",
+      "link": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
       "source": "TechCrunch-AI",
       "date": "2026-04-28",
       "tag": "trend",
@@ -38,29 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
-      "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
-      "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "China blocks Meta’s $2B Manus deal after months-long probe",
-      "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
-      "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI could be making a phone with AI agents replacing apps",
-      "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi K",
-      "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-27",
+      "title": "‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off",
+      "summary": "More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.",
+      "link": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
+      "source": "Wired-AI",
+      "date": "2026-04-28",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -75,7 +93,7 @@
     },
     {
       "title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
-      "summary": "WIRED spoke with Bloomberg's chief technology officer about the big, chatbot-style changes coming to the iconic platform for traders.",
+      "summary": "WIRED spoke with Bloomberg’s chief technology officer about the big, chatbot-style changes coming to the iconic platform for traders.",
       "link": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/",
       "source": "Wired-AI",
       "date": "2026-04-28",
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
       "source": "Wired-AI",
       "date": "2026-04-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "These AI Thirst Trap Creators Say They’re Misunderstood",
-      "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
-      "link": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
-      "source": "Wired-AI",
-      "date": "2026-04-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-04-28",
       "tag": "trend",
       "tagText": "资讯"
     },
