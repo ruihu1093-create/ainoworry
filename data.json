@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-04-28 07:57:32",
+  "updatedAt": "2026-04-28 16:13:44",
   "news": [
+    {
+      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+      "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
+      "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+      "summary": "Tank OS puts OpenClaw AI agents into a container that let's it run reliably and more safely, especially for those running fleets of them.",
+      "link": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
       "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash i",
@@ -47,38 +65,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
-      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of San Francisco.",
-      "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-26",
+      "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
+      "summary": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near",
+      "link": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
+      "source": "Wired-AI",
+      "date": "2026-04-28",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real g",
-      "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Maine’s governor vetoes data center moratorium",
-      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
-      "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcemen",
-      "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-25",
+      "title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
+      "summary": "WIRED spoke with Bloomberg's chief technology officer about the big, chatbot-style changes coming to the iconic platform for traders.",
+      "link": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/",
+      "source": "Wired-AI",
+      "date": "2026-04-28",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -155,11 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
-      "summary": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
-      "link": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
-      "source": "Wired-AI",
-      "date": "2026-04-24",
+      "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-04-28",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "氪星晚报｜我国最大规模AI4S集群接入全国一体化算力网；亚马逊低地轨道卫星计划又一批卫星发射升空；我国首款正向设计自转旋翼机完成首飞",
+      "content": "大公司：\n  拒买新闻就交税，澳洲拟向科技巨头征约2%营收税\n  澳大利亚政",
+      "link": "https://36kr.com/p/3786324189027332?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-28"
+    },
+    {
       "title": "未岚大陆第100万台智能割草机器人下线，马来西亚产线已完成、全面启动生产｜最前线",
       "content": "作者｜黄楠\n  编辑｜袁斯来\n  近日，智能割草机器人公司未岚大陆第100万台智能割草机器人下线仪式在其常州研发生产基地举办。未岚大陆CEO任冠佼、总裁兼CTO陈子冲、德国莱茵TÜV电子电气产品服务全球高级副总裁郝福来（Frank Holzmann）等出席仪式。\n  在割草机器人赛道竞争白热化的节点，百万台是对技术路线选择、供应链韧性与",
       "link": "https://36kr.com/p/3784879395134465?f=rss",
@@ -627,6 +636,15 @@
       "impact": "high",
       "impactText": "高",
       "date": "2026-04-27"
+    },
+    {
+      "title": "H&M launches storefront on Nordstrom’s marketplace",
+      "content": "<img src=\"https://imgproxy.divecdn.com/wxlb9eP39s-CzE4XSVfCogTFU_heU_7llh36dlouHkg/g:nowe:162:0/c:879:496/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ITV9EZWJ1dF9vbl9Ob3",
+      "link": "https://www.retaildive.com/news/hm-launches-online-storefront-nordstrom-marketplace/818652/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-28"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -768,7 +786,7 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
@@ -776,21 +794,6 @@
       "tags": [
         {
           "name": "AI"
-        }
-      ],
-      "date": "2026-04-28"
-    },
-    {
-      "name": "free-claude-code",
-      "author": "Alishahryar1",
-      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-      "link": "https://github.com/Alishahryar1/free-claude-code",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-04-28"
@@ -811,25 +814,10 @@
       "date": "2026-04-28"
     },
     {
-      "name": "Fincept-Corporation",
+      "name": "mattpocock",
       "author": "sponsors",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "link": "https://github.com/sponsors/Fincept-Corporation",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-04-28"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "link": "https://github.com/apps/github-actions",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "link": "https://github.com/sponsors/mattpocock",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -841,9 +829,54 @@
       "date": "2026-04-28"
     },
     {
+      "name": "skills",
+      "author": "mattpocock",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "link": "https://github.com/mattpocock/skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-04-28"
+    },
+    {
+      "name": "hackingtool",
+      "author": "Z4nzu",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "link": "https://github.com/Z4nzu/hackingtool",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-04-28"
+    },
+    {
+      "name": "andrej-karpathy-skills",
+      "author": "forrestchang",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Vision"
+        }
+      ],
+      "date": "2026-04-28"
+    },
+    {
       "name": "claude-context",
       "author": "zilliztech",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "link": "https://github.com/zilliztech/claude-context",
       "stars": 0,
       "trend": 50,
@@ -856,55 +889,10 @@
       "date": "2026-04-28"
     },
     {
-      "name": "andrej-karpathy-skills",
-      "author": "forrestchang",
-      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-04-28"
-    },
-    {
-      "name": "mattpocock",
+      "name": "Fincept-Corporation",
       "author": "sponsors",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "link": "https://github.com/sponsors/mattpocock",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Vision"
-        }
-      ],
-      "date": "2026-04-28"
-    },
-    {
-      "name": "skills",
-      "author": "mattpocock",
-      "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
-      "link": "https://github.com/mattpocock/skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-04-28"
-    },
-    {
-      "name": "hackingtool",
-      "author": "Z4nzu",
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-      "link": "https://github.com/Z4nzu/hackingtool",
+      "link": "https://github.com/sponsors/Fincept-Corporation",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -916,10 +904,10 @@
       "date": "2026-04-28"
     },
     {
-      "name": "GenericAgent",
-      "author": "lsdefine",
-      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
-      "link": "https://github.com/lsdefine/GenericAgent",
+      "name": "FinceptTerminal",
+      "author": "Fincept-Corporation",
+      "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+      "link": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -931,10 +919,40 @@
       "date": "2026-04-28"
     },
     {
-      "name": "mksglu",
-      "author": "sponsors",
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-04-28"
+    },
+    {
+      "name": "Pixelle-Video",
+      "author": "AIDC-AI",
+      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+      "link": "https://github.com/AIDC-AI/Pixelle-Video",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-04-28"
+    },
+    {
+      "name": "Open-Generative-AI",
+      "author": "Anil-matcha",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/sponsors/mksglu",
+      "link": "https://github.com/Anil-matcha/Open-Generative-AI",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -948,9 +966,20 @@
   ],
   "agents": [
     {
+      "title": "开源项目: manifest.json",
+      "author": "@anonymous",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "link": "https://github.com/manifest.json",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 4324,
+      "date": "2026-04-28"
+    },
+    {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -961,23 +990,12 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
       "likes": 2046,
-      "date": "2026-04-28"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
       "date": "2026-04-28"
     },
     {
