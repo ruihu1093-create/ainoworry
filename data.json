@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-04-29 09:23:41",
+  "updatedAt": "2026-04-29 16:16:42",
   "news": [
+    {
+      "title": "Firestorm Labs raises $82M to take drone factories into the field",
+      "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+      "link": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+      "summary": "Think Discord chats, but with AI characters in addition to humans.",
+      "link": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+      "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
+      "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "At his OpenAI trial, Musk relitigates an old friendship",
       "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first ti",
@@ -47,29 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
-      "summary": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
-      "link": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Otter’s new feature lets users search across their enterprise tools",
-      "summary": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting d",
-      "link": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash i",
-      "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-27",
+      "title": "I've Covered Robots for Years. This One Is Different",
+      "summary": "From sorting chicken nuggets to screwing in lightbulbs, Eka’s robotic claw feels like we're approaching a ChatGPT moment for the physical world.",
+      "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+      "source": "Wired-AI",
+      "date": "2026-04-29",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
       "source": "Wired-AI",
       "date": "2026-04-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
-      "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing no",
-      "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-      "source": "Wired-AI",
-      "date": "2026-04-25",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -638,15 +638,6 @@
       "date": "2026-04-29"
     },
     {
-      "title": "独家对谈｜兴辉时代创始人高兴辉，90后小镇女孩离开教培大厂，三年创造2亿GMV的倔强人生",
-      "content": "<img data-img-size-val=\"900,310\" src=\"https://img.36krcdn.com/hsossms/20260428/v2_d406189332844b8a841c4265a717b64a@5509299_img_000?x-oss-process=image/format,jpg/interl",
-      "link": "https://36kr.com/p/3786265971334150?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-29"
-    },
-    {
       "title": "H&M launches storefront on Nordstrom’s marketplace",
       "content": "<img src=\"https://imgproxy.divecdn.com/wxlb9eP39s-CzE4XSVfCogTFU_heU_7llh36dlouHkg/g:nowe:162:0/c:879:496/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ITV9EZWJ1dF9vbl9Ob3",
       "link": "https://www.retaildive.com/news/hm-launches-online-storefront-nordstrom-marketplace/818652/",
@@ -795,8 +786,23 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
       "link": "https://github.com/trending/developers",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-04-29"
+    },
+    {
+      "name": "free-claude-code",
+      "author": "Alishahryar1",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -810,8 +816,23 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
       "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-04-29"
+    },
+    {
+      "name": "ml-intern",
+      "author": "huggingface",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "link": "https://github.com/huggingface/ml-intern",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -855,7 +876,7 @@
     {
       "name": "hackingtool",
       "author": "Z4nzu",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
       "link": "https://github.com/Z4nzu/hackingtool",
       "stars": 0,
       "trend": 50,
@@ -870,8 +891,23 @@
     {
       "name": "andrej-karpathy-skills",
       "author": "forrestchang",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "link": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-04-29"
+    },
+    {
+      "name": "claude-context",
+      "author": "zilliztech",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "link": "https://github.com/zilliztech/claude-context",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -883,10 +919,10 @@
       "date": "2026-04-29"
     },
     {
-      "name": "claude-context",
-      "author": "zilliztech",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "link": "https://github.com/zilliztech/claude-context",
+      "name": "Fincept-Corporation",
+      "author": "sponsors",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "link": "https://github.com/sponsors/Fincept-Corporation",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -898,24 +934,9 @@
       "date": "2026-04-29"
     },
     {
-      "name": "Fincept-Corporation",
-      "author": "sponsors",
-      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-      "link": "https://github.com/sponsors/Fincept-Corporation",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "RAG"
-        }
-      ],
-      "date": "2026-04-29"
-    },
-    {
       "name": "FinceptTerminal",
       "author": "Fincept-Corporation",
-      "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "link": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "stars": 0,
       "trend": 50,
@@ -930,38 +951,8 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
       "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-04-29"
-    },
-    {
-      "name": "Pixelle-Video",
-      "author": "AIDC-AI",
-      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
-      "link": "https://github.com/AIDC-AI/Pixelle-Video",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-04-29"
-    },
-    {
-      "name": "Open-Generative-AI",
-      "author": "Anil-matcha",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/Anil-matcha/Open-Generative-AI",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -977,7 +968,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -986,20 +977,20 @@
       "date": "2026-04-29"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "link": "https://github.com/topics",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
+      "likes": 3045,
       "date": "2026-04-29"
     },
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1008,9 +999,20 @@
       "date": "2026-04-29"
     },
     {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
+      "date": "2026-04-29"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (ma",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1211,19 +1213,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-04-29"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
       "date": "2026-04-29"
     }
   ],
