@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-04-29 00:08:21",
+  "updatedAt": "2026-04-29 09:23:41",
   "news": [
+    {
+      "title": "At his OpenAI trial, Musk relitigates an old friendship",
+      "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first ti",
+      "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Amazon is already offering new OpenAI products on AWS",
       "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
@@ -65,11 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
-      "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding ",
-      "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-27",
+      "title": "How AI Could Help Combat Antibiotic Resistance",
+      "summary": "At WIRED Health, British surgeon Ara Darzi said AI is set to transform the diagnosis and treatment of drug-resistant infections. But a lack of incenti",
+      "link": "https://www.wired.com/story/wired-health-2026-tackling-antimicrobial-resistance-ara-darzi/",
+      "source": "Wired-AI",
+      "date": "2026-04-29",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
       "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing no",
       "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-      "source": "Wired-AI",
-      "date": "2026-04-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
-      "summary": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
-      "link": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
       "source": "Wired-AI",
       "date": "2026-04-25",
       "tag": "trend",
@@ -620,22 +620,31 @@
   ],
   "ecommerce": [
     {
-      "title": "氪星晚报｜我国最大规模AI4S集群接入全国一体化算力网；亚马逊低地轨道卫星计划又一批卫星发射升空；我国首款正向设计自转旋翼机完成首飞",
-      "content": "大公司：\n  拒买新闻就交税，澳洲拟向科技巨头征约2%营收税\n  澳大利亚政",
-      "link": "https://36kr.com/p/3786324189027332?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-28"
-    },
-    {
-      "title": "未岚大陆第100万台智能割草机器人下线，马来西亚产线已完成、全面启动生产｜最前线",
-      "content": "作者｜黄楠\n  编辑｜袁斯来\n  近日，智能割草机器人公司未岚大陆第100万台智能割草机器人下线仪式在其常州研发生产基地举办。未岚大陆CEO任冠佼、总裁兼CTO陈子冲、德国莱茵TÜV电子电气产品服务全球高级副总裁郝福来（Frank Holzmann）等出席仪式。\n  在割草机器人赛道竞争白热化的节点，百万台是对技术路线选择、供应链韧性与",
-      "link": "https://36kr.com/p/3784879395134465?f=rss",
+      "title": "最前线｜未来宇航发布FX锋行系列空间飞行器，切入卫星组网部署与在轨服务市场",
+      "content": "作者｜乔钰杰\n  编辑｜袁斯来\n  4月28日，未来宇航在雄安新区举行FX锋行系列空间飞行器发布会，并同步举行商业航天生态供应链合作伙伴签约仪式。\n  此次发布的FX“锋行”系列，是国内首个服务卫星组网和在轨业务的商业飞行器。面向300kg至4000kg级任务需求，重点突破高精度姿轨控、柔性化承载与快速轨道响应等关键技术，强调低成本、高",
+      "link": "https://36kr.com/p/3787376553876737?f=rss",
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-27"
+      "date": "2026-04-29"
+    },
+    {
+      "title": "比博斯特完成超10亿元B轮融资，智能底盘三轴产品全覆盖｜36氪独家",
+      "content": "36氪独家获悉，智能底盘企业比博斯特近日完成B+轮融资，由浙江省新能源汽车产业基金领投，顺创产投、杭资直投基金等联合投资。企业B+轮融资超7亿元，B轮系列融资总额已超10亿元。本轮融资将用于已有产品的规模化增长及前沿产品的开发。\n  比博斯特成立于2021年，其股东不仅包括主机厂蔚来，还涵盖恒隆、保隆等汽车底盘供应链头部企业。2025年，曾在底盘巨头采埃孚担任高管",
+      "link": "https://36kr.com/p/3740907027054600?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "独家对谈｜兴辉时代创始人高兴辉，90后小镇女孩离开教培大厂，三年创造2亿GMV的倔强人生",
+      "content": "<img data-img-size-val=\"900,310\" src=\"https://img.36krcdn.com/hsossms/20260428/v2_d406189332844b8a841c4265a717b64a@5509299_img_000?x-oss-process=image/format,jpg/interl",
+      "link": "https://36kr.com/p/3786265971334150?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-04-29"
     },
     {
       "title": "H&M launches storefront on Nordstrom’s marketplace",
