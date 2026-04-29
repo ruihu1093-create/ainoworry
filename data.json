@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-04-29 16:16:42",
+  "updatedAt": "2026-04-29 20:43:33",
   "news": [
+    {
+      "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
+      "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company h",
+      "link": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+      "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 mi",
+      "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+      "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appeari",
+      "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "More Gemini features are coming to Google TV",
+      "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
+      "link": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Firestorm Labs raises $82M to take drone factories into the field",
       "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
@@ -20,7 +56,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+      "title": "Colby Adcock’s Scout AI raises $100M to train its models for war: We visited its bootcamp",
       "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
       "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
       "source": "TechCrunch-AI",
@@ -56,20 +92,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-      "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with th",
-      "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-28",
+      "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
+      "summary": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
+      "link": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
+      "source": "Wired-AI",
+      "date": "2026-04-29",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
-      "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
-      "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-28",
+      "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
+      "summary": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made",
+      "link": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
+      "source": "Wired-AI",
+      "date": "2026-04-29",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -124,42 +160,6 @@
       "link": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
       "source": "Wired-AI",
       "date": "2026-04-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
-      "summary": "WIRED spoke with Bloomberg’s chief technology officer about the big, chatbot-style changes coming to the iconic platform for traders.",
-      "link": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/",
-      "source": "Wired-AI",
-      "date": "2026-04-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
-      "summary": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himse",
-      "link": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
-      "source": "Wired-AI",
-      "date": "2026-04-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
-      "summary": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland.",
-      "link": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
-      "source": "Wired-AI",
-      "date": "2026-04-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
-      "summary": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”",
-      "link": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
-      "source": "Wired-AI",
-      "date": "2026-04-27",
       "tag": "trend",
       "tagText": "资讯"
     },
