@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-04-30 00:09:06",
+  "updatedAt": "2026-04-30 09:24:18",
   "news": [
+    {
+      "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+      "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+      "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
       "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar wi",
@@ -74,20 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
-      "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 mi",
-      "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
-      "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appeari",
-      "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-29",
+      "title": "Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion",
+      "summary": "The LinkedIn cofounder now has an AI drug discovery startup—and thinks not asking chatbots for medical advice is “bordering on committing malpractice.",
+      "link": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
+      "source": "Wired-AI",
+      "date": "2026-04-30",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,13 +620,13 @@
   ],
   "ecommerce": [
     {
-      "title": "最前线｜未来宇航发布FX锋行系列空间飞行器，切入卫星组网部署与在轨服务市场",
-      "content": "作者｜乔钰杰\n  编辑｜袁斯来\n  4月28日，未来宇航在雄安新区举行FX锋行系列空间飞行器发布会，并同步举行商业航天生态供应链合作伙伴签约仪式。\n  此次发布的FX“锋行”系列，是国内首个服务卫星组网和在轨业务的商业飞行器。面向300kg至4000kg级任务需求，重点突破高精度姿轨控、柔性化承载与快速轨道响应等关键技术，强调低成本、高",
-      "link": "https://36kr.com/p/3787376553876737?f=rss",
-      "source": "36Kr",
+      "title": "马斯克：OpenAI 是我的创意，Altman 是小偷；Claude Code 使用成本翻倍；Image 2 登顶视觉模型榜｜极客早知道",
+      "content": "结束与微软独家合作，OpenAI 模型接入亚马逊 AWS\n4 月 29 日，在",
+      "link": "http://www.geekpark.net/news/363594",
+      "source": "极客公园",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "H&M launches storefront on Nordstrom’s marketplace",
@@ -897,14 +897,14 @@
     {
       "name": "claude-context",
       "author": "zilliztech",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
       "link": "https://github.com/zilliztech/claude-context",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Vision"
+          "name": "Agent"
         }
       ],
       "date": "2026-04-30"
@@ -912,7 +912,7 @@
     {
       "name": "Fincept-Corporation",
       "author": "sponsors",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "link": "https://github.com/sponsors/Fincept-Corporation",
       "stars": 0,
       "trend": 50,
@@ -927,7 +927,7 @@
     {
       "name": "FinceptTerminal",
       "author": "Fincept-Corporation",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
       "link": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "stars": 0,
       "trend": 50,
@@ -940,16 +940,16 @@
       "date": "2026-04-30"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
-      "link": "https://github.com/apps/github-actions",
+      "name": "Pixelle-Video",
+      "author": "AIDC-AI",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/AIDC-AI/Pixelle-Video",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-04-30"
@@ -992,7 +992,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (ma",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1003,7 +1003,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (ma",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
