@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-04-30 15:57:44",
+  "updatedAt": "2026-04-30 20:17:30",
   "news": [
+    {
+      "title": "Legal AI startup Legora hits $5.6 valuation and its battle with Harvey just got hotter",
+      "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf and now have dueling ad campaigns.",
+      "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "summary": "OpenAI will begin rolling out it cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+      "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+      "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provi",
+      "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+      "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+      "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+      "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the t",
+      "link": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+      "summary": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+      "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+      "summary": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
+      "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Salesforce is crowdsourcing its AI roadmap — with customers ",
+      "summary": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
+      "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "X announces a rebuilt ad platform powered by AI",
       "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
@@ -20,65 +92,29 @@
       "tagText": "资讯"
     },
     {
-      "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-      "summary": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure.",
-      "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-      "source": "TechCrunch-AI",
+      "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
+      "summary": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
+      "source": "Wired-AI",
       "date": "2026-04-30",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-      "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar wi",
-      "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-      "source": "TechCrunch-AI",
+      "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
+      "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
+      "link": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+      "source": "Wired-AI",
       "date": "2026-04-30",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "On the stand, Elon Musk can’t escape his own tweets",
-      "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
-      "link": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta is still burning money on AR/VR",
-      "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
-      "link": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
-      "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
-      "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
-      "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
-      "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
-      "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown e",
-      "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-29",
+      "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
+      "summary": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attac",
+      "link": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
+      "source": "Wired-AI",
+      "date": "2026-04-30",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -124,42 +160,6 @@
       "link": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
       "source": "Wired-AI",
       "date": "2026-04-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I've Covered Robots for Years. This One Is Different",
-      "summary": "From sorting chicken nuggets to screwing in lightbulbs, Eka’s robotic claw feels like we're approaching a ChatGPT moment for the physical world.",
-      "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-      "source": "Wired-AI",
-      "date": "2026-04-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How AI Could Help Combat Antibiotic Resistance",
-      "summary": "At WIRED Health, British surgeon Ara Darzi said AI is set to transform the diagnosis and treatment of drug-resistant infections. But a lack of incenti",
-      "link": "https://www.wired.com/story/wired-health-2026-tackling-antimicrobial-resistance-ara-darzi/",
-      "source": "Wired-AI",
-      "date": "2026-04-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
-      "summary": "“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevan",
-      "link": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
-      "source": "Wired-AI",
-      "date": "2026-04-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
-      "summary": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides t",
-      "link": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
-      "source": "Wired-AI",
-      "date": "2026-04-28",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -626,6 +626,15 @@
       "source": "极客公园",
       "impact": "high",
       "impactText": "高",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Wayfair touts market share gains in retail’s toughest category",
+      "content": "<img src=\"https://imgproxy.divecdn.com/HxgfMTKRTBAdVWpcEb5bQEBtbJw-XTVloyyDKTRc1BY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XYXlmYWlyX1dpbG1ldHRlX1N0b3JlLmpwZw==",
+      "link": "https://www.retaildive.com/news/wayfair-market-share-sales-gains-tough-home-category/818940/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
       "date": "2026-04-30"
     },
     {
