@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-04-29 20:43:33",
+  "updatedAt": "2026-04-30 00:09:06",
   "news": [
+    {
+      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+      "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar wi",
+      "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "On the stand, Elon Musk can’t escape his own tweets",
+      "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+      "link": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta is still burning money on AR/VR",
+      "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+      "link": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+      "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+      "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+      "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+      "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+      "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown e",
+      "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+      "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+      "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
       "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company h",
@@ -29,65 +92,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "More Gemini features are coming to Google TV",
-      "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
-      "link": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
-      "source": "TechCrunch-AI",
+      "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+      "summary": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
+      "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+      "source": "Wired-AI",
       "date": "2026-04-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Firestorm Labs raises $82M to take drone factories into the field",
-      "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
-      "link": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
-      "summary": "Think Discord chats, but with AI characters in addition to humans.",
-      "link": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Colby Adcock’s Scout AI raises $100M to train its models for war: We visited its bootcamp",
-      "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
-      "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "At his OpenAI trial, Musk relitigates an old friendship",
-      "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first ti",
-      "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Amazon is already offering new OpenAI products on AWS",
-      "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-      "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
-      "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
-      "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-28",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -155,20 +164,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
-      "summary": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near",
-      "link": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
-      "source": "Wired-AI",
-      "date": "2026-04-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "OpenAI发布o3推理模型，数学/代码能力达新高",
       "summary": "o3在国际数学奥林匹克测试中近满分，代码能力超越99%程序员，推理成本较o1降低90%。",
       "link": "https://openai.com/o3",
       "source": "量子位",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -177,7 +177,7 @@
       "summary": "谷歌将实时多模态AI助手集成进Pixel设备和智能眼镜，支持持续感知周围环境并主动提醒。",
       "link": "https://io.google.com/",
       "source": "机器之心",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -186,7 +186,7 @@
       "summary": "Amazon领投，Anthropic将资金用于训练下一代Claude模型和扩大算力储备。",
       "link": "https://www.anthropic.com/",
       "source": "新智元",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -195,7 +195,7 @@
       "summary": "深度求索开源6710亿参数混合专家模型，推理成本极低，迅速在GitHub获得数万star。",
       "link": "https://chat.deepseek.com/",
       "source": "晚点LatePost",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -204,7 +204,7 @@
       "summary": "Operator能够自主浏览网页、填写表单、下单购物，成为首个真正可用的通用网页Agent。",
       "link": "https://openai.com/",
       "source": "暗涌Waves",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -213,7 +213,7 @@
       "summary": "AI搜索引擎月活超1亿，日查询量突破5亿，已开始冲击谷歌搜索市场份额。",
       "link": "https://www.perplexity.ai/",
       "source": "Founder Park",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -222,7 +222,7 @@
       "summary": "Cursor年经常性收入突破1亿美元，成为史上最快达成该里程碑的开发工具。",
       "link": "https://cursor.com/",
       "source": "特工宇宙",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -231,7 +231,7 @@
       "summary": "谷歌Gemini 2.5 Pro在编程、推理和长文本理解三个维度全面领先，Blind竞技场排名第一。",
       "link": "https://gemini.google.com/",
       "source": "机器之心",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -240,7 +240,7 @@
       "summary": "阿里发布2350亿参数旗舰模型，支持思考模式切换，多项评测超越GPT-4o。",
       "link": "https://chat.qwen.ai/",
       "source": "量子位",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -249,7 +249,7 @@
       "summary": "Grok 3接入X平台实时数据，推理能力大幅提升，支持深度思考模式和图像理解。",
       "link": "https://grok.x.ai/",
       "source": "晚点LatePost",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -258,7 +258,7 @@
       "summary": "Gen-4可跨场景保持人物/道具外观一致，解决了AI视频生成的核心痛点。",
       "link": "https://runwayml.com/",
       "source": "新智元",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -267,7 +267,7 @@
       "summary": "2026年Q1 AI Agent领域融资超200亿美元，Coze、Dify、AutoGen等平台均完成重要融资。",
       "link": "https://www.geekpark.net/",
       "source": "极客公园",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "tag": "trend",
       "tagText": "趋势"
     }
@@ -629,15 +629,6 @@
       "date": "2026-04-29"
     },
     {
-      "title": "比博斯特完成超10亿元B轮融资，智能底盘三轴产品全覆盖｜36氪独家",
-      "content": "36氪独家获悉，智能底盘企业比博斯特近日完成B+轮融资，由浙江省新能源汽车产业基金领投，顺创产投、杭资直投基金等联合投资。企业B+轮融资超7亿元，B轮系列融资总额已超10亿元。本轮融资将用于已有产品的规模化增长及前沿产品的开发。\n  比博斯特成立于2021年，其股东不仅包括主机厂蔚来，还涵盖恒隆、保隆等汽车底盘供应链头部企业。2025年，曾在底盘巨头采埃孚担任高管",
-      "link": "https://36kr.com/p/3740907027054600?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-04-29"
-    },
-    {
       "title": "H&M launches storefront on Nordstrom’s marketplace",
       "content": "<img src=\"https://imgproxy.divecdn.com/wxlb9eP39s-CzE4XSVfCogTFU_heU_7llh36dlouHkg/g:nowe:162:0/c:879:496/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ITV9EZWJ1dF9vbl9Ob3",
       "link": "https://www.retaildive.com/news/hm-launches-online-storefront-nordstrom-marketplace/818652/",
@@ -653,7 +644,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "京东言犀大模型客服覆盖全品类，问题解决率92%",
@@ -662,7 +653,7 @@
       "source": "京东",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "拼多多AI商品描述自动生成，商家效率提升10倍",
@@ -671,7 +662,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "TikTok Shop AI选品系统全球上线",
@@ -680,7 +671,7 @@
       "source": "TechCrunch",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "Shopify AI建站+运营一键通：从选品到广告全自动",
@@ -689,7 +680,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "SHEIN AI设计系统：7天从趋势到上架",
@@ -698,7 +689,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "亚马逊AI定价系统：实时竞争对手监控+自动调价",
@@ -707,7 +698,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "抖音AI直播间：数字人主播全天无休带货",
@@ -716,7 +707,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "Temu AI供应链优化：海外仓备货准确率提升60%",
@@ -725,7 +716,7 @@
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "微信小店AI推荐算法升级，私域转化率翻番",
@@ -734,7 +725,7 @@
       "source": "极客公园",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "跨境卖家AI客服工具：支持40+语言实时翻译",
@@ -743,7 +734,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "天猫AI主图生成：上新效率提升5倍",
@@ -752,7 +743,7 @@
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "小红书AI种草内容审核：违规率降至0.1%",
@@ -761,7 +752,7 @@
       "source": "极客公园",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "eBay AI鉴定系统：二手商品真伪识别准确率99%",
@@ -770,7 +761,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "唯品会AI个性化专场：精准匹配打折商品与用户喜好",
@@ -779,7 +770,7 @@
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     }
   ],
   "github": [
@@ -796,7 +787,7 @@
           "name": "AI"
         }
       ],
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "name": "free-claude-code",
@@ -811,7 +802,7 @@
           "name": "AI"
         }
       ],
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "name": "dependabot",
@@ -826,7 +817,7 @@
           "name": "AI"
         }
       ],
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "name": "ml-intern",
@@ -841,7 +832,7 @@
           "name": "LLM"
         }
       ],
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "name": "mattpocock",
@@ -856,7 +847,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "name": "skills",
@@ -871,7 +862,7 @@
           "name": "AI"
         }
       ],
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "name": "hackingtool",
@@ -886,7 +877,7 @@
           "name": "AI"
         }
       ],
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "name": "andrej-karpathy-skills",
@@ -901,7 +892,7 @@
           "name": "AI"
         }
       ],
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "name": "claude-context",
@@ -916,7 +907,7 @@
           "name": "Vision"
         }
       ],
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "name": "Fincept-Corporation",
@@ -931,7 +922,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "name": "FinceptTerminal",
@@ -946,7 +937,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "name": "github-actions",
@@ -961,7 +952,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     }
   ],
   "agents": [
@@ -974,7 +965,7 @@
         "GitHub"
       ],
       "likes": 4324,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "开源项目: explore",
@@ -985,7 +976,7 @@
         "GitHub"
       ],
       "likes": 3045,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "开源项目: collections",
@@ -996,7 +987,7 @@
         "GitHub"
       ],
       "likes": 2046,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "开源项目: events",
@@ -1007,7 +998,7 @@
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "开源项目: explore",
@@ -1018,7 +1009,7 @@
         "GitHub"
       ],
       "likes": 7510,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "独立开发者用AI搭建自动化内容工厂",
@@ -1031,7 +1022,7 @@
         "Zapier"
       ],
       "likes": 2340,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "退休教师用AI创作儿童故事系列",
@@ -1044,7 +1035,7 @@
         "小红书"
       ],
       "likes": 5670,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "全职妈妈用AI开启副业月入2万",
@@ -1057,7 +1048,7 @@
         "1688"
       ],
       "likes": 8920,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "自由设计师的AI工作流完整分享",
@@ -1070,7 +1061,7 @@
         "Figma AI"
       ],
       "likes": 3120,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "乡村教师搭建AI英语陪练系统",
@@ -1083,7 +1074,7 @@
         "TTS"
       ],
       "likes": 15600,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "律师打造合同审查AI助手，效率提升10倍",
@@ -1096,7 +1087,7 @@
         "RAG"
       ],
       "likes": 4560,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "中学老师用AI批改作文，从4小时到20分钟",
@@ -1109,7 +1100,7 @@
         "Python"
       ],
       "likes": 7830,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "地方创业者用AI做非遗文创，登上央视",
@@ -1122,7 +1113,7 @@
         "淘宝"
       ],
       "likes": 12400,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "保险代理人打造AI客户服务助手",
@@ -1135,7 +1126,7 @@
         "微信"
       ],
       "likes": 2890,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "农村电商创业者AI选品系统月销百万",
@@ -1148,7 +1139,7 @@
         "1688"
       ],
       "likes": 9600,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "医生用AI整理患者随访记录",
@@ -1161,7 +1152,7 @@
         "Excel"
       ],
       "likes": 5210,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "婚庆公司AI策划：从5小时到30分钟",
@@ -1174,7 +1165,7 @@
         "Canva"
       ],
       "likes": 4100,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "编剧用AI预研剧本：6个月工作量缩至2周",
@@ -1187,7 +1178,7 @@
         "Notion"
       ],
       "likes": 3780,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "财务顾问搭建AI报表分析助手",
@@ -1200,7 +1191,7 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     },
     {
       "title": "旅游博主AI生成攻略，月入10万",
@@ -1213,7 +1204,7 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-04-29"
+      "date": "2026-04-30"
     }
   ],
   "personalization": {
