@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-04-30 09:24:18",
+  "updatedAt": "2026-04-30 15:57:44",
   "news": [
     {
+      "title": "X announces a rebuilt ad platform powered by AI",
+      "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
+      "link": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta says its business AI now facilitates 10 million conversations a week",
+      "summary": "Meta said over 8 billion advertisers have used at least one of its GenAI tools",
+      "link": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+      "source": "TechCrunch-AI",
+      "date": "2026-04-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-      "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+      "summary": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure.",
       "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
       "source": "TechCrunch-AI",
       "date": "2026-04-30",
@@ -65,20 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
-      "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
-      "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
-      "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company h",
-      "link": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-29",
+      "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
+      "summary": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women’s photos to make AI porn influencers, then offered on",
+      "link": "https://www.wired.com/story/ai-porn-lawsuit-arizona/",
+      "source": "Wired-AI",
+      "date": "2026-04-30",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -92,7 +101,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+      "title": "How Elon Musk Squeezed OpenAI: They ‘Are Gonna Want to Kill Me’",
       "summary": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
       "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
       "source": "Wired-AI",
@@ -149,15 +158,6 @@
       "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
       "summary": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides t",
       "link": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
-      "source": "Wired-AI",
-      "date": "2026-04-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off",
-      "summary": "More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.",
-      "link": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
       "source": "Wired-AI",
       "date": "2026-04-28",
       "tag": "trend",
@@ -629,13 +629,13 @@
       "date": "2026-04-30"
     },
     {
-      "title": "H&M launches storefront on Nordstrom’s marketplace",
-      "content": "<img src=\"https://imgproxy.divecdn.com/wxlb9eP39s-CzE4XSVfCogTFU_heU_7llh36dlouHkg/g:nowe:162:0/c:879:496/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ITV9EZWJ1dF9vbl9Ob3",
-      "link": "https://www.retaildive.com/news/hm-launches-online-storefront-nordstrom-marketplace/818652/",
+      "title": "The Backroom: Redefining Pacsun",
+      "content": "Brieane Olson talks about her book, &ldquo;Co-created,&rdquo; and her work as a merchant and now CEO in redefining the retailer for a new generation.",
+      "link": "https://www.retaildive.com/news/the-backroom-podcast-redefining-pacsun-ceo-brieane-olson/818934/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-04-28"
+      "date": "2026-04-30"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -777,7 +777,7 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
@@ -792,7 +792,7 @@
     {
       "name": "free-claude-code",
       "author": "Alishahryar1",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
       "link": "https://github.com/Alishahryar1/free-claude-code",
       "stars": 0,
       "trend": 50,
@@ -820,10 +820,25 @@
       "date": "2026-04-30"
     },
     {
-      "name": "ml-intern",
-      "author": "huggingface",
+      "name": "mattpocock",
+      "author": "sponsors",
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+      "link": "https://github.com/sponsors/mattpocock",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-04-30"
+    },
+    {
+      "name": "skills",
+      "author": "mattpocock",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "link": "https://github.com/huggingface/ml-intern",
+      "link": "https://github.com/mattpocock/skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -835,25 +850,10 @@
       "date": "2026-04-30"
     },
     {
-      "name": "mattpocock",
-      "author": "sponsors",
-      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-      "link": "https://github.com/sponsors/mattpocock",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-04-30"
-    },
-    {
-      "name": "skills",
-      "author": "mattpocock",
-      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-      "link": "https://github.com/mattpocock/skills",
+      "name": "ml-intern",
+      "author": "huggingface",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "link": "https://github.com/huggingface/ml-intern",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -867,14 +867,29 @@
     {
       "name": "hackingtool",
       "author": "Z4nzu",
-      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
       "link": "https://github.com/Z4nzu/hackingtool",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-04-30"
+    },
+    {
+      "name": "ds2api",
+      "author": "CJackHwang",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "link": "https://github.com/CJackHwang/ds2api",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Vision"
         }
       ],
       "date": "2026-04-30"
@@ -882,7 +897,7 @@
     {
       "name": "andrej-karpathy-skills",
       "author": "forrestchang",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "link": "https://github.com/forrestchang/andrej-karpathy-skills",
       "stars": 0,
       "trend": 50,
@@ -895,55 +910,40 @@
       "date": "2026-04-30"
     },
     {
-      "name": "claude-context",
-      "author": "zilliztech",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "link": "https://github.com/zilliztech/claude-context",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-04-30"
-    },
-    {
-      "name": "Fincept-Corporation",
-      "author": "sponsors",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "link": "https://github.com/sponsors/Fincept-Corporation",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-04-30"
-    },
-    {
-      "name": "FinceptTerminal",
-      "author": "Fincept-Corporation",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
-      "link": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-04-30"
-    },
-    {
       "name": "Pixelle-Video",
       "author": "AIDC-AI",
-      "description": "GitHub热门AI项目，本周获得大量关注",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "link": "https://github.com/AIDC-AI/Pixelle-Video",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-04-30"
+    },
+    {
+      "name": "trycua",
+      "author": "sponsors",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "link": "https://github.com/sponsors/trycua",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-04-30"
+    },
+    {
+      "name": "Open-Generative-AI",
+      "author": "Anil-matcha",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/Anil-matcha/Open-Generative-AI",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -959,7 +959,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -970,18 +970,30 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 3045,
       "date": "2026-04-30"
     },
     {
-      "title": "开源项目: collections",
+      "title": "开源项目: topics",
       "author": "@anonymous",
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
+      "date": "2026-04-30"
+    },
+    {
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -990,20 +1002,9 @@
       "date": "2026-04-30"
     },
     {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (ma",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
-      "date": "2026-04-30"
-    },
-    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
