@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01 07:53:17",
+  "updatedAt": "2026-05-01 11:42:31",
   "news": [
     {
       "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "追觅造车，从“火箭”开始",
+      "content": "4月27日，旧金山艺术宫，这座美国百年历史地标迎来了一场科技发布会。\n  追觅科技以“DREAME NEXT”为主题的全球发布会周在此开幕，展台上那台红色超跑的尾部，两个固体火箭推进器格外醒目。这便是追觅“星空计划”重磅打造的Nebula NEXT 01 JET Edition，业内称其为“火箭车”。&nbsp;\n  从车企研发负责人到供应链从业者再",
+      "link": "https://36kr.com/p/3790587098832137?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-01"
+    },
+    {
       "title": "马斯克：OpenAI 是我的创意，Altman 是小偷；Claude Code 使用成本翻倍；Image 2 登顶视觉模型榜｜极客早知道",
       "content": "结束与微软独家合作，OpenAI 模型接入亚马逊 AWS\n4 月 29 日，在",
       "link": "http://www.geekpark.net/news/363594",
@@ -784,40 +793,10 @@
   ],
   "github": [
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "explore",
+      "author": "sponsors",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "link": "https://github.com/trending/developers",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-01"
-    },
-    {
-      "name": "free-claude-code",
-      "author": "Alishahryar1",
-      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-      "link": "https://github.com/Alishahryar1/free-claude-code",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-01"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "ALL IN ONE Hacking Tool For Hackers",
-      "link": "https://github.com/apps/dependabot",
+      "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -831,7 +810,7 @@
     {
       "name": "mattpocock",
       "author": "sponsors",
-      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+      "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.",
       "link": "https://github.com/sponsors/mattpocock",
       "stars": 0,
       "trend": 50,
@@ -844,10 +823,10 @@
       "date": "2026-05-01"
     },
     {
-      "name": "skills",
-      "author": "mattpocock",
+      "name": "free-claude-code",
+      "author": "Alishahryar1",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "link": "https://github.com/mattpocock/skills",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -859,31 +838,16 @@
       "date": "2026-05-01"
     },
     {
-      "name": "ml-intern",
-      "author": "huggingface",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "link": "https://github.com/huggingface/ml-intern",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "AI"
-        }
-      ],
-      "date": "2026-05-01"
-    },
-    {
-      "name": "hackingtool",
-      "author": "Z4nzu",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "link": "https://github.com/Z4nzu/hackingtool",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-05-01"
@@ -891,14 +855,32 @@
     {
       "name": "ds2api",
       "author": "CJackHwang",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "link": "https://github.com/CJackHwang/ds2api",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Vision"
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-05-01"
+    },
+    {
+      "name": "hackingtool",
+      "author": "Z4nzu",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "link": "https://github.com/Z4nzu/hackingtool",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-05-01"
@@ -906,14 +888,47 @@
     {
       "name": "andrej-karpathy-skills",
       "author": "forrestchang",
-      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "link": "https://github.com/forrestchang/andrej-karpathy-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-05-01"
+    },
+    {
+      "name": "ml-intern",
+      "author": "huggingface",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+      "link": "https://github.com/huggingface/ml-intern",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-01"
+    },
+    {
+      "name": "TradingAgents",
+      "author": "TauricResearch",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-05-01"
@@ -921,38 +936,8 @@
     {
       "name": "Pixelle-Video",
       "author": "AIDC-AI",
-      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-      "link": "https://github.com/AIDC-AI/Pixelle-Video",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-01"
-    },
-    {
-      "name": "trycua",
-      "author": "sponsors",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "link": "https://github.com/sponsors/trycua",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-01"
-    },
-    {
-      "name": "Open-Generative-AI",
-      "author": "Anil-matcha",
       "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "link": "https://github.com/AIDC-AI/Pixelle-Video",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -962,28 +947,57 @@
         }
       ],
       "date": "2026-05-01"
+    },
+    {
+      "name": "copilot-swe-agent",
+      "author": "apps",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/apps/copilot-swe-agent",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-01"
+    },
+    {
+      "name": "GenericAgent",
+      "author": "lsdefine",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/lsdefine/GenericAgent",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-01"
     }
   ],
   "agents": [
     {
-      "title": "开源项目: manifest.json",
+      "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "link": "https://github.com/manifest.json",
+      "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
       ],
-      "likes": 4324,
+      "likes": 2325,
       "date": "2026-05-01"
     },
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 3045,
       "date": "2026-05-01"
@@ -991,29 +1005,30 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 1697,
       "date": "2026-05-01"
     },
     {
-      "title": "开源项目: collections",
+      "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with",
-      "link": "https://github.com/collections",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
-      "likes": 2046,
+      "likes": 2526,
       "date": "2026-05-01"
     },
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
