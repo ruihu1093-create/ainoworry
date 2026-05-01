@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-01 19:55:40",
+  "updatedAt": "2026-05-01 22:36:27",
   "news": [
+    {
+      "title": "Meta buys robotic startup to bolster its humanoid AI ambitions",
+      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "link": "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
       "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it&#8217;s already getting messy. Emai",
@@ -83,11 +92,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-      "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
-      "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-30",
+      "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+      "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-A",
+      "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+      "source": "Wired-AI",
+      "date": "2026-05-01",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
       "source": "Wired-AI",
       "date": "2026-04-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How Elon Musk Squeezed OpenAI: They ‘Are Gonna Want to Kill Me’",
-      "summary": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
-      "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
-      "source": "Wired-AI",
-      "date": "2026-04-29",
       "tag": "trend",
       "tagText": "资讯"
     },
