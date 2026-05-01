@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-05-01 15:35:28",
+  "updatedAt": "2026-05-01 19:55:40",
   "news": [
+    {
+      "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+      "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it&#8217;s already getting messy. Emai",
+      "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usa",
+      "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Musk v. Altman is just getting started",
+      "summary": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;al",
+      "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
       "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
@@ -59,33 +86,6 @@
       "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
       "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
       "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
-      "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the t",
-      "link": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
-      "summary": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
-      "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Stripe updates Link, a digital wallet that autonomous AI agents can use, too",
-      "summary": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
-      "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
       "source": "TechCrunch-AI",
       "date": "2026-04-30",
       "tag": "trend",
@@ -949,16 +949,16 @@
       "date": "2026-05-01"
     },
     {
-      "name": "copilot-swe-agent",
+      "name": "dependabot",
       "author": "apps",
       "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/apps/copilot-swe-agent",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-01"
