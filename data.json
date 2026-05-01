@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01 11:42:31",
+  "updatedAt": "2026-05-01 15:35:28",
   "news": [
     {
       "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
@@ -83,7 +83,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+      "title": "Stripe updates Link, a digital wallet that autonomous AI agents can use, too",
       "summary": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
       "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
       "source": "TechCrunch-AI",
