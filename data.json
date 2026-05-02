@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02 10:12:19",
+  "updatedAt": "2026-05-02 14:15:55",
   "news": [
     {
       "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Disneyland Now Uses Face Recognition on Visitors",
+      "summary": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
+      "source": "Wired-AI",
+      "date": "2026-05-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
       "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-A",
       "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
       "source": "Wired-AI",
       "date": "2026-04-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How Elon Musk Squeezed OpenAI: They ‘Are Gonna Want to Kill Me’",
-      "summary": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
-      "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
-      "source": "Wired-AI",
-      "date": "2026-04-29",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -629,15 +629,6 @@
       "date": "2026-05-02"
     },
     {
-      "title": "追觅造车，从“火箭”开始",
-      "content": "4月27日，旧金山艺术宫，这座美国百年历史地标迎来了一场科技发布会。\n  追觅科技以“DREAME NEXT”为主题的全球发布会周在此开幕，展台上那台红色超跑的尾部，两个固体火箭推进器格外醒目。这便是追觅“星空计划”重磅打造的Nebula NEXT 01 JET Edition，业内称其为“火箭车”。&nbsp;\n  从车企研发负责人到供应链从业者再",
-      "link": "https://36kr.com/p/3790587098832137?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-01"
-    },
-    {
       "title": "马斯克：OpenAI 是我的创意，Altman 是小偷；Claude Code 使用成本翻倍；Image 2 登顶视觉模型榜｜极客早知道",
       "content": "结束与微软独家合作，OpenAI 模型接入亚马逊 AWS\n4 月 29 日，在",
       "link": "http://www.geekpark.net/news/363594",
@@ -819,53 +810,8 @@
     {
       "name": "mattpocock",
       "author": "sponsors",
-      "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.",
-      "link": "https://github.com/sponsors/mattpocock",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-02"
-    },
-    {
-      "name": "free-claude-code",
-      "author": "Alishahryar1",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "link": "https://github.com/Alishahryar1/free-claude-code",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-05-02"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-02"
-    },
-    {
-      "name": "ds2api",
-      "author": "CJackHwang",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "link": "https://github.com/CJackHwang/ds2api",
+      "link": "https://github.com/sponsors/mattpocock",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -880,10 +826,10 @@
       "date": "2026-05-02"
     },
     {
-      "name": "hackingtool",
-      "author": "Z4nzu",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "link": "https://github.com/Z4nzu/hackingtool",
+      "name": "free-claude-code",
+      "author": "Alishahryar1",
+      "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -895,10 +841,40 @@
       "date": "2026-05-02"
     },
     {
-      "name": "andrej-karpathy-skills",
-      "author": "forrestchang",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-05-02"
+    },
+    {
+      "name": "TradingAgents",
+      "author": "TauricResearch",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-02"
+    },
+    {
+      "name": "hackingtool",
+      "author": "Z4nzu",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "link": "https://github.com/Z4nzu/hackingtool",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -913,10 +889,55 @@
       "date": "2026-05-02"
     },
     {
-      "name": "ml-intern",
-      "author": "huggingface",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
-      "link": "https://github.com/huggingface/ml-intern",
+      "name": "ds2api",
+      "author": "CJackHwang",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "link": "https://github.com/CJackHwang/ds2api",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-02"
+    },
+    {
+      "name": "maigret",
+      "author": "soxoj",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/soxoj/maigret",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-02"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-02"
+    },
+    {
+      "name": "copilot-swe-agent",
+      "author": "apps",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/apps/copilot-swe-agent",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -928,16 +949,16 @@
       "date": "2026-05-02"
     },
     {
-      "name": "TradingAgents",
-      "author": "TauricResearch",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "link": "https://github.com/TauricResearch/TradingAgents",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-02"
@@ -953,36 +974,6 @@
       "tags": [
         {
           "name": "AI"
-        }
-      ],
-      "date": "2026-05-02"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-02"
-    },
-    {
-      "name": "GenericAgent",
-      "author": "lsdefine",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/lsdefine/GenericAgent",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-05-02"
@@ -1003,46 +994,24 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 3045,
       "date": "2026-05-02"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub",
-        "LLM"
-      ],
-      "likes": 1697,
-      "date": "2026-05-02"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
-      "link": "https://github.com/events",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
-      "likes": 2526,
-      "date": "2026-05-02"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
+      "likes": 2046,
       "date": "2026-05-02"
     },
     {
@@ -1238,6 +1207,32 @@
         "剪映"
       ],
       "likes": 18500,
+      "date": "2026-05-02"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
+      "date": "2026-05-02"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
       "date": "2026-05-02"
     }
   ],
