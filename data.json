@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-02 14:15:55",
+  "updatedAt": "2026-05-02 17:32:54",
   "news": [
+    {
+      "title": "The best AI dictation apps, tested and ranked",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
       "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
@@ -68,15 +77,6 @@
       "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
       "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
       "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-      "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
-      "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
       "source": "TechCrunch-AI",
       "date": "2026-04-30",
       "tag": "trend",
