@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03 07:30:21",
+  "updatedAt": "2026-05-03 11:07:12",
   "news": [
     {
       "title": "AI-generated actors and scripts are now ineligible for Oscars",
@@ -808,10 +808,10 @@
       "date": "2026-05-03"
     },
     {
-      "name": "mattpocock",
-      "author": "sponsors",
+      "name": "developers",
+      "author": "trending",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "link": "https://github.com/sponsors/mattpocock",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -819,36 +819,6 @@
         {
           "name": "Agent"
         },
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-05-03"
-    },
-    {
-      "name": "free-claude-code",
-      "author": "Alishahryar1",
-      "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.",
-      "link": "https://github.com/Alishahryar1/free-claude-code",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-03"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
         {
           "name": "LLM"
         }
@@ -871,10 +841,25 @@
       "date": "2026-05-03"
     },
     {
-      "name": "hackingtool",
-      "author": "Z4nzu",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "link": "https://github.com/Z4nzu/hackingtool",
+      "name": "free-claude-code",
+      "author": "Alishahryar1",
+      "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-03"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -889,16 +874,19 @@
       "date": "2026-05-03"
     },
     {
-      "name": "ds2api",
-      "author": "CJackHwang",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "link": "https://github.com/CJackHwang/ds2api",
+      "name": "soxoj",
+      "author": "sponsors",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "link": "https://github.com/sponsors/soxoj",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
         }
       ],
       "date": "2026-05-03"
@@ -906,14 +894,14 @@
     {
       "name": "maigret",
       "author": "soxoj",
-      "description": "GitHub热门AI项目，本周获得大量关注",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "link": "https://github.com/soxoj/maigret",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "LLM"
         }
       ],
       "date": "2026-05-03"
@@ -921,7 +909,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "GitHub热门AI项目，本周获得大量关注",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -977,6 +965,253 @@
         }
       ],
       "date": "2026-05-03"
+    },
+    {
+      "name": "open-webui",
+      "author": "open-webui",
+      "description": "用户友好的AI聊天界面，支持Ollama、OpenAI等多种大模型后端本地部署",
+      "link": "https://github.com/open-webui/open-webui",
+      "stars": 89000,
+      "trend": 1200,
+      "forks": 8900,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "UI"
+        }
+      ],
+      "icon": "🌐",
+      "date": "2026-05-03"
+    },
+    {
+      "name": "ollama",
+      "author": "ollama",
+      "description": "本地运行Llama、Mistral、Gemma等大模型最简便方式，一行命令启动",
+      "link": "https://github.com/ollama/ollama",
+      "stars": 128000,
+      "trend": 2300,
+      "forks": 11200,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Local"
+        }
+      ],
+      "icon": "🦙",
+      "date": "2026-05-03"
+    },
+    {
+      "name": "dify",
+      "author": "langgenius",
+      "description": "开源LLM应用开发平台，可视化AI工作流编排与RAG管道构建",
+      "link": "https://github.com/langgenius/dify",
+      "stars": 82000,
+      "trend": 980,
+      "forks": 12100,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "icon": "⚡",
+      "date": "2026-05-03"
+    },
+    {
+      "name": "ComfyUI",
+      "author": "comfyanonymous",
+      "description": "强大的节点式图像AI生成工作流工具，支持SD、Flux等各类模型",
+      "link": "https://github.com/comfyanonymous/ComfyUI",
+      "stars": 65000,
+      "trend": 750,
+      "forks": 7300,
+      "tags": [
+        {
+          "name": "Image"
+        },
+        {
+          "name": "AI"
+        }
+      ],
+      "icon": "🎨",
+      "date": "2026-05-03"
+    },
+    {
+      "name": "langchain",
+      "author": "langchain-ai",
+      "description": "构建LLM应用程序的核心框架，提供链式调用与Agent工具集成",
+      "link": "https://github.com/langchain-ai/langchain",
+      "stars": 96000,
+      "trend": 600,
+      "forks": 16000,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Agent"
+        }
+      ],
+      "icon": "🔗",
+      "date": "2026-05-03"
+    },
+    {
+      "name": "lobe-chat",
+      "author": "lobehub",
+      "description": "开源高性能AI聊天框架，支持多模型、插件系统与私有化部署",
+      "link": "https://github.com/lobehub/lobe-chat",
+      "stars": 51000,
+      "trend": 830,
+      "forks": 5600,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "UI"
+        }
+      ],
+      "icon": "💬",
+      "date": "2026-05-03"
+    },
+    {
+      "name": "AutoGPT",
+      "author": "Significant-Gravitas",
+      "description": "自主AI代理平台，让GPT模型自动拆解任务并持续执行，Agent鼻祖项目",
+      "link": "https://github.com/Significant-Gravitas/AutoGPT",
+      "stars": 170000,
+      "trend": 500,
+      "forks": 44000,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Auto"
+        }
+      ],
+      "icon": "🤖",
+      "date": "2026-05-03"
+    },
+    {
+      "name": "vllm",
+      "author": "vllm-project",
+      "description": "高吞吐量LLM推理引擎，PagedAttention大幅提升GPU利用率与并发能力",
+      "link": "https://github.com/vllm-project/vllm",
+      "stars": 40000,
+      "trend": 920,
+      "forks": 6100,
+      "tags": [
+        {
+          "name": "Inference"
+        },
+        {
+          "name": "GPU"
+        }
+      ],
+      "icon": "🚀",
+      "date": "2026-05-03"
+    },
+    {
+      "name": "stable-diffusion-webui",
+      "author": "AUTOMATIC1111",
+      "description": "Stable Diffusion Web界面，图像生成神器，支持海量LoRA和插件",
+      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "stars": 145000,
+      "trend": 500,
+      "forks": 28000,
+      "tags": [
+        {
+          "name": "Image"
+        },
+        {
+          "name": "SD"
+        }
+      ],
+      "icon": "🌈",
+      "date": "2026-05-03"
+    },
+    {
+      "name": "n8n",
+      "author": "n8n-io",
+      "description": "公平开源工作流自动化工具，支持AI集成，可自托管，支持500+应用",
+      "link": "https://github.com/n8n-io/n8n",
+      "stars": 48000,
+      "trend": 1100,
+      "forks": 7200,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Automation"
+        }
+      ],
+      "icon": "🔄",
+      "date": "2026-05-03"
+    },
+    {
+      "name": "LocalAI",
+      "author": "mudler",
+      "description": "免费开源的OpenAI API替代方案，支持本地运行各类LLM、图像、音频",
+      "link": "https://github.com/mudler/LocalAI",
+      "stars": 27000,
+      "trend": 650,
+      "forks": 3100,
+      "tags": [
+        {
+          "name": "Local"
+        },
+        {
+          "name": "API"
+        }
+      ],
+      "icon": "🏠",
+      "date": "2026-05-03"
+    },
+    {
+      "name": "Flowise",
+      "author": "FlowiseAI",
+      "description": "拖拽式LangChain可视化构建工具，快速搭建AI应用无需写代码",
+      "link": "https://github.com/FlowiseAI/Flowise",
+      "stars": 33000,
+      "trend": 780,
+      "forks": 4200,
+      "tags": [
+        {
+          "name": "RAG"
+        },
+        {
+          "name": "UI"
+        }
+      ],
+      "icon": "🌊",
+      "date": "2026-05-03"
+    },
+    {
+      "name": "llama.cpp",
+      "author": "ggerganov",
+      "description": "C++实现的LLaMA推理引擎，支持CPU运行大模型，移动设备也可跑",
+      "link": "https://github.com/ggerganov/llama.cpp",
+      "stars": 72000,
+      "trend": 820,
+      "forks": 10500,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "CPU"
+        }
+      ],
+      "icon": "🦙",
+      "date": "2026-05-03"
     }
   ],
   "agents": [
@@ -992,26 +1227,38 @@
       "date": "2026-05-03"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "link": "https://github.com/explore",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub",
         "LLM"
       ],
-      "likes": 3045,
+      "likes": 4324,
       "date": "2026-05-03"
     },
     {
-      "title": "开源项目: collections",
+      "title": "开源项目: events",
       "author": "@anonymous",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub",
+        "LLM"
+      ],
+      "likes": 2526,
+      "date": "2026-05-03"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "link": "https://github.com/collections",
+      "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 2046,
+      "likes": 7510,
       "date": "2026-05-03"
     },
     {
@@ -1220,19 +1467,6 @@
         "美团"
       ],
       "likes": 2650,
-      "date": "2026-05-03"
-    },
-    {
-      "title": "心理咨询师AI预约+回访系统",
-      "author": "@心理小林",
-      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
-      "link": "https://dify.ai/",
-      "tools": [
-        "Dify",
-        "Coze",
-        "微信"
-      ],
-      "likes": 3940,
       "date": "2026-05-03"
     }
   ],
