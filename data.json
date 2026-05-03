@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03 14:38:51",
+  "updatedAt": "2026-05-03 17:34:40",
   "news": [
     {
       "title": "AI-generated actors and scripts are now ineligible for Oscars",
@@ -858,7 +858,7 @@
     {
       "name": "tolaria",
       "author": "refactoringhq",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "link": "https://github.com/refactoringhq/tolaria",
       "stars": 0,
       "trend": 50,
