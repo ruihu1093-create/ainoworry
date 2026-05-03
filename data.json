@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-03 20:05:54",
+  "updatedAt": "2026-05-03 23:29:28",
   "news": [
+    {
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
       "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one mode",
@@ -70,15 +79,6 @@
       "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
       "source": "TechCrunch-AI",
       "date": "2026-05-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-      "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with",
-      "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-      "source": "TechCrunch-AI",
-      "date": "2026-04-30",
       "tag": "trend",
       "tagText": "资讯"
     },
