@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-05 00:09:52",
+  "updatedAt": "2026-05-05 08:36:41",
   "news": [
+    {
+      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+      "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+      "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
       "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
@@ -68,15 +77,6 @@
       "title": "‘This is fine’ creator says AI startup stole his art",
       "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
       "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one mode",
-      "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
       "source": "TechCrunch-AI",
       "date": "2026-05-03",
       "tag": "trend",
