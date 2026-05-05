@@ -1,9 +1,18 @@
 {
-  "updatedAt": "2026-05-05 18:02:12",
+  "updatedAt": "2026-05-05 22:16:00",
   "news": [
     {
+      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+      "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of task",
+      "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
-      "summary": "According to Pennsylvania's filing, a Character AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricat",
+      "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricat",
       "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
       "source": "TechCrunch-AI",
       "date": "2026-05-05",
@@ -59,24 +68,6 @@
       "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
       "summary": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
       "link": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
-      "summary": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India.",
-      "link": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
-      "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
-      "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
       "source": "TechCrunch-AI",
       "date": "2026-05-05",
       "tag": "trend",
@@ -158,6 +149,15 @@
       "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
       "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
       "link": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+      "source": "Wired-AI",
+      "date": "2026-04-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
+      "summary": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attac",
+      "link": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
       "source": "Wired-AI",
       "date": "2026-04-30",
       "tag": "trend",
@@ -916,9 +916,24 @@
       "date": "2026-05-05"
     },
     {
+      "name": "awesome-codex-skills",
+      "author": "ComposioHQ",
+      "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.",
+      "link": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-05"
+    },
+    {
       "name": "Pixelle-Video",
       "author": "AIDC-AI",
-      "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.",
+      "description": "GitHub热门AI项目，本周获得大量关注",
       "link": "https://github.com/AIDC-AI/Pixelle-Video",
       "stars": 0,
       "trend": 50,
@@ -941,21 +956,6 @@
       "tags": [
         {
           "name": "AI"
-        }
-      ],
-      "date": "2026-05-05"
-    },
-    {
-      "name": "craft-agents-oss",
-      "author": "lukilabs",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/lukilabs/craft-agents-oss",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-05-05"
