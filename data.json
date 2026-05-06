@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-05-06 20:54:00",
+  "updatedAt": "2026-05-06 23:37:06",
   "news": [
+    {
+      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+      "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+      "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Is xAI a neocloud now?",
+      "summary": "xAI's real business may be more about building data centers than training AI models.",
+      "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "How Elon Musk left OpenAI, according to Greg Brockman",
       "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
@@ -56,19 +83,10 @@
       "tagText": "资讯"
     },
     {
-      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
-      "summary": "Ethos says it is onboarding 35,000 experts per week.",
-      "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
-      "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain m",
-      "link": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch-AI",
+      "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
+      "summary": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
+      "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
+      "source": "Wired-AI",
       "date": "2026-05-06",
       "tag": "trend",
       "tagText": "资讯"
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
       "source": "Wired-AI",
       "date": "2026-05-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "He Couldn’t Land a Job Interview. Was AI to Blame?",
-      "summary": "Armed with some Python and a white-hot sense of injustice, one medical student spent six months trying to figure out whether an algorithm trashed his ",
-      "link": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/",
-      "source": "Wired-AI",
-      "date": "2026-05-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
-      "summary": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab.",
-      "link": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
-      "source": "Wired-AI",
-      "date": "2026-05-04",
       "tag": "trend",
       "tagText": "资讯"
     },
