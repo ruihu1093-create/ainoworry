@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-05-06 15:54:08",
+  "updatedAt": "2026-05-06 20:54:00",
   "news": [
     {
-      "title": "Google updates AI search to include ‘expert advice’ from Reddit and other web forums",
+      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+      "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "DeepSeek could hit $45B valuation from its first investment round",
+      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fr",
+      "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google updates AI search to include quotes from Reddit and other sources",
       "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
       "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
       "source": "TechCrunch-AI",
@@ -11,7 +29,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "Khosla-backed robotics startup Genesis AI has gone full-stack, demo shows",
+      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
       "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a",
       "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
       "source": "TechCrunch-AI",
@@ -56,35 +74,35 @@
       "tagText": "资讯"
     },
     {
-      "title": "AI boom pushes Samsung to $1T",
-      "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit",
-      "link": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
-      "source": "TechCrunch-AI",
+      "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
+      "summary": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
+      "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+      "source": "Wired-AI",
       "date": "2026-05-06",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-      "summary": "QuTwo, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €",
-      "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-      "source": "TechCrunch-AI",
+      "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
+      "summary": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
+      "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+      "source": "Wired-AI",
       "date": "2026-05-06",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
-      "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
-      "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-      "source": "TechCrunch-AI",
+      "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
+      "summary": "Anthropic announced “dreaming” for AI agents to sort through “memories” at its developer conference. Can we not?",
+      "link": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
+      "source": "Wired-AI",
       "date": "2026-05-06",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Cybercriminals Are Complaining About AI Slop Flooding Their Forums",
-      "summary": "It's not just you. Hackers and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illeg",
+      "title": "Hackers Hate AI Slop Even More Than You Do",
+      "summary": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and ",
       "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
       "source": "Wired-AI",
       "date": "2026-05-06",
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
       "source": "Wired-AI",
       "date": "2026-05-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Disneyland Now Uses Face Recognition on Visitors",
-      "summary": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-      "source": "Wired-AI",
-      "date": "2026-05-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-      "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-A",
-      "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
-      "source": "Wired-AI",
-      "date": "2026-05-01",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,6 +619,24 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
+      "content": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura before",
+      "link": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "Old Navy turns to retail, entertainment vet to invigorate turnaround",
+      "content": "<img src=\"https://imgproxy.divecdn.com/KIHdOIPiKsJYsL6uoI2mmK4uzzTMxwYB-bs4Xh7xPkY/g:nowe:0:1469/c:7360:4158/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81bWF5bWFsbC0xNi5",
+      "link": "https://www.retaildive.com/news/old-navy-retail-entertainment-veteran-walmart-target-dreamworks-invigorate-turnaround/819439/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-06"
+    },
     {
       "title": "Dollar General bridges onsite, offsite retail media with new solution",
       "content": "<img src=\"https://imgproxy.divecdn.com/m_1ZicxaNRaUEfdmvghcLPaOe1Dkoha_mujpqqykvho/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3NTUxMTk1LmpwZw==",
