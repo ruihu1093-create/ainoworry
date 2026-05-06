@@ -1,74 +1,119 @@
 {
-  "updatedAt": "2026-05-05 22:16:00",
+  "updatedAt": "2026-05-06 15:54:08",
   "news": [
     {
-      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
-      "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of task",
-      "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+      "title": "Google updates AI search to include ‘expert advice’ from Reddit and other web forums",
+      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+      "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
       "source": "TechCrunch-AI",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
-      "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricat",
-      "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+      "title": "Khosla-backed robotics startup Genesis AI has gone full-stack, demo shows",
+      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a",
+      "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
       "source": "TechCrunch-AI",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-      "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its prede",
-      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+      "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
+      "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
       "source": "TechCrunch-AI",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
-      "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech",
-      "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+      "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+      "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
       "source": "TechCrunch-AI",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "summary": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users.",
-      "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+      "summary": "Ethos says it is onboarding 35,000 experts per week.",
+      "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
       "source": "TechCrunch-AI",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
-      "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
-      "link": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+      "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+      "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain m",
+      "link": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
       "source": "TechCrunch-AI",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
-      "summary": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
-      "link": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
+      "title": "AI boom pushes Samsung to $1T",
+      "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit",
+      "link": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
       "source": "TechCrunch-AI",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
-      "summary": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
-      "link": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+      "summary": "QuTwo, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €",
+      "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
       "source": "TechCrunch-AI",
+      "date": "2026-05-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+      "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
+      "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Cybercriminals Are Complaining About AI Slop Flooding Their Forums",
+      "summary": "It's not just you. Hackers and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illeg",
+      "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
+      "source": "Wired-AI",
+      "date": "2026-05-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri’s AI Features",
+      "summary": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement.",
+      "link": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
+      "source": "Wired-AI",
+      "date": "2026-05-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die",
+      "summary": "The far-left Twitch streamer says AI is rotting our brains. He’s also addicted to Twitter and listens to at least eight podcasts.",
+      "link": "https://www.wired.com/story/hasan-piker-user-behavior/",
+      "source": "Wired-AI",
+      "date": "2026-05-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
+      "summary": "OpenAI’s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk in 2017 and subsequent efforts to remove several board memb",
+      "link": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
+      "source": "Wired-AI",
       "date": "2026-05-05",
       "tag": "trend",
       "tagText": "资讯"
@@ -119,56 +164,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
-      "summary": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
-      "link": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
-      "source": "Wired-AI",
-      "date": "2026-05-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Good Luck Getting a Mac Mini for the Next ‘Several Months’",
-      "summary": "Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.",
-      "link": "https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/",
-      "source": "Wired-AI",
-      "date": "2026-04-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
-      "summary": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
-      "source": "Wired-AI",
-      "date": "2026-04-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
-      "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
-      "link": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
-      "source": "Wired-AI",
-      "date": "2026-04-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
-      "summary": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attac",
-      "link": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
-      "source": "Wired-AI",
-      "date": "2026-04-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "OpenAI发布o3推理模型，数学/代码能力达新高",
       "summary": "o3在国际数学奥林匹克测试中近满分，代码能力超越99%程序员，推理成本较o1降低90%。",
       "link": "https://openai.com/o3",
       "source": "量子位",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -177,7 +177,7 @@
       "summary": "谷歌将实时多模态AI助手集成进Pixel设备和智能眼镜，支持持续感知周围环境并主动提醒。",
       "link": "https://io.google.com/",
       "source": "机器之心",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -186,7 +186,7 @@
       "summary": "Amazon领投，Anthropic将资金用于训练下一代Claude模型和扩大算力储备。",
       "link": "https://www.anthropic.com/",
       "source": "新智元",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -195,7 +195,7 @@
       "summary": "深度求索开源6710亿参数混合专家模型，推理成本极低，迅速在GitHub获得数万star。",
       "link": "https://chat.deepseek.com/",
       "source": "晚点LatePost",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -204,7 +204,7 @@
       "summary": "Operator能够自主浏览网页、填写表单、下单购物，成为首个真正可用的通用网页Agent。",
       "link": "https://openai.com/",
       "source": "暗涌Waves",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -213,7 +213,7 @@
       "summary": "AI搜索引擎月活超1亿，日查询量突破5亿，已开始冲击谷歌搜索市场份额。",
       "link": "https://www.perplexity.ai/",
       "source": "Founder Park",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -222,7 +222,7 @@
       "summary": "Cursor年经常性收入突破1亿美元，成为史上最快达成该里程碑的开发工具。",
       "link": "https://cursor.com/",
       "source": "特工宇宙",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -231,7 +231,7 @@
       "summary": "谷歌Gemini 2.5 Pro在编程、推理和长文本理解三个维度全面领先，Blind竞技场排名第一。",
       "link": "https://gemini.google.com/",
       "source": "机器之心",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -240,7 +240,7 @@
       "summary": "阿里发布2350亿参数旗舰模型，支持思考模式切换，多项评测超越GPT-4o。",
       "link": "https://chat.qwen.ai/",
       "source": "量子位",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -249,7 +249,7 @@
       "summary": "Grok 3接入X平台实时数据，推理能力大幅提升，支持深度思考模式和图像理解。",
       "link": "https://grok.x.ai/",
       "source": "晚点LatePost",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -258,7 +258,7 @@
       "summary": "Gen-4可跨场景保持人物/道具外观一致，解决了AI视频生成的核心痛点。",
       "link": "https://runwayml.com/",
       "source": "新智元",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -267,7 +267,7 @@
       "summary": "2026年Q1 AI Agent领域融资超200亿美元，Coze、Dify、AutoGen等平台均完成重要融资。",
       "link": "https://www.geekpark.net/",
       "source": "极客公园",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "趋势"
     }
@@ -620,22 +620,31 @@
   ],
   "ecommerce": [
     {
-      "title": "9.35万, 威马破产大甩卖",
-      "content": "作者 |&nbsp;冯晓亭 编辑 | 吾人\n  来源 |&nbsp;融中财经\n  4月28日下午，淘宝阿里拍卖平台上，一场持续近24小时的竞拍结束了。\n  拍卖标的并不复杂——威马新能源汽车采购（上海）有限公司破产清算后，账面上列出的24笔对外应收款项，金额合计127,591,590.42元。起拍价只有100元。100人报名竞拍，经过3",
-      "link": "https://36kr.com/p/3791546608049152?f=rss",
-      "source": "36Kr",
+      "title": "Dollar General bridges onsite, offsite retail media with new solution",
+      "content": "<img src=\"https://imgproxy.divecdn.com/m_1ZicxaNRaUEfdmvghcLPaOe1Dkoha_mujpqqykvho/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3NTUxMTk1LmpwZw==",
+      "link": "https://www.retaildive.com/news/dollar-general-bridges-onsite-offsite-retail-media-with-new-solution/819382/",
+      "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-02"
+      "date": "2026-05-06"
     },
     {
-      "title": "马斯克：OpenAI 是我的创意，Altman 是小偷；Claude Code 使用成本翻倍；Image 2 登顶视觉模型榜｜极客早知道",
-      "content": "结束与微软独家合作，OpenAI 模型接入亚马逊 AWS\n4 月 29 日，在",
-      "link": "http://www.geekpark.net/news/363594",
-      "source": "极客公园",
-      "impact": "high",
-      "impactText": "高",
-      "date": "2026-04-30"
+      "title": "Walmart, Costco poised to win amid unfavorable retail environment",
+      "content": "Moody&rsquo;s is maintaining a negative outlook for the industry in 2026 as high prices and dwindling consumer demand pressure retailers.",
+      "link": "https://www.retaildive.com/news/walmart-costco-winners-unfavorable-retail-environment/819424/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "Target’s digital chief breaks down the retailer’s creator overhaul",
+      "content": "<img src=\"https://imgproxy.divecdn.com/OBKSTJ9iyV-cs9wwO1IHjTQ6LZzKQ-4Q_Ne_jo2XuEc/g:nowe:0:11/c:1023:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMT",
+      "link": "https://www.retaildive.com/news/targets-digital-chief-breaks-down-the-retailers-creator-overhaul/819417/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-06"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -644,7 +653,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "京东言犀大模型客服覆盖全品类，问题解决率92%",
@@ -653,7 +662,7 @@
       "source": "京东",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "拼多多AI商品描述自动生成，商家效率提升10倍",
@@ -662,7 +671,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "TikTok Shop AI选品系统全球上线",
@@ -671,7 +680,7 @@
       "source": "TechCrunch",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "Shopify AI建站+运营一键通：从选品到广告全自动",
@@ -680,7 +689,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "SHEIN AI设计系统：7天从趋势到上架",
@@ -689,7 +698,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "亚马逊AI定价系统：实时竞争对手监控+自动调价",
@@ -698,7 +707,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "抖音AI直播间：数字人主播全天无休带货",
@@ -707,7 +716,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "Temu AI供应链优化：海外仓备货准确率提升60%",
@@ -716,7 +725,7 @@
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "微信小店AI推荐算法升级，私域转化率翻番",
@@ -725,7 +734,7 @@
       "source": "极客公园",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "跨境卖家AI客服工具：支持40+语言实时翻译",
@@ -734,7 +743,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "天猫AI主图生成：上新效率提升5倍",
@@ -743,7 +752,7 @@
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "小红书AI种草内容审核：违规率降至0.1%",
@@ -752,7 +761,7 @@
       "source": "极客公园",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "eBay AI鉴定系统：二手商品真伪识别准确率99%",
@@ -761,7 +770,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "唯品会AI个性化专场：精准匹配打折商品与用户喜好",
@@ -770,7 +779,7 @@
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     }
   ],
   "github": [
@@ -787,28 +796,13 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "name": "developers",
       "author": "trending",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "link": "https://github.com/trending/developers",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-05"
-    },
-    {
-      "name": "warp",
-      "author": "warpdotdev",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "link": "https://github.com/warpdotdev/warp",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -820,13 +814,28 @@
           "name": "LLM"
         }
       ],
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
-      "name": "skills",
-      "author": "mattpocock",
+      "name": "warp",
+      "author": "warpdotdev",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "link": "https://github.com/warpdotdev/warp",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-06"
+    },
+    {
+      "name": "TradingAgents",
+      "author": "TauricResearch",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "link": "https://github.com/mattpocock/skills",
+      "link": "https://github.com/TauricResearch/TradingAgents",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -838,13 +847,13 @@
           "name": "RAG"
         }
       ],
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
-      "name": "TradingAgents",
-      "author": "TauricResearch",
-      "description": "Useful tool to track location or mobile number",
-      "link": "https://github.com/TauricResearch/TradingAgents",
+      "name": "skills",
+      "author": "mattpocock",
+      "description": "Coding Agent Harness",
+      "link": "https://github.com/mattpocock/skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -853,12 +862,42 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-05-05"
+      "date": "2026-05-06"
+    },
+    {
+      "name": "ruflo",
+      "author": "ruvnet",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "link": "https://github.com/ruvnet/ruflo",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-06"
+    },
+    {
+      "name": "soxoj",
+      "author": "sponsors",
+      "description": "An autonomous agent for deep financial research",
+      "link": "https://github.com/sponsors/soxoj",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-06"
     },
     {
       "name": "maigret",
       "author": "soxoj",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
       "link": "https://github.com/soxoj/maigret",
       "stars": 0,
       "trend": 50,
@@ -868,12 +907,12 @@
           "name": "AI"
         }
       ],
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -883,12 +922,12 @@
           "name": "AI"
         }
       ],
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "name": "copilot-swe-agent",
       "author": "apps",
-      "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "link": "https://github.com/apps/copilot-swe-agent",
       "stars": 0,
       "trend": 50,
@@ -898,42 +937,12 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-05-05"
-    },
-    {
-      "name": "ruflo",
-      "author": "ruvnet",
-      "description": "An autonomous agent for deep financial research",
-      "link": "https://github.com/ruvnet/ruflo",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-05"
-    },
-    {
-      "name": "awesome-codex-skills",
-      "author": "ComposioHQ",
-      "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.",
-      "link": "https://github.com/ComposioHQ/awesome-codex-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "name": "Pixelle-Video",
       "author": "AIDC-AI",
-      "description": "GitHub热门AI项目，本周获得大量关注",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "link": "https://github.com/AIDC-AI/Pixelle-Video",
       "stars": 0,
       "trend": 50,
@@ -943,7 +952,7 @@
           "name": "AI"
         }
       ],
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "name": "dependabot",
@@ -958,7 +967,7 @@
           "name": "AI"
         }
       ],
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     }
   ],
   "agents": [
@@ -971,40 +980,52 @@
         "GitHub"
       ],
       "likes": 2325,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "link": "https://github.com/manifest.json",
+      "tools": [
+        "GitHub",
+        "LLM"
+      ],
+      "likes": 4324,
+      "date": "2026-05-06"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@anonymous",
+      "description": "Coding Agent Harness",
+      "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 4324,
-      "date": "2026-05-05"
+      "likes": 3045,
+      "date": "2026-05-06"
     },
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
       "likes": 1697,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "An autonomous agent for deep financial research",
-      "link": "https://github.com/sponsors/explore",
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
-      "likes": 7510,
-      "date": "2026-05-05"
+      "likes": 2046,
+      "date": "2026-05-06"
     },
     {
       "title": "独立开发者用AI搭建自动化内容工厂",
@@ -1017,7 +1038,7 @@
         "Zapier"
       ],
       "likes": 2340,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "退休教师用AI创作儿童故事系列",
@@ -1030,7 +1051,7 @@
         "小红书"
       ],
       "likes": 5670,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "全职妈妈用AI开启副业月入2万",
@@ -1043,7 +1064,7 @@
         "1688"
       ],
       "likes": 8920,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "自由设计师的AI工作流完整分享",
@@ -1056,7 +1077,7 @@
         "Figma AI"
       ],
       "likes": 3120,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "乡村教师搭建AI英语陪练系统",
@@ -1069,7 +1090,7 @@
         "TTS"
       ],
       "likes": 15600,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "律师打造合同审查AI助手，效率提升10倍",
@@ -1082,7 +1103,7 @@
         "RAG"
       ],
       "likes": 4560,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "中学老师用AI批改作文，从4小时到20分钟",
@@ -1095,7 +1116,7 @@
         "Python"
       ],
       "likes": 7830,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "地方创业者用AI做非遗文创，登上央视",
@@ -1108,7 +1129,7 @@
         "淘宝"
       ],
       "likes": 12400,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "保险代理人打造AI客户服务助手",
@@ -1121,7 +1142,7 @@
         "微信"
       ],
       "likes": 2890,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "农村电商创业者AI选品系统月销百万",
@@ -1134,7 +1155,7 @@
         "1688"
       ],
       "likes": 9600,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "医生用AI整理患者随访记录",
@@ -1147,7 +1168,7 @@
         "Excel"
       ],
       "likes": 5210,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "婚庆公司AI策划：从5小时到30分钟",
@@ -1160,7 +1181,7 @@
         "Canva"
       ],
       "likes": 4100,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "编剧用AI预研剧本：6个月工作量缩至2周",
@@ -1173,7 +1194,7 @@
         "Notion"
       ],
       "likes": 3780,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "财务顾问搭建AI报表分析助手",
@@ -1186,7 +1207,7 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     },
     {
       "title": "旅游博主AI生成攻略，月入10万",
@@ -1199,20 +1220,7 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-05-05"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
-      "date": "2026-05-05"
+      "date": "2026-05-06"
     }
   ],
   "personalization": {
