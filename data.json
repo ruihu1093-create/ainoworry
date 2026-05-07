@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-05-07 16:26:35",
+  "updatedAt": "2026-05-07 20:51:05",
   "news": [
+    {
+      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+      "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+      "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+      "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+      "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission ",
+      "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Bumble is getting rid of the swipe, CEO says",
+      "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI d",
+      "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
       "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
@@ -20,38 +56,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Spotify wants to become the home for AI-generated personal audio",
-      "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify.",
-      "link": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
-      "source": "TechCrunch-AI",
+      "title": "How to Disable Google's Gemini in Chrome",
+      "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it.",
+      "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
+      "source": "Wired-AI",
       "date": "2026-05-07",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Spotify’s AI DJ now supports French, German, Italian, and Brazilian Portuguese",
-      "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
-      "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
-      "source": "TechCrunch-AI",
+      "title": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'",
+      "summary": "OpenAI's chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
+      "link": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
+      "source": "Wired-AI",
       "date": "2026-05-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Five architects of the AI economy explain where the wheels are coming off",
-      "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talk",
-      "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
-      "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -124,24 +142,6 @@
       "link": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
       "source": "Wired-AI",
       "date": "2026-05-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die",
-      "summary": "The far-left Twitch streamer says AI is rotting our brains. He’s also addicted to Twitter and listens to at least eight podcasts.",
-      "link": "https://www.wired.com/story/hasan-piker-user-behavior/",
-      "source": "Wired-AI",
-      "date": "2026-05-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
-      "summary": "OpenAI’s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk in 2017 and subsequent efforts to remove several board memb",
-      "link": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
-      "source": "Wired-AI",
-      "date": "2026-05-05",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -927,23 +927,8 @@
     {
       "name": "warp",
       "author": "warpdotdev",
-      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "link": "https://github.com/warpdotdev/warp",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-05-07"
-    },
-    {
-      "name": "jcode",
-      "author": "1jehuang",
-      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
-      "link": "https://github.com/1jehuang/jcode",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -955,16 +940,31 @@
       "date": "2026-05-07"
     },
     {
+      "name": "jcode",
+      "author": "1jehuang",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
+      "link": "https://github.com/1jehuang/jcode",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-05-07"
+    },
+    {
       "name": "dexter",
       "author": "virattt",
-      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
       "link": "https://github.com/virattt/dexter",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-05-07"
@@ -1019,11 +1019,10 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed,",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 7510,
       "date": "2026-05-07"
