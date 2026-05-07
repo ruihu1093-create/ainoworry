@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-05-07 09:45:04",
+  "updatedAt": "2026-05-07 16:26:35",
   "news": [
+    {
+      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+      "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
+      "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
+      "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+      "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Spotify wants to become the home for AI-generated personal audio",
+      "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify.",
+      "link": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Spotify’s AI DJ now supports French, German, Italian, and Brazilian Portuguese",
+      "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
+      "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Five architects of the AI economy explain where the wheels are coming off",
       "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talk",
@@ -20,65 +56,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
-      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
-      "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-06",
+      "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+      "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive ",
+      "link": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
+      "source": "Wired-AI",
+      "date": "2026-05-07",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Is xAI a neocloud now?",
-      "summary": "xAI's real business may be more about building data centers than training AI models.",
-      "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
-      "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "DeepSeek could hit $45B valuation from its first investment round",
-      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fr",
-      "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google updates AI search to include quotes from Reddit and other sources",
-      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
-      "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a",
-      "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-      "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
-      "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-06",
+      "title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
+      "summary": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
+      "link": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
+      "source": "Wired-AI",
+      "date": "2026-05-07",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -155,11 +146,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
-      "summary": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
-      "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
-      "source": "Wired-AI",
-      "date": "2026-05-05",
+      "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-05-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: seafloor science and military chatbots",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
-      "content": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura before",
-      "link": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-06"
-    },
-    {
       "title": "Old Navy turns to retail, entertainment vet to invigorate turnaround",
       "content": "<img src=\"https://imgproxy.divecdn.com/KIHdOIPiKsJYsL6uoI2mmK4uzzTMxwYB-bs4Xh7xPkY/g:nowe:0:1469/c:7360:4158/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81bWF5bWFsbC0xNi5",
       "link": "https://www.retaildive.com/news/old-navy-retail-entertainment-veteran-walmart-target-dreamworks-invigorate-turnaround/819439/",
@@ -650,15 +641,6 @@
       "title": "Walmart, Costco poised to win amid unfavorable retail environment",
       "content": "Moody&rsquo;s is maintaining a negative outlook for the industry in 2026 as high prices and dwindling consumer demand pressure retailers.",
       "link": "https://www.retaildive.com/news/walmart-costco-winners-unfavorable-retail-environment/819424/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-06"
-    },
-    {
-      "title": "Target’s digital chief breaks down the retailer’s creator overhaul",
-      "content": "<img src=\"https://imgproxy.divecdn.com/OBKSTJ9iyV-cs9wwO1IHjTQ6LZzKQ-4Q_Ne_jo2XuEc/g:nowe:0:11/c:1023:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMT",
-      "link": "https://www.retaildive.com/news/targets-digital-chief-breaks-down-the-retailers-creator-overhaul/819417/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
@@ -804,23 +786,8 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "Warp is an agentic development environment, born out of the terminal.",
-      "link": "https://github.com/sponsors/explore",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-07"
-    },
-    {
-      "name": "developers",
-      "author": "trending",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -835,25 +802,10 @@
       "date": "2026-05-07"
     },
     {
-      "name": "warp",
-      "author": "warpdotdev",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "link": "https://github.com/warpdotdev/warp",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-07"
-    },
-    {
-      "name": "TradingAgents",
-      "author": "TauricResearch",
+      "name": "developers",
+      "author": "trending",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "link": "https://github.com/TauricResearch/TradingAgents",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -863,6 +815,36 @@
         },
         {
           "name": "RAG"
+        }
+      ],
+      "date": "2026-05-07"
+    },
+    {
+      "name": "TradingAgents",
+      "author": "TauricResearch",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-07"
+    },
+    {
+      "name": "mattpocock",
+      "author": "sponsors",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "link": "https://github.com/sponsors/mattpocock",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-05-07"
@@ -878,21 +860,6 @@
       "tags": [
         {
           "name": "Agent"
-        }
-      ],
-      "date": "2026-05-07"
-    },
-    {
-      "name": "ruflo",
-      "author": "ruvnet",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "link": "https://github.com/ruvnet/ruflo",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
         }
       ],
       "date": "2026-05-07"
@@ -915,7 +882,7 @@
     {
       "name": "maigret",
       "author": "soxoj",
-      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "link": "https://github.com/soxoj/maigret",
       "stars": 0,
       "trend": 50,
@@ -958,25 +925,40 @@
       "date": "2026-05-07"
     },
     {
-      "name": "Pixelle-Video",
-      "author": "AIDC-AI",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "link": "https://github.com/AIDC-AI/Pixelle-Video",
+      "name": "warp",
+      "author": "warpdotdev",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
+      "link": "https://github.com/warpdotdev/warp",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "LLM"
         }
       ],
       "date": "2026-05-07"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/apps/dependabot",
+      "name": "jcode",
+      "author": "1jehuang",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "link": "https://github.com/1jehuang/jcode",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-07"
+    },
+    {
+      "name": "dexter",
+      "author": "virattt",
+      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "link": "https://github.com/virattt/dexter",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -992,10 +974,11 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "link": "https://github.com/opensearch.xml",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 2325,
       "date": "2026-05-07"
@@ -1003,11 +986,10 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversationa",
       "link": "https://github.com/manifest.json",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 4324,
       "date": "2026-05-07"
@@ -1026,7 +1008,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "description": "An autonomous agent for deep financial research",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -1035,14 +1017,15 @@
       "date": "2026-05-07"
     },
     {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
-      "link": "https://github.com/collections",
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed,",
+      "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
-      "likes": 2046,
+      "likes": 7510,
       "date": "2026-05-07"
     },
     {
