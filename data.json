@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08 13:24:45",
+  "updatedAt": "2026-05-08 15:18:54",
   "news": [
     {
       "title": "Why you can never get your doctor to call you back",
@@ -74,6 +74,24 @@
       "tagText": "资讯"
     },
     {
+      "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
+      "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
+      "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+      "source": "Wired-AI",
+      "date": "2026-05-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "There's a Long Shot Proposal to Protect California Workers From AI",
+      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
+      "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+      "source": "Wired-AI",
+      "date": "2026-05-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The New Wild West of AI Kids’ Toys",
       "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
       "link": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
@@ -140,24 +158,6 @@
       "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
       "summary": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
       "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
-      "source": "Wired-AI",
-      "date": "2026-05-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
-      "summary": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
-      "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
-      "source": "Wired-AI",
-      "date": "2026-05-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
-      "summary": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
-      "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
       "source": "Wired-AI",
       "date": "2026-05-06",
       "tag": "trend",
