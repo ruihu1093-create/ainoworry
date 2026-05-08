@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-08 00:06:52",
+  "updatedAt": "2026-05-08 07:01:14",
   "news": [
+    {
+      "title": "Why you can never get your doctor to call you back",
+      "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augment",
+      "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI launches new voice intelligence features in its API",
       "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, inclu",
@@ -61,6 +70,15 @@
       "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
       "source": "TechCrunch-AI",
       "date": "2026-05-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+      "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+      "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+      "source": "Wired-AI",
+      "date": "2026-05-08",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
       "source": "Wired-AI",
       "date": "2026-05-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hackers Hate AI Slop Even More Than You Do",
-      "summary": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and ",
-      "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
-      "source": "Wired-AI",
-      "date": "2026-05-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-05-07",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -897,7 +897,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -912,7 +912,7 @@
     {
       "name": "copilot-swe-agent",
       "author": "apps",
-      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "link": "https://github.com/apps/copilot-swe-agent",
       "stars": 0,
       "trend": 50,
@@ -927,23 +927,8 @@
     {
       "name": "warp",
       "author": "warpdotdev",
-      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
-      "link": "https://github.com/warpdotdev/warp",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-08"
-    },
-    {
-      "name": "jcode",
-      "author": "1jehuang",
       "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
-      "link": "https://github.com/1jehuang/jcode",
+      "link": "https://github.com/warpdotdev/warp",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -955,16 +940,31 @@
       "date": "2026-05-08"
     },
     {
-      "name": "dexter",
-      "author": "virattt",
+      "name": "jcode",
+      "author": "1jehuang",
       "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
-      "link": "https://github.com/virattt/dexter",
+      "link": "https://github.com/1jehuang/jcode",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
+        }
+      ],
+      "date": "2026-05-08"
+    },
+    {
+      "name": "dexter",
+      "author": "virattt",
+      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "link": "https://github.com/virattt/dexter",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-05-08"
@@ -1017,12 +1017,24 @@
       "date": "2026-05-08"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
+      "title": "开源项目: events",
+      "author": "@anonymous",
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
-      "link": "https://github.com/sponsors/explore",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
+      ],
+      "likes": 2526,
+      "date": "2026-05-08"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed,",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub",
+        "LLM"
       ],
       "likes": 7510,
       "date": "2026-05-08"
@@ -1207,19 +1219,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-05-08"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-05-08"
     }
   ],
