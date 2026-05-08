@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-08 19:12:07",
+  "updatedAt": "2026-05-08 20:56:15",
   "news": [
     {
       "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-      "summary": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support ro",
+      "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support ro",
       "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
       "source": "TechCrunch-AI",
       "date": "2026-05-08",
@@ -68,15 +68,6 @@
       "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
       "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission ",
       "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Bumble is getting rid of the swipe, CEO says",
-      "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI d",
-      "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
       "source": "TechCrunch-AI",
       "date": "2026-05-07",
       "tag": "trend",
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
       "source": "Wired-AI",
       "date": "2026-05-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
+      "summary": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
+      "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
+      "source": "Wired-AI",
+      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "资讯"
     },
