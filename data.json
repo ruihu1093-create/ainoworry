@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-08 21:58:39",
+  "updatedAt": "2026-05-08 23:00:45",
   "news": [
+    {
+      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no. ",
+      "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+      "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
       "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support ro",
@@ -59,15 +68,6 @@
       "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
       "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
       "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-      "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission ",
-      "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
       "source": "TechCrunch-AI",
       "date": "2026-05-07",
       "tag": "trend",
