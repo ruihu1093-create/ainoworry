@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-08 17:12:39",
+  "updatedAt": "2026-05-08 19:12:07",
   "news": [
+    {
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "summary": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support ro",
+      "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The “people’s airline” and the enterprise AI gold rush",
       "summary": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and Ope",
@@ -74,11 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
-      "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
-      "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-07",
+      "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
+      "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
+      "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+      "source": "Wired-AI",
+      "date": "2026-05-08",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -86,15 +95,6 @@
       "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
       "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
       "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-      "source": "Wired-AI",
-      "date": "2026-05-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
-      "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
-      "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
       "source": "Wired-AI",
       "date": "2026-05-08",
       "tag": "trend",
