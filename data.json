@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-05-08 15:18:54",
+  "updatedAt": "2026-05-08 17:12:39",
   "news": [
     {
-      "title": "Why you can never get your doctor to call you back",
+      "title": "The “people’s airline” and the enterprise AI gold rush",
+      "summary": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and Ope",
+      "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
       "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augment",
       "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
       "source": "TechCrunch-AI",
@@ -74,18 +83,18 @@
       "tagText": "资讯"
     },
     {
-      "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
-      "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
-      "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
+      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
+      "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
       "source": "Wired-AI",
       "date": "2026-05-08",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "There's a Long Shot Proposal to Protect California Workers From AI",
-      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-      "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+      "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
+      "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
+      "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
       "source": "Wired-AI",
       "date": "2026-05-08",
       "tag": "trend",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
       "source": "Wired-AI",
       "date": "2026-05-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
-      "summary": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
-      "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
-      "source": "Wired-AI",
-      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,27 +620,18 @@
   ],
   "ecommerce": [
     {
+      "title": "The Weekly Closeout: ThredUp’s revenue jump and the interview that shook retail",
+      "content": "<img src=\"https://imgproxy.divecdn.com/1s_zT1VceHnAZ1Iyzpo33Y9VVx3xtQXq3k2vA8BczNU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DbGVhbm91dHNfYW5kX0NhdGVnb3JpZXMtMDAz",
+      "link": "https://www.retaildive.com/news/ryan-cohen-gamestop-ebay-interview-thredup-q1-earnings/819613/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-08"
+    },
+    {
       "title": "Old Navy turns to retail, entertainment vet to invigorate turnaround",
       "content": "<img src=\"https://imgproxy.divecdn.com/KIHdOIPiKsJYsL6uoI2mmK4uzzTMxwYB-bs4Xh7xPkY/g:nowe:0:1469/c:7360:4158/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81bWF5bWFsbC0xNi5",
       "link": "https://www.retaildive.com/news/old-navy-retail-entertainment-veteran-walmart-target-dreamworks-invigorate-turnaround/819439/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-06"
-    },
-    {
-      "title": "Dollar General bridges onsite, offsite retail media with new solution",
-      "content": "<img src=\"https://imgproxy.divecdn.com/m_1ZicxaNRaUEfdmvghcLPaOe1Dkoha_mujpqqykvho/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3NTUxMTk1LmpwZw==",
-      "link": "https://www.retaildive.com/news/dollar-general-bridges-onsite-offsite-retail-media-with-new-solution/819382/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-06"
-    },
-    {
-      "title": "Walmart, Costco poised to win amid unfavorable retail environment",
-      "content": "Moody&rsquo;s is maintaining a negative outlook for the industry in 2026 as high prices and dwindling consumer demand pressure retailers.",
-      "link": "https://www.retaildive.com/news/walmart-costco-winners-unfavorable-retail-environment/819424/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
