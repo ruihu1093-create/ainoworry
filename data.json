@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-09 21:39:19",
+  "updatedAt": "2026-05-09 22:38:48",
   "news": [
+    {
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo",
+      "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Nvidia has already committed $40B to equity AI deals this year",
       "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
@@ -59,15 +68,6 @@
       "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
       "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
       "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
-      "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
       "source": "TechCrunch-AI",
       "date": "2026-05-07",
       "tag": "trend",
