@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09 19:56:15",
+  "updatedAt": "2026-05-09 20:41:35",
   "news": [
     {
       "title": "Nvidia has already committed $40B to equity AI deals this year",
@@ -620,24 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "The Weekly Closeout: ThredUp’s revenue jump and the interview that shook retail",
-      "content": "<img src=\"https://imgproxy.divecdn.com/1s_zT1VceHnAZ1Iyzpo33Y9VVx3xtQXq3k2vA8BczNU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DbGVhbm91dHNfYW5kX0NhdGVnb3JpZXMtMDAz",
-      "link": "https://www.retaildive.com/news/ryan-cohen-gamestop-ebay-interview-thredup-q1-earnings/819613/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-08"
-    },
-    {
-      "title": "Old Navy turns to retail, entertainment vet to invigorate turnaround",
-      "content": "<img src=\"https://imgproxy.divecdn.com/KIHdOIPiKsJYsL6uoI2mmK4uzzTMxwYB-bs4Xh7xPkY/g:nowe:0:1469/c:7360:4158/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81bWF5bWFsbC0xNi5",
-      "link": "https://www.retaildive.com/news/old-navy-retail-entertainment-veteran-walmart-target-dreamworks-invigorate-turnaround/819439/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-06"
-    },
-    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -903,7 +885,7 @@
     {
       "name": "maigret",
       "author": "soxoj",
-      "description": "Claude Agent SDK with a web browsing tool",
+      "description": "Browserbase's official collection of agent skills to access the web.",
       "link": "https://github.com/soxoj/maigret",
       "stars": 0,
       "trend": 50,
@@ -1024,7 +1006,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Claude Agent SDK with a web browsing tool",
+      "description": "Browserbase's official collection of agent skills to access the web.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
