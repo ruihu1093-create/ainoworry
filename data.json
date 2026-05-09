@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09 09:16:27",
+  "updatedAt": "2026-05-09 10:54:08",
   "news": [
     {
       "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no. ",
@@ -70,6 +70,15 @@
       "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
       "source": "TechCrunch-AI",
       "date": "2026-05-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
+      "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's",
+      "link": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
+      "source": "Wired-AI",
+      "date": "2026-05-09",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
       "source": "Wired-AI",
       "date": "2026-05-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
-      "summary": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
-      "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
-      "source": "Wired-AI",
-      "date": "2026-05-06",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -828,83 +828,8 @@
     {
       "name": "TradingAgents",
       "author": "TauricResearch",
-      "description": "Claude Agent SDK with a web browsing tool",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "link": "https://github.com/TauricResearch/TradingAgents",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-09"
-    },
-    {
-      "name": "soxoj",
-      "author": "sponsors",
-      "description": "Coding Agent Harness",
-      "link": "https://github.com/sponsors/soxoj",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-09"
-    },
-    {
-      "name": "maigret",
-      "author": "soxoj",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "link": "https://github.com/soxoj/maigret",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-09"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-09"
-    },
-    {
-      "name": "copilot-swe-agent",
-      "author": "apps",
-      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
-      "link": "https://github.com/apps/copilot-swe-agent",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-09"
-    },
-    {
-      "name": "skills",
-      "author": "browserbase",
-      "description": "Warp is an agentic development environment, born out of the terminal.",
-      "link": "https://github.com/browserbase/skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -918,7 +843,7 @@
     {
       "name": "docuseal",
       "author": "docusealco",
-      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+      "description": "Coding Agent Harness",
       "link": "https://github.com/docusealco/docuseal",
       "stars": 0,
       "trend": 50,
@@ -933,7 +858,67 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-09"
+    },
+    {
+      "name": "dexter",
+      "author": "virattt",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "link": "https://github.com/virattt/dexter",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-09"
+    },
+    {
+      "name": "soxoj",
+      "author": "sponsors",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "link": "https://github.com/sponsors/soxoj",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-09"
+    },
+    {
+      "name": "maigret",
+      "author": "soxoj",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "link": "https://github.com/soxoj/maigret",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-09"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -946,16 +931,34 @@
       "date": "2026-05-09"
     },
     {
+      "name": "copilot-swe-agent",
+      "author": "apps",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+      "link": "https://github.com/apps/copilot-swe-agent",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-09"
+    },
+    {
       "name": "jcode",
       "author": "1jehuang",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.",
       "link": "https://github.com/1jehuang/jcode",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
         }
       ],
       "date": "2026-05-09"
@@ -986,9 +989,20 @@
       "date": "2026-05-09"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: explore",
       "author": "@anonymous",
       "description": "Coding Agent Harness",
+      "link": "https://github.com/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 3045,
+      "date": "2026-05-09"
+    },
+    {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -999,7 +1013,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1010,7 +1024,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "description": "Claude Agent SDK with a web browsing tool",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1021,10 +1035,11 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, ",
       "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
       "likes": 7510,
       "date": "2026-05-09"
@@ -1196,19 +1211,6 @@
         "Notion"
       ],
       "likes": 3780,
-      "date": "2026-05-09"
-    },
-    {
-      "title": "财务顾问搭建AI报表分析助手",
-      "author": "@CFO老李",
-      "description": "基于本地部署的开源大模型搭建财务分析Agent，能读取报表自动识别风险和异常项，数据不出企业。",
-      "link": "https://ollama.com/",
-      "tools": [
-        "Ollama",
-        "DeepSeek",
-        "Python"
-      ],
-      "likes": 6300,
       "date": "2026-05-09"
     }
   ],
