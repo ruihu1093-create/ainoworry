@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-09 13:08:36",
+  "updatedAt": "2026-05-09 14:47:31",
   "news": [
+    {
+      "title": "Nvidia has already committed $40B to equity AI deals this year",
+      "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
+      "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no. ",
       "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
@@ -59,15 +68,6 @@
       "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
       "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
       "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-      "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-      "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
       "source": "TechCrunch-AI",
       "date": "2026-05-07",
       "tag": "trend",
