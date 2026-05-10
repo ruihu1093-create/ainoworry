@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-10 13:10:06",
+  "updatedAt": "2026-05-10 14:49:27",
   "news": [
+    {
+      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+      "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
       "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo",
@@ -59,15 +68,6 @@
       "title": "OpenAI launches new voice intelligence features in its API",
       "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, inclu",
       "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-      "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
-      "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
       "source": "TechCrunch-AI",
       "date": "2026-05-07",
       "tag": "trend",
