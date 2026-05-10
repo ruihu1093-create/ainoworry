@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-10 19:58:42",
+  "updatedAt": "2026-05-10 20:55:14",
   "news": [
+    {
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
       "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
@@ -59,15 +68,6 @@
       "title": "The “people’s airline” and the enterprise AI gold rush",
       "summary": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and Ope",
       "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
-      "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augment",
-      "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
       "source": "TechCrunch-AI",
       "date": "2026-05-08",
       "tag": "trend",
