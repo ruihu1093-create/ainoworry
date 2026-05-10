@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-10 14:49:27",
+  "updatedAt": "2026-05-10 15:50:02",
   "news": [
+    {
+      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+      "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
       "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
@@ -61,15 +70,6 @@
       "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
       "source": "TechCrunch-AI",
       "date": "2026-05-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI launches new voice intelligence features in its API",
-      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, inclu",
-      "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-07",
       "tag": "trend",
       "tagText": "资讯"
     },
