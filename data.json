@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10 10:10:56",
+  "updatedAt": "2026-05-10 11:47:33",
   "news": [
     {
       "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
@@ -795,8 +795,23 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
       "link": "https://github.com/sponsors/explore",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-10"
+    },
+    {
+      "name": "developers",
+      "author": "trending",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -811,10 +826,25 @@
       "date": "2026-05-10"
     },
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "DeepSeek-TUI",
+      "author": "Hmbown",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "link": "https://github.com/Hmbown/DeepSeek-TUI",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-10"
+    },
+    {
+      "name": "financial-services",
+      "author": "anthropics",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/anthropics/financial-services",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -831,29 +861,14 @@
     {
       "name": "ruflo",
       "author": "ruvnet",
-      "description": "An autonomous agent for deep financial research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
       "link": "https://github.com/ruvnet/ruflo",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-10"
-    },
-    {
-      "name": "TradingAgents",
-      "author": "TauricResearch",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "link": "https://github.com/TauricResearch/TradingAgents",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
+          "name": "LLM"
         }
       ],
       "date": "2026-05-10"
@@ -861,68 +876,8 @@
     {
       "name": "docuseal",
       "author": "docusealco",
-      "description": "Coding Agent Harness",
+      "description": "An autonomous agent for deep financial research",
       "link": "https://github.com/docusealco/docuseal",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-10"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-10"
-    },
-    {
-      "name": "dexter",
-      "author": "virattt",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "link": "https://github.com/virattt/dexter",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-10"
-    },
-    {
-      "name": "soxoj",
-      "author": "sponsors",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "link": "https://github.com/sponsors/soxoj",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-10"
-    },
-    {
-      "name": "maigret",
-      "author": "soxoj",
-      "description": "Browserbase's official collection of agent skills to access the web.",
-      "link": "https://github.com/soxoj/maigret",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -949,10 +904,10 @@
       "date": "2026-05-10"
     },
     {
-      "name": "copilot-swe-agent",
-      "author": "apps",
-      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
-      "link": "https://github.com/apps/copilot-swe-agent",
+      "name": "TradingAgents",
+      "author": "TauricResearch",
+      "description": "Coding Agent Harness",
+      "link": "https://github.com/TauricResearch/TradingAgents",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -964,19 +919,61 @@
       "date": "2026-05-10"
     },
     {
-      "name": "jcode",
-      "author": "1jehuang",
-      "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.",
-      "link": "https://github.com/1jehuang/jcode",
+      "name": "LearningCircuit",
+      "author": "sponsors",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "link": "https://github.com/sponsors/LearningCircuit",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-10"
+    },
+    {
+      "name": "local-deep-research",
+      "author": "LearningCircuit",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "link": "https://github.com/LearningCircuit/local-deep-research",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        },
+        }
+      ],
+      "date": "2026-05-10"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Browserbase's official collection of agent skills to access the web.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
         {
-          "name": "RAG"
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-10"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-05-10"
@@ -986,7 +983,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversationa",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -997,11 +994,10 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversationa",
       "link": "https://github.com/manifest.json",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 4324,
       "date": "2026-05-10"
@@ -1009,7 +1005,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Coding Agent Harness",
+      "description": "An autonomous agent for deep financial research",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -1020,10 +1016,11 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, ",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
       "likes": 1697,
       "date": "2026-05-10"
@@ -1031,7 +1028,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1042,7 +1039,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Browserbase's official collection of agent skills to access the web.",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1053,11 +1050,10 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, ",
+      "description": "Browserbase's official collection of agent skills to access the web.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub",
-        "GPT-4"
+        "GitHub"
       ],
       "likes": 7510,
       "date": "2026-05-10"
