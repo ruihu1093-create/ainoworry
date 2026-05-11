@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-11 13:45:21",
+  "updatedAt": "2026-05-11 16:30:21",
   "news": [
+    {
+      "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+      "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+      "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
       "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
@@ -59,15 +68,6 @@
       "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
       "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support ro",
       "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The “people’s airline” and the enterprise AI gold rush",
-      "summary": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and Ope",
-      "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
       "source": "TechCrunch-AI",
       "date": "2026-05-08",
       "tag": "trend",
@@ -155,9 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "Implementing advanced AI technologies in finance",
-      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgenc",
-      "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+      "title": "Fostering breakthrough AI innovation through customer-back engineering",
+      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey researc",
+      "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-11",
       "tag": "trend",
@@ -647,6 +647,15 @@
       "date": "2026-05-10"
     },
     {
+      "title": "Grocery shoppers are trading down to lower-priced retailers, report finds",
+      "content": "",
+      "link": "https://www.retaildive.com/news/grocery-shoppers-value-trading-down-lower-priced-retailer/819609/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-11"
+    },
+    {
       "title": "Peak season fulfillment has changed — What today’s retailers must do differently",
       "content": "Peak isn&rsquo;t about volume anymore, it&rsquo;s about adaptability. Read the full perspective.",
       "link": "https://www.retaildive.com/spons/peak-season-fulfillment-has-changed-what-todays-retailers-must-do-differ/819545/",
@@ -786,15 +795,6 @@
       "content": "买家上传照片即可获得AI鉴定报告，支持奢侈品、球鞋、手表等多品类，买卖双方信任度大幅提升。",
       "link": "https://techcrunch.com/",
       "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-11"
-    },
-    {
-      "title": "唯品会AI个性化专场：精准匹配打折商品与用户喜好",
-      "content": "通过分析用户历史购买和浏览记录，AI为每位用户生成专属特卖专场，点击率提升45%。",
-      "link": "https://36kr.com/",
-      "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-05-11"
