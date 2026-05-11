@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11 10:35:59",
+  "updatedAt": "2026-05-11 13:45:21",
   "news": [
     {
       "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
@@ -155,11 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk t",
-      "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "title": "Implementing advanced AI technologies in finance",
+      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgenc",
+      "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
       "source": "MIT-Tech-Review",
-      "date": "2026-05-08",
+      "date": "2026-05-11",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
+      "content": "大公司：\n  百济神州：第一季度净利润为16.08亿元，同比扭亏为盈\n  36氪获悉，百济神州发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入105.44亿元，同比增长31.0%；归属于上市公司股东的净利润为16.08亿元，上年同期亏损，同比扭亏为盈。业绩变动主要系产品收入增长和费用管理推动",
+      "link": "https://36kr.com/p/3804795647729411?f=rss",
+      "source": "36Kr",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-05-11"
+    },
+    {
       "title": "Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访",
       "content": "编者按：上个月月底，36氪在厦门参加了一场Ozon全球招商启动大会，我们发现现场人山人海。火热的出海和国内经济形成鲜明对比，特别是一组数据吸引了我们注意：尽管俄罗斯电商渗透率在2025年才23%，但是Ozon在2017年至2025年间，实现了91%的年均复合增长率。\n   这些高增长数据背后，似乎隐藏着比较大的商业机会，但机会究竟是",
       "link": "https://36kr.com/p/3802822550839047?f=rss",
@@ -828,8 +837,38 @@
     {
       "name": "DeepSeek-TUI",
       "author": "Hmbown",
-      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "link": "https://github.com/Hmbown/DeepSeek-TUI",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-11"
+    },
+    {
+      "name": "financial-services",
+      "author": "anthropics",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
+      "link": "https://github.com/anthropics/financial-services",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-05-11"
+    },
+    {
+      "name": "UI-TARS-desktop",
+      "author": "bytedance",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "link": "https://github.com/bytedance/UI-TARS-desktop",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -841,10 +880,10 @@
       "date": "2026-05-11"
     },
     {
-      "name": "financial-services",
-      "author": "anthropics",
+      "name": "LearningCircuit",
+      "author": "sponsors",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "link": "https://github.com/anthropics/financial-services",
+      "link": "https://github.com/sponsors/LearningCircuit",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -859,91 +898,16 @@
       "date": "2026-05-11"
     },
     {
-      "name": "ruflo",
-      "author": "ruvnet",
-      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
-      "link": "https://github.com/ruvnet/ruflo",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-05-11"
-    },
-    {
-      "name": "docuseal",
-      "author": "docusealco",
-      "description": "An autonomous agent for deep financial research",
-      "link": "https://github.com/docusealco/docuseal",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-11"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-11"
-    },
-    {
-      "name": "TradingAgents",
-      "author": "TauricResearch",
-      "description": "Coding Agent Harness",
-      "link": "https://github.com/TauricResearch/TradingAgents",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-11"
-    },
-    {
-      "name": "LearningCircuit",
-      "author": "sponsors",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "link": "https://github.com/sponsors/LearningCircuit",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-11"
-    },
-    {
       "name": "local-deep-research",
       "author": "LearningCircuit",
-      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
       "link": "https://github.com/LearningCircuit/local-deep-research",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-11"
@@ -951,7 +915,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "Browserbase's official collection of agent skills to access the web.",
+      "description": "An autonomous agent for deep financial research",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -966,7 +930,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -974,6 +938,51 @@
       "tags": [
         {
           "name": "AI"
+        }
+      ],
+      "date": "2026-05-11"
+    },
+    {
+      "name": "docuseal",
+      "author": "docusealco",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "link": "https://github.com/docusealco/docuseal",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-11"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-11"
+    },
+    {
+      "name": "9router",
+      "author": "decolua",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "link": "https://github.com/decolua/9router",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "RAG"
         }
       ],
       "date": "2026-05-11"
@@ -1005,10 +1014,11 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "An autonomous agent for deep financial research",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, ",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
       "likes": 3045,
       "date": "2026-05-11"
@@ -1016,11 +1026,11 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, ",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub",
-        "GPT-4"
+        "LLM"
       ],
       "likes": 1697,
       "date": "2026-05-11"
@@ -1028,7 +1038,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "description": "An autonomous agent for deep financial research",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1039,7 +1049,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1050,7 +1060,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Browserbase's official collection of agent skills to access the web.",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
