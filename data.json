@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11 06:36:22",
+  "updatedAt": "2026-05-11 10:35:59",
   "news": [
     {
       "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
@@ -70,6 +70,15 @@
       "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
       "source": "TechCrunch-AI",
       "date": "2026-05-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
+      "summary": "For screenwriters like me—and job seekers all over—AI gig work is the new waiting tables. In eight months, I’ve done 20 of these soul-crushing contrac",
+      "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+      "source": "Wired-AI",
+      "date": "2026-05-11",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -146,20 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
-      "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive ",
-      "link": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
-      "source": "Wired-AI",
-      "date": "2026-05-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
-      "summary": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
-      "link": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
-      "source": "Wired-AI",
-      "date": "2026-05-07",
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk t",
+      "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-05-08",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -638,6 +638,15 @@
       "date": "2026-05-10"
     },
     {
+      "title": "Peak season fulfillment has changed — What today’s retailers must do differently",
+      "content": "Peak isn&rsquo;t about volume anymore, it&rsquo;s about adaptability. Read the full perspective.",
+      "link": "https://www.retaildive.com/spons/peak-season-fulfillment-has-changed-what-todays-retailers-must-do-differ/819545/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-11"
+    },
+    {
       "title": "The Weekly Closeout: ThredUp’s revenue jump and the interview that shook retail",
       "content": "<img src=\"https://imgproxy.divecdn.com/1s_zT1VceHnAZ1Iyzpo33Y9VVx3xtQXq3k2vA8BczNU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DbGVhbm91dHNfYW5kX0NhdGVnb3JpZXMtMDAz",
       "link": "https://www.retaildive.com/news/ryan-cohen-gamestop-ebay-interview-thredup-q1-earnings/819613/",
@@ -645,15 +654,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-05-08"
-    },
-    {
-      "title": "Old Navy turns to retail, entertainment vet to invigorate turnaround",
-      "content": "<img src=\"https://imgproxy.divecdn.com/KIHdOIPiKsJYsL6uoI2mmK4uzzTMxwYB-bs4Xh7xPkY/g:nowe:0:1469/c:7360:4158/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81bWF5bWFsbC0xNi5",
-      "link": "https://www.retaildive.com/news/old-navy-retail-entertainment-veteran-walmart-target-dreamworks-invigorate-turnaround/819439/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-06"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
