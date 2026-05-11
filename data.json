@@ -1,9 +1,18 @@
 {
-  "updatedAt": "2026-05-11 16:30:21",
+  "updatedAt": "2026-05-11 18:55:21",
   "news": [
     {
-      "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
-      "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+      "title": "Digg tries again, this time as an AI news aggregator",
+      "summary": "Digg returns (again) as another place to read AI news.",
+      "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+      "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets",
       "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
       "source": "TechCrunch-AI",
       "date": "2026-05-11",
@@ -65,15 +74,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-      "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support ro",
-      "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
       "summary": "For screenwriters like me—and job seekers all over—AI gig work is the new waiting tables. In eight months, I’ve done 20 of these soul-crushing contrac",
       "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
@@ -92,18 +92,18 @@
       "tagText": "资讯"
     },
     {
-      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-      "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+      "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
+      "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
+      "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
       "source": "Wired-AI",
       "date": "2026-05-08",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
-      "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
-      "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
+      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
+      "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
       "source": "Wired-AI",
       "date": "2026-05-08",
       "tag": "trend",
@@ -155,9 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "Fostering breakthrough AI innovation through customer-back engineering",
-      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey researc",
-      "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months",
+      "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-11",
       "tag": "trend",
