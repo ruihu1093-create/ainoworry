@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-05-12 14:13:16",
+  "updatedAt": "2026-05-12 17:07:47",
   "news": [
+    {
+      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+      "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Au",
+      "link": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google brings agentic AI and vibe-coded widgets to Android",
+      "summary": "Gemini Intelligence will also include Gboard based dictation and form filling capabilities",
+      "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
+      "summary": "As the AI legal services industry heats up, Anthropic is launching its own suite of features designed to assist law firms.",
+      "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Threads tests a Meta AI integration that works similarly to Grok",
+      "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within convers",
+      "link": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Dessn raises $6M for its production focused design tool",
       "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
@@ -43,42 +79,6 @@
       "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
       "source": "TechCrunch-AI",
       "date": "2026-05-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Digg tries again, this time as an AI news aggregator",
-      "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actu",
-      "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
-      "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets",
-      "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-      "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
-      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
-      "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
-      "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-10",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-      "content": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-      "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-12"
-    },
-    {
       "title": "氪星晚报 ｜宇树科技发布载人机甲，投资人回应；京东：第一季度营收3157亿元，日本恩格尔系数创1980年以来最高水平同比增长4.9%",
       "content": "大公司：\n  京东：第一季度营收3157亿元，同比增长4.9%\n  36氪获悉，京东发布2026年第一季度财报，第一季度营收3157亿元，同比增长4.9%；非美国通用会计准则下（Non-GAAP）归母净利润74亿元；京东零售经营利润率提升至5.6%，经营利润创历史新高。截至一季度，京东年度活跃用户数超7.4亿，季",
       "link": "https://36kr.com/p/3806196073242112?f=rss",
@@ -672,24 +663,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-05-12"
-    },
-    {
-      "title": "Grocery shoppers are trading down to lower-priced retailers, report finds",
-      "content": "",
-      "link": "https://www.retaildive.com/news/grocery-shoppers-value-trading-down-lower-priced-retailer/819609/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-11"
-    },
-    {
-      "title": "Peak season fulfillment has changed — What today’s retailers must do differently",
-      "content": "Peak isn&rsquo;t about volume anymore, it&rsquo;s about adaptability. Read the full perspective.",
-      "link": "https://www.retaildive.com/spons/peak-season-fulfillment-has-changed-what-todays-retailers-must-do-differ/819545/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-11"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -793,6 +766,33 @@
     {
       "title": "天猫AI主图生成：上新效率提升5倍",
       "content": "商家只需拍摄样品，AI自动生成白底图、场景图和详情图，支持一键批量处理。",
+      "link": "https://36kr.com/",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "小红书AI种草内容审核：违规率降至0.1%",
+      "content": "新一代AI内容审核模型同时识别违规图文，处理速度是人工的200倍。",
+      "link": "https://www.geekpark.net/",
+      "source": "极客公园",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "eBay AI鉴定系统：二手商品真伪识别准确率99%",
+      "content": "买家上传照片即可获得AI鉴定报告，支持奢侈品、球鞋、手表等多品类，买卖双方信任度大幅提升。",
+      "link": "https://techcrunch.com/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "唯品会AI个性化专场：精准匹配打折商品与用户喜好",
+      "content": "通过分析用户历史购买和浏览记录，AI为每位用户生成专属特卖专场，点击率提升45%。",
       "link": "https://36kr.com/",
       "source": "36Kr",
       "impact": "medium",
