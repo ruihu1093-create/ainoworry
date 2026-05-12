@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12 06:11:58",
+  "updatedAt": "2026-05-12 09:34:19",
   "news": [
     {
       "title": "Thinking Machines wants to build an AI that actually listens while it talks",
@@ -665,6 +665,15 @@
       "date": "2026-05-10"
     },
     {
+      "title": "0.2 元 / 通，淘天用 AI 店小蜜重新定义了电商客服价格",
+      "content": "最近在淘宝上买东西，",
+      "link": "http://www.geekpark.net/news/364035",
+      "source": "极客公园",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-12"
+    },
+    {
       "title": "Grocery shoppers are trading down to lower-priced retailers, report finds",
       "content": "",
       "link": "https://www.retaildive.com/news/grocery-shoppers-value-trading-down-lower-priced-retailer/819609/",
@@ -786,15 +795,6 @@
       "content": "多家AI客服平台推出跨境专版，自动识别买家语言并用母语回复，退货率降低25%。",
       "link": "https://techcrunch.com/",
       "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-12"
-    },
-    {
-      "title": "天猫AI主图生成：上新效率提升5倍",
-      "content": "商家只需拍摄样品，AI自动生成白底图、场景图和详情图，支持一键批量处理。",
-      "link": "https://36kr.com/",
-      "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-05-12"
