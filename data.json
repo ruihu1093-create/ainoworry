@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-05-12 17:07:47",
+  "updatedAt": "2026-05-12 19:45:31",
   "news": [
+    {
+      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "summary": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder.",
+      "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "summary": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companie",
+      "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+      "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher",
+      "link": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
       "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Au",
@@ -29,6 +56,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Google adds Gemini-powered Dictation to Gboard, which could be bad news for dictation startups",
+      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones",
+      "link": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Threads tests a Meta AI integration that works similarly to Grok",
       "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within convers",
       "link": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
@@ -38,47 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Dessn raises $6M for its production focused design tool",
-      "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+      "title": "Dessn raises $6M for its production-focused design tool",
+      "summary": "A new startup called Dessn has raised $6 million to build AI-powered design tools that work directly with production codebases.",
       "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
       "source": "TechCrunch-AI",
       "date": "2026-05-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
-      "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
-      "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-      "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change th",
-      "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-      "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well",
-      "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-11",
       "tag": "trend",
       "tagText": "资讯"
     },
