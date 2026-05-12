@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12 21:15:53",
+  "updatedAt": "2026-05-12 22:56:48",
   "news": [
     {
       "title": "Musk mulled handing OpenAI to his children, Altman testifies",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy",
+      "summary": "China’s Unitree, famous for making low-cost dancing robots, will now sell you a giant, wall-smashing mecha.",
+      "link": "https://www.wired.com/story/unitree-gd01-mecha-robot/",
+      "source": "Wired-AI",
+      "date": "2026-05-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
       "summary": "The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday.",
       "link": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
@@ -149,15 +158,6 @@
       "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
       "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some so",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
-      "source": "Wired-AI",
-      "date": "2026-05-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How to Disable Google's Gemini in Chrome",
-      "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it.",
-      "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
       "source": "Wired-AI",
       "date": "2026-05-07",
       "tag": "trend",
