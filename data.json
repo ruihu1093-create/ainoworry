@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-12 09:34:19",
+  "updatedAt": "2026-05-12 11:50:59",
   "news": [
+    {
+      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+      "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Thinking Machines wants to build an AI that actually listens while it talks",
       "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change th",
@@ -70,15 +79,6 @@
       "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
       "source": "TechCrunch-AI",
       "date": "2026-05-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo",
-      "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-09",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -629,6 +629,15 @@
       "date": "2026-05-12"
     },
     {
+      "title": "氪星晚报 ｜宇树科技发布载人机甲，投资人回应；京东：第一季度营收3157亿元，日本恩格尔系数创1980年以来最高水平同比增长4.9%",
+      "content": "大公司：\n  京东：第一季度营收3157亿元，同比增长4.9%\n  36氪获悉，京东发布2026年第一季度财报，第一季度营收3157亿元，同比增长4.9%；非美国通用会计准则下（Non-GAAP）归母净利润74亿元；京东零售经营利润率提升至5.6%，经营利润创历史新高。截至一季度，京东年度活跃用户数超7.4亿，季",
+      "link": "https://36kr.com/p/3806196073242112?f=rss",
+      "source": "36Kr",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-05-12"
+    },
+    {
       "title": "8点1氪丨美国总统特朗普：非常期待中国之行  ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元",
       "content": "今日热点导览\n  天舟十号货运飞船与空间站组合体完成交会对接\n  国家广播电视总局：4月经备案国产电视动画片51部、9659分钟\n  任天堂股价因Switch 2游戏前景不佳大幅下跌\n  千问与淘宝打通，正式上线AI购物\n  TOP3大新闻\n  <str",
       "link": "https://36kr.com/p/3805557782486785?f=rss",
@@ -645,24 +654,6 @@
       "impact": "high",
       "impactText": "高",
       "date": "2026-05-11"
-    },
-    {
-      "title": "Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访",
-      "content": "编者按：上个月月底，36氪在厦门参加了一场Ozon全球招商启动大会，我们发现现场人山人海。火热的出海和国内经济形成鲜明对比，特别是一组数据吸引了我们注意：尽管俄罗斯电商渗透率在2025年才23%，但是Ozon在2017年至2025年间，实现了91%的年均复合增长率。\n   这些高增长数据背后，似乎隐藏着比较大的商业机会，但机会究竟是",
-      "link": "https://36kr.com/p/3802822550839047?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-10"
-    },
-    {
-      "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
-      "content": "作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东XGROUP持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年累计融资金额超亿元。\n  长曜",
-      "link": "https://36kr.com/p/3801745491943169?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-10"
     },
     {
       "title": "0.2 元 / 通，淘天用 AI 店小蜜重新定义了电商客服价格",
@@ -798,6 +789,15 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-05-12"
+    },
+    {
+      "title": "天猫AI主图生成：上新效率提升5倍",
+      "content": "商家只需拍摄样品，AI自动生成白底图、场景图和详情图，支持一键批量处理。",
+      "link": "https://36kr.com/",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-12"
     }
   ],
   "github": [
@@ -819,8 +819,68 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "link": "https://github.com/trending/developers",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-12"
+    },
+    {
+      "name": "financial-services",
+      "author": "anthropics",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "link": "https://github.com/anthropics/financial-services",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-12"
+    },
+    {
+      "name": "DeepSeek-TUI",
+      "author": "Hmbown",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "link": "https://github.com/Hmbown/DeepSeek-TUI",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-12"
+    },
+    {
+      "name": "UI-TARS-desktop",
+      "author": "bytedance",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
+      "link": "https://github.com/bytedance/UI-TARS-desktop",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-05-12"
+    },
+    {
+      "name": "CloakBrowser",
+      "author": "CloakHQ",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "link": "https://github.com/CloakHQ/CloakBrowser",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -835,64 +895,31 @@
       "date": "2026-05-12"
     },
     {
-      "name": "DeepSeek-TUI",
-      "author": "Hmbown",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "link": "https://github.com/Hmbown/DeepSeek-TUI",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-05-12"
+    },
+    {
+      "name": "9router",
+      "author": "decolua",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "link": "https://github.com/decolua/9router",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        }
-      ],
-      "date": "2026-05-12"
-    },
-    {
-      "name": "financial-services",
-      "author": "anthropics",
-      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
-      "link": "https://github.com/anthropics/financial-services",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-05-12"
-    },
-    {
-      "name": "UI-TARS-desktop",
-      "author": "bytedance",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "link": "https://github.com/bytedance/UI-TARS-desktop",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-12"
-    },
-    {
-      "name": "LearningCircuit",
-      "author": "sponsors",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "link": "https://github.com/sponsors/LearningCircuit",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "LLM"
         }
       ],
       "date": "2026-05-12"
@@ -900,7 +927,7 @@
     {
       "name": "local-deep-research",
       "author": "LearningCircuit",
-      "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+      "description": "Let's use AI to Earn!",
       "link": "https://github.com/LearningCircuit/local-deep-research",
       "stars": 0,
       "trend": 50,
@@ -915,7 +942,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "An autonomous agent for deep financial research",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -943,46 +970,16 @@
       "date": "2026-05-12"
     },
     {
-      "name": "docuseal",
-      "author": "docusealco",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/docusealco/docuseal",
+      "name": "VectifyAI",
+      "author": "sponsors",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "link": "https://github.com/sponsors/VectifyAI",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        }
-      ],
-      "date": "2026-05-12"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-12"
-    },
-    {
-      "name": "9router",
-      "author": "decolua",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "link": "https://github.com/decolua/9router",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "RAG"
         }
       ],
       "date": "2026-05-12"
@@ -1003,7 +1000,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversationa",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -1014,42 +1011,18 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, ",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversationa",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub",
-        "GPT-4"
+        "GitHub"
       ],
       "likes": 3045,
       "date": "2026-05-12"
     },
     {
-      "title": "开源项目: topics",
-      "author": "@anonymous",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub",
-        "LLM"
-      ],
-      "likes": 1697,
-      "date": "2026-05-12"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "An autonomous agent for deep financial research",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
-      "date": "2026-05-12"
-    },
-    {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "description": "Let's use AI to Earn!",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1060,7 +1033,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1235,6 +1208,32 @@
         "Notion"
       ],
       "likes": 3780,
+      "date": "2026-05-12"
+    },
+    {
+      "title": "财务顾问搭建AI报表分析助手",
+      "author": "@CFO老李",
+      "description": "基于本地部署的开源大模型搭建财务分析Agent，能读取报表自动识别风险和异常项，数据不出企业。",
+      "link": "https://ollama.com/",
+      "tools": [
+        "Ollama",
+        "DeepSeek",
+        "Python"
+      ],
+      "likes": 6300,
+      "date": "2026-05-12"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-05-12"
     }
   ],
