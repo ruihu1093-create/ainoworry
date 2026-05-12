@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-12 11:50:59",
+  "updatedAt": "2026-05-12 14:13:16",
   "news": [
+    {
+      "title": "Dessn raises $6M for its production focused design tool",
+      "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+      "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
       "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
@@ -68,15 +77,6 @@
       "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
       "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
       "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Voice AI in India is hard — Wispr Flow is betting on it anyway",
-      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-      "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
       "source": "TechCrunch-AI",
       "date": "2026-05-10",
       "tag": "trend",
@@ -665,6 +665,15 @@
       "date": "2026-05-12"
     },
     {
+      "title": "Bob’s Discount Furniture opens first combo store-distribution center",
+      "content": "The retailer is monitoring the concept and may replicate it in the future, Chief Operating Officer Ramesh Murthy said.&nbsp;",
+      "link": "https://www.retaildive.com/news/bobs-discount-furniture-first-combo-store-distribution-center/819909/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-12"
+    },
+    {
       "title": "Grocery shoppers are trading down to lower-priced retailers, report finds",
       "content": "",
       "link": "https://www.retaildive.com/news/grocery-shoppers-value-trading-down-lower-priced-retailer/819609/",
@@ -681,15 +690,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-05-11"
-    },
-    {
-      "title": "The Weekly Closeout: ThredUp’s revenue jump and the interview that shook retail",
-      "content": "<img src=\"https://imgproxy.divecdn.com/1s_zT1VceHnAZ1Iyzpo33Y9VVx3xtQXq3k2vA8BczNU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DbGVhbm91dHNfYW5kX0NhdGVnb3JpZXMtMDAz",
-      "link": "https://www.retaildive.com/news/ryan-cohen-gamestop-ebay-interview-thredup-q1-earnings/819613/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-08"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
