@@ -1,9 +1,18 @@
 {
-  "updatedAt": "2026-05-13 16:16:07",
+  "updatedAt": "2026-05-13 18:54:20",
   "news": [
     {
+      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
+      "summary": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
+      "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Anthropic courts a new kind of customer: small business owners",
-      "summary": "Anthropic is looking to broaden its customer base from larger enterprise customers to smaller and mid-sized businesses.",
+      "summary": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground f",
       "link": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
       "source": "TechCrunch-AI",
       "date": "2026-05-13",
@@ -12,8 +21,17 @@
     },
     {
       "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+ ",
-      "summary": "Alexa for Shopping is a new personalized AI shopping assistant in the Amazon search bar that replaces its Rufus assistant.",
+      "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping prov",
       "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+      "summary": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than ",
+      "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
       "source": "TechCrunch-AI",
       "date": "2026-05-13",
       "tag": "trend",
@@ -23,15 +41,6 @@
       "title": "WhatsApp adds an incognito mode in Meta AI chats",
       "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
       "link": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-      "summary": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp.",
-      "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
       "source": "TechCrunch-AI",
       "date": "2026-05-13",
       "tag": "trend",
@@ -65,20 +74,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hand",
-      "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-12",
+      "title": "Overworked AI Agents Turn Marxist, Researchers Find",
+      "summary": "In a recent experiment, mistreated AI agents started grumbling about inequality and calling for collective bargaining rights.",
+      "link": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
+      "source": "Wired-AI",
+      "date": "2026-05-13",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books a",
-      "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-12",
+      "title": "OpenAI Brings Its Ass to Court",
+      "summary": "In Musk v. Altman, the company sought to show the jury a remarkable trophy as physical proof of Elon Musk’s concerning behavior.",
+      "link": "https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/",
+      "source": "Wired-AI",
+      "date": "2026-05-13",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -146,20 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
-      "summary": "For screenwriters like me—and job seekers all over—AI gig work is the new waiting tables. In eight months, I’ve done 20 of these soul-crushing contrac",
-      "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
-      "source": "Wired-AI",
-      "date": "2026-05-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
-      "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's",
-      "link": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
-      "source": "Wired-AI",
-      "date": "2026-05-09",
+      "title": "AI chatbots are giving out people’s real phone numbers",
+      "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.&#160; A Redditor recently w",
+      "link": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-05-13",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,9 +620,9 @@
   ],
   "ecommerce": [
     {
-      "title": "r/WallStreetBets really hates the SEC’s proposal to weaken quarterly reporting",
-      "content": "The retail trading subreddit submitted the sharpest criticism yet in response to the financial regulator's idea of letting companies report twice per year.",
-      "link": "https://techcrunch.com/2026/05/13/r-wallstreetbets-really-hates-the-secs-proposal-to-weaken-quarterly-reporting/",
+      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
+      "content": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
+      "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
@@ -645,6 +645,15 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-05-12"
+    },
+    {
+      "title": "Organized retail crime bill passes House in bipartisan vote, heads to Senate",
+      "content": "<img src=\"https://imgproxy.divecdn.com/6MlCuXK_hPvvhM6RC5aIp3SOu6G6IU_khCq2YSlPEVM/g:nowe:44:0/c:968:546/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GaWdodF9yZXRhaWxfY3J",
+      "link": "https://www.retaildive.com/news/organized-retail-crime-bill-passes-house-bipartisan-vote/820105/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-13"
     },
     {
       "title": "Walmart to lay off or relocate 1,000 tech, product workers",
