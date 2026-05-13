@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-13 20:28:56",
+  "updatedAt": "2026-05-13 22:07:14",
   "news": [
+    {
+      "title": "Notion just turned its workspace into a hub for AI agents",
+      "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company push",
+      "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
       "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
@@ -65,10 +74,10 @@
       "tagText": "资讯"
     },
     {
-      "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
-      "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what",
-      "link": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
-      "source": "TechCrunch-AI",
+      "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
+      "summary": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
+      "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
+      "source": "Wired-AI",
       "date": "2026-05-13",
       "tag": "trend",
       "tagText": "资讯"
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
       "source": "Wired-AI",
       "date": "2026-05-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy",
-      "summary": "China’s Unitree, famous for making low-cost dancing robots, will now sell you a giant, wall-smashing mecha.",
-      "link": "https://www.wired.com/story/unitree-gd01-mecha-robot/",
-      "source": "Wired-AI",
-      "date": "2026-05-12",
       "tag": "trend",
       "tagText": "资讯"
     },
