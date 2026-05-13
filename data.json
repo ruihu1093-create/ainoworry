@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-13 10:21:53",
+  "updatedAt": "2026-05-13 13:08:26",
   "news": [
+    {
+      "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+      "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-",
+      "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
       "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, o",
@@ -74,11 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Threads tests a Meta AI integration that works similarly to Grok",
-      "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within convers",
-      "link": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-12",
+      "title": "Submit Your Questions: AI Is Changing Your Job—Now What?",
+      "summary": "Pose your questions ahead of our May 27 livestream AMA, where a panel of WIRED experts will discuss how AI is transforming work.",
+      "link": "https://www.wired.com/story/livestream-ai-is-changing-your-job-now-what/",
+      "source": "Wired-AI",
+      "date": "2026-05-13",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
       "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
       "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
-      "source": "Wired-AI",
-      "date": "2026-05-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-      "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
       "source": "Wired-AI",
       "date": "2026-05-08",
       "tag": "trend",
@@ -816,7 +816,7 @@
     {
       "name": "financial-services",
       "author": "anthropics",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "link": "https://github.com/anthropics/financial-services",
       "stars": 0,
       "trend": 50,
@@ -831,7 +831,7 @@
     {
       "name": "DeepSeek-TUI",
       "author": "Hmbown",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "description": "Let's use AI to Earn!",
       "link": "https://github.com/Hmbown/DeepSeek-TUI",
       "stars": 0,
       "trend": 50,
@@ -846,47 +846,14 @@
     {
       "name": "UI-TARS-desktop",
       "author": "bytedance",
-      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "link": "https://github.com/bytedance/UI-TARS-desktop",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-05-13"
-    },
-    {
-      "name": "CloakBrowser",
-      "author": "CloakHQ",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "link": "https://github.com/CloakHQ/CloakBrowser",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
           "name": "Agent"
-        },
-        {
-          "name": "RAG"
-        }
-      ],
-      "date": "2026-05-13"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "RAG"
         }
       ],
       "date": "2026-05-13"
@@ -907,25 +874,25 @@
       "date": "2026-05-13"
     },
     {
-      "name": "local-deep-research",
-      "author": "LearningCircuit",
-      "description": "Let's use AI to Earn!",
-      "link": "https://github.com/LearningCircuit/local-deep-research",
+      "name": "AiToEarn",
+      "author": "yikart",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
+      "link": "https://github.com/yikart/AiToEarn",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "LLM"
         }
       ],
       "date": "2026-05-13"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "link": "https://github.com/apps/dependabot",
+      "name": "rohitg00",
+      "author": "sponsors",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "link": "https://github.com/sponsors/rohitg00",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -937,25 +904,58 @@
       "date": "2026-05-13"
     },
     {
-      "name": "ruflo",
-      "author": "ruvnet",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "link": "https://github.com/ruvnet/ruflo",
+      "name": "agentmemory",
+      "author": "rohitg00",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "link": "https://github.com/rohitg00/agentmemory",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-05-13"
     },
     {
-      "name": "VectifyAI",
-      "author": "sponsors",
-      "description": "3D Gaussian Splat Editor",
-      "link": "https://github.com/sponsors/VectifyAI",
+      "name": "agent-skills",
+      "author": "addyosmani",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-05-13"
+    },
+    {
+      "name": "local-deep-research",
+      "author": "LearningCircuit",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "link": "https://github.com/LearningCircuit/local-deep-research",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-05-13"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -993,7 +993,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversationa",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -1002,9 +1002,21 @@
       "date": "2026-05-13"
     },
     {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed,",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub",
+        "LLM"
+      ],
+      "likes": 1697,
+      "date": "2026-05-13"
+    },
+    {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Let's use AI to Earn!",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversationa",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1205,19 +1217,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-05-13"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
       "date": "2026-05-13"
     }
   ],
