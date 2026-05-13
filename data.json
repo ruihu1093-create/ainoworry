@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13 04:05:54",
+  "updatedAt": "2026-05-13 07:46:48",
   "news": [
     {
       "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
@@ -621,20 +621,11 @@
   "ecommerce": [
     {
       "title": "氪星晚报 ｜宇树科技发布载人机甲，投资人回应；京东：第一季度营收3157亿元，日本恩格尔系数创1980年以来最高水平同比增长4.9%",
-      "content": "大公司：\n  京东：第一季度营收3157亿元，同比增长4.9%\n  36氪获悉，京东发布2026年第一季度财报，第一季度营收3157亿元，同比增长4.9%；非美国通用会计准则下（Non-GAAP）归母净利润74亿元；京东零售经营利润��提升至5.6%，经营利润创历史新高。截至一季度，京东年度活跃用户数超7.4亿，",
+      "content": "大公司：\n  京东：第一季度营收3157亿元，同比增长4.9%\n  36氪获悉，京东发布2026年第一季度财报，第一季度营收3157亿元，同比增长4.9%；非美国通用会计准则下（Non-GAAP）归母净利润74亿元；京东零售经营利润率提升至5.6%，经营利润创历史新高。截至一季度，京东年度活跃用户数超7.4亿，季",
       "link": "https://36kr.com/p/3806196073242112?f=rss",
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-05-12"
-    },
-    {
-      "title": "8点1氪丨美国总统特朗普：非常期待中国之行  ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元",
-      "content": "今日热点导览\n  天舟十号货运飞船与空间站组合体完成交会对接\n  国家广播电视总局：4月经备案国产电视动画片51部、9659分钟\n  任天堂股价因Switch 2游戏前景不佳大幅下跌\n  千问与淘宝打通，正式上线AI购物\n  TOP3大新闻\n  <str",
-      "link": "https://36kr.com/p/3805557782486785?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
       "date": "2026-05-12"
     },
     {
@@ -931,10 +922,10 @@
       "date": "2026-05-13"
     },
     {
-      "name": "github-actions",
+      "name": "dependabot",
       "author": "apps",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -946,10 +937,10 @@
       "date": "2026-05-13"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
+      "name": "ruflo",
+      "author": "ruvnet",
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "link": "https://github.com/apps/dependabot",
+      "link": "https://github.com/ruvnet/ruflo",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -963,14 +954,14 @@
     {
       "name": "VectifyAI",
       "author": "sponsors",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "description": "3D Gaussian Splat Editor",
       "link": "https://github.com/sponsors/VectifyAI",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-13"
@@ -1019,17 +1010,6 @@
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-05-13"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-05-13"
     },
     {
@@ -1225,6 +1205,19 @@
         "剪映"
       ],
       "likes": 18500,
+      "date": "2026-05-13"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
       "date": "2026-05-13"
     }
   ],
