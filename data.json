@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13 07:46:48",
+  "updatedAt": "2026-05-13 10:21:53",
   "news": [
     {
       "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Meet the Sad Wives of AI",
+      "summary": "Are you married to a man who’s obsessed with AI? I’m so, so sorry.",
+      "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+      "source": "Wired-AI",
+      "date": "2026-05-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
       "summary": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk ",
       "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
@@ -149,15 +158,6 @@
       "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
       "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
       "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-      "source": "Wired-AI",
-      "date": "2026-05-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The New Wild West of AI Kids’ Toys",
-      "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
-      "link": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
       "source": "Wired-AI",
       "date": "2026-05-08",
       "tag": "trend",
