@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14 09:31:45",
+  "updatedAt": "2026-05-14 11:48:59",
   "news": [
     {
       "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
@@ -146,18 +146,18 @@
       "tagText": "资讯"
     },
     {
-      "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
-      "summary": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk ",
-      "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
-      "source": "Wired-AI",
+      "title": "AI chatbots are giving out people’s real phone numbers",
+      "summary": "A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who wer",
+      "link": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "source": "MIT-Tech-Review",
       "date": "2026-05-13",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "AI chatbots are giving out people’s real phone numbers",
-      "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.&#160; A Redditor recently w",
-      "link": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-13",
       "tag": "trend",
@@ -777,14 +777,14 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-14"
@@ -807,23 +807,38 @@
     {
       "name": "financial-services",
       "author": "anthropics",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
       "link": "https://github.com/anthropics/financial-services",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-05-14"
     },
     {
-      "name": "DeepSeek-TUI",
-      "author": "Hmbown",
+      "name": "CloakBrowser",
+      "author": "CloakHQ",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "link": "https://github.com/CloakHQ/CloakBrowser",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-14"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
       "description": "Let's use AI to Earn!",
-      "link": "https://github.com/Hmbown/DeepSeek-TUI",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -837,53 +852,23 @@
     {
       "name": "UI-TARS-desktop",
       "author": "bytedance",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "link": "https://github.com/bytedance/UI-TARS-desktop",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-14"
     },
     {
-      "name": "9router",
-      "author": "decolua",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/decolua/9router",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-14"
-    },
-    {
-      "name": "AiToEarn",
-      "author": "yikart",
-      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
-      "link": "https://github.com/yikart/AiToEarn",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-05-14"
-    },
-    {
-      "name": "rohitg00",
-      "author": "sponsors",
+      "name": "DeepSeek-TUI",
+      "author": "Hmbown",
       "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "link": "https://github.com/sponsors/rohitg00",
+      "link": "https://github.com/Hmbown/DeepSeek-TUI",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -897,7 +882,7 @@
     {
       "name": "agentmemory",
       "author": "rohitg00",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "link": "https://github.com/rohitg00/agentmemory",
       "stars": 0,
       "trend": 50,
@@ -910,10 +895,40 @@
       "date": "2026-05-14"
     },
     {
-      "name": "agent-skills",
-      "author": "addyosmani",
+      "name": "AiToEarn",
+      "author": "yikart",
+      "description": "3D Gaussian Splat Editor",
+      "link": "https://github.com/yikart/AiToEarn",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-14"
+    },
+    {
+      "name": "9router",
+      "author": "decolua",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "link": "https://github.com/decolua/9router",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-14"
+    },
+    {
+      "name": "AI-Trader",
+      "author": "HKUDS",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "link": "https://github.com/addyosmani/agent-skills",
+      "link": "https://github.com/HKUDS/AI-Trader",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -928,31 +943,16 @@
       "date": "2026-05-14"
     },
     {
-      "name": "local-deep-research",
-      "author": "LearningCircuit",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "link": "https://github.com/LearningCircuit/local-deep-research",
+      "name": "agent-skills",
+      "author": "addyosmani",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "link": "https://github.com/addyosmani/agent-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "RAG"
-        }
-      ],
-      "date": "2026-05-14"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-05-14"
@@ -962,7 +962,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -984,10 +984,11 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, ",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
       "likes": 3045,
       "date": "2026-05-14"
@@ -995,24 +996,34 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed,",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 1697,
       "date": "2026-05-14"
     },
     {
-      "title": "开源项目: events",
+      "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversationa",
-      "link": "https://github.com/events",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
-      "likes": 2526,
+      "likes": 2046,
+      "date": "2026-05-14"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-05-14"
     },
     {
@@ -1195,19 +1206,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-05-14"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-05-14"
     }
   ],
