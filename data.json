@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-05-14 14:01:27",
+  "updatedAt": "2026-05-14 16:58:06",
   "news": [
+    {
+      "title": "Cerebras raises $5.5B, kicking off 2026’s IPO season with a bang",
+      "summary": "A year ago, it looked like this day would never happen for Cerebras.",
+      "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, imploded",
+      "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+      "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+      "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+      "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
       "summary": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs.",
@@ -50,24 +77,6 @@
       "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
       "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
       "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
-      "summary": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
-      "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic courts a new kind of customer: small business owners",
-      "summary": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground f",
-      "link": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
       "source": "TechCrunch-AI",
       "date": "2026-05-13",
       "tag": "trend",
@@ -149,15 +158,6 @@
       "title": "Data readiness for agentic AI in financial services",
       "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding",
       "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-05-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control la",
-      "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-14",
       "tag": "trend",
@@ -623,15 +623,6 @@
       "title": "Organized retail crime bill passes House in bipartisan vote, heads to Senate",
       "content": "<img src=\"https://imgproxy.divecdn.com/6MlCuXK_hPvvhM6RC5aIp3SOu6G6IU_khCq2YSlPEVM/g:nowe:44:0/c:968:546/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GaWdodF9yZXRhaWxfY3J",
       "link": "https://www.retaildive.com/news/organized-retail-crime-bill-passes-house-bipartisan-vote/820105/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-13"
-    },
-    {
-      "title": "Walmart to lay off or relocate 1,000 tech, product workers",
-      "content": "The retailer&#39;s latest restructure is part of a broader globalization effort, according to an internal memo Tuesday.",
-      "link": "https://www.retaildive.com/news/walmart-layoffs-relocations-tech-product-workers/820110/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
