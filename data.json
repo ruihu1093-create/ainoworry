@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14 22:07:14",
+  "updatedAt": "2026-05-14 23:54:59",
   "news": [
     {
       "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
@@ -68,15 +68,6 @@
       "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
       "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
       "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
-      "summary": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs.",
-      "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
       "source": "TechCrunch-AI",
       "date": "2026-05-14",
       "tag": "trend",
@@ -158,6 +149,15 @@
       "title": "Establishing AI and data sovereignty in the age of autonomous systems",
       "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control la",
       "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-05-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-14",
       "tag": "trend",
