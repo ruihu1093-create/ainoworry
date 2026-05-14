@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-05-14 02:46:16",
+  "updatedAt": "2026-05-14 06:21:41",
   "news": [
+    {
+      "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+      "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
+      "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
+      "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Notion just turned its workspace into a hub for AI agents",
       "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company push",
@@ -50,24 +68,6 @@
       "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+ ",
       "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping prov",
       "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "WhatsApp adds an incognito mode in Meta AI chats",
-      "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
-      "link": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-      "summary": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than ",
-      "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
       "source": "TechCrunch-AI",
       "date": "2026-05-13",
       "tag": "trend",
@@ -619,15 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
-      "content": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
-      "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-13"
-    },
     {
       "title": "Organized retail crime bill passes House in bipartisan vote, heads to Senate",
       "content": "<img src=\"https://imgproxy.divecdn.com/6MlCuXK_hPvvhM6RC5aIp3SOu6G6IU_khCq2YSlPEVM/g:nowe:44:0/c:968:546/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GaWdodF9yZXRhaWxfY3J",
