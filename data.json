@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-05-14 20:26:00",
+  "updatedAt": "2026-05-14 22:07:14",
   "news": [
+    {
+      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+      "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, tal",
+      "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI says Codex is coming to your phone",
+      "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
+      "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "What happens when AI starts building itself?",
       "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually shi",
@@ -12,7 +30,7 @@
     },
     {
       "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-      "summary": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options.",
+      "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is no",
       "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
       "source": "TechCrunch-AI",
       "date": "2026-05-14",
@@ -65,19 +83,10 @@
       "tagText": "资讯"
     },
     {
-      "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
-      "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers,\" Campbel",
-      "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
-      "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-      "source": "TechCrunch-AI",
+      "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+      "summary": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
+      "link": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+      "source": "Wired-AI",
       "date": "2026-05-14",
       "tag": "trend",
       "tagText": "资讯"
@@ -131,15 +140,6 @@
       "title": "OpenAI Brings Its Ass to Court",
       "summary": "In Musk v. Altman, the company claimed a remarkable trophy was physical proof of Elon Musk’s concerning behavior.",
       "link": "https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/",
-      "source": "Wired-AI",
-      "date": "2026-05-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
-      "summary": "The company says its new Incognito Chat allows you to use its AI chatbot without anyone else—including Meta—being able to access your conversations.",
-      "link": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/",
       "source": "Wired-AI",
       "date": "2026-05-13",
       "tag": "trend",
