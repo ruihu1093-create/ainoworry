@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-14 11:48:59",
+  "updatedAt": "2026-05-14 14:01:27",
   "news": [
+    {
+      "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+      "summary": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs.",
+      "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
       "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
@@ -65,11 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+ ",
-      "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping prov",
-      "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-13",
+      "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
+      "summary": "Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn’t exist—then the real thing arrived. Now, fantasy is becoming a",
+      "link": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/",
+      "source": "Wired-AI",
+      "date": "2026-05-14",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -137,29 +146,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Meet the Sad Wives of AI",
-      "summary": "Are you married to a man who’s obsessed with AI? I’m so, so sorry.",
-      "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
-      "source": "Wired-AI",
-      "date": "2026-05-13",
+      "title": "Data readiness for agentic AI in financial services",
+      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding",
+      "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-05-14",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "AI chatbots are giving out people’s real phone numbers",
-      "summary": "A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who wer",
-      "link": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control la",
+      "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
       "source": "MIT-Tech-Review",
-      "date": "2026-05-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "tag": "trend",
       "tagText": "资讯"
     },
