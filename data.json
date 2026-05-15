@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-15 11:52:17",
+  "updatedAt": "2026-05-15 13:58:11",
   "news": [
+    {
+      "title": "Osaurus brings both local and cloud AI models to your Mac",
+      "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
+      "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
       "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, tal",
@@ -137,29 +146,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "How Chinese short dramas became AI content machines",
-      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across he",
-      "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-15",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Data readiness for agentic AI in financial services",
-      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding",
-      "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "title": "How Chinese short dramas became AI content machines",
+      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across he",
+      "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
       "source": "MIT-Tech-Review",
-      "date": "2026-05-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control la",
-      "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "tag": "trend",
       "tagText": "资讯"
     },
