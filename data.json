@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-15 13:58:11",
+  "updatedAt": "2026-05-15 16:04:46",
   "news": [
+    {
+      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+      "summary": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a ",
+      "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Osaurus brings both local and cloud AI models to your Mac",
       "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
@@ -68,15 +77,6 @@
       "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
       "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
       "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
-      "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
-      "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
       "source": "TechCrunch-AI",
       "date": "2026-05-14",
       "tag": "trend",
@@ -623,15 +623,6 @@
       "title": "36氪首发 | 前大疆核心成员做消费级CNC，获美团、昆仑资本、奇绩创坛投资近亿元",
       "content": "作者&nbsp;|&nbsp;张子怡\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，消费级桌面CNC与智能数字制造平台「无限工坊（Infimaker）」近日宣布，连续获得多轮融资，融资金额近亿元，投资机构包括美团战投、昆仑资本及奇绩创坛。本轮资金将主要用于产品研发、供应链建设以及高质量量产交付。\n  无限工坊成立于2024年1",
       "link": "https://36kr.com/p/3809919654403587?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-15"
-    },
-    {
-      "title": "阿里巴巴等来收获期，外卖大战已无大波澜",
-      "content": "文｜彭倩\n  编辑｜乔芊\n  阿里千亿巨额投入后，回报正在逐一兑现。\n  财报显示，阿里巴巴2026年第四财季（即自然年Q1）营收2433.8亿元，同比增长3%。若不考虑高鑫零售和银泰等已出售业务的收入，同口径收入同比增长为11%。\n  营收同比双位数增长主要由云业务（包含 AI 云和传统云）推动。Q1阿里云表现依然亮眼，",
-      "link": "https://36kr.com/p/3807527591058948?f=rss",
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
