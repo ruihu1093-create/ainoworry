@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15 06:31:21",
+  "updatedAt": "2026-05-15 09:44:49",
   "news": [
     {
       "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
@@ -74,6 +74,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
+      "summary": "The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building ",
+      "link": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+      "source": "Wired-AI",
+      "date": "2026-05-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The Real Losers of the Musk v. Altman Trial",
       "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
       "link": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
@@ -128,11 +137,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Overworked AI Agents Turn Marxist, Researchers Find",
-      "summary": "In a recent experiment, mistreated AI agents started grumbling about inequality and calling for collective bargaining rights.",
-      "link": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
-      "source": "Wired-AI",
-      "date": "2026-05-13",
+      "title": "How Chinese short dramas became AI content machines",
+      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across he",
+      "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-05-15",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "Establishing AI and data sovereignty in the age of autonomous systems",
       "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control la",
       "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-05-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-14",
       "tag": "trend",
@@ -630,7 +630,7 @@
     },
     {
       "title": "阿里巴巴等来收获期，外卖大战已无大波澜",
-      "content": "文｜彭倩\n  编辑｜乔芊\n  阿里千亿巨额投入后，回报正在逐一兑现。\n  财报显示，阿里巴巴2026年第四财季（即自然年Q1）营收2433.8亿元，同比增长3%。若不考虑高鑫零售和银泰等已出售业务的收入，同口径收入同比增长为11%。\n  营收同比双位数增长主要由云业务（包含 AI 云和传统云）推动。Q1阿里云表现依然亮眼，",
+      "content": "文｜彭倩\n  编辑｜乔芊\n  阿里千亿巨额���入后，回报正在逐一兑现。\n  财报显示，阿里巴巴2026年第四财季（即自然年Q1）营收2433.8亿元，同比增长3%。若不考虑高鑫零售和银泰等已出售业务的收入，同口径收入同比增长为11%。\n  营收同比双位数增长主要由云业务（包含 AI 云和传统云）推动。Q1阿里云表现依然亮",
       "link": "https://36kr.com/p/3807527591058948?f=rss",
       "source": "36Kr",
       "impact": "medium",
