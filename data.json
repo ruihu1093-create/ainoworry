@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-05-15 16:04:46",
+  "updatedAt": "2026-05-15 18:20:21",
   "news": [
     {
-      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
-      "summary": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a ",
+      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+      "summary": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+      "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+      "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+      "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a ",
       "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
       "source": "TechCrunch-AI",
       "date": "2026-05-15",
@@ -65,20 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-      "summary": "A year ago, it looked like this day would never happen for Cerebras.",
-      "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
-      "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
-      "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-14",
+      "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
+      "summary": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+      "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+      "source": "Wired-AI",
+      "date": "2026-05-15",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -131,15 +140,6 @@
       "title": "What It Will Take to Make AI Sustainable",
       "summary": "Researcher Sasha Luccioni argues we need better emissions data and a better sense of how people are using AI in the first place.",
       "link": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
-      "source": "Wired-AI",
-      "date": "2026-05-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border",
-      "summary": "Autonomous drones and ground vehicles will stream “battlefield intelligence” over 5G along the US-Canada border in a bilateral DHS experiment this fal",
-      "link": "https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/",
       "source": "Wired-AI",
       "date": "2026-05-13",
       "tag": "trend",
@@ -627,15 +627,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-05-15"
-    },
-    {
-      "title": "Organized retail crime bill passes House in bipartisan vote, heads to Senate",
-      "content": "<img src=\"https://imgproxy.divecdn.com/6MlCuXK_hPvvhM6RC5aIp3SOu6G6IU_khCq2YSlPEVM/g:nowe:44:0/c:968:546/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GaWdodF9yZXRhaWxfY3J",
-      "link": "https://www.retaildive.com/news/organized-retail-crime-bill-passes-house-bipartisan-vote/820105/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-13"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
