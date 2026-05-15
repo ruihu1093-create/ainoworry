@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15 09:44:49",
+  "updatedAt": "2026-05-15 11:52:17",
   "news": [
     {
       "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
@@ -630,7 +630,7 @@
     },
     {
       "title": "阿里巴巴等来收获期，外卖大战已无大波澜",
-      "content": "文｜彭倩\n  编辑｜乔芊\n  阿里千亿巨额���入后，回报正在逐一兑现。\n  财报显示，阿里巴巴2026年第四财季（即自然年Q1）营收2433.8亿元，同比增长3%。若不考虑高鑫零售和银泰等已出售业务的收入，同口径收入同比增长为11%。\n  营收同比双位数增长主要由云业务（包含 AI 云和传统云）推动。Q1阿里云表现依然亮",
+      "content": "文｜彭倩\n  编辑｜乔芊\n  阿里千亿巨额投入后，回报正在逐一兑现。\n  财报显示，阿里巴巴2026年第四财季（即自然年Q1）营收2433.8亿元，同比增长3%。若不考虑高鑫零售和银泰等已出售业务的收入，同口径收入同比增长为11%。\n  营收同比双位数增长主要由云业务（包含 AI 云和传统云）推动。Q1阿里云表现依然亮眼，",
       "link": "https://36kr.com/p/3807527591058948?f=rss",
       "source": "36Kr",
       "impact": "medium",
@@ -801,14 +801,14 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "description": "Let's use AI to Earn!",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-15"
@@ -816,7 +816,7 @@
     {
       "name": "financial-services",
       "author": "anthropics",
-      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "link": "https://github.com/anthropics/financial-services",
       "stars": 0,
       "trend": 50,
@@ -831,7 +831,7 @@
     {
       "name": "CloakBrowser",
       "author": "CloakHQ",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "link": "https://github.com/CloakHQ/CloakBrowser",
       "stars": 0,
       "trend": 50,
@@ -846,7 +846,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Let's use AI to Earn!",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -859,25 +859,10 @@
       "date": "2026-05-15"
     },
     {
-      "name": "UI-TARS-desktop",
-      "author": "bytedance",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "link": "https://github.com/bytedance/UI-TARS-desktop",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-15"
-    },
-    {
-      "name": "Hmbown",
-      "author": "sponsors",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "link": "https://github.com/sponsors/Hmbown",
+      "name": "AiToEarn",
+      "author": "yikart",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "link": "https://github.com/yikart/AiToEarn",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -889,10 +874,10 @@
       "date": "2026-05-15"
     },
     {
-      "name": "DeepSeek-TUI",
-      "author": "Hmbown",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/Hmbown/DeepSeek-TUI",
+      "name": "rohitg00",
+      "author": "sponsors",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "link": "https://github.com/sponsors/rohitg00",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -919,19 +904,16 @@
       "date": "2026-05-15"
     },
     {
-      "name": "AiToEarn",
-      "author": "yikart",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "link": "https://github.com/yikart/AiToEarn",
+      "name": "DeepSeek-TUI",
+      "author": "Hmbown",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "link": "https://github.com/Hmbown/DeepSeek-TUI",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "RAG"
         }
       ],
       "date": "2026-05-15"
@@ -952,9 +934,24 @@
       "date": "2026-05-15"
     },
     {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-15"
+    },
+    {
       "name": "agent-skills",
       "author": "addyosmani",
-      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
+      "description": "GitHub热门AI项目，本周获得大量关注",
       "link": "https://github.com/addyosmani/agent-skills",
       "stars": 0,
       "trend": 50,
@@ -962,9 +959,6 @@
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "LLM"
         }
       ],
       "date": "2026-05-15"
@@ -985,7 +979,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "description": "Let's use AI to Earn!",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -996,11 +990,10 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, ",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub",
-        "GPT-4"
+        "GitHub"
       ],
       "likes": 3045,
       "date": "2026-05-15"
@@ -1014,28 +1007,6 @@
         "GitHub"
       ],
       "likes": 1697,
-      "date": "2026-05-15"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
-      "date": "2026-05-15"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversationa",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-05-15"
     },
     {
@@ -1218,6 +1189,32 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-05-15"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
+      "date": "2026-05-15"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
       "date": "2026-05-15"
     }
   ],
