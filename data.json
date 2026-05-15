@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15 02:47:00",
+  "updatedAt": "2026-05-15 06:31:21",
   "news": [
     {
       "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
@@ -891,23 +891,8 @@
     {
       "name": "DeepSeek-TUI",
       "author": "Hmbown",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "link": "https://github.com/Hmbown/DeepSeek-TUI",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-15"
-    },
-    {
-      "name": "rohitg00",
-      "author": "sponsors",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/sponsors/rohitg00",
+      "link": "https://github.com/Hmbown/DeepSeek-TUI",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -921,7 +906,7 @@
     {
       "name": "agentmemory",
       "author": "rohitg00",
-      "description": "3D Gaussian Splat Editor",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "link": "https://github.com/rohitg00/agentmemory",
       "stars": 0,
       "trend": 50,
@@ -936,8 +921,26 @@
     {
       "name": "AiToEarn",
       "author": "yikart",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "link": "https://github.com/yikart/AiToEarn",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-05-15"
+    },
+    {
+      "name": "AI-Trader",
+      "author": "HKUDS",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "link": "https://github.com/HKUDS/AI-Trader",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -949,10 +952,10 @@
       "date": "2026-05-15"
     },
     {
-      "name": "9router",
-      "author": "decolua",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "link": "https://github.com/decolua/9router",
+      "name": "agent-skills",
+      "author": "addyosmani",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
+      "link": "https://github.com/addyosmani/agent-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -961,7 +964,7 @@
           "name": "Agent"
         },
         {
-          "name": "RAG"
+          "name": "LLM"
         }
       ],
       "date": "2026-05-15"
@@ -1014,20 +1017,20 @@
       "date": "2026-05-15"
     },
     {
-      "title": "开源项目: collections",
+      "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/collections",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
-      "likes": 2046,
+      "likes": 2526,
       "date": "2026-05-15"
     },
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversationa",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
