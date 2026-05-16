@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-16 14:53:15",
+  "updatedAt": "2026-05-16 15:55:19",
   "news": [
+    {
+      "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
+      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+      "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
       "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge",
@@ -68,15 +77,6 @@
       "title": "What happens when AI starts building itself?",
       "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually shi",
       "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-      "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is no",
-      "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
       "source": "TechCrunch-AI",
       "date": "2026-05-14",
       "tag": "trend",
