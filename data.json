@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16 09:45:59",
+  "updatedAt": "2026-05-16 11:00:07",
   "news": [
     {
       "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
@@ -787,24 +787,9 @@
       "date": "2026-05-16"
     },
     {
-      "name": "financial-services",
-      "author": "anthropics",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "link": "https://github.com/anthropics/financial-services",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-16"
-    },
-    {
       "name": "CloakBrowser",
       "author": "CloakHQ",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "link": "https://github.com/CloakHQ/CloakBrowser",
       "stars": 0,
       "trend": 50,
@@ -819,14 +804,14 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-05-16"
@@ -834,29 +819,14 @@
     {
       "name": "AiToEarn",
       "author": "yikart",
-      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "link": "https://github.com/yikart/AiToEarn",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-16"
-    },
-    {
-      "name": "rohitg00",
-      "author": "sponsors",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "link": "https://github.com/sponsors/rohitg00",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-16"
@@ -877,10 +847,10 @@
       "date": "2026-05-16"
     },
     {
-      "name": "DeepSeek-TUI",
-      "author": "Hmbown",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/Hmbown/DeepSeek-TUI",
+      "name": "financial-services",
+      "author": "anthropics",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "link": "https://github.com/anthropics/financial-services",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -892,9 +862,54 @@
       "date": "2026-05-16"
     },
     {
+      "name": "UI-TARS-desktop",
+      "author": "bytedance",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "link": "https://github.com/bytedance/UI-TARS-desktop",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-16"
+    },
+    {
+      "name": "autofix-ci",
+      "author": "apps",
+      "description": "Your agent writes bad React. This catches it",
+      "link": "https://github.com/apps/autofix-ci",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-16"
+    },
+    {
+      "name": "DeepSeek-TUI",
+      "author": "Hmbown",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/Hmbown/DeepSeek-TUI",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-16"
+    },
+    {
       "name": "AI-Trader",
       "author": "HKUDS",
-      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "description": "GitHub热门AI项目，本周获得大量关注",
       "link": "https://github.com/HKUDS/AI-Trader",
       "stars": 0,
       "trend": 50,
@@ -917,21 +932,6 @@
       "tags": [
         {
           "name": "AI"
-        }
-      ],
-      "date": "2026-05-16"
-    },
-    {
-      "name": "agent-skills",
-      "author": "addyosmani",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/addyosmani/agent-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-05-16"
@@ -961,25 +961,25 @@
       "date": "2026-05-16"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@anonymous",
-      "description": "Coding agent for DeepSeek models that runs in your terminal",
-      "link": "https://github.com/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 3045,
-      "date": "2026-05-16"
-    },
-    {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
       "likes": 1697,
+      "date": "2026-05-16"
+    },
+    {
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2046,
       "date": "2026-05-16"
     },
     {
