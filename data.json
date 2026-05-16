@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-16 20:04:05",
+  "updatedAt": "2026-05-16 21:43:48",
   "news": [
+    {
+      "title": "The haves and have nots of the AI gold rush",
+      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+      "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
       "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
@@ -68,15 +77,6 @@
       "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
       "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, tal",
       "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI says Codex is coming to your phone",
-      "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
-      "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
       "source": "TechCrunch-AI",
       "date": "2026-05-14",
       "tag": "trend",
