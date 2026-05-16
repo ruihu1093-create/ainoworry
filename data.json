@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16 07:58:39",
+  "updatedAt": "2026-05-16 09:45:59",
   "news": [
     {
       "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
+      "summary": "“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t t",
+      "link": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
+      "source": "Wired-AI",
+      "date": "2026-05-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
       "summary": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
       "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
@@ -131,15 +140,6 @@
       "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
       "summary": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
       "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
-      "source": "Wired-AI",
-      "date": "2026-05-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "What It Will Take to Make AI Sustainable",
-      "summary": "Researcher Sasha Luccioni argues we need better emissions data and a better sense of how people are using AI in the first place.",
-      "link": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
       "source": "Wired-AI",
       "date": "2026-05-13",
       "tag": "trend",
