@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16 13:44:57",
+  "updatedAt": "2026-05-16 14:53:15",
   "news": [
     {
       "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
@@ -834,7 +834,7 @@
     {
       "name": "agentmemory",
       "author": "rohitg00",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "link": "https://github.com/rohitg00/agentmemory",
       "stars": 0,
       "trend": 50,
@@ -849,8 +849,23 @@
     {
       "name": "financial-services",
       "author": "anthropics",
-      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "link": "https://github.com/anthropics/financial-services",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-16"
+    },
+    {
+      "name": "UI-TARS-desktop",
+      "author": "bytedance",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "link": "https://github.com/bytedance/UI-TARS-desktop",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -862,10 +877,10 @@
       "date": "2026-05-16"
     },
     {
-      "name": "UI-TARS-desktop",
-      "author": "bytedance",
+      "name": "9router",
+      "author": "decolua",
       "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "link": "https://github.com/bytedance/UI-TARS-desktop",
+      "link": "https://github.com/decolua/9router",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -920,21 +935,6 @@
         }
       ],
       "date": "2026-05-16"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-16"
     }
   ],
   "agents": [
@@ -961,25 +961,25 @@
       "date": "2026-05-16"
     },
     {
-      "title": "开源项目: topics",
-      "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 1697,
-      "date": "2026-05-16"
-    },
-    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
       "likes": 2046,
+      "date": "2026-05-16"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
       "date": "2026-05-16"
     },
     {
