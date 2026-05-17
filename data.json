@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17 09:02:01",
+  "updatedAt": "2026-05-17 11:02:07",
   "news": [
     {
       "title": "The haves and have nots of the AI gold rush",
@@ -774,8 +774,23 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "Let's use AI to Earn!",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "link": "https://github.com/trending/developers",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-17"
+    },
+    {
+      "name": "CloakBrowser",
+      "author": "CloakHQ",
+      "description": "Let's use AI to Earn!",
+      "link": "https://github.com/CloakHQ/CloakBrowser",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -787,40 +802,25 @@
       "date": "2026-05-17"
     },
     {
-      "name": "CloakBrowser",
-      "author": "CloakHQ",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "link": "https://github.com/CloakHQ/CloakBrowser",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-17"
-    },
-    {
       "name": "dependabot",
       "author": "apps",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-17"
     },
     {
-      "name": "AiToEarn",
-      "author": "yikart",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "link": "https://github.com/yikart/AiToEarn",
+      "name": "rohitg00",
+      "author": "sponsors",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "link": "https://github.com/sponsors/rohitg00",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -834,7 +834,7 @@
     {
       "name": "agentmemory",
       "author": "rohitg00",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "link": "https://github.com/rohitg00/agentmemory",
       "stars": 0,
       "trend": 50,
@@ -847,10 +847,10 @@
       "date": "2026-05-17"
     },
     {
-      "name": "financial-services",
-      "author": "anthropics",
-      "description": "Coding agent for DeepSeek models that runs in your terminal",
-      "link": "https://github.com/anthropics/financial-services",
+      "name": "AiToEarn",
+      "author": "yikart",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "link": "https://github.com/yikart/AiToEarn",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -862,16 +862,16 @@
       "date": "2026-05-17"
     },
     {
-      "name": "UI-TARS-desktop",
-      "author": "bytedance",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "link": "https://github.com/bytedance/UI-TARS-desktop",
+      "name": "bun",
+      "author": "oven-sh",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "link": "https://github.com/oven-sh/bun",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-17"
@@ -879,7 +879,7 @@
     {
       "name": "autofix-ci",
       "author": "apps",
-      "description": "Your agent writes bad React. This catches it",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
       "link": "https://github.com/apps/autofix-ci",
       "stars": 0,
       "trend": 50,
@@ -892,46 +892,46 @@
       "date": "2026-05-17"
     },
     {
-      "name": "DeepSeek-TUI",
-      "author": "Hmbown",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/Hmbown/DeepSeek-TUI",
+      "name": "mattpocock",
+      "author": "sponsors",
+      "description": "Your agent writes bad React. This catches it",
+      "link": "https://github.com/sponsors/mattpocock",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-05-17"
     },
     {
-      "name": "AI-Trader",
-      "author": "HKUDS",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/HKUDS/AI-Trader",
+      "name": "skills",
+      "author": "mattpocock",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "link": "https://github.com/mattpocock/skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-05-17"
     },
     {
-      "name": "dependabot",
+      "name": "github-actions",
       "author": "apps",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/apps/dependabot",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-05-17"
@@ -952,7 +952,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Let's use AI to Earn!",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -963,7 +963,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -974,12 +974,35 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, ",
       "link": "https://github.com/collections",
+      "tools": [
+        "GitHub",
+        "GPT-4"
+      ],
+      "likes": 2046,
+      "date": "2026-05-17"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
-      "likes": 2046,
+      "likes": 2526,
+      "date": "2026-05-17"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Your agent writes bad React. This catches it",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-05-17"
     },
     {
@@ -1162,32 +1185,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-05-17"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
-      "date": "2026-05-17"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
       "date": "2026-05-17"
     }
   ],
