@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-05-17 15:55:55",
+  "updatedAt": "2026-05-17 16:55:56",
   "news": [
+    {
+      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+      "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The haves and have nots of the AI gold rush",
       "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
@@ -74,15 +92,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-      "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, tal",
-      "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
       "summary": "“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t t",
       "link": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
@@ -149,15 +158,6 @@
       "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
       "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on hi",
       "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-05-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-15",
       "tag": "trend",
