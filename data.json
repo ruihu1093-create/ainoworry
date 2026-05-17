@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-17 19:10:44",
+  "updatedAt": "2026-05-17 20:44:06",
   "news": [
+    {
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+      "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
       "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
@@ -77,15 +86,6 @@
       "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
       "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a ",
       "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Osaurus brings both local and cloud AI models to your Mac",
-      "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
-      "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
       "source": "TechCrunch-AI",
       "date": "2026-05-15",
       "tag": "trend",
@@ -817,24 +817,9 @@
       "date": "2026-05-17"
     },
     {
-      "name": "rohitg00",
-      "author": "sponsors",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "link": "https://github.com/sponsors/rohitg00",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-17"
-    },
-    {
       "name": "agentmemory",
       "author": "rohitg00",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "link": "https://github.com/rohitg00/agentmemory",
       "stars": 0,
       "trend": 50,
@@ -849,23 +834,8 @@
     {
       "name": "AiToEarn",
       "author": "yikart",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "link": "https://github.com/yikart/AiToEarn",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-17"
-    },
-    {
-      "name": "bun",
-      "author": "oven-sh",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "link": "https://github.com/oven-sh/bun",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -877,10 +847,40 @@
       "date": "2026-05-17"
     },
     {
+      "name": "financial-services",
+      "author": "anthropics",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "link": "https://github.com/anthropics/financial-services",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-17"
+    },
+    {
       "name": "autofix-ci",
       "author": "apps",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "link": "https://github.com/apps/autofix-ci",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-17"
+    },
+    {
+      "name": "academic-research-skills",
+      "author": "Imbad0202",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "link": "https://github.com/Imbad0202/academic-research-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -961,35 +961,24 @@
       "date": "2026-05-17"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "link": "https://github.com/topics",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
-      "date": "2026-05-17"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, ",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub",
-        "GPT-4"
-      ],
-      "likes": 2046,
+      "likes": 3045,
       "date": "2026-05-17"
     },
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, ",
       "link": "https://github.com/events",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
       "likes": 2526,
       "date": "2026-05-17"
@@ -997,7 +986,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Your agent writes bad React. This catches it",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1185,6 +1174,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-05-17"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-05-17"
     }
   ],
