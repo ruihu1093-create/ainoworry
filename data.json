@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17 20:44:06",
+  "updatedAt": "2026-05-17 21:51:54",
   "news": [
     {
       "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
@@ -83,15 +83,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
-      "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a ",
-      "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
       "summary": "“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t t",
       "link": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
@@ -158,6 +149,15 @@
       "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
       "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on hi",
       "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-05-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-15",
       "tag": "trend",
