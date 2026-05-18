@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-18 19:44:56",
+  "updatedAt": "2026-05-18 21:07:45",
   "news": [
     {
       "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "summary": "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition.",
+      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of so",
       "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
       "source": "TechCrunch-AI",
       "date": "2026-05-18",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "summary": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuit",
       "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
       "source": "TechCrunch-AI",
       "date": "2026-05-18",
@@ -155,9 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "Roundtables: Inside the Musk v. Altman Trial",
-      "summary": "Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman broke their promise to keep the company a nonpr",
-      "link": "https://www.technologyreview.com/2026/05/18/1137454/roundtables-inside-the-musk-v-altman-trial/",
+      "title": "What to expect from Google this week",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google ",
+      "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-18",
       "tag": "trend",
