@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18 06:54:20",
+  "updatedAt": "2026-05-18 11:04:44",
   "news": [
     {
       "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "I’m a Normie. Can Normies Really Vibe Code?",
+      "summary": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
+      "link": "https://www.wired.com/story/normie-vibe-code/",
+      "source": "Wired-AI",
+      "date": "2026-05-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
       "summary": "“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t t",
       "link": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
@@ -133,15 +142,6 @@
       "link": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/",
       "source": "Wired-AI",
       "date": "2026-05-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
-      "summary": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
-      "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
-      "source": "Wired-AI",
-      "date": "2026-05-13",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "Marketplace growth is outpacing ecommerce. Here’s why payments infrastructure will shape who scales.",
+      "content": "For retailers navigating the shift to marketplaces, three areas determine whether a marketplace scales or stalls.",
+      "link": "https://www.retaildive.com/spons/marketplace-growth-is-outpacing-ecommerce-heres-why-payments-infrastructu/820273/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-18"
+    },
+    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -787,10 +796,10 @@
       "date": "2026-05-18"
     },
     {
-      "name": "CloakBrowser",
-      "author": "CloakHQ",
-      "description": "Let's use AI to Earn!",
-      "link": "https://github.com/CloakHQ/CloakBrowser",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -802,10 +811,10 @@
       "date": "2026-05-18"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "link": "https://github.com/apps/dependabot",
+      "name": "rohitg00",
+      "author": "sponsors",
+      "description": "Let's use AI to Earn!",
+      "link": "https://github.com/sponsors/rohitg00",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -832,9 +841,24 @@
       "date": "2026-05-18"
     },
     {
+      "name": "autofix-ci",
+      "author": "apps",
+      "description": "Your agent writes bad React. This catches it",
+      "link": "https://github.com/apps/autofix-ci",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-18"
+    },
+    {
       "name": "AiToEarn",
       "author": "yikart",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
       "link": "https://github.com/yikart/AiToEarn",
       "stars": 0,
       "trend": 50,
@@ -847,54 +871,9 @@
       "date": "2026-05-18"
     },
     {
-      "name": "financial-services",
-      "author": "anthropics",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "link": "https://github.com/anthropics/financial-services",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-18"
-    },
-    {
-      "name": "autofix-ci",
-      "author": "apps",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "link": "https://github.com/apps/autofix-ci",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-18"
-    },
-    {
-      "name": "academic-research-skills",
-      "author": "Imbad0202",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "link": "https://github.com/Imbad0202/academic-research-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-18"
-    },
-    {
       "name": "mattpocock",
       "author": "sponsors",
-      "description": "Your agent writes bad React. This catches it",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "link": "https://github.com/sponsors/mattpocock",
       "stars": 0,
       "trend": 50,
@@ -907,33 +886,303 @@
       "date": "2026-05-18"
     },
     {
-      "name": "skills",
-      "author": "mattpocock",
-      "description": "Coding agent for DeepSeek models that runs in your terminal",
-      "link": "https://github.com/mattpocock/skills",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-18"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
+      "name": "open-webui",
+      "author": "open-webui",
+      "description": "用户友好的AI聊天界面，支持Ollama、OpenAI等多种大模型后端本地部署",
+      "link": "https://github.com/open-webui/open-webui",
+      "stars": 89000,
+      "trend": 1200,
+      "forks": 8900,
       "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "UI"
+        }
+      ],
+      "icon": "🌐",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "ollama",
+      "author": "ollama",
+      "description": "本地运行Llama、Mistral、Gemma等大模型最简便方式，一行命令启动",
+      "link": "https://github.com/ollama/ollama",
+      "stars": 128000,
+      "trend": 2300,
+      "forks": 11200,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Local"
+        }
+      ],
+      "icon": "🦙",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "dify",
+      "author": "langgenius",
+      "description": "开源LLM应用开发平台，可视化AI工作流编排与RAG管道构建",
+      "link": "https://github.com/langgenius/dify",
+      "stars": 82000,
+      "trend": 980,
+      "forks": 12100,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "icon": "⚡",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "ComfyUI",
+      "author": "comfyanonymous",
+      "description": "强大的节点式图像AI生成工作流工具，支持SD、Flux等各类模型",
+      "link": "https://github.com/comfyanonymous/ComfyUI",
+      "stars": 65000,
+      "trend": 750,
+      "forks": 7300,
+      "tags": [
+        {
+          "name": "Image"
+        },
+        {
+          "name": "AI"
+        }
+      ],
+      "icon": "🎨",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "langchain",
+      "author": "langchain-ai",
+      "description": "构建LLM应用程序的核心框架，提供链式调用与Agent工具集成",
+      "link": "https://github.com/langchain-ai/langchain",
+      "stars": 96000,
+      "trend": 600,
+      "forks": 16000,
+      "tags": [
+        {
+          "name": "LLM"
+        },
         {
           "name": "Agent"
         }
       ],
+      "icon": "🔗",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "lobe-chat",
+      "author": "lobehub",
+      "description": "开源高性能AI聊天框架，支持多模型、插件系统与私有化部署",
+      "link": "https://github.com/lobehub/lobe-chat",
+      "stars": 51000,
+      "trend": 830,
+      "forks": 5600,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "UI"
+        }
+      ],
+      "icon": "💬",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "AutoGPT",
+      "author": "Significant-Gravitas",
+      "description": "自主AI代理平台，让GPT模型自动拆解任务并持续执行，Agent鼻祖项目",
+      "link": "https://github.com/Significant-Gravitas/AutoGPT",
+      "stars": 170000,
+      "trend": 500,
+      "forks": 44000,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Auto"
+        }
+      ],
+      "icon": "🤖",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "vllm",
+      "author": "vllm-project",
+      "description": "高吞吐量LLM推理引擎，PagedAttention大幅提升GPU利用率与并发能力",
+      "link": "https://github.com/vllm-project/vllm",
+      "stars": 40000,
+      "trend": 920,
+      "forks": 6100,
+      "tags": [
+        {
+          "name": "Inference"
+        },
+        {
+          "name": "GPU"
+        }
+      ],
+      "icon": "🚀",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "stable-diffusion-webui",
+      "author": "AUTOMATIC1111",
+      "description": "Stable Diffusion Web界面，图像生成神器，支持海量LoRA和插件",
+      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "stars": 145000,
+      "trend": 500,
+      "forks": 28000,
+      "tags": [
+        {
+          "name": "Image"
+        },
+        {
+          "name": "SD"
+        }
+      ],
+      "icon": "🌈",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "n8n",
+      "author": "n8n-io",
+      "description": "公平开源工作流自动化工具，支持AI集成，可自托管，支持500+应用",
+      "link": "https://github.com/n8n-io/n8n",
+      "stars": 48000,
+      "trend": 1100,
+      "forks": 7200,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Automation"
+        }
+      ],
+      "icon": "🔄",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "LocalAI",
+      "author": "mudler",
+      "description": "免费开源的OpenAI API替代方案，支持本地运行各类LLM、图像、音频",
+      "link": "https://github.com/mudler/LocalAI",
+      "stars": 27000,
+      "trend": 650,
+      "forks": 3100,
+      "tags": [
+        {
+          "name": "Local"
+        },
+        {
+          "name": "API"
+        }
+      ],
+      "icon": "🏠",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "Flowise",
+      "author": "FlowiseAI",
+      "description": "拖拽式LangChain可视化构建工具，快速搭建AI应用无需写代码",
+      "link": "https://github.com/FlowiseAI/Flowise",
+      "stars": 33000,
+      "trend": 780,
+      "forks": 4200,
+      "tags": [
+        {
+          "name": "RAG"
+        },
+        {
+          "name": "UI"
+        }
+      ],
+      "icon": "🌊",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "llama.cpp",
+      "author": "ggerganov",
+      "description": "C++实现的LLaMA推理引擎，支持CPU运行大模型，移动设备也可跑",
+      "link": "https://github.com/ggerganov/llama.cpp",
+      "stars": 72000,
+      "trend": 820,
+      "forks": 10500,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "CPU"
+        }
+      ],
+      "icon": "🦙",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "openai-cookbook",
+      "author": "openai",
+      "description": "OpenAI官方示例和最佳实践，涵盖各类API用法和Prompt工程技巧",
+      "link": "https://github.com/openai/openai-cookbook",
+      "stars": 60000,
+      "trend": 400,
+      "forks": 9700,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Prompt"
+        }
+      ],
+      "icon": "📖",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "haystack",
+      "author": "deepset-ai",
+      "description": "企业级RAG和搜索框架，支持多种向量数据库和LLM后端",
+      "link": "https://github.com/deepset-ai/haystack",
+      "stars": 17000,
+      "trend": 320,
+      "forks": 1900,
+      "tags": [
+        {
+          "name": "RAG"
+        },
+        {
+          "name": "Search"
+        }
+      ],
+      "icon": "🔍",
       "date": "2026-05-18"
     }
   ],
@@ -969,29 +1218,6 @@
         "GitHub"
       ],
       "likes": 3045,
-      "date": "2026-05-18"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, ",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub",
-        "GPT-4"
-      ],
-      "likes": 2526,
-      "date": "2026-05-18"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-05-18"
     },
     {
@@ -1187,6 +1413,32 @@
         "剪映"
       ],
       "likes": 18500,
+      "date": "2026-05-18"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
+      "date": "2026-05-18"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
       "date": "2026-05-18"
     }
   ],
