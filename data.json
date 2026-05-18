@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-05-18 11:04:44",
+  "updatedAt": "2026-05-18 15:21:55",
   "news": [
+    {
+      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+      "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+      "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "South Korea’s LetinAR is building optics behind AI glasses",
+      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
+      "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
       "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
@@ -59,24 +77,6 @@
       "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
       "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge",
       "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-      "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
-      "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-      "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
       "source": "TechCrunch-AI",
       "date": "2026-05-15",
       "tag": "trend",
@@ -146,18 +146,18 @@
       "tagText": "资讯"
     },
     {
-      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on hi",
-      "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
       "source": "MIT-Tech-Review",
-      "date": "2026-05-15",
+      "date": "2026-05-18",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
+      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on hi",
+      "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-15",
       "tag": "trend",
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "Dollar Tree is boosting logistics resiliency",
+      "content": "A new Arizona distribution center is part of the retailer&#39;s strategy to cut transit times, Chief Supply Chain Officer Roxanne Weng said.",
+      "link": "https://www.retaildive.com/news/dollar-tree-logistics-resiliency-distribution-center/820334/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-18"
+    },
     {
       "title": "Marketplace growth is outpacing ecommerce. Here’s why payments infrastructure will shape who scales.",
       "content": "For retailers navigating the shift to marketplaces, three areas determine whether a marketplace scales or stalls.",
