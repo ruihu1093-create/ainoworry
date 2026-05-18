@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-18 15:21:55",
+  "updatedAt": "2026-05-18 17:57:11",
   "news": [
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits",
+      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
       "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
@@ -12,7 +21,7 @@
     },
     {
       "title": "South Korea’s LetinAR is building optics behind AI glasses",
-      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
+      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
       "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
       "source": "TechCrunch-AI",
       "date": "2026-05-18",
@@ -47,7 +56,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "The haves and have nots of the AI gold rush",
+      "title": "The haves and have-nots of the AI gold rush",
       "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
       "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
       "source": "TechCrunch-AI",
@@ -74,11 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge",
-      "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-15",
+      "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+      "summary": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
+      "link": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+      "source": "Wired-AI",
+      "date": "2026-05-18",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -146,20 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
+      "title": "What to expect from Google this week",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google ",
+      "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on hi",
-      "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-05-15",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "Claire’s eyes expansion to 7K retail locations",
+      "content": "<img src=\"https://imgproxy.divecdn.com/LmVnUvlHWd9cfVArg2L0JFJr6BAidANYBE4fIYNF140/g:nowe:43:149/c:1139:643/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jbGFpcmVzX2F2YWls",
+      "link": "https://www.retaildive.com/news/claires-retail-expansion-licensing-centric-brands/820476/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-18"
+    },
     {
       "title": "Dollar Tree is boosting logistics resiliency",
       "content": "A new Arizona distribution center is part of the retailer&#39;s strategy to cut transit times, Chief Supply Chain Officer Roxanne Weng said.",
