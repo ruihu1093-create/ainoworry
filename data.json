@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-18 17:57:11",
+  "updatedAt": "2026-05-18 19:44:56",
   "news": [
+    {
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "summary": "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition.",
+      "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
       "summary": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits",
@@ -68,15 +77,6 @@
       "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
       "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
       "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
-      "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
       "source": "TechCrunch-AI",
       "date": "2026-05-16",
       "tag": "trend",
@@ -155,9 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "What to expect from Google this week",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google ",
-      "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "title": "Roundtables: Inside the Musk v. Altman Trial",
+      "summary": "Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman broke their promise to keep the company a nonpr",
+      "link": "https://www.technologyreview.com/2026/05/18/1137454/roundtables-inside-the-musk-v-altman-trial/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-18",
       "tag": "trend",
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "Article reveals plans for its first US retail stores",
+      "content": "<img src=\"https://imgproxy.divecdn.com/aeAGO5iAlhZJ_lbfJ4Waxttn4PLGAHYpFMntdq3CjPo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BcnRpY2xlX0FydGljbGVfQW5ub3VuY2VzX0Zp",
+      "link": "https://www.retaildive.com/news/article-furniture-brand-first-us-retail-stores/820340/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-18"
+    },
     {
       "title": "Claire’s eyes expansion to 7K retail locations",
       "content": "<img src=\"https://imgproxy.divecdn.com/LmVnUvlHWd9cfVArg2L0JFJr6BAidANYBE4fIYNF140/g:nowe:43:149/c:1139:643/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jbGFpcmVzX2F2YWls",
