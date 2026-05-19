@@ -1,89 +1,125 @@
 {
-  "updatedAt": "2026-05-19 15:41:35",
+  "updatedAt": "2026-05-19 18:02:24",
   "news": [
     {
-      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigg",
-      "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "title": "Google’s Genie world model can now simulate real streets with Street View",
+      "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, all",
+      "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
       "source": "TechCrunch-AI",
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of so",
-      "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+      "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of au",
+      "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
       "source": "TechCrunch-AI",
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuit",
-      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "title": "How to use Google’s new information agents",
+      "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+      "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
       "source": "TechCrunch-AI",
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-      "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-      "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+      "title": "Google Search as you know it is over",
+      "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactiv",
+      "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
       "source": "TechCrunch-AI",
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "South Korea’s LetinAR is building optics behind AI glasses",
-      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
-      "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+      "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software deve",
+      "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
       "source": "TechCrunch-AI",
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
-      "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+      "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing ",
+      "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
       "source": "TechCrunch-AI",
-      "date": "2026-05-17",
+      "date": "2026-05-19",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
-      "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+      "title": "Google’s new Universal Cart wants to follow you across the entire internet",
+      "summary": "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's laun",
+      "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/",
       "source": "TechCrunch-AI",
-      "date": "2026-05-17",
+      "date": "2026-05-19",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
+      "summary": "At the I/O developer conference, Google announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic",
+      "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
       "source": "TechCrunch-AI",
-      "date": "2026-05-17",
+      "date": "2026-05-19",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "The haves and have-nots of the AI gold rush",
-      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
-      "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "title": "Google adds voice-based prompting to Docs and Keep",
+      "summary": "Google is letting users create drafts, take notes, and search for email with voice with the new Workspace update",
+      "link": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
       "source": "TechCrunch-AI",
-      "date": "2026-05-16",
+      "date": "2026-05-19",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Former OpenAI Staffers Warn xAI's Poor Safety Record Could Complicate SpaceX’s IPO",
+      "title": "Google’s AI now lets you talk to your Gmail inbox",
+      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "link": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
+      "summary": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
+      "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+      "source": "Wired-AI",
+      "date": "2026-05-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google Makes It Easy to Deepfake Yourself",
+      "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
+      "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
+      "source": "Wired-AI",
+      "date": "2026-05-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google’s Response to OpenClaw’s 24/7 AI Agent",
+      "summary": "Google’s always-running, data-hungry AI agent is designed to spend your money and send your emails.",
+      "link": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/",
+      "source": "Wired-AI",
+      "date": "2026-05-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO",
       "summary": "The ex-employees, who cofounded a new AI watchdog group, say investors deserve more information about xAI’s safety practices before SpaceX goes public",
       "link": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
       "source": "Wired-AI",
@@ -124,42 +160,6 @@
       "link": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
       "source": "Wired-AI",
       "date": "2026-05-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
-      "summary": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
-      "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
-      "source": "Wired-AI",
-      "date": "2026-05-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
-      "summary": "The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building ",
-      "link": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
-      "source": "Wired-AI",
-      "date": "2026-05-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Real Losers of the Musk v. Altman Trial",
-      "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
-      "link": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
-      "source": "Wired-AI",
-      "date": "2026-05-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
-      "summary": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
-      "link": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
-      "source": "Wired-AI",
-      "date": "2026-05-14",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "Google’s new Universal Cart wants to follow you across the entire internet",
+      "content": "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's launching Universal Cart.",
+      "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-19"
+    },
+    {
       "title": "氪星晚报 ｜SpaceX即将成为马斯克旗下第二家上市公司；京东、洋河集团等在宿迁成立新动能股权投资基金，出资额10亿",
       "content": "大公司：\n  圆通速递：4月快递产品收入60.71亿元，同比增长5.49%36氪获悉，圆通速递公告，4月快递产品收入60.71亿元，同比增长5.49%；业务完成量27.26亿票，同比增长1.22%；快递产品单票收入2.23元，同比增长4.21%。\n  哔哩哔哩：一季度营收74.7亿元，日均",
       "link": "https://36kr.com/p/3816109626138119?f=rss",
@@ -650,15 +659,6 @@
       "title": "Claire’s eyes expansion to 7K retail locations",
       "content": "<img src=\"https://imgproxy.divecdn.com/LmVnUvlHWd9cfVArg2L0JFJr6BAidANYBE4fIYNF140/g:nowe:43:149/c:1139:643/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jbGFpcmVzX2F2YWls",
       "link": "https://www.retaildive.com/news/claires-retail-expansion-licensing-centric-brands/820476/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "Dollar Tree is boosting logistics resiliency",
-      "content": "A new Arizona distribution center is part of the retailer&#39;s strategy to cut transit times, Chief Supply Chain Officer Roxanne Weng said.",
-      "link": "https://www.retaildive.com/news/dollar-tree-logistics-resiliency-distribution-center/820334/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
