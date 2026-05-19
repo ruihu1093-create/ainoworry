@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-19 18:02:24",
+  "updatedAt": "2026-05-19 20:28:40",
   "news": [
+    {
+      "title": "Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims",
+      "summary": "“By the end of this week, you and Sam will be the most hated men in America.”",
+      "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google’s Genie world model can now simulate real streets with Street View",
       "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, all",
@@ -47,42 +56,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
-      "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing ",
-      "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google’s new Universal Cart wants to follow you across the entire internet",
-      "summary": "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's laun",
-      "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
-      "summary": "At the I/O developer conference, Google announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic",
-      "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google adds voice-based prompting to Docs and Keep",
-      "summary": "Google is letting users create drafts, take notes, and search for email with voice with the new Workspace update",
-      "link": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "Google’s AI now lets you talk to your Gmail inbox",
       "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
       "link": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/",
@@ -92,9 +65,27 @@
       "tagText": "资讯"
     },
     {
-      "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
-      "summary": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
-      "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+      "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
+      "summary": "Google's Gemini Omni is a new multimodal model that reasons across text, images, audio, and video to generate and edit videos through simple conversat",
+      "link": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google adds voice-based prompting to Docs and Keep",
+      "summary": "Google is letting users create drafts, take notes, and search for email with voice with the new Workspace update.",
+      "link": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
+      "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming t",
+      "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
       "source": "Wired-AI",
       "date": "2026-05-19",
       "tag": "trend",
@@ -110,7 +101,25 @@
       "tagText": "资讯"
     },
     {
-      "title": "Google’s Response to OpenClaw’s 24/7 AI Agent",
+      "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
+      "summary": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
+      "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+      "source": "Wired-AI",
+      "date": "2026-05-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
+      "summary": "Vibe-coded results! Super widgets! Bots that never sleep! Google’s vision for the future of Search is hyper-personalized, automated, and extremely AI.",
+      "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
+      "source": "Wired-AI",
+      "date": "2026-05-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Gemini Spark Is Google’s Response to OpenClaw’s 24/7 AI Agent",
       "summary": "Google’s always-running, data-hungry AI agent is designed to spend your money and send your emails.",
       "link": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/",
       "source": "Wired-AI",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/normie-vibe-code/",
       "source": "Wired-AI",
       "date": "2026-05-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
-      "summary": "“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t t",
-      "link": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
-      "source": "Wired-AI",
-      "date": "2026-05-16",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,15 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "Google’s new Universal Cart wants to follow you across the entire internet",
-      "content": "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's launching Universal Cart.",
-      "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-19"
-    },
     {
       "title": "氪星晚报 ｜SpaceX即将成为马斯克旗下第二家上市公司；京东、洋河集团等在宿迁成立新动能股权投资基金，出资额10亿",
       "content": "大公司：\n  圆通速递：4月快递产品收入60.71亿元，同比增长5.49%36氪获悉，圆通速递公告，4月快递产品收入60.71亿元，同比增长5.49%；业务完成量27.26亿票，同比增长1.22%；快递产品单票收入2.23元，同比增长4.21%。\n  哔哩哔哩：一季度营收74.7亿元，日均",
