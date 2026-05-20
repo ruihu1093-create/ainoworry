@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20 00:00:33",
+  "updatedAt": "2026-05-20 05:00:56",
   "news": [
     {
       "title": "Google just declared itself a contender in AI design at IO 2026",
@@ -110,18 +110,18 @@
       "tagText": "资讯"
     },
     {
-      "title": "Google Makes It Easy to Deepfake Yourself",
-      "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
-      "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
+      "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
+      "summary": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
+      "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
       "source": "Wired-AI",
       "date": "2026-05-19",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
-      "summary": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
-      "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+      "title": "Google Makes It Easy to Deepfake Yourself",
+      "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
+      "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
       "source": "Wired-AI",
       "date": "2026-05-19",
       "tag": "trend",
