@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-20 16:22:03",
+  "updatedAt": "2026-05-20 19:21:33",
   "news": [
+    {
+      "title": "OpenAI barrels toward IPO that may happen in September",
+      "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO",
+      "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "AI search startups are blowing up",
       "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
@@ -11,8 +20,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Stability AI releases a new audio model that can create six-minute songs",
-      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
+      "title": "Stability AI releases a new audio model that can create 6-minute songs",
+      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
       "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
       "source": "TechCrunch-AI",
       "date": "2026-05-20",
@@ -21,7 +30,7 @@
     },
     {
       "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-      "summary": "NanoCo, the company behind  OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
+      "summary": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the ",
       "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
       "source": "TechCrunch-AI",
       "date": "2026-05-20",
@@ -30,7 +39,7 @@
     },
     {
       "title": "Figma adds an AI assistant to its collaborative canvas",
-      "summary": "Figma's new AI assistant will be first available on Figma Design",
+      "summary": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks su",
       "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
       "source": "TechCrunch-AI",
       "date": "2026-05-20",
@@ -74,11 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
-      "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Mu",
-      "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-19",
+      "title": "I Gave My OpenClaw Agent a Physical Body",
+      "summary": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
+      "link": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
+      "source": "Wired-AI",
+      "date": "2026-05-20",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/the-big-interview-podcast-tom-steyer/",
       "source": "Wired-AI",
       "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-      "summary": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
-      "link": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
-      "source": "Wired-AI",
-      "date": "2026-05-18",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -627,24 +627,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-05-19"
-    },
-    {
-      "title": "At Home CEO to retire after leading it through bankruptcy",
-      "content": "Chief Executive Officer Brad Weston will transition to an advisory role and the home retailer has initiated a search for his replacement.",
-      "link": "https://www.retaildive.com/news/at-home-ceo-brad-weston-retires-post-bankruptcy/820589/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-19"
-    },
-    {
-      "title": "Article reveals plans for its first US retail stores",
-      "content": "<img src=\"https://imgproxy.divecdn.com/aeAGO5iAlhZJ_lbfJ4Waxttn4PLGAHYpFMntdq3CjPo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BcnRpY2xlX0FydGljbGVfQW5ub3VuY2VzX0Zp",
-      "link": "https://www.retaildive.com/news/article-furniture-brand-first-us-retail-stores/820340/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-18"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
