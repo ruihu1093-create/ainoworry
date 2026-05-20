@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-05-20 19:21:33",
+  "updatedAt": "2026-05-20 21:48:34",
   "news": [
+    {
+      "title": "Anthropic will pay xAI $1.25 billion per month for compute",
+      "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+      "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarra",
+      "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+      "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder sa",
+      "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI barrels toward IPO that may happen in September",
       "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO",
@@ -50,33 +77,6 @@
       "title": "Google just declared itself a contender in AI design at IO 2026",
       "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
       "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
-      "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How to use Google’s new AI agents to go beyond your standard searches",
-      "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-      "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-      "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation ",
-      "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
       "source": "TechCrunch-AI",
       "date": "2026-05-19",
       "tag": "trend",
