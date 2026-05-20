@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20 09:24:14",
+  "updatedAt": "2026-05-20 12:20:38",
   "news": [
     {
       "title": "Google just declared itself a contender in AI design at IO 2026",
@@ -101,15 +101,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
-      "summary": "Vibe-coded results! Super widgets! Bots that never sleep! Google’s vision for the future of Search is hyper-personalized, automated, and extremely AI.",
-      "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
-      "source": "Wired-AI",
-      "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
       "summary": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
       "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
@@ -122,6 +113,15 @@
       "title": "Google Makes It Easy to Deepfake Yourself",
       "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
       "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
+      "source": "Wired-AI",
+      "date": "2026-05-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
+      "summary": "Vibe-coded results! Super widgets! Bots that never sleep! Google’s vision for the future of Search is hyper-personalized, automated, and extremely AI.",
+      "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
       "source": "Wired-AI",
       "date": "2026-05-19",
       "tag": "trend",
@@ -825,8 +825,23 @@
     {
       "name": "openhuman",
       "author": "tinyhumansai",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "link": "https://github.com/tinyhumansai/openhuman",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-20"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -840,7 +855,7 @@
     {
       "name": "agentmemory",
       "author": "rohitg00",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "link": "https://github.com/rohitg00/agentmemory",
       "stars": 0,
       "trend": 50,
@@ -853,24 +868,9 @@
       "date": "2026-05-20"
     },
     {
-      "name": "CloakBrowser",
-      "author": "CloakHQ",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "link": "https://github.com/CloakHQ/CloakBrowser",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-20"
-    },
-    {
       "name": "dependabot",
       "author": "apps",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -883,46 +883,16 @@
       "date": "2026-05-20"
     },
     {
-      "name": "academic-research-skills",
-      "author": "Imbad0202",
-      "description": "Let's use AI to Earn!",
-      "link": "https://github.com/Imbad0202/academic-research-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-20"
-    },
-    {
-      "name": "autofix-ci",
-      "author": "apps",
-      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
-      "link": "https://github.com/apps/autofix-ci",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-20"
-    },
-    {
       "name": "RuView",
       "author": "ruvnet",
-      "description": "Your agent writes bad React. This catches it",
+      "description": "Let's use AI to Earn!",
       "link": "https://github.com/ruvnet/RuView",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-20"
@@ -932,6 +902,36 @@
       "author": "apps",
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-20"
+    },
+    {
+      "name": "academic-research-skills",
+      "author": "Imbad0202",
+      "description": "Your agent writes bad React. This catches it",
+      "link": "https://github.com/Imbad0202/academic-research-skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-20"
+    },
+    {
+      "name": "bun",
+      "author": "oven-sh",
+      "description": "Public repository for Agent Skills",
+      "link": "https://github.com/oven-sh/bun",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -958,18 +958,250 @@
       "date": "2026-05-20"
     },
     {
-      "name": "Shadowbroker",
-      "author": "BigBodyCobain",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/BigBodyCobain/Shadowbroker",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
+      "name": "open-webui",
+      "author": "open-webui",
+      "description": "用户友好的AI聊天界面，支持Ollama、OpenAI等多种大模型后端本地部署",
+      "link": "https://github.com/open-webui/open-webui",
+      "stars": 89000,
+      "trend": 1200,
+      "forks": 8900,
       "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "UI"
+        }
+      ],
+      "icon": "🌐",
+      "date": "2026-05-20"
+    },
+    {
+      "name": "ollama",
+      "author": "ollama",
+      "description": "本地运行Llama、Mistral、Gemma等大模型最简便方式，一行命令启动",
+      "link": "https://github.com/ollama/ollama",
+      "stars": 128000,
+      "trend": 2300,
+      "forks": 11200,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Local"
+        }
+      ],
+      "icon": "🦙",
+      "date": "2026-05-20"
+    },
+    {
+      "name": "dify",
+      "author": "langgenius",
+      "description": "开源LLM应用开发平台，可视化AI工作流编排与RAG管道构建",
+      "link": "https://github.com/langgenius/dify",
+      "stars": 82000,
+      "trend": 980,
+      "forks": 12100,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "icon": "⚡",
+      "date": "2026-05-20"
+    },
+    {
+      "name": "ComfyUI",
+      "author": "comfyanonymous",
+      "description": "强大的节点式图像AI生成工作流工具，支持SD、Flux等各类模型",
+      "link": "https://github.com/comfyanonymous/ComfyUI",
+      "stars": 65000,
+      "trend": 750,
+      "forks": 7300,
+      "tags": [
+        {
+          "name": "Image"
+        },
         {
           "name": "AI"
         }
       ],
+      "icon": "🎨",
+      "date": "2026-05-20"
+    },
+    {
+      "name": "langchain",
+      "author": "langchain-ai",
+      "description": "构建LLM应用程序的核心框架，提供链式调用与Agent工具集成",
+      "link": "https://github.com/langchain-ai/langchain",
+      "stars": 96000,
+      "trend": 600,
+      "forks": 16000,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Agent"
+        }
+      ],
+      "icon": "🔗",
+      "date": "2026-05-20"
+    },
+    {
+      "name": "lobe-chat",
+      "author": "lobehub",
+      "description": "开源高性能AI聊天框架，支持多模型、插件系统与私有化部署",
+      "link": "https://github.com/lobehub/lobe-chat",
+      "stars": 51000,
+      "trend": 830,
+      "forks": 5600,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "UI"
+        }
+      ],
+      "icon": "💬",
+      "date": "2026-05-20"
+    },
+    {
+      "name": "AutoGPT",
+      "author": "Significant-Gravitas",
+      "description": "自主AI代理平台，让GPT模型自动拆解任务并持续执行，Agent鼻祖项目",
+      "link": "https://github.com/Significant-Gravitas/AutoGPT",
+      "stars": 170000,
+      "trend": 500,
+      "forks": 44000,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Auto"
+        }
+      ],
+      "icon": "🤖",
+      "date": "2026-05-20"
+    },
+    {
+      "name": "vllm",
+      "author": "vllm-project",
+      "description": "高吞吐量LLM推理引擎，PagedAttention大幅提升GPU利用率与并发能力",
+      "link": "https://github.com/vllm-project/vllm",
+      "stars": 40000,
+      "trend": 920,
+      "forks": 6100,
+      "tags": [
+        {
+          "name": "Inference"
+        },
+        {
+          "name": "GPU"
+        }
+      ],
+      "icon": "🚀",
+      "date": "2026-05-20"
+    },
+    {
+      "name": "stable-diffusion-webui",
+      "author": "AUTOMATIC1111",
+      "description": "Stable Diffusion Web界面，图像生成神器，支持海量LoRA和插件",
+      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "stars": 145000,
+      "trend": 500,
+      "forks": 28000,
+      "tags": [
+        {
+          "name": "Image"
+        },
+        {
+          "name": "SD"
+        }
+      ],
+      "icon": "🌈",
+      "date": "2026-05-20"
+    },
+    {
+      "name": "n8n",
+      "author": "n8n-io",
+      "description": "公平开源工作流自动化工具，支持AI集成，可自托管，支持500+应用",
+      "link": "https://github.com/n8n-io/n8n",
+      "stars": 48000,
+      "trend": 1100,
+      "forks": 7200,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Automation"
+        }
+      ],
+      "icon": "🔄",
+      "date": "2026-05-20"
+    },
+    {
+      "name": "LocalAI",
+      "author": "mudler",
+      "description": "免费开源的OpenAI API替代方案，支持本地运行各类LLM、图像、音频",
+      "link": "https://github.com/mudler/LocalAI",
+      "stars": 27000,
+      "trend": 650,
+      "forks": 3100,
+      "tags": [
+        {
+          "name": "Local"
+        },
+        {
+          "name": "API"
+        }
+      ],
+      "icon": "🏠",
+      "date": "2026-05-20"
+    },
+    {
+      "name": "Flowise",
+      "author": "FlowiseAI",
+      "description": "拖拽式LangChain可视化构建工具，快速搭建AI应用无需写代码",
+      "link": "https://github.com/FlowiseAI/Flowise",
+      "stars": 33000,
+      "trend": 780,
+      "forks": 4200,
+      "tags": [
+        {
+          "name": "RAG"
+        },
+        {
+          "name": "UI"
+        }
+      ],
+      "icon": "🌊",
+      "date": "2026-05-20"
+    },
+    {
+      "name": "llama.cpp",
+      "author": "ggerganov",
+      "description": "C++实现的LLaMA推理引擎，支持CPU运行大模型，移动设备也可跑",
+      "link": "https://github.com/ggerganov/llama.cpp",
+      "stars": 72000,
+      "trend": 820,
+      "forks": 10500,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "CPU"
+        }
+      ],
+      "icon": "🦙",
       "date": "2026-05-20"
     }
   ],
@@ -997,25 +1229,36 @@
       "date": "2026-05-20"
     },
     {
-      "title": "开源项目: topics",
-      "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 1697,
-      "date": "2026-05-20"
-    },
-    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Let's use AI to Earn!",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
       "likes": 2046,
+      "date": "2026-05-20"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Let's use AI to Earn!",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
+      "date": "2026-05-20"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-05-20"
     },
     {
@@ -1211,19 +1454,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-05-20"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
       "date": "2026-05-20"
     }
   ],
