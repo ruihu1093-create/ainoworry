@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-05-20 12:20:38",
+  "updatedAt": "2026-05-20 16:22:03",
   "news": [
+    {
+      "title": "AI search startups are blowing up",
+      "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
+      "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Stability AI releases a new audio model that can create six-minute songs",
+      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
+      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+      "summary": "NanoCo, the company behind  OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
+      "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Figma adds an AI assistant to its collaborative canvas",
+      "summary": "Figma's new AI assistant will be first available on Figma Design",
+      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google just declared itself a contender in AI design at IO 2026",
       "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
@@ -41,42 +77,6 @@
       "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
       "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Mu",
       "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google’s Genie world model can now simulate real streets with Street View",
-      "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, all",
-      "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-      "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of au",
-      "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google Search as you know it is over",
-      "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactiv",
-      "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI is making it easier to check if an image was made by their models",
-      "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
-      "link": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
       "source": "TechCrunch-AI",
       "date": "2026-05-19",
       "tag": "trend",
@@ -641,15 +641,6 @@
       "title": "Article reveals plans for its first US retail stores",
       "content": "<img src=\"https://imgproxy.divecdn.com/aeAGO5iAlhZJ_lbfJ4Waxttn4PLGAHYpFMntdq3CjPo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BcnRpY2xlX0FydGljbGVfQW5ub3VuY2VzX0Zp",
       "link": "https://www.retaildive.com/news/article-furniture-brand-first-us-retail-stores/820340/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "Claire’s eyes expansion to 7K retail locations",
-      "content": "<img src=\"https://imgproxy.divecdn.com/LmVnUvlHWd9cfVArg2L0JFJr6BAidANYBE4fIYNF140/g:nowe:43:149/c:1139:643/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jbGFpcmVzX2F2YWls",
-      "link": "https://www.retaildive.com/news/claires-retail-expansion-licensing-centric-brands/820476/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
