@@ -1,8 +1,35 @@
 {
-  "updatedAt": "2026-05-20 21:48:34",
+  "updatedAt": "2026-05-20 23:09:13",
   "news": [
     {
-      "title": "Anthropic will pay xAI $1.25 billion per month for compute",
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+      "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "xAI burned $6.4B last year. SpaceX’s IPO filing shows why the spending is far from over",
+      "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI f",
+      "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+      "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+      "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic will pay xAI $1.25B per month for compute",
       "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
       "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
       "source": "TechCrunch-AI",
@@ -52,33 +79,6 @@
       "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
       "source": "TechCrunch-AI",
       "date": "2026-05-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-      "summary": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the ",
-      "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Figma adds an AI assistant to its collaborative canvas",
-      "summary": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks su",
-      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google just declared itself a contender in AI design at IO 2026",
-      "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
-      "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-19",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,15 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "氪星晚报 ｜SpaceX即将成为马斯克旗下第二家上市公司；京东、洋河集团等在宿迁成立新动能股权投资基金，出资额10亿",
-      "content": "大公司：\n  圆通速递：4月快递产品收入60.71亿元，同比增长5.49%36氪获悉，圆通速递公告，4月快递产品收入60.71亿元，同比增长5.49%；业务完成量27.26亿票，同比增长1.22%；快递产品单票收入2.23元，同比增长4.21%。\n  哔哩哔哩：一季度营收74.7亿元，日均",
-      "link": "https://36kr.com/p/3816109626138119?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-19"
-    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
