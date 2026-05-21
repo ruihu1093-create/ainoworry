@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-05-21 10:37:22",
+  "updatedAt": "2026-05-21 14:12:13",
   "news": [
+    {
+      "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
+      "summary": "Brett Adcock's new AI startup is now valued at $6 billion by its investors.",
+      "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+      "summary": "The AI agents are coming. A lot of them.",
+      "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+      "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
+      "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
       "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
@@ -50,33 +77,6 @@
       "title": "Anthropic will pay xAI $1.25B per month for compute",
       "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
       "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-      "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarra",
-      "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-      "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder sa",
-      "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI barrels toward IPO that may happen in September",
-      "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO",
-      "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
       "source": "TechCrunch-AI",
       "date": "2026-05-20",
       "tag": "trend",
@@ -620,6 +620,24 @@
   ],
   "ecommerce": [
     {
+      "title": "Beauty booking startup Fresha hits $1 billion valuation with KKR backing",
+      "content": "Beauty and wellness booking marketplace Fresha says it has raised $80 million investment from KKR’s Next Generation Technology Growth fund, KKR's growth equity arm.",
+      "link": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "业绩快报 | 唯品会一季度净营收266亿元，SVIP用户贡献超50%线上销售额",
+      "content": "5月21日美股盘前，唯品会发布2025年第一季度财报。一季度内，唯品会实现净营收266亿元（人民币，下同），Non-GAAP净利润23亿元。\n  观察核心运营数据，一季度其实现商品交易总额（GMV）569亿元，同比增长8.6%，订单量1.73亿单，同比增长3.2%。同时，平台于该季度活跃用户数为4170万，同比实现正增长。\n  在春节期间穿戴和年货需",
+      "link": "https://36kr.com/p/3818915823764610?f=rss",
+      "source": "36Kr",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-05-21"
+    },
+    {
       "title": "从概念到产线一：AI在工业制造领域的深水区探索| 2026AI Partner·北京亦庄AI+产业大会",
       "content": "AI在工业制造领域，不是“锦上添花”的辅助工具，而是“重新设计工厂”的核心引擎。从AOI报废板的秒级识别，到刀具参数的动态优化，再到打通设计、生产、供应链的全链路智能——这场对话告诉我们，每1%的效率提升都是真金白银，AI的价值不是叠加功能，而是把“人等货”变成“货等人”。\n  \n  演讲拆解了AI从概念到",
       "link": "https://36kr.com/p/3818903062004870?f=rss",
@@ -781,24 +799,9 @@
       "date": "2026-05-21"
     },
     {
-      "name": "developers",
-      "author": "trending",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "link": "https://github.com/trending/developers",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-21"
-    },
-    {
       "name": "openhuman",
       "author": "tinyhumansai",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "link": "https://github.com/tinyhumansai/openhuman",
       "stars": 0,
       "trend": 50,
@@ -811,70 +814,10 @@
       "date": "2026-05-21"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-21"
-    },
-    {
-      "name": "agentmemory",
-      "author": "rohitg00",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "link": "https://github.com/rohitg00/agentmemory",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-21"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-21"
-    },
-    {
-      "name": "RuView",
-      "author": "ruvnet",
-      "description": "Let's use AI to Earn!",
-      "link": "https://github.com/ruvnet/RuView",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-21"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "link": "https://github.com/apps/dependabot",
+      "name": "codegraph",
+      "author": "colbymchenry",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "link": "https://github.com/colbymchenry/codegraph",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -888,23 +831,56 @@
     {
       "name": "academic-research-skills",
       "author": "Imbad0202",
-      "description": "Your agent writes bad React. This catches it",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "link": "https://github.com/Imbad0202/academic-research-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-21"
     },
     {
-      "name": "bun",
-      "author": "oven-sh",
-      "description": "Public repository for Agent Skills",
-      "link": "https://github.com/oven-sh/bun",
+      "name": "agentmemory",
+      "author": "rohitg00",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "link": "https://github.com/rohitg00/agentmemory",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-05-21"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "A fast type checker and language server for Python",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-05-21"
+    },
+    {
+      "name": "RuView",
+      "author": "ruvnet",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "link": "https://github.com/ruvnet/RuView",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -916,16 +892,46 @@
       "date": "2026-05-21"
     },
     {
-      "name": "AiToEarn",
-      "author": "yikart",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/yikart/AiToEarn",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-21"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "AI"
+        }
+      ],
+      "date": "2026-05-21"
+    },
+    {
+      "name": "12-factor-agents",
+      "author": "humanlayer",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/humanlayer/12-factor-agents",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-05-21"
@@ -1176,6 +1182,25 @@
       ],
       "icon": "🦙",
       "date": "2026-05-21"
+    },
+    {
+      "name": "openai-cookbook",
+      "author": "openai",
+      "description": "OpenAI官方示例和最佳实践，涵盖各类API用法和Prompt工程技巧",
+      "link": "https://github.com/openai/openai-cookbook",
+      "stars": 60000,
+      "trend": 400,
+      "forks": 9700,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Prompt"
+        }
+      ],
+      "icon": "📖",
+      "date": "2026-05-21"
     }
   ],
   "agents": [
@@ -1191,47 +1216,26 @@
       "date": "2026-05-21"
     },
     {
-      "title": "开源项目: manifest.json",
+      "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "link": "https://github.com/manifest.json",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 4324,
+      "likes": 3045,
       "date": "2026-05-21"
     },
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
       "link": "https://github.com/collections",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 2046,
-      "date": "2026-05-21"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Let's use AI to Earn!",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
-      "date": "2026-05-21"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-05-21"
     },
     {
@@ -1427,6 +1431,32 @@
         "剪映"
       ],
       "likes": 18500,
+      "date": "2026-05-21"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
+      "date": "2026-05-21"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
       "date": "2026-05-21"
     }
   ],
