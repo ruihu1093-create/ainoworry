@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21 19:48:53",
+  "updatedAt": "2026-05-21 21:24:16",
   "news": [
     {
       "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
@@ -69,6 +69,15 @@
       "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
       "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
       "source": "TechCrunch-AI",
+      "date": "2026-05-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
+      "summary": "In this episode of Uncanny Valley, we unpack the mass layoffs at Meta, big announcements at Google I/O, and the latest backlash against AI.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
+      "source": "Wired-AI",
       "date": "2026-05-21",
       "tag": "trend",
       "tagText": "资讯"
@@ -146,18 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
-      "summary": "Vibe-coded results! Super widgets! Bots that never sleep! Google’s vision for the future of Search is hyper-personalized, automated, and extremely AI.",
-      "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
-      "source": "Wired-AI",
-      "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Scaling creativity in the age of AI",
-      "summary": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always bee",
-      "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+      "title": "Roundtables: Can AI Learn to Understand the World?",
+      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recen",
+      "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-21",
       "tag": "trend",
