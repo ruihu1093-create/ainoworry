@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-05-22 14:31:17",
+  "updatedAt": "2026-05-22 17:05:57",
   "news": [
+    {
+      "title": "You can no longer Google the word ‘disregard’",
+      "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+      "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view",
+      "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
       "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists ",
@@ -65,20 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-      "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortu",
-      "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
-      "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
-      "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-21",
+      "title": "Even If You Hate AI, You Will Use Google AI Search",
+      "summary": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
+      "link": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+      "source": "Wired-AI",
+      "date": "2026-05-22",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
       "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
       "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
-      "source": "Wired-AI",
-      "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
-      "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming t",
-      "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
       "source": "Wired-AI",
       "date": "2026-05-19",
       "tag": "trend",
@@ -619,24 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "Walmart warns of price increases due to fuel costs",
-      "content": "The retailer expects somewhat higher retail price inflation in Q2 if the fuel shocks from the war in Iran persist. However, Walmart maintained its full-year guidance.",
-      "link": "https://www.retaildive.com/news/walmart-price-increases-iran-war-fuel-costs-q1/820845/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-21"
-    },
-    {
-      "title": "Lee jeans sold to brand management firm for up to $1B",
-      "content": "The denim label is the latest IP to be scooped up by Authentic Brands Group, which is aiming for&nbsp;$100 billion in annual retail sales.",
-      "link": "https://www.retaildive.com/news/kontoor-sells-lee-jeans-authentic-brands-one-billion/820843/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-21"
-    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
