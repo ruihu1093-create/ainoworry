@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22 04:57:58",
+  "updatedAt": "2026-05-22 08:23:34",
   "news": [
     {
       "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "AI+供应链：大模型与智能决策如何重构供应链全链路| 2026AI Partner·北京亦庄AI+产业大会",
+      "content": "AI究竟如何为产业创造价值？见证AI从“热点”转化为“生产力”的关键一跃。\n  今天的顺丰已经用AI调度着中国三分之一的航空货运。从百万人的协同、二十万辆车的调度，到每天五千万票件的动态路由——物流供应链的复杂度，正是AI落地的最佳试验田。一个超大规模网络如何用大模型、Agent和运筹算法，将“24小时达”从承诺变成日常，并将这份能力输送给更多中国企业。",
+      "link": "https://36kr.com/p/3820107133555077?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-22"
+    },
     {
       "title": "Walmart warns of price increases due to fuel costs",
       "content": "The retailer expects somewhat higher retail price inflation in Q2 if the fuel shocks from the war in Iran persist. However, Walmart maintained its full-year guidance.",
