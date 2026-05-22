@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22 08:23:34",
+  "updatedAt": "2026-05-22 11:43:06",
   "news": [
     {
       "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
+      "summary": "Hyperscalers are pushing the Gulf to rethink internet infrastructure as AI raises the stakes of cable disruptions.",
+      "link": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
+      "source": "Wired-AI",
+      "date": "2026-05-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
       "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s mete",
       "link": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
@@ -149,15 +158,6 @@
       "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
       "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming t",
       "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
-      "source": "Wired-AI",
-      "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
-      "summary": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
-      "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
       "source": "Wired-AI",
       "date": "2026-05-19",
       "tag": "trend",
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "AI+供应链：大模型与智能决策如何重构供应链全链路| 2026AI Partner·北京亦庄AI+产业大会",
-      "content": "AI究竟如何为产业创造价值？见证AI从“热点”转化为“生产力”的关键一跃。\n  今天的顺丰已经用AI调度着中国三分之一的航空货运。从百万人的协同、二十万辆车的调度，到每天五千万票件的动态路由——物流供应链的复杂度，正是AI落地的最佳试验田。一个超大规模网络如何用大模型、Agent和运筹算法，将“24小时达”从承诺变成日常，并将这份能力输送给更多中国企业。",
-      "link": "https://36kr.com/p/3820107133555077?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-22"
-    },
-    {
       "title": "Walmart warns of price increases due to fuel costs",
       "content": "The retailer expects somewhat higher retail price inflation in Q2 if the fuel shocks from the war in Iran persist. However, Walmart maintained its full-year guidance.",
       "link": "https://www.retaildive.com/news/walmart-price-increases-iran-war-fuel-costs-q1/820845/",
@@ -784,10 +775,10 @@
   ],
   "github": [
     {
-      "name": "explore",
-      "author": "sponsors",
+      "name": "developers",
+      "author": "trending",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "link": "https://github.com/sponsors/explore",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -801,7 +792,7 @@
     {
       "name": "openhuman",
       "author": "tinyhumansai",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "link": "https://github.com/tinyhumansai/openhuman",
       "stars": 0,
       "trend": 50,
@@ -814,64 +805,16 @@
       "date": "2026-05-22"
     },
     {
-      "name": "codegraph",
-      "author": "colbymchenry",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "link": "https://github.com/colbymchenry/codegraph",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-22"
-    },
-    {
-      "name": "academic-research-skills",
-      "author": "Imbad0202",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "link": "https://github.com/Imbad0202/academic-research-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-22"
-    },
-    {
-      "name": "agentmemory",
-      "author": "rohitg00",
-      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
-      "link": "https://github.com/rohitg00/agentmemory",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-05-22"
-    },
-    {
-      "name": "dependabot",
+      "name": "github-actions",
       "author": "apps",
-      "description": "A fast type checker and language server for Python",
-      "link": "https://github.com/apps/dependabot",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "Agent"
         }
       ],
       "date": "2026-05-22"
@@ -879,14 +822,14 @@
     {
       "name": "RuView",
       "author": "ruvnet",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "link": "https://github.com/ruvnet/RuView",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-22"
@@ -909,8 +852,53 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
       "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-05-22"
+    },
+    {
+      "name": "agentmemory",
+      "author": "rohitg00",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "link": "https://github.com/rohitg00/agentmemory",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-22"
+    },
+    {
+      "name": "supertonic",
+      "author": "supertone-inc",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "link": "https://github.com/supertone-inc/supertonic",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-22"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Learn it. Build it. Ship it for others.",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -932,6 +920,21 @@
       "tags": [
         {
           "name": "Agent"
+        }
+      ],
+      "date": "2026-05-22"
+    },
+    {
+      "name": "ai-engineering-from-scratch",
+      "author": "rohitg00",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-05-22"
@@ -1182,48 +1185,29 @@
       ],
       "icon": "🦙",
       "date": "2026-05-22"
-    },
-    {
-      "name": "openai-cookbook",
-      "author": "openai",
-      "description": "OpenAI官方示例和最佳实践，涵盖各类API用法和Prompt工程技巧",
-      "link": "https://github.com/openai/openai-cookbook",
-      "stars": 60000,
-      "trend": 400,
-      "forks": 9700,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Prompt"
-        }
-      ],
-      "icon": "📖",
-      "date": "2026-05-22"
     }
   ],
   "agents": [
     {
-      "title": "开源项目: opensearch.xml",
+      "title": "开源项目: manifest.json",
       "author": "@anonymous",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "link": "https://github.com/opensearch.xml",
+      "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
       ],
-      "likes": 2325,
+      "likes": 4324,
       "date": "2026-05-22"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: topics",
       "author": "@anonymous",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "link": "https://github.com/explore",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 3045,
+      "likes": 1697,
       "date": "2026-05-22"
     },
     {
