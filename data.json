@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22 17:05:57",
+  "updatedAt": "2026-05-22 19:29:19",
   "news": [
     {
       "title": "You can no longer Google the word ‘disregard’",
@@ -14,6 +14,15 @@
       "title": "We tried Google’s AI glasses and they’re almost there",
       "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view",
       "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "SpaceX files to go public, and the math requires a little faith",
+      "summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and",
+      "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
       "source": "TechCrunch-AI",
       "date": "2026-05-22",
       "tag": "trend",
@@ -59,24 +68,6 @@
       "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
       "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
       "link": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-      "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
-      "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
-      "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and",
-      "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
       "source": "TechCrunch-AI",
       "date": "2026-05-21",
       "tag": "trend",
@@ -158,6 +149,15 @@
       "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
       "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
       "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
+      "source": "Wired-AI",
+      "date": "2026-05-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
+      "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming t",
+      "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
       "source": "Wired-AI",
       "date": "2026-05-19",
       "tag": "trend",
