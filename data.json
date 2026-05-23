@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-23 11:07:42",
+  "updatedAt": "2026-05-23 13:16:37",
   "news": [
+    {
+      "title": "Elon Musk has given up on solar power (on Earth)",
+      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he p",
+      "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "AI is being used to resurrect the voices of dead pilots",
       "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
@@ -59,15 +68,6 @@
       "title": "Six search engines worth trying now that Google isn’t really Google anymore",
       "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
       "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
-      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfacti",
-      "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
       "source": "TechCrunch-AI",
       "date": "2026-05-21",
       "tag": "trend",
