@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23 09:48:03",
+  "updatedAt": "2026-05-23 11:07:42",
   "news": [
     {
       "title": "AI is being used to resurrect the voices of dead pilots",
@@ -886,10 +886,10 @@
       "date": "2026-05-23"
     },
     {
-      "name": "supertonic",
-      "author": "supertone-inc",
+      "name": "CloakBrowser",
+      "author": "CloakHQ",
       "description": "An agentic skills framework &amp; software development methodology that works.",
-      "link": "https://github.com/supertone-inc/supertonic",
+      "link": "https://github.com/CloakHQ/CloakBrowser",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -903,14 +903,29 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Learn it. Build it. Ship it for others.",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-23"
+    },
+    {
+      "name": "ViMax",
+      "author": "HKUDS",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "link": "https://github.com/HKUDS/ViMax",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-05-23"
@@ -926,21 +941,6 @@
       "tags": [
         {
           "name": "Agent"
-        }
-      ],
-      "date": "2026-05-23"
-    },
-    {
-      "name": "ai-engineering-from-scratch",
-      "author": "rohitg00",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
         }
       ],
       "date": "2026-05-23"
