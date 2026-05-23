@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-23 14:57:25",
+  "updatedAt": "2026-05-23 16:03:05",
   "news": [
+    {
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+      "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Elon Musk has given up on solar power (on Earth)",
       "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he p",
@@ -59,15 +68,6 @@
       "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
       "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists ",
       "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
-      "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
-      "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
       "source": "TechCrunch-AI",
       "date": "2026-05-21",
       "tag": "trend",
