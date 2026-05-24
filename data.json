@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-24 20:51:02",
+  "updatedAt": "2026-05-24 21:52:58",
   "news": [
+    {
+      "title": "Everyone is navigating AI security in real time — even Google",
+      "summary": "We're in the transition period -- all of us.",
+      "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
       "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
@@ -59,15 +68,6 @@
       "title": "We tried Google’s AI glasses and they’re almost there",
       "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view",
       "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "SpaceX files to go public, and the math requires a little faith",
-      "summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and",
-      "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
       "source": "TechCrunch-AI",
       "date": "2026-05-22",
       "tag": "trend",
