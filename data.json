@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-24 14:59:48",
+  "updatedAt": "2026-05-24 16:08:13",
   "news": [
+    {
+      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+      "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Ferrari is using IBM’s AI to create F1 superfans",
       "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
@@ -61,15 +70,6 @@
       "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
       "source": "TechCrunch-AI",
       "date": "2026-05-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-      "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists ",
-      "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-21",
       "tag": "trend",
       "tagText": "资讯"
     },
