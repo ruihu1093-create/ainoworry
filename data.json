@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24 09:19:25",
+  "updatedAt": "2026-05-24 11:13:08",
   "news": [
     {
       "title": "Ferrari is using IBM’s AI to create F1 superfans",
@@ -70,6 +70,15 @@
       "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
       "source": "TechCrunch-AI",
       "date": "2026-05-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
+      "summary": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.",
+      "link": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+      "source": "Wired-AI",
+      "date": "2026-05-24",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
       "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
       "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
-      "source": "Wired-AI",
-      "date": "2026-05-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
-      "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming t",
-      "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
       "source": "Wired-AI",
       "date": "2026-05-19",
       "tag": "trend",
@@ -798,7 +798,7 @@
     {
       "name": "openhuman",
       "author": "tinyhumansai",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "description": "Learn it. Build it. Ship it for others.",
       "link": "https://github.com/tinyhumansai/openhuman",
       "stars": 0,
       "trend": 50,
@@ -811,10 +811,10 @@
       "date": "2026-05-24"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
+      "name": "academic-research-skills",
+      "author": "Imbad0202",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/Imbad0202/academic-research-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -826,76 +826,16 @@
       "date": "2026-05-24"
     },
     {
-      "name": "RuView",
-      "author": "ruvnet",
+      "name": "ai-engineering-from-scratch",
+      "author": "rohitg00",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "link": "https://github.com/ruvnet/RuView",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "AI"
-        }
-      ],
-      "date": "2026-05-24"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-24"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-05-24"
-    },
-    {
-      "name": "agentmemory",
-      "author": "rohitg00",
-      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
-      "link": "https://github.com/rohitg00/agentmemory",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-24"
-    },
-    {
-      "name": "CloakBrowser",
-      "author": "CloakHQ",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "link": "https://github.com/CloakHQ/CloakBrowser",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-05-24"
@@ -916,10 +856,10 @@
       "date": "2026-05-24"
     },
     {
-      "name": "ViMax",
-      "author": "HKUDS",
-      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "link": "https://github.com/HKUDS/ViMax",
+      "name": "rohitg00",
+      "author": "sponsors",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "link": "https://github.com/sponsors/rohitg00",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -931,10 +871,70 @@
       "date": "2026-05-24"
     },
     {
-      "name": "12-factor-agents",
-      "author": "humanlayer",
+      "name": "agentmemory",
+      "author": "rohitg00",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "link": "https://github.com/rohitg00/agentmemory",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-24"
+    },
+    {
+      "name": "Understand-Anything",
+      "author": "Lum1104",
+      "description": "Orca is the next-gen ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "link": "https://github.com/Lum1104/Understand-Anything",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-24"
+    },
+    {
+      "name": "CloakBrowser",
+      "author": "CloakHQ",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "link": "https://github.com/CloakHQ/CloakBrowser",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-24"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Let's use AI to Earn!",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-24"
+    },
+    {
+      "name": "scientific-agent-skills",
+      "author": "K-Dense-AI",
       "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/humanlayer/12-factor-agents",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -970,26 +970,25 @@
       "date": "2026-05-24"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "link": "https://github.com/topics",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
+      "likes": 3045,
       "date": "2026-05-24"
     },
     {
-      "title": "开源项目: collections",
+      "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
-      "link": "https://github.com/collections",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "link": "https://github.com/events",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
-      "likes": 2046,
+      "likes": 2526,
       "date": "2026-05-24"
     },
     {
