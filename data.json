@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-25 17:39:53",
+  "updatedAt": "2026-05-25 19:24:10",
   "news": [
+    {
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+      "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The pope’s AI encyclical isn’t really about AI",
       "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the ",
@@ -50,15 +59,6 @@
       "title": "AI is being used to resurrect the voices of dead pilots",
       "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
       "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups ",
-      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
-      "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
       "source": "TechCrunch-AI",
       "date": "2026-05-22",
       "tag": "trend",
