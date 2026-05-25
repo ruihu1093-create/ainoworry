@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-25 12:25:25",
+  "updatedAt": "2026-05-25 15:47:53",
   "news": [
+    {
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the ",
+      "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Everyone is navigating AI security in real time — even Google",
       "summary": "We're in the transition period -- all of us.",
@@ -50,24 +59,6 @@
       "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups ",
       "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
       "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "You can no longer Google the word ‘disregard’",
-      "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-      "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "We tried Google’s AI glasses and they’re almost there",
-      "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view",
-      "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
       "source": "TechCrunch-AI",
       "date": "2026-05-22",
       "tag": "trend",
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
       "source": "Wired-AI",
       "date": "2026-05-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-05-22",
       "tag": "trend",
       "tagText": "资讯"
     },
