@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25 08:17:48",
+  "updatedAt": "2026-05-25 12:25:25",
   "news": [
     {
       "title": "Everyone is navigating AI security in real time — even Google",
@@ -70,6 +70,15 @@
       "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
       "source": "TechCrunch-AI",
       "date": "2026-05-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+      "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
+      "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+      "source": "Wired-AI",
+      "date": "2026-05-25",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
       "source": "Wired-AI",
       "date": "2026-05-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
-      "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
-      "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
-      "source": "Wired-AI",
-      "date": "2026-05-19",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -798,7 +798,7 @@
     {
       "name": "openhuman",
       "author": "tinyhumansai",
-      "description": "Learn it. Build it. Ship it for others.",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "link": "https://github.com/tinyhumansai/openhuman",
       "stars": 0,
       "trend": 50,
@@ -826,9 +826,24 @@
       "date": "2026-05-25"
     },
     {
+      "name": "rohitg00",
+      "author": "sponsors",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "link": "https://github.com/sponsors/rohitg00",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-25"
+    },
+    {
       "name": "ai-engineering-from-scratch",
       "author": "rohitg00",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
       "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars": 0,
       "trend": 50,
@@ -841,9 +856,24 @@
       "date": "2026-05-25"
     },
     {
+      "name": "RuView",
+      "author": "ruvnet",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "link": "https://github.com/ruvnet/RuView",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-25"
+    },
+    {
       "name": "dependabot",
       "author": "apps",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "description": "Open Source Voice Agent Platform",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -856,9 +886,24 @@
       "date": "2026-05-25"
     },
     {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-25"
+    },
+    {
       "name": "rohitg00",
       "author": "sponsors",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "link": "https://github.com/sponsors/rohitg00",
       "stars": 0,
       "trend": 50,
@@ -873,23 +918,8 @@
     {
       "name": "agentmemory",
       "author": "rohitg00",
-      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
       "link": "https://github.com/rohitg00/agentmemory",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-25"
-    },
-    {
-      "name": "Understand-Anything",
-      "author": "Lum1104",
-      "description": "Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "link": "https://github.com/Lum1104/Understand-Anything",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -903,44 +933,14 @@
     {
       "name": "CloakBrowser",
       "author": "CloakHQ",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "description": "一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。 支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。",
       "link": "https://github.com/CloakHQ/CloakBrowser",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-25"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Let's use AI to Earn!",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
           "name": "AI"
-        }
-      ],
-      "date": "2026-05-25"
-    },
-    {
-      "name": "scientific-agent-skills",
-      "author": "K-Dense-AI",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-05-25"
@@ -970,14 +970,14 @@
       "date": "2026-05-25"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: topics",
       "author": "@anonymous",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "link": "https://github.com/explore",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 3045,
+      "likes": 1697,
       "date": "2026-05-25"
     },
     {
@@ -989,6 +989,17 @@
         "GitHub"
       ],
       "likes": 2526,
+      "date": "2026-05-25"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Open Source Voice Agent Platform",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-05-25"
     },
     {
@@ -1184,19 +1195,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-05-25"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
       "date": "2026-05-25"
     }
   ],
