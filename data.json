@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24 23:57:02",
+  "updatedAt": "2026-05-25 03:55:29",
   "news": [
     {
       "title": "Everyone is navigating AI security in real time — even Google",
@@ -168,7 +168,7 @@
       "summary": "o3在国际数学奥林匹克测试中近满分，代码能力超越99%程序员，推理成本较o1降低90%。",
       "link": "https://openai.com/o3",
       "source": "量子位",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -177,7 +177,7 @@
       "summary": "谷歌将实时多模态AI助手集成进Pixel设备和智能眼镜，支持持续感知周围环境并主动提醒。",
       "link": "https://io.google.com/",
       "source": "机器之心",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -186,7 +186,7 @@
       "summary": "Amazon领投，Anthropic将资金用于训练下一代Claude模型和扩大算力储备。",
       "link": "https://www.anthropic.com/",
       "source": "新智元",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -195,7 +195,7 @@
       "summary": "深度求索开源6710亿参数混合专家模型，推理成本极低，迅速在GitHub获得数万star。",
       "link": "https://chat.deepseek.com/",
       "source": "晚点LatePost",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -204,7 +204,7 @@
       "summary": "Operator能够自主浏览网页、填写表单、下单购物，成为首个真正可用的通用网页Agent。",
       "link": "https://openai.com/",
       "source": "暗涌Waves",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -213,7 +213,7 @@
       "summary": "AI搜索引擎月活超1亿，日查询量突破5亿，已开始冲击谷歌搜索市场份额。",
       "link": "https://www.perplexity.ai/",
       "source": "Founder Park",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -222,7 +222,7 @@
       "summary": "Cursor年经常性收入突破1亿美元，成为史上最快达成该里程碑的开发工具。",
       "link": "https://cursor.com/",
       "source": "特工宇宙",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -231,7 +231,7 @@
       "summary": "谷歌Gemini 2.5 Pro在编程、推理和长文本理解三个维度全面领先，Blind竞技场排名第一。",
       "link": "https://gemini.google.com/",
       "source": "机器之心",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -240,7 +240,7 @@
       "summary": "阿里发布2350亿参数旗舰模型，支持思考模式切换，多项评测超越GPT-4o。",
       "link": "https://chat.qwen.ai/",
       "source": "量子位",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -249,7 +249,7 @@
       "summary": "Grok 3接入X平台实时数据，推理能力大幅提升，支持深度思考模式和图像理解。",
       "link": "https://grok.x.ai/",
       "source": "晚点LatePost",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -258,7 +258,7 @@
       "summary": "Gen-4可跨场景保持人物/道具外观一致，解决了AI视频生成的核心痛点。",
       "link": "https://runwayml.com/",
       "source": "新智元",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -267,7 +267,7 @@
       "summary": "2026年Q1 AI Agent领域融资超200亿美元，Coze、Dify、AutoGen等平台均完成重要融资。",
       "link": "https://www.geekpark.net/",
       "source": "极客公园",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "tag": "trend",
       "tagText": "趋势"
     }
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "京东加码商业地产，推出更高级大MALL",
+      "content": "今年4月，京东开启“扫货式”拿地。\n  4月20日，京东花6.63亿竞得杭州钱江世纪城沿江商业用地；4月21日，京东在北京亦庄又花了17.57亿，拿下亦庄新城2宗商业金融用地；4月10日、11日，京东还在宿迁接连拿下两个地块，总价约3.69亿，总建筑面积高达57.2万平方米。单月斥资27.89亿元加仓。\n  就在很多人以为京东还是在玩老一套的时候，5",
+      "link": "https://36kr.com/p/3824126842179969?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-25"
+    },
+    {
       "title": "功效洗护市场，跑不出下一个完美日记",
       "content": "走进美国 Sephora、Ulta 或欧洲 Douglas 这样的美妆零售集合店，货架上的景象或许会让你感到意外：占据大量陈列面积的，不只是护肤品，还有护发产品。从基础清洁，到去屑、防脱，再到头皮微生态、蛋白键修护、抗热损伤等护理产品，护发区的复杂程度已经几乎与护肤区无异。\n  根据市场研究机构 Circana 的数据，2025 年美国高端护发零售市场同比增长 8",
       "link": "https://36kr.com/p/3819023278048643?f=rss",
@@ -629,22 +638,13 @@
       "date": "2026-05-24"
     },
     {
-      "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
-      "content": "AI浓度并非越高越好，转化率的秘密在于人机共生的平衡点。\n  “AI应像手机一样贯穿全流程”，而面对亲子游客和老年群体，主动将AI浓度降至50%，却实现了超50%的转化率。浓度的关键是以人为本、文化温度先行。\n  以下为圆桌对话内容，经36氪整理编辑：\n  <img data-img-size",
-      "link": "https://36kr.com/p/3821519307591811?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-23"
-    },
-    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "京东言犀大模型客服覆盖全品类，问题解决率92%",
@@ -653,7 +653,7 @@
       "source": "京东",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "拼多多AI商品描述自动生成，商家效率提升10倍",
@@ -662,7 +662,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "TikTok Shop AI选品系统全球上线",
@@ -671,7 +671,7 @@
       "source": "TechCrunch",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "Shopify AI建站+运营一键通：从选品到广告全自动",
@@ -680,7 +680,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "SHEIN AI设计系统：7天从趋势到上架",
@@ -689,7 +689,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "亚马逊AI定价系统：实时竞争对手监控+自动调价",
@@ -698,7 +698,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "抖音AI直播间：数字人主播全天无休带货",
@@ -707,7 +707,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "Temu AI供应链优化：海外仓备货准确率提升60%",
@@ -716,7 +716,7 @@
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "微信小店AI推荐算法升级，私域转化率翻番",
@@ -725,7 +725,7 @@
       "source": "极客公园",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "跨境卖家AI客服工具：支持40+语言实时翻译",
@@ -734,7 +734,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "天猫AI主图生成：上新效率提升5倍",
@@ -743,7 +743,7 @@
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "小红书AI种草内容审核：违规率降至0.1%",
@@ -752,7 +752,7 @@
       "source": "极客公园",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "eBay AI鉴定系统：二手商品真伪识别准确率99%",
@@ -761,7 +761,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "唯品会AI个性化专场：精准匹配打折商品与用户喜好",
@@ -770,7 +770,7 @@
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     }
   ],
   "github": [
@@ -787,7 +787,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "name": "developers",
@@ -802,7 +802,7 @@
           "name": "AI"
         }
       ],
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "name": "openhuman",
@@ -817,7 +817,7 @@
           "name": "AI"
         }
       ],
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "name": "academic-research-skills",
@@ -832,7 +832,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "name": "ai-engineering-from-scratch",
@@ -847,7 +847,7 @@
           "name": "AI"
         }
       ],
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "name": "dependabot",
@@ -862,7 +862,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "name": "rohitg00",
@@ -877,7 +877,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "name": "agentmemory",
@@ -892,12 +892,12 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "name": "Understand-Anything",
       "author": "Lum1104",
-      "description": "Orca is the next-gen ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "link": "https://github.com/Lum1104/Understand-Anything",
       "stars": 0,
       "trend": 50,
@@ -907,7 +907,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "name": "CloakBrowser",
@@ -922,7 +922,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "name": "dependabot",
@@ -937,7 +937,7 @@
           "name": "AI"
         }
       ],
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "name": "scientific-agent-skills",
@@ -952,7 +952,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     }
   ],
   "agents": [
@@ -965,7 +965,7 @@
         "GitHub"
       ],
       "likes": 2325,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "开源项目: manifest.json",
@@ -976,7 +976,7 @@
         "GitHub"
       ],
       "likes": 4324,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "开源项目: explore",
@@ -987,7 +987,7 @@
         "GitHub"
       ],
       "likes": 3045,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "开源项目: events",
@@ -998,7 +998,7 @@
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "独立开发者用AI搭建自动化内容工厂",
@@ -1011,7 +1011,7 @@
         "Zapier"
       ],
       "likes": 2340,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "退休教师用AI创作儿童故事系列",
@@ -1024,7 +1024,7 @@
         "小红书"
       ],
       "likes": 5670,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "全职妈妈用AI开启副业月入2万",
@@ -1037,7 +1037,7 @@
         "1688"
       ],
       "likes": 8920,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "自由设计师的AI工作流完整分享",
@@ -1050,7 +1050,7 @@
         "Figma AI"
       ],
       "likes": 3120,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "乡村教师搭建AI英语陪练系统",
@@ -1063,7 +1063,7 @@
         "TTS"
       ],
       "likes": 15600,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "律师打造合同审查AI助手，效率提升10倍",
@@ -1076,7 +1076,7 @@
         "RAG"
       ],
       "likes": 4560,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "中学老师用AI批改作文，从4小时到20分钟",
@@ -1089,7 +1089,7 @@
         "Python"
       ],
       "likes": 7830,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "地方创业者用AI做非遗文创，登上央视",
@@ -1102,7 +1102,7 @@
         "淘宝"
       ],
       "likes": 12400,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "保险代理人打造AI客户服务助手",
@@ -1115,7 +1115,7 @@
         "微信"
       ],
       "likes": 2890,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "农村电商创业者AI选品系统月销百万",
@@ -1128,7 +1128,7 @@
         "1688"
       ],
       "likes": 9600,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "医生用AI整理患者随访记录",
@@ -1141,7 +1141,7 @@
         "Excel"
       ],
       "likes": 5210,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "婚庆公司AI策划：从5小时到30分钟",
@@ -1154,7 +1154,7 @@
         "Canva"
       ],
       "likes": 4100,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "编剧用AI预研剧本：6个月工作量缩至2周",
@@ -1167,7 +1167,7 @@
         "Notion"
       ],
       "likes": 3780,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "财务顾问搭建AI报表分析助手",
@@ -1180,7 +1180,7 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "旅游博主AI生成攻略，月入10万",
@@ -1193,7 +1193,7 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     },
     {
       "title": "餐厅老板AI菜单设计+营销一体化",
@@ -1206,7 +1206,7 @@
         "美团"
       ],
       "likes": 2650,
-      "date": "2026-05-24"
+      "date": "2026-05-25"
     }
   ],
   "personalization": {
