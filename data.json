@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26 05:00:10",
+  "updatedAt": "2026-05-26 08:39:25",
   "news": [
     {
       "title": "What ClickUp’s mass layoff tells us about the future of work",
@@ -873,14 +873,17 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Open Source Voice Agent Platform",
+      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "LLM"
+        },
+        {
+          "name": "Audio"
         }
       ],
       "date": "2026-05-26"
@@ -994,10 +997,11 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Open Source Voice Agent Platform",
+      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflo",
       "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 7510,
       "date": "2026-05-26"
