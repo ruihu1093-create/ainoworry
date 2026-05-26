@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-05-26 08:39:25",
+  "updatedAt": "2026-05-26 16:39:32",
   "news": [
+    {
+      "title": "This startup is betting India’s gig economy can train the world’s robots",
+      "summary": "Human Archive, a startup founded by Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices ",
+      "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies",
+      "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "What ClickUp’s mass layoff tells us about the future of work",
       "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
@@ -47,20 +65,83 @@
       "tagText": "资讯"
     },
     {
-      "title": "Elon Musk has given up on solar power (on Earth)",
-      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he p",
-      "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-23",
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "source": "Wired-AI",
+      "date": "2026-05-26",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "AI is being used to resurrect the voices of dead pilots",
-      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
-      "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-22",
+      "title": "AI Is Taking Over the Most Cursed Job in the World",
+      "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
+      "link": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+      "source": "Wired-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?",
+      "summary": "Cooking. Doing laundry. Tidying up. All your household tasks can be turned into data to train future humanoids—if you’re prepared for the consequences",
+      "link": "https://www.wired.com/story/household-chores-training-robots/",
+      "source": "Wired-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Quiz: Will AI Destroy Your Career?",
+      "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
+      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+      "source": "Wired-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+      "link": "https://www.wired.com/story/fact-checking-ai/",
+      "source": "Wired-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "To Land a Job in AI, Try Reading Kant",
+      "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another ins",
+      "link": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
+      "source": "Wired-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
+      "summary": "AI could make you redundant. Here’s what you need to know.",
+      "link": "https://www.wired.com/story/ai-or-die-trying/",
+      "source": "Wired-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
+      "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
+      "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
+      "source": "Wired-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
+      "summary": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category o",
+      "link": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
+      "source": "Wired-AI",
+      "date": "2026-05-26",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -74,92 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
-      "summary": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.",
-      "link": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
-      "source": "Wired-AI",
-      "date": "2026-05-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Even If You Hate AI, You Will Use Google AI Search",
-      "summary": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
-      "link": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
-      "source": "Wired-AI",
-      "date": "2026-05-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
-      "summary": "Hyperscalers are pushing the Gulf to rethink internet infrastructure as AI raises the stakes of cable disruptions.",
-      "link": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
-      "source": "Wired-AI",
-      "date": "2026-05-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
-      "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s mete",
-      "link": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
-      "source": "Wired-AI",
-      "date": "2026-05-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
-      "summary": "In this episode of Uncanny Valley, we unpack the mass layoffs at Meta, big announcements at Google I/O, and the latest backlash against AI.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
-      "source": "Wired-AI",
-      "date": "2026-05-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me",
-      "summary": "I used the Gemini app to generate lifelike videos featuring a digital clone of myself. Google sees this as the future of creation. I’m still creeped o",
-      "link": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
-      "source": "Wired-AI",
-      "date": "2026-05-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
-      "summary": "The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created ",
-      "link": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
-      "source": "Wired-AI",
-      "date": "2026-05-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers",
-      "summary": "The investment comes as Elon Musk’s AI unit faces complaints about the carbon-emitting units and looks to become a big player in cloud computing.",
-      "link": "https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/",
-      "source": "Wired-AI",
-      "date": "2026-05-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I Gave My OpenClaw Agent a Physical Body",
-      "summary": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
-      "link": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
-      "source": "Wired-AI",
-      "date": "2026-05-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organ",
+      "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
       "source": "MIT-Tech-Review",
-      "date": "2026-05-22",
+      "date": "2026-05-26",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -629,6 +629,15 @@
       "date": "2026-05-26"
     },
     {
+      "title": "Google launches cross-retailer Universal Cart",
+      "content": "<img src=\"https://imgproxy.divecdn.com/aTBt91mOl_JRShq2jcNHgdk8rqCpNb5k2ipmneLg8WE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTzIwMjZTaG9wcGluZ19oZXJvX0dHSEJubEcu",
+      "link": "https://www.retaildive.com/news/google-launches-cross-retailer-universal-cart/820957/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-05-26"
+    },
+    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -768,7 +777,7 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
@@ -781,10 +790,25 @@
       "date": "2026-05-26"
     },
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "Understand-Anything",
+      "author": "Lum1104",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/Lum1104/Understand-Anything",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-26"
+    },
+    {
+      "name": "ai-engineering-from-scratch",
+      "author": "rohitg00",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -798,14 +822,14 @@
     {
       "name": "openhuman",
       "author": "tinyhumansai",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
       "link": "https://github.com/tinyhumansai/openhuman",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-05-26"
@@ -821,36 +845,6 @@
       "tags": [
         {
           "name": "Agent"
-        }
-      ],
-      "date": "2026-05-26"
-    },
-    {
-      "name": "rohitg00",
-      "author": "sponsors",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "link": "https://github.com/sponsors/rohitg00",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-26"
-    },
-    {
-      "name": "ai-engineering-from-scratch",
-      "author": "rohitg00",
-      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
         }
       ],
       "date": "2026-05-26"
@@ -873,17 +867,14 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
+      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
-        },
-        {
-          "name": "Audio"
+          "name": "Vision"
         }
       ],
       "date": "2026-05-26"
@@ -904,16 +895,16 @@
       "date": "2026-05-26"
     },
     {
-      "name": "rohitg00",
-      "author": "sponsors",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "link": "https://github.com/sponsors/rohitg00",
+      "name": "ViMax",
+      "author": "HKUDS",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "link": "https://github.com/HKUDS/ViMax",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "LLM"
         }
       ],
       "date": "2026-05-26"
@@ -921,7 +912,7 @@
     {
       "name": "agentmemory",
       "author": "rohitg00",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
       "link": "https://github.com/rohitg00/agentmemory",
       "stars": 0,
       "trend": 50,
@@ -934,16 +925,34 @@
       "date": "2026-05-26"
     },
     {
-      "name": "CloakBrowser",
-      "author": "CloakHQ",
-      "description": "一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。 支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。",
-      "link": "https://github.com/CloakHQ/CloakBrowser",
+      "name": "oh-my-pi",
+      "author": "can1357",
+      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
+      "link": "https://github.com/can1357/oh-my-pi",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "LLM"
+        },
+        {
+          "name": "Audio"
+        }
+      ],
+      "date": "2026-05-26"
+    },
+    {
+      "name": "Sana",
+      "author": "NVlabs",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "link": "https://github.com/NVlabs/Sana",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-05-26"
@@ -953,7 +962,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, and Hermes Agent — fewer tokens, fewer tool calls, 100",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -962,20 +971,9 @@
       "date": "2026-05-26"
     },
     {
-      "title": "开源项目: manifest.json",
-      "author": "@anonymous",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "link": "https://github.com/manifest.json",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 4324,
-      "date": "2026-05-26"
-    },
-    {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -984,24 +982,23 @@
       "date": "2026-05-26"
     },
     {
-      "title": "开源项目: events",
+      "title": "开源项目: collections",
       "author": "@anonymous",
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "link": "https://github.com/events",
+      "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
-      "likes": 2526,
+      "likes": 2046,
       "date": "2026-05-26"
     },
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflo",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
       "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 7510,
       "date": "2026-05-26"
@@ -1199,6 +1196,19 @@
         "剪映"
       ],
       "likes": 18500,
+      "date": "2026-05-26"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
       "date": "2026-05-26"
     }
   ],
