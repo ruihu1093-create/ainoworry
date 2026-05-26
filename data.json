@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-26 21:40:25",
+  "updatedAt": "2026-05-26 23:06:16",
   "news": [
+    {
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users se",
+      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenRouter more than doubles valuation to $1.3B in a year",
       "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
@@ -56,15 +65,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
-      "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
       "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
       "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
@@ -77,15 +77,6 @@
       "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
       "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
       "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
-      "source": "Wired-AI",
-      "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
       "source": "Wired-AI",
       "date": "2026-05-26",
       "tag": "trend",
@@ -119,9 +110,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
-      "link": "https://www.wired.com/story/fact-checking-ai/",
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
       "source": "Wired-AI",
       "date": "2026-05-26",
       "tag": "trend",
@@ -149,6 +140,15 @@
       "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
       "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
       "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
+      "source": "Wired-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+      "link": "https://www.wired.com/story/fact-checking-ai/",
       "source": "Wired-AI",
       "date": "2026-05-26",
       "tag": "trend",
@@ -835,9 +835,24 @@
       "date": "2026-05-26"
     },
     {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-26"
+    },
+    {
       "name": "academic-research-skills",
       "author": "Imbad0202",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "link": "https://github.com/Imbad0202/academic-research-skills",
       "stars": 0,
       "trend": 50,
@@ -852,23 +867,8 @@
     {
       "name": "RuView",
       "author": "ruvnet",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "link": "https://github.com/ruvnet/RuView",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-26"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
       "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
-      "link": "https://github.com/apps/dependabot",
+      "link": "https://github.com/ruvnet/RuView",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -880,10 +880,10 @@
       "date": "2026-05-26"
     },
     {
-      "name": "github-actions",
+      "name": "dependabot",
       "author": "apps",
       "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -895,10 +895,10 @@
       "date": "2026-05-26"
     },
     {
-      "name": "ViMax",
-      "author": "HKUDS",
+      "name": "github-actions",
+      "author": "apps",
       "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
-      "link": "https://github.com/HKUDS/ViMax",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -912,8 +912,29 @@
     {
       "name": "agentmemory",
       "author": "rohitg00",
-      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
       "link": "https://github.com/rohitg00/agentmemory",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Audio"
+        }
+      ],
+      "date": "2026-05-26"
+    },
+    {
+      "name": "oh-my-pi",
+      "author": "can1357",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "link": "https://github.com/can1357/oh-my-pi",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -925,28 +946,10 @@
       "date": "2026-05-26"
     },
     {
-      "name": "oh-my-pi",
-      "author": "can1357",
-      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
-      "link": "https://github.com/can1357/oh-my-pi",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Audio"
-        }
-      ],
-      "date": "2026-05-26"
-    },
-    {
-      "name": "Sana",
-      "author": "NVlabs",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "link": "https://github.com/NVlabs/Sana",
+      "name": "presenton",
+      "author": "presenton",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "link": "https://github.com/presenton/presenton",
       "stars": 0,
       "trend": 50,
       "forks": 10,
