@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26 19:15:34",
+  "updatedAt": "2026-05-26 21:40:25",
   "news": [
     {
       "title": "OpenRouter more than doubles valuation to $1.3B in a year",
@@ -65,6 +65,33 @@
       "tagText": "资讯"
     },
     {
+      "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+      "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
+      "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+      "source": "Wired-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
+      "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
+      "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+      "source": "Wired-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "source": "Wired-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Quiz: Will AI Destroy Your Career?",
       "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
       "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
@@ -92,9 +119,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+      "link": "https://www.wired.com/story/fact-checking-ai/",
       "source": "Wired-AI",
       "date": "2026-05-26",
       "tag": "trend",
@@ -119,38 +146,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
-      "link": "https://www.wired.com/story/fact-checking-ai/",
-      "source": "Wired-AI",
-      "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
       "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
       "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
       "source": "Wired-AI",
       "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
-      "summary": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category o",
-      "link": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
-      "source": "Wired-AI",
-      "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The AI Era Is Creating a Bug-Hunting Arms Race",
-      "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
-      "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
-      "source": "Wired-AI",
-      "date": "2026-05-25",
       "tag": "trend",
       "tagText": "资讯"
     },
