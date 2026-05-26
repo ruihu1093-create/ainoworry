@@ -1,9 +1,18 @@
 {
-  "updatedAt": "2026-05-26 16:39:32",
+  "updatedAt": "2026-05-26 19:15:34",
   "news": [
     {
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "This startup is betting India’s gig economy can train the world’s robots",
-      "summary": "Human Archive, a startup founded by Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices ",
+      "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devic",
       "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
       "source": "TechCrunch-AI",
       "date": "2026-05-26",
@@ -12,7 +21,7 @@
     },
     {
       "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies",
+      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
       "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
       "source": "TechCrunch-AI",
       "date": "2026-05-26",
@@ -56,18 +65,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "Ferrari is using IBM’s AI to create F1 superfans",
-      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
-      "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "title": "Quiz: Will AI Destroy Your Career?",
+      "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
+      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
       "source": "Wired-AI",
       "date": "2026-05-26",
       "tag": "trend",
@@ -92,18 +92,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "Quiz: Will AI Destroy Your Career?",
-      "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
-      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
-      "source": "Wired-AI",
-      "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
-      "link": "https://www.wired.com/story/fact-checking-ai/",
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
       "source": "Wired-AI",
       "date": "2026-05-26",
       "tag": "trend",
@@ -128,6 +119,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+      "link": "https://www.wired.com/story/fact-checking-ai/",
+      "source": "Wired-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
       "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
       "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
@@ -146,7 +146,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+      "title": "The AI Era Is Creating a Bug-Hunting Arms Race",
       "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
       "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
       "source": "Wired-AI",
