@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-05-27 11:34:53",
+  "updatedAt": "2026-05-27 15:30:50",
   "news": [
+    {
+      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
+      "summary": "SOND, a startup led by Bose’s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds.",
+      "link": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "China is increasingly keeping its best AI talent to itself",
+      "summary": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
+      "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "YouTube will now automatically label AI videos",
+      "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated con",
+      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "summary": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
+      "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
+      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
       "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users se",
@@ -11,56 +56,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
-      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "This startup is betting India’s gig economy can train the world’s robots",
-      "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devic",
-      "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
-      "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "What ClickUp’s mass layoff tells us about the future of work",
-      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
-      "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The pope’s AI encyclical isn’t really about AI",
-      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the ",
-      "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Everyone is navigating AI security in real time — even Google",
-      "summary": "We're in the transition period -- all of us.",
-      "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-24",
+      "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
+      "summary": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuousl",
+      "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+      "source": "Wired-AI",
+      "date": "2026-05-27",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -146,11 +146,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
-      "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
-      "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
-      "source": "Wired-AI",
-      "date": "2026-05-26",
+      "title": "The Download: keeping up with AI, and the future of IVF",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-05-27",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -906,29 +906,14 @@
     {
       "name": "openhuman",
       "author": "tinyhumansai",
-      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "link": "https://github.com/tinyhumansai/openhuman",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-27"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Fully autonomous &amp; self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
+          "name": "LLM"
         }
       ],
       "date": "2026-05-27"
@@ -936,8 +921,23 @@
     {
       "name": "oh-my-pi",
       "author": "can1357",
-      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "description": "Fully autonomous &amp; self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
       "link": "https://github.com/can1357/oh-my-pi",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-27"
+    },
+    {
+      "name": "plugins",
+      "author": "cursor",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "link": "https://github.com/cursor/plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
