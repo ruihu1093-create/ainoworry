@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27 07:09:59",
+  "updatedAt": "2026-05-27 11:34:53",
   "news": [
     {
       "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
@@ -101,18 +101,18 @@
       "tagText": "资讯"
     },
     {
-      "title": "Quiz: Will AI Destroy Your Career?",
-      "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
-      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+      "title": "AI Is Taking Over the Most Cursed Job in the World",
+      "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
+      "link": "https://www.wired.com/story/ai-takes-over-debt-collection/",
       "source": "Wired-AI",
       "date": "2026-05-26",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "AI Is Taking Over the Most Cursed Job in the World",
-      "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
-      "link": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+      "title": "Quiz: Will AI Destroy Your Career?",
+      "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
+      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
       "source": "Wired-AI",
       "date": "2026-05-26",
       "tag": "trend",
@@ -128,9 +128,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "To Land a Job in AI, Try Reading Kant",
-      "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another ins",
-      "link": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
+      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+      "link": "https://www.wired.com/story/fact-checking-ai/",
       "source": "Wired-AI",
       "date": "2026-05-26",
       "tag": "trend",
@@ -146,9 +146,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
-      "link": "https://www.wired.com/story/fact-checking-ai/",
+      "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
+      "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
+      "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
       "source": "Wired-AI",
       "date": "2026-05-26",
       "tag": "trend",
@@ -781,24 +781,9 @@
       "date": "2026-05-27"
     },
     {
-      "name": "Understand-Anything",
-      "author": "Lum1104",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "link": "https://github.com/Lum1104/Understand-Anything",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-27"
-    },
-    {
       "name": "ai-engineering-from-scratch",
       "author": "rohitg00",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars": 0,
       "trend": 50,
@@ -811,10 +796,10 @@
       "date": "2026-05-27"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
+      "name": "RuView",
+      "author": "ruvnet",
       "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/ruvnet/RuView",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -826,16 +811,16 @@
       "date": "2026-05-27"
     },
     {
-      "name": "openhuman",
-      "author": "tinyhumansai",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "link": "https://github.com/tinyhumansai/openhuman",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-27"
@@ -858,23 +843,8 @@
     {
       "name": "academic-research-skills",
       "author": "Imbad0202",
-      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+      "description": "A skill file for removing AI tells from prose",
       "link": "https://github.com/Imbad0202/academic-research-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Vision"
-        }
-      ],
-      "date": "2026-05-27"
-    },
-    {
-      "name": "RuView",
-      "author": "ruvnet",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "link": "https://github.com/ruvnet/RuView",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -886,25 +856,25 @@
       "date": "2026-05-27"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
-      "link": "https://github.com/apps/dependabot",
+      "name": "OpenWA",
+      "author": "rmyndharis",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "link": "https://github.com/rmyndharis/OpenWA",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "Agent"
         }
       ],
       "date": "2026-05-27"
     },
     {
-      "name": "rohitg00",
-      "author": "sponsors",
+      "name": "dependabot",
+      "author": "apps",
       "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
-      "link": "https://github.com/sponsors/rohitg00",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -919,10 +889,10 @@
       "date": "2026-05-27"
     },
     {
-      "name": "agentmemory",
-      "author": "rohitg00",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "link": "https://github.com/rohitg00/agentmemory",
+      "name": "ViMax",
+      "author": "HKUDS",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+      "link": "https://github.com/HKUDS/ViMax",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -934,16 +904,46 @@
       "date": "2026-05-27"
     },
     {
-      "name": "presenton",
-      "author": "sponsors",
-      "description": "Repository for skills to assist AI coding agents with .NET and C#",
-      "link": "https://github.com/sponsors/presenton",
+      "name": "openhuman",
+      "author": "tinyhumansai",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "link": "https://github.com/tinyhumansai/openhuman",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-27"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Fully autonomous &amp; self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-27"
+    },
+    {
+      "name": "oh-my-pi",
+      "author": "can1357",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "link": "https://github.com/can1357/oh-my-pi",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
         }
       ],
       "date": "2026-05-27"
@@ -962,20 +962,9 @@
       "date": "2026-05-27"
     },
     {
-      "title": "开源项目: topics",
-      "author": "@anonymous",
-      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 1697,
-      "date": "2026-05-27"
-    },
-    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -984,14 +973,14 @@
       "date": "2026-05-27"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "link": "https://github.com/sponsors/explore",
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
-      "likes": 7510,
+      "likes": 2526,
       "date": "2026-05-27"
     },
     {
@@ -1200,6 +1189,19 @@
         "美团"
       ],
       "likes": 2650,
+      "date": "2026-05-27"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
       "date": "2026-05-27"
     }
   ],
