@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-05-27 15:30:50",
+  "updatedAt": "2026-05-27 18:23:47",
   "news": [
+    {
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused ",
+      "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+      "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
       "summary": "SOND, a startup led by Bose’s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds.",
@@ -34,24 +52,6 @@
       "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
       "source": "TechCrunch-AI",
       "date": "2026-05-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
-      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users se",
-      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-26",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -137,15 +137,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
-      "summary": "AI could make you redundant. Here’s what you need to know.",
-      "link": "https://www.wired.com/story/ai-or-die-trying/",
-      "source": "Wired-AI",
-      "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "The Download: keeping up with AI, and the future of IVF",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
@@ -158,6 +149,15 @@
       "title": "Rethinking organizational design in the age of agentic AI",
       "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organ",
       "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: puncturing the AI jobs panic",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-26",
       "tag": "trend",
