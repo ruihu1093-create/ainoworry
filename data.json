@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27 02:59:24",
+  "updatedAt": "2026-05-27 07:09:59",
   "news": [
     {
       "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "source": "Wired-AI",
+      "date": "2026-05-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Quiz: Will AI Destroy Your Career?",
       "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
       "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
@@ -113,15 +122,6 @@
       "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?",
       "summary": "Cooking. Doing laundry. Tidying up. All your household tasks can be turned into data to train future humanoids—if you’re prepared for the consequences",
       "link": "https://www.wired.com/story/household-chores-training-robots/",
-      "source": "Wired-AI",
-      "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
       "source": "Wired-AI",
       "date": "2026-05-26",
       "tag": "trend",
