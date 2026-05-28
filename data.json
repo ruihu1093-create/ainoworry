@@ -1,9 +1,81 @@
 {
-  "updatedAt": "2026-05-28 12:23:08",
+  "updatedAt": "2026-05-28 16:52:03",
   "news": [
     {
+      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+      "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payment",
+      "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like t",
+      "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+      "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+      "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "RSI is the new AGI — and it’s just as hard to pin down",
+      "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+      "link": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+      "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it",
+      "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+      "summary": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
+      "link": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Visa invests in Replit to power agentic payments for developers",
+      "summary": "Visa said that over 1,000 employees has been using Replit for prototyping and development",
+      "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Has the hunt for AI compute uncovered the next Cerebras?",
+      "summary": "General Compute is betting SambaNova will be the next breakout chipmaker.",
+      "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-      "summary": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury fi",
+      "summary": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury fi",
       "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
       "source": "TechCrunch-AI",
       "date": "2026-05-28",
@@ -11,47 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Why Google’s AI can’t spell Google (or anything else)",
-      "summary": "Google is embarrassing itself, again.",
-      "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-      "source": "TechCrunch-AI",
+      "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
+      "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
+      "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
+      "source": "Wired-AI",
       "date": "2026-05-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-      "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-      "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
-      "summary": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI ",
-      "link": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-      "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused ",
-      "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-      "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
-      "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-27",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -119,47 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "AI Is Taking Over the Most Cursed Job in the World",
-      "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
-      "link": "https://www.wired.com/story/ai-takes-over-debt-collection/",
-      "source": "Wired-AI",
-      "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The AI Hype Index: AI gets booed in graduation season",
-      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt",
-      "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "title": "The Download: climate tech goes public and the AI Hype Index returns",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: keeping up with AI, and the future of IVF",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-05-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Rethinking organizational design in the age of agentic AI",
-      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organ",
-      "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: puncturing the AI jobs panic",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-05-26",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,13 +620,13 @@
   ],
   "ecommerce": [
     {
-      "title": "Google launches cross-retailer Universal Cart",
-      "content": "<img src=\"https://imgproxy.divecdn.com/aTBt91mOl_JRShq2jcNHgdk8rqCpNb5k2ipmneLg8WE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTzIwMjZTaG9wcGluZ19oZXJvX0dHSEJubEcu",
-      "link": "https://www.retaildive.com/news/google-launches-cross-retailer-universal-cart/820957/",
+      "title": "Best Buy incoming CEO: ‘We’re not just a retailer anymore’",
+      "content": "<img src=\"https://imgproxy.divecdn.com/43ZtubM5CT0CcgBU0dZP0qfH4x_X-aIhN9YzgWxWd6Q/g:nowe:84:244/c:1178:665/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjQzNC5qcGVn",
+      "link": "https://www.retaildive.com/news/best-buy-ceo-jason-bonfig-not-retailer-anymore-q1-earnings/821354/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-05-26"
+      "date": "2026-05-28"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
