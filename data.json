@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-28 08:39:23",
+  "updatedAt": "2026-05-28 12:23:08",
   "news": [
+    {
+      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+      "summary": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury fi",
+      "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Why Google’s AI can’t spell Google (or anything else)",
       "summary": "Google is embarrassing itself, again.",
@@ -43,6 +52,15 @@
       "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
       "source": "TechCrunch-AI",
       "date": "2026-05-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
+      "summary": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
+      "link": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
+      "source": "Wired-AI",
+      "date": "2026-05-28",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -110,20 +128,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Quiz: Will AI Destroy Your Career?",
-      "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
-      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
-      "source": "Wired-AI",
-      "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?",
-      "summary": "Cooking. Doing laundry. Tidying up. All your household tasks can be turned into data to train future humanoids—if you’re prepared for the consequences",
-      "link": "https://www.wired.com/story/household-chores-training-robots/",
-      "source": "Wired-AI",
-      "date": "2026-05-26",
+      "title": "The AI Hype Index: AI gets booed in graduation season",
+      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt",
+      "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-05-28",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "The Download: puncturing the AI jobs panic",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A reality check on the AI jobs hysteria",
-      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisc",
-      "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-26",
       "tag": "trend",
@@ -766,10 +766,10 @@
   ],
   "github": [
     {
-      "name": "explore",
-      "author": "sponsors",
+      "name": "developers",
+      "author": "trending",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "link": "https://github.com/sponsors/explore",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -781,9 +781,24 @@
       "date": "2026-05-28"
     },
     {
+      "name": "rohitg00",
+      "author": "sponsors",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "link": "https://github.com/sponsors/rohitg00",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-05-28"
+    },
+    {
       "name": "ai-engineering-from-scratch",
       "author": "rohitg00",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
       "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars": 0,
       "trend": 50,
@@ -796,9 +811,54 @@
       "date": "2026-05-28"
     },
     {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "A skill file for removing AI tells from prose",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-28"
+    },
+    {
+      "name": "MoneyPrinterTurbo",
+      "author": "harry0703",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-28"
+    },
+    {
+      "name": "presenton",
+      "author": "presenton",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "link": "https://github.com/presenton/presenton",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-28"
+    },
+    {
       "name": "RuView",
       "author": "ruvnet",
-      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "link": "https://github.com/ruvnet/RuView",
       "stars": 0,
       "trend": 50,
@@ -813,68 +873,8 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-28"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-28"
-    },
-    {
-      "name": "academic-research-skills",
-      "author": "Imbad0202",
-      "description": "A skill file for removing AI tells from prose",
-      "link": "https://github.com/Imbad0202/academic-research-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-28"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-28"
-    },
-    {
-      "name": "ViMax",
-      "author": "HKUDS",
       "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
-      "link": "https://github.com/HKUDS/ViMax",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -889,40 +889,10 @@
       "date": "2026-05-28"
     },
     {
-      "name": "openhuman",
-      "author": "tinyhumansai",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
-      "link": "https://github.com/tinyhumansai/openhuman",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-28"
-    },
-    {
       "name": "github-actions",
       "author": "apps",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-05-28"
-    },
-    {
-      "name": "plugins",
-      "author": "cursor",
-      "description": "Fully autonomous &amp; self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "link": "https://github.com/cursor/plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -934,10 +904,25 @@
       "date": "2026-05-28"
     },
     {
-      "name": "stop-slop",
-      "author": "hardikpandya",
-      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
-      "link": "https://github.com/hardikpandya/stop-slop",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "author": "mukul975",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-28"
+    },
+    {
+      "name": "plugins",
+      "author": "cursor",
+      "description": "Fully automatic censorship removal for language models",
+      "link": "https://github.com/cursor/plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -947,24 +932,61 @@
         }
       ],
       "date": "2026-05-28"
+    },
+    {
+      "name": "agent-governance-toolkit",
+      "author": "microsoft",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/microsoft/agent-governance-toolkit",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-28"
     }
   ],
   "agents": [
     {
-      "title": "开源项目: opensearch.xml",
+      "title": "开源项目: manifest.json",
       "author": "@anonymous",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool call",
-      "link": "https://github.com/opensearch.xml",
+      "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
       ],
-      "likes": 2325,
+      "likes": 4324,
+      "date": "2026-05-28"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@anonymous",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "link": "https://github.com/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 3045,
+      "date": "2026-05-28"
+    },
+    {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "A skill file for removing AI tells from prose",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
       "date": "2026-05-28"
     },
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · ag",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -973,14 +995,14 @@
       "date": "2026-05-28"
     },
     {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "link": "https://github.com/events",
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 2526,
+      "likes": 7510,
       "date": "2026-05-28"
     },
     {
@@ -1176,32 +1198,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-05-28"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
-      "date": "2026-05-28"
-    },
-    {
-      "title": "心理咨询师AI预约+回访系统",
-      "author": "@心理小林",
-      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
-      "link": "https://dify.ai/",
-      "tools": [
-        "Dify",
-        "Coze",
-        "微信"
-      ],
-      "likes": 3940,
       "date": "2026-05-28"
     }
   ],
