@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-05-28 19:34:14",
+  "updatedAt": "2026-05-28 21:52:56",
   "news": [
     {
-      "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
+      "title": "The internet is being rebuilt for machines",
+      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-g",
+      "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Asana acquires no-code agent-builder StackAI",
+      "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
+      "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
       "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundrai",
       "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
       "source": "TechCrunch-AI",
@@ -29,7 +47,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
       "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payment",
       "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
       "source": "TechCrunch-AI",
@@ -59,24 +77,6 @@
       "title": "RSI is the new AGI — and it’s just as hard to pin down",
       "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
       "link": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
-      "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it",
-      "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
-      "summary": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
-      "link": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
       "source": "TechCrunch-AI",
       "date": "2026-05-28",
       "tag": "trend",
