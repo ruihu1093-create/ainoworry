@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-05-29 17:33:35",
+  "updatedAt": "2026-05-29 20:15:24",
   "news": [
+    {
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo",
+      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "What happens when companies become too AI-pilled?",
+      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder A",
+      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
       "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining ",
@@ -56,20 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Asana acquires no-code agent-builder StackAI",
-      "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
-      "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-      "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundrai",
-      "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-28",
+      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
+      "summary": "Google’s new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to m",
+      "link": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
+      "source": "Wired-AI",
+      "date": "2026-05-29",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -131,15 +140,6 @@
       "title": "Pope Leo Schooled the Tech Bros on Tolkien",
       "summary": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterp",
       "link": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
-      "source": "Wired-AI",
-      "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
-      "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
-      "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
       "source": "Wired-AI",
       "date": "2026-05-26",
       "tag": "trend",
