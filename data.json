@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-05-29 13:57:02",
+  "updatedAt": "2026-05-29 17:33:35",
   "news": [
+    {
+      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining ",
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers",
+      "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
+      "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
       "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
@@ -11,7 +38,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
       "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
       "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
       "source": "TechCrunch-AI",
@@ -47,38 +74,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
-      "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw",
-      "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-28",
+      "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
+      "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
+      "link": "https://www.wired.com/story/future-of-truth-ai-interview/",
+      "source": "Wired-AI",
+      "date": "2026-05-29",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
-      "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
-      "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
-      "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payment",
-      "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-      "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like t",
-      "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-28",
+      "title": "The Vatican’s Man Inside Anthropic",
+      "summary": "Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry.",
+      "link": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
+      "source": "Wired-AI",
+      "date": "2026-05-29",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -137,27 +146,18 @@
       "tagText": "资讯"
     },
     {
-      "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
-      "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
-      "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
-      "source": "Wired-AI",
-      "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
-      "source": "Wired-AI",
-      "date": "2026-05-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "The Download: unlocking lithium and controlling Ebola",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-05-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The deadly Ebola outbreak is proving difficult to control",
+      "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness",
+      "link": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-29",
       "tag": "trend",
@@ -619,24 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "8点1氪丨Anthropic完成650亿融资，估值9650亿首次反超OpenAI；售卖不合格足银手镯，周六福被罚；黄仁勋加入清华大学，任经管学院顾问",
-      "content": "今日热点导览\n  \n   盒马APP可下单租地种菜？客服：正在小范围试点\n   追觅回应“机构报价一天4980元，能与追觅核心高管面对面交流”\n   京东：未来5年培养10万名工程师\n   蔚来CEO李斌：原材料价格上涨，整车成本已涨了1万元左右\n   加密币集体下跌，加密币24",
-      "link": "https://36kr.com/p/3829622140593288?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-29"
-    },
-    {
-      "title": "Best Buy incoming CEO: ‘We’re not just a retailer anymore’",
-      "content": "<img src=\"https://imgproxy.divecdn.com/43ZtubM5CT0CcgBU0dZP0qfH4x_X-aIhN9YzgWxWd6Q/g:nowe:84:244/c:1178:665/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjQzNC5qcGVn",
-      "link": "https://www.retaildive.com/news/best-buy-ceo-jason-bonfig-not-retailer-anymore-q1-earnings/821354/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-05-28"
-    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
