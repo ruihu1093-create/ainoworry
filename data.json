@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-29 10:42:44",
+  "updatedAt": "2026-05-29 13:57:02",
   "news": [
+    {
+      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+      "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+      "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
       "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
@@ -68,15 +77,6 @@
       "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
       "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like t",
       "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
-      "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app.",
-      "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
       "source": "TechCrunch-AI",
       "date": "2026-05-28",
       "tag": "trend",
@@ -155,9 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Te",
-      "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "title": "The Download: unlocking lithium and controlling Ebola",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
       "source": "MIT-Tech-Review",
       "date": "2026-05-29",
       "tag": "trend",
@@ -777,23 +777,8 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "link": "https://github.com/trending/developers",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-29"
-    },
-    {
-      "name": "rohitg00",
-      "author": "sponsors",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "link": "https://github.com/sponsors/rohitg00",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -805,39 +790,9 @@
       "date": "2026-05-29"
     },
     {
-      "name": "ai-engineering-from-scratch",
-      "author": "rohitg00",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-29"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "A skill file for removing AI tells from prose",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-29"
-    },
-    {
       "name": "MoneyPrinterTurbo",
       "author": "harry0703",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "link": "https://github.com/harry0703/MoneyPrinterTurbo",
       "stars": 0,
       "trend": 50,
@@ -850,10 +805,25 @@
       "date": "2026-05-29"
     },
     {
-      "name": "presenton",
-      "author": "presenton",
-      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
-      "link": "https://github.com/presenton/presenton",
+      "name": "ai-engineering-from-scratch",
+      "author": "rohitg00",
+      "description": "A skill file for removing AI tells from prose",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-29"
+    },
+    {
+      "name": "codegraph",
+      "author": "colbymchenry",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+      "link": "https://github.com/colbymchenry/codegraph",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -865,25 +835,40 @@
       "date": "2026-05-29"
     },
     {
-      "name": "RuView",
-      "author": "ruvnet",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "link": "https://github.com/ruvnet/RuView",
+      "name": "knowledge-work-plugins",
+      "author": "anthropics",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-29"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
+      "name": "stop-slop",
+      "author": "hardikpandya",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "link": "https://github.com/hardikpandya/stop-slop",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-05-29"
+    },
+    {
+      "name": "claude-plugins-official",
+      "author": "anthropics",
       "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
-      "link": "https://github.com/apps/dependabot",
+      "link": "https://github.com/anthropics/claude-plugins-official",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -898,25 +883,10 @@
       "date": "2026-05-29"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-05-29"
-    },
-    {
-      "name": "Anthropic-Cybersecurity-Skills",
-      "author": "mukul975",
-      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "name": "mukul975",
+      "author": "sponsors",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "link": "https://github.com/sponsors/mukul975",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -928,10 +898,40 @@
       "date": "2026-05-29"
     },
     {
-      "name": "plugins",
-      "author": "cursor",
+      "name": "claude",
+      "author": "apps",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "link": "https://github.com/apps/claude",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-29"
+    },
+    {
+      "name": "Leonxlnx",
+      "author": "sponsors",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "link": "https://github.com/sponsors/Leonxlnx",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-29"
+    },
+    {
+      "name": "taste-skill",
+      "author": "Leonxlnx",
       "description": "Fully automatic censorship removal for language models",
-      "link": "https://github.com/cursor/plugins",
+      "link": "https://github.com/Leonxlnx/taste-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -943,10 +943,10 @@
       "date": "2026-05-29"
     },
     {
-      "name": "agent-governance-toolkit",
-      "author": "microsoft",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/microsoft/agent-governance-toolkit",
+      "name": "dograh",
+      "author": "dograh-hq",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "link": "https://github.com/dograh-hq/dograh",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -962,10 +962,11 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool call",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "link": "https://github.com/manifest.json",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 4324,
       "date": "2026-05-29"
@@ -973,7 +974,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "description": "A skill file for removing AI tells from prose",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -982,20 +983,9 @@
       "date": "2026-05-29"
     },
     {
-      "title": "开源项目: topics",
-      "author": "@anonymous",
-      "description": "A skill file for removing AI tells from prose",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 1697,
-      "date": "2026-05-29"
-    },
-    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · ag",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1004,12 +994,24 @@
       "date": "2026-05-29"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
-      "link": "https://github.com/sponsors/explore",
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
+      ],
+      "likes": 2526,
+      "date": "2026-05-29"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflo",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub",
+        "LLM"
       ],
       "likes": 7510,
       "date": "2026-05-29"
