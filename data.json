@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-29 20:15:24",
+  "updatedAt": "2026-05-29 22:26:25",
   "news": [
+    {
+      "title": "Coders are refusing to work without AI — and that could come back to bite them ",
+      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for",
+      "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
       "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo",
@@ -20,9 +29,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
       "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining ",
-      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
       "source": "TechCrunch-AI",
       "date": "2026-05-29",
       "tag": "trend",
@@ -32,6 +41,15 @@
       "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
       "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers",
       "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
+      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder A",
+      "link": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
       "source": "TechCrunch-AI",
       "date": "2026-05-29",
       "tag": "trend",
@@ -56,20 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
-      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
-      "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-      "source": "TechCrunch-AI",
+      "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
+      "summary": "Loryn Brantz created The Good Advice Cupcake for BuzzFeed years ago. The company licensed the character for a new Amazon series—made with AI—without h",
+      "link": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
+      "source": "Wired-AI",
       "date": "2026-05-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The internet is being rebuilt for machines",
-      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-g",
-      "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-28",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -133,15 +142,6 @@
       "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
       "source": "Wired-AI",
       "date": "2026-05-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Pope Leo Schooled the Tech Bros on Tolkien",
-      "summary": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterp",
-      "link": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
-      "source": "Wired-AI",
-      "date": "2026-05-26",
       "tag": "trend",
       "tagText": "资讯"
     },
