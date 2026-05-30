@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-05-30 15:03:02",
+  "updatedAt": "2026-05-30 16:58:35",
   "news": [
+    {
+      "title": "Meta is reportedly developing an AI pendant",
+      "summary": "Meta seems to be making big bets on AI-powered hardware.",
+      "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+      "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
       "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
@@ -50,24 +68,6 @@
       "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
       "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers",
       "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
-      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder A",
-      "link": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
-      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
-      "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
       "source": "TechCrunch-AI",
       "date": "2026-05-29",
       "tag": "trend",
