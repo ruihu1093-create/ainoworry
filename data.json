@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30 07:38:08",
+  "updatedAt": "2026-05-30 09:56:17",
   "news": [
     {
       "title": "Coders are refusing to work without AI — and that could come back to bite them ",
@@ -74,6 +74,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Do You Actually Need to Pay for Transcription Software?",
+      "summary": "I tested Wispr Flow and various AI-powered transcription software to see whether you should bother subscribing or stick with free services.",
+      "link": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
+      "source": "Wired-AI",
+      "date": "2026-05-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
       "summary": "Loryn Brantz created The Good Advice Cupcake for BuzzFeed years ago. The company licensed the character for a new Amazon series—made with AI—without h",
       "link": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
@@ -133,15 +142,6 @@
       "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
       "source": "Wired-AI",
       "date": "2026-05-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
-      "summary": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuousl",
-      "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
-      "source": "Wired-AI",
-      "date": "2026-05-27",
       "tag": "trend",
       "tagText": "资讯"
     },
