@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-31 14:29:19",
+  "updatedAt": "2026-05-31 16:03:30",
   "news": [
+    {
+      "title": "Making sense of the debate over AI psychosis",
+      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+      "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "SoftBank says it will invest up to €75 billion to build French data centers",
       "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
@@ -68,15 +77,6 @@
       "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
       "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining ",
       "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
-      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers",
-      "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
       "source": "TechCrunch-AI",
       "date": "2026-05-29",
       "tag": "trend",
