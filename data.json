@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-31 20:54:57",
+  "updatedAt": "2026-05-31 21:56:40",
   "news": [
+    {
+      "title": "Erin Brockovich takes aim at data center secrecy",
+      "summary": "Environmental activist Erin Brockovich has a new mission.",
+      "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Making sense of the debate over AI psychosis",
       "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
@@ -68,15 +77,6 @@
       "title": "What happens when companies become too AI-pilled?",
       "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder A",
       "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining ",
-      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
       "source": "TechCrunch-AI",
       "date": "2026-05-29",
       "tag": "trend",
