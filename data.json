@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31 10:11:31",
+  "updatedAt": "2026-05-31 12:09:23",
   "news": [
     {
       "title": "SoftBank says it will invest up to €75 billion to build French data centers",
@@ -772,16 +772,16 @@
       "date": "2026-05-31"
     },
     {
-      "name": "rohitg00",
-      "author": "sponsors",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "link": "https://github.com/sponsors/rohitg00",
+      "name": "knowledge-work-plugins",
+      "author": "anthropics",
+      "description": "A skill file for removing AI tells from prose",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-05-31"
@@ -789,7 +789,7 @@
     {
       "name": "ai-engineering-from-scratch",
       "author": "rohitg00",
-      "description": "A skill file for removing AI tells from prose",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars": 0,
       "trend": 50,
@@ -804,7 +804,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -817,64 +817,31 @@
       "date": "2026-05-31"
     },
     {
-      "name": "knowledge-work-plugins",
-      "author": "anthropics",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "name": "stop-slop",
+      "author": "hardikpandya",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+      "link": "https://github.com/hardikpandya/stop-slop",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-05-31"
     },
     {
-      "name": "mukul975",
-      "author": "sponsors",
+      "name": "markitdown",
+      "author": "microsoft",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "link": "https://github.com/sponsors/mukul975",
+      "link": "https://github.com/microsoft/markitdown",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        }
-      ],
-      "date": "2026-05-31"
-    },
-    {
-      "name": "claude",
-      "author": "apps",
-      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-      "link": "https://github.com/apps/claude",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-05-31"
-    },
-    {
-      "name": "Leonxlnx",
-      "author": "sponsors",
-      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
-      "link": "https://github.com/sponsors/Leonxlnx",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Audio"
         }
       ],
       "date": "2026-05-31"
@@ -895,10 +862,25 @@
       "date": "2026-05-31"
     },
     {
-      "name": "markitdown",
-      "author": "microsoft",
-      "description": "agent multiplexer that lives in your terminal.",
-      "link": "https://github.com/microsoft/markitdown",
+      "name": "codegraph",
+      "author": "colbymchenry",
+      "description": "Fully automatic censorship removal for language models",
+      "link": "https://github.com/colbymchenry/codegraph",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-05-31"
+    },
+    {
+      "name": "mukul975",
+      "author": "sponsors",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "link": "https://github.com/sponsors/mukul975",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -910,16 +892,19 @@
       "date": "2026-05-31"
     },
     {
-      "name": "claude-plugins-official",
-      "author": "anthropics",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "link": "https://github.com/anthropics/claude-plugins-official",
+      "name": "claude",
+      "author": "apps",
+      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
+      "link": "https://github.com/apps/claude",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "LLM"
+        },
+        {
+          "name": "Audio"
         }
       ],
       "date": "2026-05-31"
@@ -927,14 +912,29 @@
     {
       "name": "affaan-m",
       "author": "sponsors",
-      "description": "Fully automatic censorship removal for language models",
+      "description": "agent multiplexer that lives in your terminal.",
       "link": "https://github.com/sponsors/affaan-m",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-05-31"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-05-31"
@@ -954,20 +954,9 @@
       "date": "2026-05-31"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@anonymous",
-      "description": "A skill file for removing AI tells from prose",
-      "link": "https://github.com/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 3045,
-      "date": "2026-05-31"
-    },
-    {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · ag",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -976,14 +965,25 @@
       "date": "2026-05-31"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "link": "https://github.com/sponsors/explore",
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · ag",
+      "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
-      "likes": 7510,
+      "likes": 2046,
+      "date": "2026-05-31"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
       "date": "2026-05-31"
     },
     {
