@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31 17:58:26",
+  "updatedAt": "2026-05-31 19:23:08",
   "news": [
     {
       "title": "Making sense of the debate over AI psychosis",
@@ -892,10 +892,10 @@
       "date": "2026-05-31"
     },
     {
-      "name": "claude",
-      "author": "apps",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "author": "mukul975",
       "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
-      "link": "https://github.com/apps/claude",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -910,10 +910,10 @@
       "date": "2026-05-31"
     },
     {
-      "name": "affaan-m",
-      "author": "sponsors",
+      "name": "claude",
+      "author": "apps",
       "description": "agent multiplexer that lives in your terminal.",
-      "link": "https://github.com/sponsors/affaan-m",
+      "link": "https://github.com/apps/claude",
       "stars": 0,
       "trend": 50,
       "forks": 10,
