@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-05-31 07:41:45",
+  "updatedAt": "2026-05-31 10:11:31",
   "news": [
+    {
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "source": "TechCrunch-AI",
+      "date": "2026-05-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meta is reportedly developing an AI pendant",
       "summary": "Meta seems to be making big bets on AI-powered hardware.",
@@ -74,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "How Turkey Hacked the Hair Transplant Industry",
+      "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant proces",
+      "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+      "source": "Wired-AI",
+      "date": "2026-05-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Do You Actually Need to Pay for Transcription Software?",
       "summary": "I tested Wispr Flow and various AI-powered transcription software to see whether you should bother subscribing or stick with free services.",
       "link": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
       "source": "Wired-AI",
       "date": "2026-05-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: unlocking lithium and controlling Ebola",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-05-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The deadly Ebola outbreak is proving difficult to control",
-      "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness",
-      "link": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-05-29",
       "tag": "trend",
       "tagText": "资讯"
     },
