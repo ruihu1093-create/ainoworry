@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01 05:58:39",
+  "updatedAt": "2026-06-01 11:46:16",
   "news": [
     {
       "title": "Erin Brockovich takes aim at data center secrecy",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
+      "summary": "Dozens of people have complained to the Federal Trade Commission about Norse Atlantic Airways’ tech-first customer service operation. Some said they l",
+      "link": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
+      "source": "Wired-AI",
+      "date": "2026-06-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "How Turkey Hacked the Hair Transplant Industry",
       "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant proces",
       "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
@@ -149,15 +158,6 @@
       "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
       "summary": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
       "link": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
-      "source": "Wired-AI",
-      "date": "2026-05-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
-      "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB ",
-      "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
       "source": "Wired-AI",
       "date": "2026-05-28",
       "tag": "trend",
@@ -620,10 +620,37 @@
   ],
   "ecommerce": [
     {
-      "title": "8点1氪丨停服三年后，天涯社区正式恢复访问；广东辟谣高考将用AI改卷；MiniMax拟科创板上市",
-      "content": "今日热点导览\n  \n   OpenAI称使用AI攻克“80岁”数学难题\n   亚马逊：关停词元跟踪榜单\n   马斯克辟谣SpaceX估值下调\n   三花智控高管“为孩子教育”减持套现超4.3亿\n   哈根达斯中国被曝将被柠季收购\n  \n  TOP 3大",
-      "link": "https://36kr.com/p/3833859545343618?f=rss",
+      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
+      "content": "5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。\n  随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容",
+      "link": "https://36kr.com/p/3834544830721671?f=rss",
       "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-06-01"
+    },
+    {
+      "title": "我们有全世界最多的运动鞋，却没有一支值得爱20年的球队",
+      "content": "编者按： 当中国体育用品业总产出突破2万亿元，占据体育产业总产出的54.3%，这无疑是一份值得骄傲的成绩单。过去几十年，中国建立起全球最完整、最高效的体育用品供应链，也孕育出一批具有国际竞争力的品牌。\n   但在规模增长之外，另一个问题同样值得关注：当体育产业的大部分价值仍来自商品制造与销售，我们距离一个成熟的体育文化生态还有多远？",
+      "link": "https://36kr.com/p/3834297577383553?f=rss",
+      "source": "36Kr",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-06-01"
+    },
+    {
+      "title": "What brands need to know about retail compliance before expanding wholesale",
+      "content": "Retail growth starts with compliance. Here&rsquo;s what brands need to know before scaling wholesale.",
+      "link": "https://www.retaildive.com/spons/what-brands-need-to-know-about-retail-compliance-before-expanding-wholesale/821450/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-06-01"
+    },
+    {
+      "title": "From pilots to platforms: The next chapter of AI in retail operations",
+      "content": "The path toward better serving customers starts with store operations.",
+      "link": "https://www.retaildive.com/spons/from-pilots-to-platforms-the-next-chapter-of-ai-in-retail-operations/820687/",
+      "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-06-01"
@@ -781,10 +808,25 @@
       "date": "2026-06-01"
     },
     {
-      "name": "knowledge-work-plugins",
-      "author": "anthropics",
+      "name": "Understand-Anything",
+      "author": "Lum1104",
       "description": "A skill file for removing AI tells from prose",
-      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "link": "https://github.com/Lum1104/Understand-Anything",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-01"
+    },
+    {
+      "name": "stop-slop",
+      "author": "hardikpandya",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "link": "https://github.com/hardikpandya/stop-slop",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -798,14 +840,14 @@
     {
       "name": "ai-engineering-from-scratch",
       "author": "rohitg00",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-06-01"
@@ -813,7 +855,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -826,25 +868,10 @@
       "date": "2026-06-01"
     },
     {
-      "name": "stop-slop",
-      "author": "hardikpandya",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
-      "link": "https://github.com/hardikpandya/stop-slop",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-01"
-    },
-    {
-      "name": "markitdown",
-      "author": "microsoft",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "link": "https://github.com/microsoft/markitdown",
+      "name": "Leonxlnx",
+      "author": "sponsors",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "link": "https://github.com/sponsors/Leonxlnx",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -858,7 +885,7 @@
     {
       "name": "taste-skill",
       "author": "Leonxlnx",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "link": "https://github.com/Leonxlnx/taste-skill",
       "stars": 0,
       "trend": 50,
@@ -871,10 +898,10 @@
       "date": "2026-06-01"
     },
     {
-      "name": "codegraph",
-      "author": "colbymchenry",
+      "name": "knowledge-work-plugins",
+      "author": "anthropics",
       "description": "Fully automatic censorship removal for language models",
-      "link": "https://github.com/colbymchenry/codegraph",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -886,10 +913,10 @@
       "date": "2026-06-01"
     },
     {
-      "name": "mukul975",
-      "author": "sponsors",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "author": "mukul975",
       "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-      "link": "https://github.com/sponsors/mukul975",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -901,28 +928,25 @@
       "date": "2026-06-01"
     },
     {
-      "name": "claude",
-      "author": "apps",
-      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
-      "link": "https://github.com/apps/claude",
+      "name": "harness",
+      "author": "revfactory",
+      "description": "agent multiplexer that lives in your terminal.",
+      "link": "https://github.com/revfactory/harness",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
-        },
-        {
-          "name": "Audio"
+          "name": "Agent"
         }
       ],
       "date": "2026-06-01"
     },
     {
-      "name": "affaan-m",
-      "author": "sponsors",
-      "description": "agent multiplexer that lives in your terminal.",
-      "link": "https://github.com/sponsors/affaan-m",
+      "name": "ECC",
+      "author": "affaan-m",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "link": "https://github.com/affaan-m/ECC",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -963,14 +987,14 @@
       "date": "2026-06-01"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: explore",
       "author": "@anonymous",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "link": "https://github.com/topics",
+      "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
+      "likes": 3045,
       "date": "2026-06-01"
     },
     {
@@ -987,12 +1011,23 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
       "likes": 2526,
+      "date": "2026-06-01"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-06-01"
     },
     {
@@ -1188,19 +1223,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-06-01"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
       "date": "2026-06-01"
     }
   ],
