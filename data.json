@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-06-01 21:28:33",
+  "updatedAt": "2026-06-01 23:24:45",
   "news": [
+    {
+      "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
+      "summary": "The Google parent company plans to raise the funds by selling stock.",
+      "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+      "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
       "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
@@ -12,7 +30,7 @@
     },
     {
       "title": "Anthropic files to go public",
-      "summary": "The company said Monday it has filed confidentially for an IPO.",
+      "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language",
       "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
       "source": "TechCrunch-AI",
       "date": "2026-06-01",
@@ -59,15 +77,6 @@
       "title": "SoftBank says it will invest up to €75B to build French data centers",
       "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
       "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta is reportedly developing an AI pendant",
-      "summary": "Meta seems to be making big bets on AI-powered hardware.",
-      "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
       "source": "TechCrunch-AI",
       "date": "2026-05-30",
       "tag": "trend",
@@ -149,15 +158,6 @@
       "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
       "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
       "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
-      "source": "Wired-AI",
-      "date": "2026-05-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
-      "summary": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
-      "link": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
       "source": "Wired-AI",
       "date": "2026-05-28",
       "tag": "trend",
