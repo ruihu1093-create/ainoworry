@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-06-01 11:46:16",
+  "updatedAt": "2026-06-01 17:31:12",
   "news": [
+    {
+      "title": "Anthropic files to go public",
+      "summary": "The company said Monday it has filed confidentially for an IPO.",
+      "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
+      "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Erin Brockovich takes aim at data center secrecy",
       "summary": "Environmental activist Erin Brockovich has a new mission.",
@@ -47,38 +74,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "title": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
+      "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, thi",
+      "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
       "source": "TechCrunch-AI",
       "date": "2026-05-30",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Coders are refusing to work without AI — and that could come back to bite them ",
-      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for",
-      "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo",
-      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "What happens when companies become too AI-pilled?",
-      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder A",
-      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-29",
+      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+      "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
+      "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+      "source": "Wired-AI",
+      "date": "2026-06-01",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
       "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
       "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
-      "source": "Wired-AI",
-      "date": "2026-05-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
-      "summary": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
-      "link": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
       "source": "Wired-AI",
       "date": "2026-05-28",
       "tag": "trend",
