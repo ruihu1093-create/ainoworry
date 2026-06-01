@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-01 17:31:12",
+  "updatedAt": "2026-06-01 21:28:33",
   "news": [
+    {
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+      "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic files to go public",
       "summary": "The company said Monday it has filed confidentially for an IPO.",
@@ -12,7 +21,7 @@
     },
     {
       "title": "This AI weather startup is out-forecasting government agencies",
-      "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
+      "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering senso",
       "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
       "source": "TechCrunch-AI",
       "date": "2026-06-01",
@@ -47,7 +56,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "title": "SoftBank says it will invest up to €75B to build French data centers",
       "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
       "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
       "source": "TechCrunch-AI",
@@ -59,24 +68,6 @@
       "title": "Meta is reportedly developing an AI pendant",
       "summary": "Meta seems to be making big bets on AI-powered hardware.",
       "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
-      "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
-      "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, thi",
-      "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
       "source": "TechCrunch-AI",
       "date": "2026-05-30",
       "tag": "trend",
@@ -158,6 +149,15 @@
       "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
       "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
       "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
+      "source": "Wired-AI",
+      "date": "2026-05-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
+      "summary": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
+      "link": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
       "source": "Wired-AI",
       "date": "2026-05-28",
       "tag": "trend",
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "A new app, The Mall, is building a universal feed for online shopping",
+      "content": "The Mall lets shoppers build a personalized feed of brands, track sales and drops, and discover products across thousands of retailers.",
+      "link": "https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-06-01"
+    },
     {
       "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
       "content": "5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。\n  随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容",
