@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-06-02 17:18:49",
+  "updatedAt": "2026-06-02 20:43:08",
   "news": [
+    {
+      "title": "Uber caps employee AI spending after blowing through budget in four months",
+      "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+      "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up A",
+      "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+      "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
+      "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+      "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
+      "link": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+      "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI",
+      "link": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Microsoft offers devs a better way to control AI agent behavior",
+      "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
+      "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
+      "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby ",
+      "link": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Trump signs narrower executive order on AI oversight after industry objections ",
       "summary": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced mode",
@@ -12,7 +75,7 @@
     },
     {
       "title": "OpenAI launches new Codex tools for white-collar work",
-      "summary": "OpenAI is getting serious about courting enterprise users. On Tuesday, the AI lab released a new set of capabilities for Codex, meant to expand the ag",
+      "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and invest",
       "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
       "source": "TechCrunch-AI",
       "date": "2026-06-02",
@@ -29,56 +92,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "ZeroDrift raises $10M to protect AI models from themselves",
-      "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
-      "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-      "source": "TechCrunch-AI",
+      "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
+      "summary": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
+      "link": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
+      "source": "Wired-AI",
       "date": "2026-06-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-      "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
-      "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Alphabet plans to raise $80B to pay for AI buildout",
-      "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’",
-      "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
-      "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
-      "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic files to go public",
-      "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language",
-      "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-01",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -140,24 +158,6 @@
       "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
       "summary": "Loryn Brantz created The Good Advice Cupcake for BuzzFeed years ago. The company licensed the character for a new Amazon series—made with AI—without h",
       "link": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
-      "source": "Wired-AI",
-      "date": "2026-05-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
-      "summary": "Google’s new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to m",
-      "link": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
-      "source": "Wired-AI",
-      "date": "2026-05-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
-      "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
-      "link": "https://www.wired.com/story/future-of-truth-ai-interview/",
       "source": "Wired-AI",
       "date": "2026-05-29",
       "tag": "trend",
