@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-02 20:43:08",
+  "updatedAt": "2026-06-02 22:59:31",
   "news": [
     {
-      "title": "Uber caps employee AI spending after blowing through budget in four months",
+      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
       "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
       "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
       "source": "TechCrunch-AI",
@@ -83,15 +83,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
-      "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targetin",
-      "link": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
       "summary": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
       "link": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
@@ -158,6 +149,15 @@
       "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
       "summary": "Loryn Brantz created The Good Advice Cupcake for BuzzFeed years ago. The company licensed the character for a new Amazon series—made with AI—without h",
       "link": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
+      "source": "Wired-AI",
+      "date": "2026-05-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
+      "summary": "Google’s new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to m",
+      "link": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
       "source": "Wired-AI",
       "date": "2026-05-29",
       "tag": "trend",
