@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-06-02 08:25:03",
+  "updatedAt": "2026-06-02 12:38:36",
   "news": [
+    {
+      "title": "ZeroDrift raises $10 million to protect AI models from themselves",
+      "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+      "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+      "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Alphabet plans to raise $80B to pay for AI buildout",
       "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’",
@@ -65,20 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Making sense of the debate over AI psychosis",
-      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-      "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-31",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "SoftBank says it will invest up to €75B to build French data centers",
-      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-      "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "source": "TechCrunch-AI",
-      "date": "2026-05-30",
+      "title": "The Trump Administration Is at War With Itself Over AI Regulation",
+      "summary": "Donald Trump killed an executive order to regulate AI. Now, administration officials and AI executives are trying to figure out if there’s anything le",
+      "link": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
+      "source": "Wired-AI",
+      "date": "2026-06-02",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
       "source": "Wired-AI",
       "date": "2026-05-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
-      "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
-      "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
-      "source": "Wired-AI",
-      "date": "2026-05-28",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,13 +620,13 @@
   ],
   "ecommerce": [
     {
-      "title": "A new app, The Mall, is building a universal feed for online shopping",
-      "content": "The Mall lets shoppers build a personalized feed of brands, track sales and drops, and discover products across thousands of retailers.",
-      "link": "https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/",
-      "source": "TechCrunch",
+      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
+      "content": "文｜肖思佳\n  编辑｜乔芊 杨轩\n  5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。\n  随后官方回应：“豆包",
+      "link": "https://36kr.com/p/3835814391100550?f=rss",
+      "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-06-01"
+      "date": "2026-06-02"
     },
     {
       "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
@@ -808,10 +808,28 @@
       "date": "2026-06-02"
     },
     {
-      "name": "Understand-Anything",
-      "author": "Lum1104",
+      "name": "MoneyPrinterTurbo",
+      "author": "harry0703",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-06-02"
+    },
+    {
+      "name": "chopratejas",
+      "author": "sponsors",
       "description": "A skill file for removing AI tells from prose",
-      "link": "https://github.com/Lum1104/Understand-Anything",
+      "link": "https://github.com/sponsors/chopratejas",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -823,10 +841,10 @@
       "date": "2026-06-02"
     },
     {
-      "name": "stop-slop",
-      "author": "hardikpandya",
+      "name": "headroom",
+      "author": "chopratejas",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "link": "https://github.com/hardikpandya/stop-slop",
+      "link": "https://github.com/chopratejas/headroom",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -838,10 +856,10 @@
       "date": "2026-06-02"
     },
     {
-      "name": "ai-engineering-from-scratch",
-      "author": "rohitg00",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "name": "github-copilot-cli",
+      "author": "apps",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "link": "https://github.com/apps/github-copilot-cli",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -853,10 +871,10 @@
       "date": "2026-06-02"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
-      "link": "https://github.com/apps/github-actions",
+      "name": "stop-slop",
+      "author": "hardikpandya",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "link": "https://github.com/hardikpandya/stop-slop",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -870,7 +888,7 @@
     {
       "name": "Leonxlnx",
       "author": "sponsors",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
       "link": "https://github.com/sponsors/Leonxlnx",
       "stars": 0,
       "trend": 50,
@@ -898,10 +916,40 @@
       "date": "2026-06-02"
     },
     {
-      "name": "knowledge-work-plugins",
-      "author": "anthropics",
+      "name": "ai-engineering-from-scratch",
+      "author": "rohitg00",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-02"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-02"
+    },
+    {
+      "name": "codegraph",
+      "author": "colbymchenry",
       "description": "Fully automatic censorship removal for language models",
-      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "link": "https://github.com/colbymchenry/codegraph",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -915,7 +963,7 @@
     {
       "name": "Anthropic-Cybersecurity-Skills",
       "author": "mukul975",
-      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "description": "agent multiplexer that lives in your terminal.",
       "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "stars": 0,
       "trend": 50,
@@ -923,51 +971,6 @@
       "tags": [
         {
           "name": "Agent"
-        }
-      ],
-      "date": "2026-06-02"
-    },
-    {
-      "name": "harness",
-      "author": "revfactory",
-      "description": "agent multiplexer that lives in your terminal.",
-      "link": "https://github.com/revfactory/harness",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-02"
-    },
-    {
-      "name": "ECC",
-      "author": "affaan-m",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "link": "https://github.com/affaan-m/ECC",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-02"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
         }
       ],
       "date": "2026-06-02"
@@ -998,9 +1001,20 @@
       "date": "2026-06-02"
     },
     {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
+      "date": "2026-06-02"
+    },
+    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · ag",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool call",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1011,7 +1025,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · ag",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1210,19 +1224,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-06-02"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-06-02"
     }
   ],
