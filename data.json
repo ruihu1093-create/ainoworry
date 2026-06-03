@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-06-03 11:53:41",
+  "updatedAt": "2026-06-03 16:40:20",
   "news": [
+    {
+      "title": "Amazon will show AI product images when you search for some reason",
+      "summary": "Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to",
+      "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+      "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested i",
+      "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage",
+      "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "summary": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
+      "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Uber caps employee AI spending after blowing through budget in 4 months",
       "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
@@ -38,47 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
-      "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI",
-      "link": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Microsoft offers devs a better way to control AI agent behavior",
-      "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
-      "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
-      "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby ",
-      "link": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Trump signs narrower executive order on AI oversight after industry objections ",
-      "summary": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced mode",
-      "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI launches new Codex tools for white-collar work",
-      "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and invest",
-      "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-02",
+      "title": "This Is How Trump Finally Signed the AI Executive Order",
+      "summary": "After shelving the original executive order last month, Donald Trump finally got on board Monday night.",
+      "link": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
+      "source": "Wired-AI",
+      "date": "2026-06-03",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
       "source": "Wired-AI",
       "date": "2026-06-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How Turkey Hacked the Hair Transplant Industry",
-      "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant proces",
-      "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-      "source": "Wired-AI",
-      "date": "2026-05-31",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "Amazon will show AI product images when you search for some reason",
+      "content": "Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products.",
+      "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-06-03"
+    },
+    {
       "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
       "content": "文｜肖思佳\n  编辑｜乔芊 杨轩\n  5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。\n  随后官方回应：“豆包",
       "link": "https://36kr.com/p/3835814391100550?f=rss",
@@ -641,15 +650,6 @@
       "title": "Amazon offers AI agent tech to other retailers",
       "content": "<img src=\"https://imgproxy.divecdn.com/7KLctvm_8fqvzLpfSq4WfYw-8-D42QEU0y1bP7PgI2A/g:nowe:69:5/c:1087:614/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMj",
       "link": "https://www.retaildive.com/news/amazon-to-offer-ai-agents-to-other-retailers/821597/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-06-02"
-    },
-    {
-      "title": "Mass retailers draw level with supermarkets as primary grocery destinations",
-      "content": "<img src=\"https://imgproxy.divecdn.com/mfnaaFkL0738FJPBRGVngowrcejMahidv3V9p8PYZ6w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQ5OTQyNTk5LmpwZw==",
-      "link": "https://www.retaildive.com/news/grocery-shopping-supermarkets-mass-retailers-fmi-food/821692/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
