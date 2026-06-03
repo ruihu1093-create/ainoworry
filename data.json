@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-06-03 16:40:20",
+  "updatedAt": "2026-06-03 20:16:38",
   "news": [
     {
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "summary": "If Alphabet's record-breaking, $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+      "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Amazon will show AI product images when you search for some reason",
-      "summary": "Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to",
+      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to",
       "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
       "source": "TechCrunch-AI",
       "date": "2026-06-03",
@@ -30,7 +48,7 @@
     },
     {
       "title": "Meta’s AI agent for WhatsApp Business is now available globally",
-      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage",
+      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage.",
       "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
       "source": "TechCrunch-AI",
       "date": "2026-06-03",
@@ -39,7 +57,7 @@
     },
     {
       "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "summary": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
+      "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monit",
       "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
       "source": "TechCrunch-AI",
       "date": "2026-06-03",
@@ -65,20 +83,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-      "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
-      "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-02",
+      "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
+      "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or dr",
+      "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+      "source": "Wired-AI",
+      "date": "2026-06-03",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-      "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
-      "link": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-02",
+      "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
+      "summary": "Spencer Huang, Nvidia’s robotics lead, tells WIRED that the new bot combines the best of both worlds.",
+      "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
+      "source": "Wired-AI",
+      "date": "2026-06-03",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
       "source": "Wired-AI",
       "date": "2026-06-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
-      "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
-      "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
-      "source": "Wired-AI",
-      "date": "2026-06-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
-      "summary": "Dozens of people have complained to the Federal Trade Commission about Norse Atlantic Airways’ tech-first customer service operation. Some said they l",
-      "link": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
-      "source": "Wired-AI",
-      "date": "2026-06-01",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -621,7 +621,7 @@
   "ecommerce": [
     {
       "title": "Amazon will show AI product images when you search for some reason",
-      "content": "Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products.",
+      "content": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
       "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
       "source": "TechCrunch",
       "impact": "medium",
@@ -808,10 +808,10 @@
       "date": "2026-06-03"
     },
     {
-      "name": "MoneyPrinterTurbo",
-      "author": "harry0703",
+      "name": "developers",
+      "author": "trending",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -826,31 +826,16 @@
       "date": "2026-06-03"
     },
     {
-      "name": "chopratejas",
-      "author": "sponsors",
-      "description": "A skill file for removing AI tells from prose",
-      "link": "https://github.com/sponsors/chopratejas",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-06-03"
-    },
-    {
       "name": "headroom",
       "author": "chopratejas",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "link": "https://github.com/chopratejas/headroom",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-06-03"
@@ -858,14 +843,44 @@
     {
       "name": "github-copilot-cli",
       "author": "apps",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "description": "A skill file for removing AI tells from prose",
       "link": "https://github.com/apps/github-copilot-cli",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-03"
+    },
+    {
+      "name": "Understand-Anything",
+      "author": "Lum1104",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "link": "https://github.com/Lum1104/Understand-Anything",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-03"
+    },
+    {
+      "name": "harness",
+      "author": "revfactory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "link": "https://github.com/revfactory/harness",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-06-03"
@@ -886,6 +901,36 @@
       "date": "2026-06-03"
     },
     {
+      "name": "compound-engineering-plugin",
+      "author": "EveryInc",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "link": "https://github.com/EveryInc/compound-engineering-plugin",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-03"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Audio"
+        }
+      ],
+      "date": "2026-06-03"
+    },
+    {
       "name": "Leonxlnx",
       "author": "sponsors",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
@@ -901,25 +946,10 @@
       "date": "2026-06-03"
     },
     {
-      "name": "taste-skill",
-      "author": "Leonxlnx",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "link": "https://github.com/Leonxlnx/taste-skill",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-03"
-    },
-    {
-      "name": "ai-engineering-from-scratch",
-      "author": "rohitg00",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "name": "supermemory",
+      "author": "supermemoryai",
+      "description": "Cursor plugin specification and official plugins",
+      "link": "https://github.com/supermemoryai/supermemory",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -931,40 +961,10 @@
       "date": "2026-06-03"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-03"
-    },
-    {
       "name": "codegraph",
       "author": "colbymchenry",
-      "description": "Fully automatic censorship removal for language models",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "link": "https://github.com/colbymchenry/codegraph",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-06-03"
-    },
-    {
-      "name": "Anthropic-Cybersecurity-Skills",
-      "author": "mukul975",
-      "description": "agent multiplexer that lives in your terminal.",
-      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -990,9 +990,21 @@
       "date": "2026-06-03"
     },
     {
+      "title": "开源项目: manifest.json",
+      "author": "@anonymous",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "link": "https://github.com/manifest.json",
+      "tools": [
+        "GitHub",
+        "LLM"
+      ],
+      "likes": 4324,
+      "date": "2026-06-03"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "description": "A skill file for removing AI tells from prose",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -1001,20 +1013,9 @@
       "date": "2026-06-03"
     },
     {
-      "title": "开源项目: topics",
-      "author": "@anonymous",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 1697,
-      "date": "2026-06-03"
-    },
-    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool call",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1025,7 +1026,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · ag",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool call",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
