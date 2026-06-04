@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-04 17:42:43",
+  "updatedAt": "2026-06-04 20:00:05",
   "news": [
+    {
+      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Busines",
+      "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meta rolls out a new AI creator assistant on Facebook",
       "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers ",
@@ -47,20 +56,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
-      "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
-      "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested i",
-      "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-03",
+      "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
+      "summary": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking fo",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
+      "source": "Wired-AI",
+      "date": "2026-06-04",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -128,15 +128,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
-      "summary": "Soccer fans on r/WorldCup2026Tickets are using Claude to build DIY ticketing software, exchanging on back channels, and leaving scalpers scrambling.",
-      "link": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
-      "source": "Wired-AI",
-      "date": "2026-06-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
@@ -160,6 +151,15 @@
       "link": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: AI can run your admin department now",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-02",
       "tag": "trend",
       "tagText": "资讯"
     },
