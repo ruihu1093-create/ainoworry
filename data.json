@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04 08:16:57",
+  "updatedAt": "2026-06-04 11:49:27",
   "news": [
     {
       "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
@@ -74,6 +74,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
+      "summary": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
+      "link": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+      "source": "Wired-AI",
+      "date": "2026-06-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
       "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be",
       "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
@@ -137,29 +146,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
-      "summary": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
-      "link": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
-      "source": "Wired-AI",
-      "date": "2026-06-02",
+      "title": "How courts are coping with a flood of AI-generated lawsuits",
+      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without",
+      "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-04",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
-      "summary": "Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsun",
-      "link": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
-      "source": "Wired-AI",
-      "date": "2026-06-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Trump Administration Is at War With Itself Over AI Regulation",
-      "summary": "Donald Trump killed an executive order to regulate AI. Now, administration officials and AI executives are trying to figure out if there’s anything le",
-      "link": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
-      "source": "Wired-AI",
-      "date": "2026-06-02",
+      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-03",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -826,10 +826,10 @@
       "date": "2026-06-04"
     },
     {
-      "name": "headroom",
-      "author": "chopratejas",
+      "name": "chopratejas",
+      "author": "sponsors",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "link": "https://github.com/chopratejas/headroom",
+      "link": "https://github.com/sponsors/chopratejas",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -856,10 +856,10 @@
       "date": "2026-06-04"
     },
     {
-      "name": "Understand-Anything",
-      "author": "Lum1104",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "link": "https://github.com/Lum1104/Understand-Anything",
+      "name": "markitdown",
+      "author": "microsoft",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "link": "https://github.com/microsoft/markitdown",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -873,23 +873,8 @@
     {
       "name": "harness",
       "author": "revfactory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "link": "https://github.com/revfactory/harness",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-06-04"
-    },
-    {
-      "name": "stop-slop",
-      "author": "hardikpandya",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "link": "https://github.com/hardikpandya/stop-slop",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -903,53 +888,8 @@
     {
       "name": "compound-engineering-plugin",
       "author": "EveryInc",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "link": "https://github.com/EveryInc/compound-engineering-plugin",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-04"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Audio"
-        }
-      ],
-      "date": "2026-06-04"
-    },
-    {
-      "name": "Leonxlnx",
-      "author": "sponsors",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
-      "link": "https://github.com/sponsors/Leonxlnx",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-04"
-    },
-    {
-      "name": "supermemory",
-      "author": "supermemoryai",
-      "description": "Cursor plugin specification and official plugins",
-      "link": "https://github.com/supermemoryai/supermemory",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -961,10 +901,73 @@
       "date": "2026-06-04"
     },
     {
-      "name": "codegraph",
-      "author": "colbymchenry",
+      "name": "supermemory",
+      "author": "supermemoryai",
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "link": "https://github.com/colbymchenry/codegraph",
+      "link": "https://github.com/supermemoryai/supermemory",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-04"
+    },
+    {
+      "name": "affaan-m",
+      "author": "sponsors",
+      "description": "agent multiplexer that lives in your terminal.",
+      "link": "https://github.com/sponsors/affaan-m",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-04"
+    },
+    {
+      "name": "ECC",
+      "author": "affaan-m",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "link": "https://github.com/affaan-m/ECC",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-04"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-06-04"
+    },
+    {
+      "name": "Leonxlnx",
+      "author": "sponsors",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+      "link": "https://github.com/sponsors/Leonxlnx",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -1013,36 +1016,25 @@
       "date": "2026-06-04"
     },
     {
-      "title": "开源项目: collections",
+      "title": "开源项目: topics",
       "author": "@anonymous",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
+      "date": "2026-06-04"
+    },
+    {
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
       "likes": 2046,
-      "date": "2026-06-04"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool call",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
-      "date": "2026-06-04"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-06-04"
     },
     {
@@ -1225,6 +1217,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-06-04"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-06-04"
     }
   ],
