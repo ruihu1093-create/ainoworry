@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-06-04 21:49:05",
+  "updatedAt": "2026-06-04 23:06:15",
   "news": [
     {
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "summary": "The AI giant's co-founder explained why the company may tap the public market for capital and why tokenmaxxing pushback isn't a concern.",
+      "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+      "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-      "summary": "With just two weeks to go, StrictlyVC Los Angeles is quickly approaching. On Thursday, June 18, at The Aerospace Corporation Campus in El Segundo. Inv",
+      "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring ",
       "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
       "source": "TechCrunch-AI",
       "date": "2026-06-04",
@@ -34,24 +52,6 @@
       "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
       "source": "TechCrunch-AI",
       "date": "2026-06-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-      "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
-      "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-      "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
-      "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-03",
       "tag": "trend",
       "tagText": "资讯"
     },
