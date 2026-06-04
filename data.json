@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-06-04 14:50:42",
+  "updatedAt": "2026-06-04 17:42:43",
   "news": [
+    {
+      "title": "Meta rolls out a new AI creator assistant on Facebook",
+      "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers ",
+      "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+      "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
+      "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
       "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
@@ -41,24 +59,6 @@
       "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
       "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested i",
       "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
-      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage.",
-      "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monit",
-      "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
       "source": "TechCrunch-AI",
       "date": "2026-06-03",
       "tag": "trend",
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
-      "content": "The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch.",
-      "link": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-06-04"
-    },
-    {
       "title": "深创投领投，这家微型关节模组企业完成数千万融资丨36氪首发",
       "content": "作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，微型高性能电机企业指尖智擎近期完成数千万元Pre-A轮融资，由深创投领投，天启资本与卓源亚洲跟投。资金将主要用于新一代微型轴向磁通电机的量产爬坡、空心杯电机产线建设及全球头部客户的供应链交付保障。多维资本担任本轮独家财务顾问。\n  指尖智擎成立于2024年8月，公司主打产品包括微型轴向磁通关节",
       "link": "https://36kr.com/p/3837650456430851?f=rss",
@@ -638,13 +629,13 @@
       "date": "2026-06-04"
     },
     {
-      "title": "Dollar General sales soar as customers trade down at ‘accelerated’ rate",
-      "content": "The discount retailer&rsquo;s Q1 sales jumped 3.4% as rural shoppers see an outsized impact from increased gas prices.",
-      "link": "https://www.retaildive.com/news/dollar-general-sales-soar-customers-trade-down/821715/",
+      "title": "QVC celebrates 40th anniversary with TikTok Shop event",
+      "content": "<img src=\"https://imgproxy.divecdn.com/j_-obCwU7bfIuxfIPy6g3gx1abpwW2HNcYMkv7h81vs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjUtMDUtMTJfMTEwMDE2",
+      "link": "https://www.retaildive.com/news/qvc-40th-anniversary-tiktok-shop-super-brand-day/821814/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-06-02"
+      "date": "2026-06-04"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
