@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04 11:49:27",
+  "updatedAt": "2026-06-04 14:50:42",
   "news": [
     {
       "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
@@ -61,15 +61,6 @@
       "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
       "source": "TechCrunch-AI",
       "date": "2026-06-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
-      "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
-      "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-02",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -142,6 +133,15 @@
       "link": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
       "source": "Wired-AI",
       "date": "2026-06-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-04",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -641,15 +641,6 @@
       "title": "Dollar General sales soar as customers trade down at ‘accelerated’ rate",
       "content": "The discount retailer&rsquo;s Q1 sales jumped 3.4% as rural shoppers see an outsized impact from increased gas prices.",
       "link": "https://www.retaildive.com/news/dollar-general-sales-soar-customers-trade-down/821715/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-06-02"
-    },
-    {
-      "title": "Amazon offers AI agent tech to other retailers",
-      "content": "<img src=\"https://imgproxy.divecdn.com/7KLctvm_8fqvzLpfSq4WfYw-8-D42QEU0y1bP7PgI2A/g:nowe:69:5/c:1087:614/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMj",
-      "link": "https://www.retaildive.com/news/amazon-to-offer-ai-agents-to-other-retailers/821597/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
