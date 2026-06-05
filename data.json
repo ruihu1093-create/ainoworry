@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-06-05 17:14:54",
+  "updatedAt": "2026-06-05 19:48:59",
   "news": [
+    {
+      "title": "The most interesting startups right now want to get you off your phone",
+      "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Pu",
+      "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
       "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
       "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+      "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Pu",
+      "link": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
       "source": "TechCrunch-AI",
       "date": "2026-06-05",
       "tag": "trend",
@@ -50,24 +68,6 @@
       "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
       "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring ",
       "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-      "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Busines",
-      "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta rolls out a new AI creator assistant on Facebook",
-      "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers ",
-      "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
       "source": "TechCrunch-AI",
       "date": "2026-06-04",
       "tag": "trend",
