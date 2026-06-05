@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05 07:13:42",
+  "updatedAt": "2026-06-05 11:24:20",
   "news": [
     {
       "title": "Mira Murati steps back into the spotlight, carefully",
@@ -65,6 +65,33 @@
       "tagText": "资讯"
     },
     {
+      "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
+      "summary": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
+      "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+      "source": "Wired-AI",
+      "date": "2026-06-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Why Apple Might Put Cameras Into Its Next AirPods",
+      "summary": "From battery life to privacy, there are many hurdles to the idea taking off.",
+      "link": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
+      "source": "Wired-AI",
+      "date": "2026-06-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI Has Come for Serif Fonts",
+      "summary": "AI companies are using serif to project humanity. Critics are calling it “tasteslop.”",
+      "link": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
+      "source": "Wired-AI",
+      "date": "2026-06-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
       "summary": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking fo",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
@@ -110,29 +137,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "This Is How Trump Finally Signed the AI Executive Order",
-      "summary": "After shelving the original executive order last month, Donald Trump finally got on board Monday night.",
-      "link": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
-      "source": "Wired-AI",
-      "date": "2026-06-03",
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with",
+      "link": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-05",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
-      "summary": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
-      "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
-      "source": "Wired-AI",
-      "date": "2026-06-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
-      "summary": "Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.",
-      "link": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
-      "source": "Wired-AI",
-      "date": "2026-06-03",
+      "title": "The Meta hack shows there’s more to AI security than Mythos",
+      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: T",
+      "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-05",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -142,24 +160,6 @@
       "link": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without",
-      "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-06-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-06-03",
       "tag": "trend",
       "tagText": "资讯"
     },
