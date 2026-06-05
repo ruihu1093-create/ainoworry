@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-05 14:41:44",
+  "updatedAt": "2026-06-05 17:14:54",
   "news": [
+    {
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+      "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
       "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
@@ -65,11 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
-      "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
-      "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-04",
+      "title": "Has Microsoft Lost Its Mojo (Again)?",
+      "summary": "Microsoft’s AI products aren’t selling, and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in c",
+      "link": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+      "source": "Wired-AI",
+      "date": "2026-06-05",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -131,15 +140,6 @@
       "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
       "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or dr",
       "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
-      "source": "Wired-AI",
-      "date": "2026-06-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
-      "summary": "Spencer Huang, Nvidia’s robotics lead, tells WIRED that the new bot combines the best of both worlds.",
-      "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
       "source": "Wired-AI",
       "date": "2026-06-03",
       "tag": "trend",
