@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-06 15:11:26",
+  "updatedAt": "2026-06-06 17:07:53",
   "news": [
+    {
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Startup Battlefield 200 applications officially close in 3 days",
       "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrup",
@@ -77,15 +86,6 @@
       "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
       "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
       "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-      "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring ",
-      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
       "source": "TechCrunch-AI",
       "date": "2026-06-04",
       "tag": "trend",
