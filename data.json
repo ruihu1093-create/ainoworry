@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06 11:22:42",
+  "updatedAt": "2026-06-06 13:23:30",
   "news": [
     {
       "title": "Startup Battlefield 200 applications officially close in 3 days",
@@ -814,10 +814,10 @@
       "date": "2026-06-06"
     },
     {
-      "name": "MoneyPrinterTurbo",
-      "author": "harry0703",
+      "name": "github-copilot-cli",
+      "author": "apps",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "link": "https://github.com/apps/github-copilot-cli",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -829,10 +829,10 @@
       "date": "2026-06-06"
     },
     {
-      "name": "harness",
-      "author": "revfactory",
+      "name": "markitdown",
+      "author": "microsoft",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "link": "https://github.com/revfactory/harness",
+      "link": "https://github.com/microsoft/markitdown",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -844,10 +844,10 @@
       "date": "2026-06-06"
     },
     {
-      "name": "liteparse",
-      "author": "run-llama",
+      "name": "harness",
+      "author": "revfactory",
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "link": "https://github.com/run-llama/liteparse",
+      "link": "https://github.com/revfactory/harness",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -859,9 +859,54 @@
       "date": "2026-06-06"
     },
     {
+      "name": "supermemory",
+      "author": "supermemoryai",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "link": "https://github.com/supermemoryai/supermemory",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-06"
+    },
+    {
+      "name": "affaan-m",
+      "author": "sponsors",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "link": "https://github.com/sponsors/affaan-m",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-06"
+    },
+    {
+      "name": "greptile-apps",
+      "author": "apps",
+      "description": "OpenAI Plugins",
+      "link": "https://github.com/apps/greptile-apps",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-06"
+    },
+    {
       "name": "dependabot",
       "author": "apps",
-      "description": "A skill file for removing AI tells from prose",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -874,40 +919,10 @@
       "date": "2026-06-06"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-06"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "agent multiplexer that lives in your terminal.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-06"
-    },
-    {
-      "name": "supermemory",
-      "author": "supermemoryai",
-      "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "link": "https://github.com/supermemoryai/supermemory",
+      "name": "compound-engineering-plugin",
+      "author": "EveryInc",
+      "description": "A skill file for removing AI tells from prose",
+      "link": "https://github.com/EveryInc/compound-engineering-plugin",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -919,10 +934,10 @@
       "date": "2026-06-06"
     },
     {
-      "name": "ECC",
-      "author": "affaan-m",
+      "name": "github-actions",
+      "author": "apps",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "link": "https://github.com/affaan-m/ECC",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -932,21 +947,6 @@
         },
         {
           "name": "LLM"
-        }
-      ],
-      "date": "2026-06-06"
-    },
-    {
-      "name": "greptile-apps",
-      "author": "apps",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "link": "https://github.com/apps/greptile-apps",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
         }
       ],
       "date": "2026-06-06"
@@ -966,24 +966,23 @@
       "date": "2026-06-06"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "link": "https://github.com/topics",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
+      "likes": 3045,
       "date": "2026-06-06"
     },
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "link": "https://github.com/collections",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 2046,
       "date": "2026-06-06"
@@ -991,23 +990,12 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "A skill file for removing AI tells from prose",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-06-06"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-06-06"
     },
     {
@@ -1203,6 +1191,19 @@
         "剪映"
       ],
       "likes": 18500,
+      "date": "2026-06-06"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
       "date": "2026-06-06"
     }
   ],
