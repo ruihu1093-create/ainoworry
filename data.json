@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06 09:22:59",
+  "updatedAt": "2026-06-06 11:22:42",
   "news": [
     {
       "title": "Startup Battlefield 200 applications officially close in 3 days",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+      "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, a",
+      "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+      "source": "Wired-AI",
+      "date": "2026-06-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Has Microsoft Lost Its Mojo (Again)?",
       "summary": "Microsoft’s AI products aren’t selling, and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in c",
       "link": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
       "source": "Wired-AI",
       "date": "2026-06-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
-      "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or dr",
-      "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
-      "source": "Wired-AI",
-      "date": "2026-06-03",
       "tag": "trend",
       "tagText": "资讯"
     },
