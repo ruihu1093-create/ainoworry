@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-06 19:15:53",
+  "updatedAt": "2026-06-06 21:00:06",
   "news": [
+    {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets sha",
+      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Sriram Krishnan is leaving his role as White House AI advisor",
       "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
@@ -68,15 +77,6 @@
       "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
       "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
       "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Mira Murati steps back into the spotlight, carefully",
-      "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exi",
-      "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
       "source": "TechCrunch-AI",
       "date": "2026-06-05",
       "tag": "trend",
