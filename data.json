@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-06 17:07:53",
+  "updatedAt": "2026-06-06 19:15:53",
   "news": [
+    {
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The Trump administration might take an equity stake in OpenAI",
       "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
@@ -74,24 +83,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly",
-      "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-      "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
       "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, a",
       "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
       "source": "Wired-AI",
       "date": "2026-06-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-05",
       "tag": "trend",
       "tagText": "资讯"
     },
