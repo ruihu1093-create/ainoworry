@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-07 17:11:52",
+  "updatedAt": "2026-06-07 19:16:37",
   "news": [
+    {
+      "title": "Notion restores access to Anthropic after service disruption",
+      "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+      "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI is still working on that ‘super app’",
       "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
@@ -68,15 +77,6 @@
       "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
       "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
       "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
-      "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Pu",
-      "link": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
       "source": "TechCrunch-AI",
       "date": "2026-06-05",
       "tag": "trend",
