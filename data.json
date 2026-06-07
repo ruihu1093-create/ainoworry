@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-07 15:22:11",
+  "updatedAt": "2026-06-07 17:11:52",
   "news": [
+    {
+      "title": "OpenAI is still working on that ‘super app’",
+      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
       "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets sha",
@@ -68,15 +77,6 @@
       "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
       "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Pu",
       "link": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-      "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
-      "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
       "source": "TechCrunch-AI",
       "date": "2026-06-05",
       "tag": "trend",
