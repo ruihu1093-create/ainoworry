@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07 11:06:23",
+  "updatedAt": "2026-06-07 13:44:39",
   "news": [
     {
       "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
@@ -801,23 +801,8 @@
     {
       "name": "headroom",
       "author": "chopratejas",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "link": "https://github.com/chopratejas/headroom",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-07"
-    },
-    {
-      "name": "github-copilot-cli",
-      "author": "apps",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "link": "https://github.com/apps/github-copilot-cli",
+      "link": "https://github.com/chopratejas/headroom",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -829,10 +814,10 @@
       "date": "2026-06-07"
     },
     {
-      "name": "markitdown",
-      "author": "microsoft",
+      "name": "github-copilot-cli",
+      "author": "apps",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "link": "https://github.com/microsoft/markitdown",
+      "link": "https://github.com/apps/github-copilot-cli",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -844,10 +829,10 @@
       "date": "2026-06-07"
     },
     {
-      "name": "harness",
-      "author": "revfactory",
+      "name": "markitdown",
+      "author": "microsoft",
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "link": "https://github.com/revfactory/harness",
+      "link": "https://github.com/microsoft/markitdown",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -859,9 +844,24 @@
       "date": "2026-06-07"
     },
     {
+      "name": "MoneyPrinterTurbo",
+      "author": "harry0703",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-07"
+    },
+    {
       "name": "supermemory",
       "author": "supermemoryai",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "link": "https://github.com/supermemoryai/supermemory",
       "stars": 0,
       "trend": 50,
@@ -891,14 +891,14 @@
     {
       "name": "greptile-apps",
       "author": "apps",
-      "description": "OpenAI Plugins",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "link": "https://github.com/apps/greptile-apps",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-06-07"
@@ -906,7 +906,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "description": "OpenAI Plugins",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -919,34 +919,31 @@
       "date": "2026-06-07"
     },
     {
-      "name": "compound-engineering-plugin",
-      "author": "EveryInc",
-      "description": "A skill file for removing AI tells from prose",
-      "link": "https://github.com/EveryInc/compound-engineering-plugin",
+      "name": "Open-LLM-VTuber",
+      "author": "Open-LLM-VTuber",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "link": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "LLM"
         }
       ],
       "date": "2026-06-07"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "link": "https://github.com/apps/github-actions",
+      "name": "harness",
+      "author": "revfactory",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "link": "https://github.com/revfactory/harness",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "LLM"
         }
       ],
       "date": "2026-06-07"
@@ -968,18 +965,30 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 3045,
       "date": "2026-06-07"
     },
     {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
+      "date": "2026-06-07"
+    },
+    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -988,14 +997,14 @@
       "date": "2026-06-07"
     },
     {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "link": "https://github.com/events",
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 2526,
+      "likes": 7510,
       "date": "2026-06-07"
     },
     {
@@ -1191,19 +1200,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-06-07"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
       "date": "2026-06-07"
     }
   ],
