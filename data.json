@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-07 19:16:37",
+  "updatedAt": "2026-06-07 21:07:52",
   "news": [
+    {
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
+      "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Notion restores access to Anthropic after service disruption",
       "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
@@ -68,15 +77,6 @@
       "title": "The most interesting startups right now want to get you off your phone",
       "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Pu",
       "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
-      "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
       "source": "TechCrunch-AI",
       "date": "2026-06-05",
       "tag": "trend",
