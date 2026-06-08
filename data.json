@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08 08:50:05",
+  "updatedAt": "2026-06-08 13:03:13",
   "news": [
     {
       "title": "Is this the dawn of the Tokenpocalypse?",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
+      "summary": "Moms are outsourcing tedious household tasks to ChatGPT and selling courses teaching others to do the same. Where are all the dads?",
+      "link": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
+      "source": "Wired-AI",
+      "date": "2026-06-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
       "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, a",
       "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
@@ -146,20 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
-      "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be",
-      "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
-      "source": "Wired-AI",
-      "date": "2026-06-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "link": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
       "source": "MIT-Tech-Review",
-      "date": "2026-06-05",
+      "date": "2026-06-08",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,13 +620,13 @@
   ],
   "ecommerce": [
     {
-      "title": "QVC celebrates 40th anniversary with TikTok Shop event",
-      "content": "<img src=\"https://imgproxy.divecdn.com/j_-obCwU7bfIuxfIPy6g3gx1abpwW2HNcYMkv7h81vs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjUtMDUtMTJfMTEwMDE2",
-      "link": "https://www.retaildive.com/news/qvc-40th-anniversary-tiktok-shop-super-brand-day/821814/",
+      "title": "Loyalty is the new growth engine and retailers are just starting to figure that out",
+      "content": "Why loyalty is becoming retail&#39;s most valuable growth asset.",
+      "link": "https://www.retaildive.com/spons/loyalty-is-the-new-growth-engine-and-retailers-are-just-starting-to-figure/822090/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-06-04"
+      "date": "2026-06-08"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -786,8 +786,23 @@
     {
       "name": "chopratejas",
       "author": "sponsors",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "link": "https://github.com/sponsors/chopratejas",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-08"
+    },
+    {
+      "name": "headroom",
+      "author": "chopratejas",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "link": "https://github.com/chopratejas/headroom",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -799,24 +814,9 @@
       "date": "2026-06-08"
     },
     {
-      "name": "headroom",
-      "author": "chopratejas",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "link": "https://github.com/chopratejas/headroom",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-06-08"
-    },
-    {
       "name": "github-copilot-cli",
       "author": "apps",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "link": "https://github.com/apps/github-copilot-cli",
       "stars": 0,
       "trend": 50,
@@ -831,7 +831,7 @@
     {
       "name": "markitdown",
       "author": "microsoft",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "link": "https://github.com/microsoft/markitdown",
       "stars": 0,
       "trend": 50,
@@ -844,10 +844,43 @@
       "date": "2026-06-08"
     },
     {
-      "name": "MoneyPrinterTurbo",
-      "author": "harry0703",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "name": "last30days-skill",
+      "author": "mvanhorn",
+      "description": "OpenAI Plugins",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-08"
+    },
+    {
+      "name": "Open-LLM-VTuber",
+      "author": "Open-LLM-VTuber",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "link": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-06-08"
+    },
+    {
+      "name": "Agent-Reach",
+      "author": "Panniantong",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "link": "https://github.com/Panniantong/Agent-Reach",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -859,10 +892,25 @@
       "date": "2026-06-08"
     },
     {
-      "name": "supermemory",
-      "author": "supermemoryai",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "link": "https://github.com/supermemoryai/supermemory",
+      "name": "MoneyPrinterTurbo",
+      "author": "harry0703",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-08"
+    },
+    {
+      "name": "plugins",
+      "author": "openai",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "link": "https://github.com/openai/plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -876,7 +924,7 @@
     {
       "name": "affaan-m",
       "author": "sponsors",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "link": "https://github.com/sponsors/affaan-m",
       "stars": 0,
       "trend": 50,
@@ -893,51 +941,6 @@
       "author": "apps",
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "link": "https://github.com/apps/greptile-apps",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-08"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "OpenAI Plugins",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-06-08"
-    },
-    {
-      "name": "Open-LLM-VTuber",
-      "author": "Open-LLM-VTuber",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "link": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-06-08"
-    },
-    {
-      "name": "harness",
-      "author": "revfactory",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "link": "https://github.com/revfactory/harness",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -965,7 +968,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub",
@@ -977,10 +980,11 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "description": "OpenAI Plugins",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
       "likes": 1697,
       "date": "2026-06-08"
@@ -988,7 +992,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -997,9 +1001,20 @@
       "date": "2026-06-08"
     },
     {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
+      "date": "2026-06-08"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1187,19 +1202,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-06-08"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-06-08"
     }
   ],
