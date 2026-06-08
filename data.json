@@ -1,9 +1,36 @@
 {
-  "updatedAt": "2026-06-08 20:09:10",
+  "updatedAt": "2026-06-08 22:23:19",
   "news": [
     {
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+      "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Apple plays catch-up at WWDC",
+      "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powere",
+      "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Apple bets cheaper AI will woo small developers",
+      "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+      "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "summary": "Apple&#8217;s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27,",
+      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping",
       "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
       "source": "TechCrunch-AI",
       "date": "2026-06-08",
@@ -47,19 +74,10 @@
       "tagText": "资讯"
     },
     {
-      "title": "Apple’s long-awaited AI Siri overhaul is finally here",
-      "summary": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
-      "link": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Amazon now lets you design custom merch using AI",
-      "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers",
-      "link": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
-      "source": "TechCrunch-AI",
+      "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+      "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
+      "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+      "source": "Wired-AI",
       "date": "2026-06-08",
       "tag": "trend",
       "tagText": "资讯"
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
       "source": "Wired-AI",
       "date": "2026-06-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
-      "summary": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking fo",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
-      "source": "Wired-AI",
-      "date": "2026-06-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-06-08",
       "tag": "trend",
       "tagText": "资讯"
     },
