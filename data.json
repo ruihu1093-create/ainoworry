@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-06-09 20:12:50",
+  "updatedAt": "2026-06-09 22:21:08",
   "news": [
+    {
+      "title": "Hey Siri, here’s what I actually want from AI",
+      "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my",
+      "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+      "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Can tech companies learn to love cheaper AI models? ",
       "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
@@ -22,7 +40,7 @@
     {
       "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
       "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in h",
-      "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "link": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
       "source": "TechCrunch-AI",
       "date": "2026-06-09",
       "tag": "trend",
@@ -61,15 +79,6 @@
       "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
       "source": "TechCrunch-AI",
       "date": "2026-06-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-      "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
-      "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-08",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
       "source": "Wired-AI",
       "date": "2026-06-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-06-09",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,7 +620,7 @@
   ],
   "ecommerce": [
     {
-      "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
+      "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增��40.13%",
       "content": "大公司：\n  猫眼娱乐：作为首批内测开发者接入微信AI生态布局\n  36氪获悉，猫眼娱乐宣布作为微信AI生态首批内测开发者之一，旗下小程序接入微信AI Agent生态，借助微信AI Agent能力，为用户提供影片演出推荐、附近影院筛选、智能选座、一键支付等服务。\n  京东方A：控股子",
       "link": "https://36kr.com/p/3845899768760580?f=rss",
       "source": "36Kr",
