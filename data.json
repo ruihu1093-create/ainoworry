@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-09 09:35:21",
+  "updatedAt": "2026-06-09 12:33:14",
   "news": [
+    {
+      "title": "How an e-scooter founder raised $5 million to build space data centers",
+      "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
+      "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
       "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
@@ -68,15 +77,6 @@
       "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
       "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
       "link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-      "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
-      "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
       "source": "TechCrunch-AI",
       "date": "2026-06-08",
       "tag": "trend",
@@ -629,15 +629,6 @@
       "date": "2026-06-08"
     },
     {
-      "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
-      "content": "大公司：\n  热门中概股美股盘前多数上涨，哔哩哔哩涨超5%\n  36氪获悉，热门中概股美股盘前多数上涨，截至发稿，哔哩哔哩涨超5%，蔚来、理想汽车涨超2%，阿里巴巴涨0.87%，京东涨0.48%，小鹏集团涨0.31%，百度跌超1%，拼多多跌0.35%。\n  天娱数科：目前无物理AI业",
-      "link": "https://36kr.com/p/3844559758936582?f=rss",
-      "source": "36Kr",
-      "impact": "high",
-      "impactText": "高",
-      "date": "2026-06-08"
-    },
-    {
       "title": "Loyalty is the new growth engine and retailers are just starting to figure that out",
       "content": "Why loyalty is becoming retail&#39;s most valuable growth asset.",
       "link": "https://www.retaildive.com/spons/loyalty-is-the-new-growth-engine-and-retailers-are-just-starting-to-figure/822090/",
@@ -802,10 +793,10 @@
       "date": "2026-06-09"
     },
     {
-      "name": "chopratejas",
-      "author": "sponsors",
+      "name": "developers",
+      "author": "trending",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "link": "https://github.com/sponsors/chopratejas",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -819,14 +810,14 @@
     {
       "name": "headroom",
       "author": "chopratejas",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "description": "OpenAI Plugins",
       "link": "https://github.com/chopratejas/headroom",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "AI"
         }
       ],
       "date": "2026-06-09"
@@ -847,73 +838,10 @@
       "date": "2026-06-09"
     },
     {
-      "name": "markitdown",
-      "author": "microsoft",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "link": "https://github.com/microsoft/markitdown",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-06-09"
-    },
-    {
       "name": "last30days-skill",
       "author": "mvanhorn",
-      "description": "OpenAI Plugins",
-      "link": "https://github.com/mvanhorn/last30days-skill",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-06-09"
-    },
-    {
-      "name": "Open-LLM-VTuber",
-      "author": "Open-LLM-VTuber",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "link": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-06-09"
-    },
-    {
-      "name": "Agent-Reach",
-      "author": "Panniantong",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "link": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-09"
-    },
-    {
-      "name": "MoneyPrinterTurbo",
-      "author": "harry0703",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "link": "https://github.com/mvanhorn/last30days-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -927,8 +855,23 @@
     {
       "name": "plugins",
       "author": "openai",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "link": "https://github.com/openai/plugins",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-06-09"
+    },
+    {
+      "name": "Agent-Reach",
+      "author": "Panniantong",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "link": "https://github.com/Panniantong/Agent-Reach",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -940,10 +883,10 @@
       "date": "2026-06-09"
     },
     {
-      "name": "affaan-m",
+      "name": "Leonxlnx",
       "author": "sponsors",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "link": "https://github.com/sponsors/affaan-m",
+      "link": "https://github.com/sponsors/Leonxlnx",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -955,16 +898,61 @@
       "date": "2026-06-09"
     },
     {
-      "name": "greptile-apps",
-      "author": "apps",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "link": "https://github.com/apps/greptile-apps",
+      "name": "taste-skill",
+      "author": "Leonxlnx",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "link": "https://github.com/Leonxlnx/taste-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
+        }
+      ],
+      "date": "2026-06-09"
+    },
+    {
+      "name": "open-notebook",
+      "author": "lfnovo",
+      "description": "The agent that grows with you",
+      "link": "https://github.com/lfnovo/open-notebook",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-09"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-09"
+    },
+    {
+      "name": "Open-LLM-VTuber",
+      "author": "Open-LLM-VTuber",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "link": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
         }
       ],
       "date": "2026-06-09"
@@ -984,33 +972,31 @@
       "date": "2026-06-09"
     },
     {
+      "title": "开源项目: manifest.json",
+      "author": "@anonymous",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "link": "https://github.com/manifest.json",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 4324,
+      "date": "2026-06-09"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 3045,
       "date": "2026-06-09"
     },
     {
-      "title": "开源项目: topics",
-      "author": "@anonymous",
-      "description": "OpenAI Plugins",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub",
-        "GPT-4"
-      ],
-      "likes": 1697,
-      "date": "2026-06-09"
-    },
-    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1021,7 +1007,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
