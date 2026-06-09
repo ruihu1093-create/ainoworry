@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-06-09 15:51:52",
+  "updatedAt": "2026-06-09 17:58:48",
   "news": [
     {
+      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in h",
+      "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "It’s not FAANG anymore. It’s MANGOS.",
+      "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new ac",
+      "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-      "summary": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
+      "summary": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
       "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
       "source": "TechCrunch-AI",
       "date": "2026-06-09",
@@ -21,7 +39,7 @@
     },
     {
       "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "summary": "Can Apple's new AI glow-up put to bed accusations that it's losing an all-important industry race?",
       "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
       "source": "TechCrunch-AI",
       "date": "2026-06-09",
@@ -56,20 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Apple plays catch-up at WWDC",
-      "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powere",
-      "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Apple bets cheaper AI will woo small developers",
-      "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
-      "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-08",
+      "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
+      "summary": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks.",
+      "link": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+      "source": "Wired-AI",
+      "date": "2026-06-09",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -140,15 +149,6 @@
       "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
       "summary": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
       "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
-      "source": "Wired-AI",
-      "date": "2026-06-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Why Apple Might Put Cameras Into Its Next AirPods",
-      "summary": "From battery life to privacy, there are many hurdles to the idea taking off.",
-      "link": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
       "source": "Wired-AI",
       "date": "2026-06-05",
       "tag": "trend",
@@ -627,15 +627,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-06-09"
-    },
-    {
-      "title": "Loyalty is the new growth engine and retailers are just starting to figure that out",
-      "content": "Why loyalty is becoming retail&#39;s most valuable growth asset.",
-      "link": "https://www.retaildive.com/spons/loyalty-is-the-new-growth-engine-and-retailers-are-just-starting-to-figure/822090/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-06-08"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
