@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-06-09 17:58:48",
+  "updatedAt": "2026-06-09 20:12:50",
   "news": [
+    {
+      "title": "Can tech companies learn to love cheaper AI models? ",
+      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+      "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helpin",
+      "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
       "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in h",
@@ -50,24 +68,6 @@
       "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
       "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
       "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of",
-      "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI files confidentially for IPO, following Anthropic",
-      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-      "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
       "source": "TechCrunch-AI",
       "date": "2026-06-08",
       "tag": "trend",
