@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-10 19:32:03",
+  "updatedAt": "2026-06-10 21:56:50",
   "news": [
+    {
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+      "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
       "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
@@ -68,15 +77,6 @@
       "title": "Meta signs first AI data center deal in India with Reliance",
       "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
       "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google just fired a warning shot in the AI subscription price wars",
-      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
-      "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
       "source": "TechCrunch-AI",
       "date": "2026-06-10",
       "tag": "trend",
