@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-10 21:56:50",
+  "updatedAt": "2026-06-10 23:25:27",
   "news": [
+    {
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic I",
+      "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
       "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
@@ -68,15 +77,6 @@
       "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
       "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available ",
       "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta signs first AI data center deal in India with Reliance",
-      "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-      "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
       "source": "TechCrunch-AI",
       "date": "2026-06-10",
       "tag": "trend",
