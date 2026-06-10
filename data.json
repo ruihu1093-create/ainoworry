@@ -1,10 +1,19 @@
 {
-  "updatedAt": "2026-06-10 00:08:55",
+  "updatedAt": "2026-06-10 05:14:03",
   "news": [
     {
-      "title": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
-      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest startups like Anthropic, A",
-      "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+      "title": "Google just fired a warning shot in the AI subscription price wars",
+      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+      "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic",
+      "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
       "source": "TechCrunch-AI",
       "date": "2026-06-09",
       "tag": "trend",
@@ -68,15 +77,6 @@
       "title": "Sandstone raises $30M to bring AI to in-house legal teams",
       "summary": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
       "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How an e-scooter founder raised $5 million to build space data centers",
-      "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
-      "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
       "source": "TechCrunch-AI",
       "date": "2026-06-09",
       "tag": "trend",
@@ -620,8 +620,17 @@
   ],
   "ecommerce": [
     {
+      "title": "最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店",
+      "content": "文｜张子怡\n  编辑｜袁斯来\n  在竞争常年格外激烈的跨境电商行业，精细化运营已成为决定商家利润的关键，多渠道布局则是规避风险的普遍运营选择。当前，“Shopify独立站+亚马逊+TikTok Shop”的多渠道三位一体布局，已成为中大型出海卖家的标配。\n  不过，多渠道运作伴随着极高的人力成本与管理成本。有数据显示，一个典型的跨境商家",
+      "link": "https://36kr.com/p/3846793046133257?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-06-10"
+    },
+    {
       "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
-      "content": "大公司：\n  猫眼娱乐：作为首批内测开发者接入微信AI生态布局\n  36氪获悉，猫眼娱乐宣布作为微信AI生态首批内测开发者之一，旗下小程序接入微信AI Agent生态，借助微信AI Agent能力，为用户提供影片演出推荐、附近影院筛选、智能选座、一键支付等服务。\n  京东方A：控股子",
+      "content": "大公司：\n  猫眼娱乐：作为首批内测开发者接入微信AI生态布��\n  36氪获悉，猫眼娱乐宣布作为微信AI生态首批内测开发者之一，旗下小程序接入微信AI Agent生态，借助微信AI Agent能力，为用户提供影片演出推荐、附近影院筛选、智能选座、一键支付等服务。\n  京东方A：控股",
       "link": "https://36kr.com/p/3845899768760580?f=rss",
       "source": "36Kr",
       "impact": "medium",
