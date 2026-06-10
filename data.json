@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-10 05:14:03",
+  "updatedAt": "2026-06-10 09:51:35",
   "news": [
+    {
+      "title": "Meta signs first AI data center deal in India with Reliance",
+      "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+      "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google just fired a warning shot in the AI subscription price wars",
       "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
@@ -149,15 +158,6 @@
       "title": "Has Microsoft Lost Its Mojo (Again)?",
       "summary": "Microsoft’s AI products aren’t selling, and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in c",
       "link": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
-      "source": "Wired-AI",
-      "date": "2026-06-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
-      "summary": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
-      "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
       "source": "Wired-AI",
       "date": "2026-06-05",
       "tag": "trend",
@@ -630,7 +630,7 @@
     },
     {
       "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
-      "content": "大公司：\n  猫眼娱乐：作为首批内测开发者接入微信AI生态布��\n  36氪获悉，猫眼娱乐宣布作为微信AI生态首批内测开发者之一，旗下小程序接入微信AI Agent生态，借助微信AI Agent能力，为用户提供影片演出推荐、附近影院筛选、智能选座、一键支付等服务。\n  京东方A：控股",
+      "content": "大公司：\n  猫眼娱乐：作为首批内测开发者接入微信AI生态布局\n  36氪获悉，猫眼娱乐宣布作为微信AI生态首批内测开发者之一，旗下小程序接入微信AI Agent生态，借助微信AI Agent能力，为用户提供影片演出推荐、附近影院筛选、智能选座、一键支付等服务。\n  京东方A：控股子",
       "link": "https://36kr.com/p/3845899768760580?f=rss",
       "source": "36Kr",
       "impact": "medium",
