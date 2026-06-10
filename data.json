@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-10 16:33:12",
+  "updatedAt": "2026-06-10 19:32:03",
   "news": [
+    {
+      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+      "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+      "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "How memory tools can make AI models worse",
       "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
@@ -39,7 +48,7 @@
     },
     {
       "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a ",
+      "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated ",
       "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
       "source": "TechCrunch-AI",
       "date": "2026-06-10",
@@ -70,15 +79,6 @@
       "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
       "source": "TechCrunch-AI",
       "date": "2026-06-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic",
-      "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-09",
       "tag": "trend",
       "tagText": "资讯"
     },
