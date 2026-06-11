@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-06-11 12:41:35",
+  "updatedAt": "2026-06-11 16:51:11",
   "news": [
+    {
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+      "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll throu",
+      "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
       "summary": "The decision comes as India emerges as the world’s largest GCC market.",
@@ -12,7 +30,7 @@
     },
     {
       "title": "Anthropic’s Dario Amodei has just one direct report",
-      "summary": "If you doubted his genius, doubt no more.",
+      "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're",
       "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
       "source": "TechCrunch-AI",
       "date": "2026-06-11",
@@ -59,24 +77,6 @@
       "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
       "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
       "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock",
-      "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Warner Music acquires AI attribution startup Sureel AI",
-      "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
-      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
       "source": "TechCrunch-AI",
       "date": "2026-06-10",
       "tag": "trend",
@@ -620,13 +620,13 @@
   ],
   "ecommerce": [
     {
-      "title": "How retailers are building more resilient delivery networks in 2026",
-      "content": "Retailers are rethinking parcel delivery strategies to improve speed, predictability and cost control.",
-      "link": "https://www.retaildive.com/spons/how-retailers-are-building-more-resilient-delivery-networks-in-2026/822310/",
+      "title": "Shoe Carnival changes corporate name to Shoe Station Group",
+      "content": "The retailer&#39;s new ticker symbol will be &quot;SHOE&quot; and the company will expand the business through the acquisition of other footwear companies.",
+      "link": "https://www.retaildive.com/news/shoe-carnival-name-change-shoe-station-group-ticker-nasdaq/822618/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-06-10"
+      "date": "2026-06-11"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
