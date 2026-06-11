@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11 08:42:07",
+  "updatedAt": "2026-06-11 12:41:35",
   "news": [
     {
       "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
@@ -155,11 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "The Download: the “steroid olympics” and a safer Mythos",
+      "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+      "link": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
       "source": "MIT-Tech-Review",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店",
-      "content": "文｜张子怡\n  编辑｜袁斯来\n  在竞争常年格外激烈的跨境电商行业，精细化运营已成为决定商家利润的关键，多渠道布局则是规避风险的普遍运营选择。当前，“Shopify独立站+亚马逊+TikTok Shop”的多渠道三位一体布局，已成为中大型出海卖家的标配。\n  不过，多渠道运作伴随着极高的人力成本与管理成本。有数据显示，一个典型的跨境商家",
-      "link": "https://36kr.com/p/3846793046133257?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-06-10"
-    },
-    {
       "title": "How retailers are building more resilient delivery networks in 2026",
       "content": "Retailers are rethinking parcel delivery strategies to improve speed, predictability and cost control.",
       "link": "https://www.retaildive.com/spons/how-retailers-are-building-more-resilient-delivery-networks-in-2026/822310/",
@@ -810,23 +801,8 @@
     {
       "name": "chopratejas",
       "author": "sponsors",
-      "description": "OpenAI Plugins",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "link": "https://github.com/sponsors/chopratejas",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-06-11"
-    },
-    {
-      "name": "headroom",
-      "author": "chopratejas",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "link": "https://github.com/chopratejas/headroom",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -838,10 +814,40 @@
       "date": "2026-06-11"
     },
     {
+      "name": "headroom",
+      "author": "chopratejas",
+      "description": "OpenAI Plugins",
+      "link": "https://github.com/chopratejas/headroom",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-11"
+    },
+    {
       "name": "github-copilot-cli",
       "author": "apps",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "link": "https://github.com/apps/github-copilot-cli",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-11"
+    },
+    {
+      "name": "open-notebook",
+      "author": "lfnovo",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "link": "https://github.com/lfnovo/open-notebook",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -855,14 +861,29 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-11"
+    },
+    {
+      "name": "pm-skills",
+      "author": "phuryn",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "link": "https://github.com/phuryn/pm-skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-06-11"
@@ -870,14 +891,14 @@
     {
       "name": "plugins",
       "author": "openai",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "description": "Python tool for converting files and office documents to Markdown.",
       "link": "https://github.com/openai/plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "AI"
         }
       ],
       "date": "2026-06-11"
@@ -885,8 +906,26 @@
     {
       "name": "Agent-Reach",
       "author": "Panniantong",
-      "description": "The agent that grows with you",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "link": "https://github.com/Panniantong/Agent-Reach",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-06-11"
+    },
+    {
+      "name": "cosmos",
+      "author": "NVIDIA",
+      "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "link": "https://github.com/NVIDIA/cosmos",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -908,51 +947,6 @@
       "tags": [
         {
           "name": "AI"
-        }
-      ],
-      "date": "2026-06-11"
-    },
-    {
-      "name": "taste-skill",
-      "author": "Leonxlnx",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "link": "https://github.com/Leonxlnx/taste-skill",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-11"
-    },
-    {
-      "name": "devin-ai-integration",
-      "author": "apps",
-      "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-      "link": "https://github.com/apps/devin-ai-integration",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-11"
-    },
-    {
-      "name": "markitdown",
-      "author": "microsoft",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "link": "https://github.com/microsoft/markitdown",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-06-11"
@@ -985,7 +979,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -994,35 +988,35 @@
       "date": "2026-06-11"
     },
     {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, s",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
+      "date": "2026-06-11"
+    },
+    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "link": "https://github.com/collections",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 2046,
       "date": "2026-06-11"
     },
     {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "The agent that grows with you",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
-      "date": "2026-06-11"
-    },
-    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 7510,
       "date": "2026-06-11"
