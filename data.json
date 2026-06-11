@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11 21:58:48",
+  "updatedAt": "2026-06-11 23:41:07",
   "news": [
     {
       "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
@@ -65,7 +65,16 @@
       "tagText": "资讯"
     },
     {
-      "title": "Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet",
+      "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
+      "summary": "Today on Uncanny Valley, we take an early look at the SpaceX IPO and why you might find yourself among the investors without even realizing it.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
+      "source": "Wired-AI",
+      "date": "2026-06-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
       "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
       "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
       "source": "Wired-AI",
@@ -113,15 +122,6 @@
       "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
       "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
       "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
-      "source": "Wired-AI",
-      "date": "2026-06-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Apple’s New Siri AI Is Ready to Get Personal",
-      "summary": "From a stand-alone app to a Google Gemini partnership, here’s everything you need to know from WWDC 2026 about Apple’s upcoming overhaul of Siri.",
-      "link": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
       "source": "Wired-AI",
       "date": "2026-06-08",
       "tag": "trend",
