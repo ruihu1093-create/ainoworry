@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11 19:32:33",
+  "updatedAt": "2026-06-11 21:58:48",
   "news": [
     {
       "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
@@ -65,20 +65,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "How memory tools can make AI models worse",
-      "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-      "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-      "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-10",
+      "title": "Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet",
+      "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
+      "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+      "source": "Wired-AI",
+      "date": "2026-06-11",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -137,29 +128,38 @@
       "tagText": "资讯"
     },
     {
-      "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
-      "summary": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
-      "link": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
-      "source": "Wired-AI",
-      "date": "2026-06-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
-      "summary": "The code WIRED identified is gone from the latest version of Meta AI, the companion app for the company’s smart glasses. Meta won’t say why or whether",
-      "link": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
-      "source": "Wired-AI",
-      "date": "2026-06-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. Ac",
+      "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Inside soccer’s data renaissance",
+      "summary": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out",
+      "link": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: the “steroid olympics” and a safer Mythos",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-10",
       "tag": "trend",
       "tagText": "资讯"
     },
