@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-06-12 16:14:32",
+  "updatedAt": "2026-06-12 19:02:02",
   "news": [
+    {
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a sp",
+      "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is ",
+      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
       "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
@@ -29,20 +56,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
-      "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
-      "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-      "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll throu",
-      "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-11",
+      "title": "China Didn't Make People Hate Data Centers",
+      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data center movement in the US to Chinese interference. Experts say it’s much more c",
+      "link": "https://www.wired.com/story/china-us-data-center-opposition/",
+      "source": "Wired-AI",
+      "date": "2026-06-12",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -110,15 +128,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
-      "summary": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks.",
-      "link": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
-      "source": "Wired-AI",
-      "date": "2026-06-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
@@ -149,15 +158,6 @@
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
       "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. Ac",
       "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-06-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Inside soccer’s data renaissance",
-      "summary": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out",
-      "link": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-11",
       "tag": "trend",
