@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12 08:21:26",
+  "updatedAt": "2026-06-12 12:15:47",
   "news": [
     {
       "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
@@ -61,6 +61,15 @@
       "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
       "source": "TechCrunch-AI",
       "date": "2026-06-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "You Probably Won’t Get Rich Off the SpaceX IPO",
+      "summary": "The company has set aside an unusually high number of shares for retail investors. Still, experts say, you’re just getting the crumbs.",
+      "link": "https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/",
+      "source": "Wired-AI",
+      "date": "2026-06-12",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -128,6 +137,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Inside Interoception: The hidden sense of how you feel inside",
+      "summary": "MIT Technology Review&#160;Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming ",
+      "link": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
@@ -142,24 +160,6 @@
       "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Inside soccer’s data renaissance",
-      "summary": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out",
-      "link": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-06-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: the “steroid olympics” and a safer Mythos",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-06-10",
       "tag": "trend",
       "tagText": "资讯"
     },
