@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-06-12 19:02:02",
+  "updatedAt": "2026-06-12 21:28:40",
   "news": [
     {
-      "title": "Mistral is rumored to be raising €3B at €20B valuation",
-      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
-      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a sp",
+      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
       "source": "TechCrunch-AI",
       "date": "2026-06-12",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
-      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a sp",
-      "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
       "source": "TechCrunch-AI",
       "date": "2026-06-12",
       "tag": "trend",
@@ -56,8 +56,17 @@
       "tagText": "资讯"
     },
     {
-      "title": "China Didn't Make People Hate Data Centers",
-      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data center movement in the US to Chinese interference. Experts say it’s much more c",
+      "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+      "summary": "Executives and employees alike are struggling with Meta's chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
+      "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+      "source": "Wired-AI",
+      "date": "2026-06-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "China Didn’t Make Americans Hate Data Centers",
+      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more c",
       "link": "https://www.wired.com/story/china-us-data-center-opposition/",
       "source": "Wired-AI",
       "date": "2026-06-12",
@@ -113,15 +122,6 @@
       "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
       "summary": "The ACLU is suing two Florida police departments over the arrest of a Fort Myers man in a child-abduction case, saying officers treated a flawed face-",
       "link": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/",
-      "source": "Wired-AI",
-      "date": "2026-06-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
-      "summary": "The Argentine national team will be Google’s test bench and technological showcase during the World Cup.",
-      "link": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
       "source": "Wired-AI",
       "date": "2026-06-10",
       "tag": "trend",
