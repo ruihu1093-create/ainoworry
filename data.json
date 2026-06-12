@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-12 03:32:57",
+  "updatedAt": "2026-06-12 08:21:26",
   "news": [
+    {
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
       "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
@@ -52,15 +61,6 @@
       "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
       "source": "TechCrunch-AI",
       "date": "2026-06-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic I",
-      "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-10",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "content": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分",
+      "link": "https://36kr.com/p/3846798967818752?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-06-12"
+    },
     {
       "title": "Shoe Carnival changes corporate name to Shoe Station Group",
       "content": "The retailer&#39;s new ticker symbol will be &quot;SHOE&quot; and the company will expand the business through the acquisition of other footwear companies.",
