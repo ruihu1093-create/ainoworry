@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-06-12 12:15:47",
+  "updatedAt": "2026-06-12 16:14:32",
   "news": [
     {
       "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
       "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
       "source": "TechCrunch-AI",
       "date": "2026-06-12",
@@ -41,24 +41,6 @@
       "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
       "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll throu",
       "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-      "summary": "The decision comes as India emerges as the world’s largest GCC market.",
-      "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic’s Dario Amodei has just one direct report",
-      "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're",
-      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
       "source": "TechCrunch-AI",
       "date": "2026-06-11",
       "tag": "trend",
@@ -137,7 +119,16 @@
       "tagText": "资讯"
     },
     {
-      "title": "Inside Interoception: The hidden sense of how you feel inside",
+      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Inside interoception: The hidden sense of how you feel inside",
       "summary": "MIT Technology Review&#160;Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming ",
       "link": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
       "source": "MIT-Tech-Review",
@@ -158,6 +149,15 @@
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
       "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. Ac",
       "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Inside soccer’s data renaissance",
+      "summary": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out",
+      "link": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-11",
       "tag": "trend",
@@ -808,16 +808,31 @@
       "date": "2026-06-12"
     },
     {
-      "name": "chopratejas",
-      "author": "sponsors",
+      "name": "last30days-skill",
+      "author": "mvanhorn",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "link": "https://github.com/sponsors/chopratejas",
+      "link": "https://github.com/mvanhorn/last30days-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
+        }
+      ],
+      "date": "2026-06-12"
+    },
+    {
+      "name": "chopratejas",
+      "author": "sponsors",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "link": "https://github.com/sponsors/chopratejas",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-06-12"
@@ -853,40 +868,10 @@
       "date": "2026-06-12"
     },
     {
-      "name": "open-notebook",
-      "author": "lfnovo",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "link": "https://github.com/lfnovo/open-notebook",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-06-12"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
+      "name": "container",
+      "author": "apple",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-06-12"
-    },
-    {
-      "name": "pm-skills",
-      "author": "phuryn",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "link": "https://github.com/phuryn/pm-skills",
+      "link": "https://github.com/apple/container",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -915,8 +900,53 @@
     {
       "name": "Agent-Reach",
       "author": "Panniantong",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
       "link": "https://github.com/Panniantong/Agent-Reach",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-12"
+    },
+    {
+      "name": "open-notebook",
+      "author": "lfnovo",
+      "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "link": "https://github.com/lfnovo/open-notebook",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-12"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-12"
+    },
+    {
+      "name": "Leonxlnx",
+      "author": "sponsors",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "link": "https://github.com/sponsors/Leonxlnx",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -926,36 +956,6 @@
         },
         {
           "name": "LLM"
-        }
-      ],
-      "date": "2026-06-12"
-    },
-    {
-      "name": "cosmos",
-      "author": "NVIDIA",
-      "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-      "link": "https://github.com/NVIDIA/cosmos",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-12"
-    },
-    {
-      "name": "Leonxlnx",
-      "author": "sponsors",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "link": "https://github.com/sponsors/Leonxlnx",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
         }
       ],
       "date": "2026-06-12"
@@ -997,35 +997,23 @@
       "date": "2026-06-12"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: events",
       "author": "@anonymous",
       "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, s",
-      "link": "https://github.com/topics",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
-      "date": "2026-06-12"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
+      "likes": 2526,
       "date": "2026-06-12"
     },
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 7510,
       "date": "2026-06-12"
@@ -1210,6 +1198,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-06-12"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-06-12"
     }
   ],
