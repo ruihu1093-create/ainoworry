@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-13 18:04:38",
+  "updatedAt": "2026-06-13 20:12:50",
   "news": [
+    {
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI faces investigation from state attorneys general",
       "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
@@ -50,15 +59,6 @@
       "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
       "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is ",
       "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
-      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
       "source": "TechCrunch-AI",
       "date": "2026-06-12",
       "tag": "trend",
