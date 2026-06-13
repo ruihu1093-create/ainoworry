@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-13 16:14:33",
+  "updatedAt": "2026-06-13 18:04:38",
   "news": [
+    {
+      "title": "OpenAI faces investigation from state attorneys general",
+      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
       "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model",
@@ -50,15 +59,6 @@
       "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
       "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
       "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
-      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
       "source": "TechCrunch-AI",
       "date": "2026-06-12",
       "tag": "trend",
