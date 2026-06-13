@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-13 20:12:50",
+  "updatedAt": "2026-06-13 21:59:55",
   "news": [
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
       "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
@@ -149,15 +158,6 @@
       "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-06-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Inside interoception: The hidden sense of how you feel inside",
-      "summary": "MIT Technology Review&#160;Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming ",
-      "link": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-12",
       "tag": "trend",
