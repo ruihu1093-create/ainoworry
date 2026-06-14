@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-14 03:36:07",
+  "updatedAt": "2026-06-14 08:12:36",
   "news": [
+    {
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "KPMG pulls report on AI usage due to apparent hallucinations",
       "summary": "Once again, AI proves to be an unreliable source of information about AI.",
@@ -50,15 +59,6 @@
       "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
       "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a sp",
       "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Mistral is rumored to be raising €3B at €20B valuation",
-      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
-      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
       "source": "TechCrunch-AI",
       "date": "2026-06-12",
       "tag": "trend",
