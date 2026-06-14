@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14 08:12:36",
+  "updatedAt": "2026-06-14 11:27:34",
   "news": [
     {
       "title": "As Anthropic suspends access to new models, India debates its AI future",
@@ -883,24 +883,9 @@
       "date": "2026-06-14"
     },
     {
-      "name": "github-copilot-cli",
-      "author": "apps",
-      "description": "OpenAI Plugins",
-      "link": "https://github.com/apps/github-copilot-cli",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-06-14"
-    },
-    {
       "name": "SkillSpector",
       "author": "NVIDIA",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "description": "OpenAI Plugins",
       "link": "https://github.com/NVIDIA/SkillSpector",
       "stars": 0,
       "trend": 50,
@@ -915,7 +900,7 @@
     {
       "name": "agent-skills",
       "author": "addyosmani",
-      "description": "Python tool for converting files and office documents to Markdown.",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "link": "https://github.com/addyosmani/agent-skills",
       "stars": 0,
       "trend": 50,
@@ -930,7 +915,7 @@
     {
       "name": "Agent-Reach",
       "author": "Panniantong",
-      "description": "Desktop app to manage markdown knowledge bases",
+      "description": "Python tool for converting files and office documents to Markdown.",
       "link": "https://github.com/Panniantong/Agent-Reach",
       "stars": 0,
       "trend": 50,
@@ -943,16 +928,34 @@
       "date": "2026-06-14"
     },
     {
-      "name": "plugins",
-      "author": "openai",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "link": "https://github.com/openai/plugins",
+      "name": "tolaria",
+      "author": "refactoringhq",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "link": "https://github.com/refactoringhq/tolaria",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-06-14"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "We write your reusable computer vision tools. 💜",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Vision"
         }
       ],
       "date": "2026-06-14"
@@ -1006,12 +1009,24 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "description": "OpenAI Plugins",
       "link": "https://github.com/collections",
+      "tools": [
+        "GitHub",
+        "GPT-4"
+      ],
+      "likes": 2046,
+      "date": "2026-06-14"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
-      "likes": 2046,
+      "likes": 2526,
       "date": "2026-06-14"
     },
     {
@@ -1194,19 +1209,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-06-14"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-06-14"
     }
   ],
