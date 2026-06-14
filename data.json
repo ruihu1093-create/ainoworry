@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-14 15:47:12",
+  "updatedAt": "2026-06-14 17:16:45",
   "news": [
+    {
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "As Anthropic suspends access to new models, India debates its AI future",
       "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
@@ -50,15 +59,6 @@
       "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
       "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
       "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a sp",
-      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
       "source": "TechCrunch-AI",
       "date": "2026-06-12",
       "tag": "trend",
