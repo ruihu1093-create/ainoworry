@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15 19:44:25",
+  "updatedAt": "2026-06-15 22:15:43",
   "news": [
     {
       "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos,",
+      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models,",
       "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
       "source": "TechCrunch-AI",
       "date": "2026-06-15",
@@ -20,7 +20,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
       "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build cus",
       "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
       "source": "TechCrunch-AI",
@@ -70,6 +70,15 @@
       "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
       "source": "TechCrunch-AI",
       "date": "2026-06-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
+      "summary": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company ",
+      "link": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+      "source": "Wired-AI",
+      "date": "2026-06-15",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -140,15 +149,6 @@
       "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
       "summary": "Today on Uncanny Valley, we take an early look at the SpaceX IPO and why you might find yourself among the investors without even realizing it.",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
-      "source": "Wired-AI",
-      "date": "2026-06-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
-      "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
-      "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
       "source": "Wired-AI",
       "date": "2026-06-11",
       "tag": "trend",
