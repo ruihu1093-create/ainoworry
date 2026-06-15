@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-06-15 09:59:15",
+  "updatedAt": "2026-06-15 15:51:52",
   "news": [
+    {
+      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos,",
+      "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build cus",
+      "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The AI layoff wave is becoming a powder keg",
       "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming ",
@@ -32,33 +68,6 @@
       "title": "KPMG pulls report on AI usage due to apparent hallucinations",
       "summary": "Once again, AI proves to be an unreliable source of information about AI.",
       "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
-      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI faces investigation from state attorneys general",
-      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
-      "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model",
-      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
       "source": "TechCrunch-AI",
       "date": "2026-06-13",
       "tag": "trend",
@@ -146,20 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
-      "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy",
-      "link": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+      "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is pa",
+      "link": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-06-12",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,7 +620,7 @@
   ],
   "ecommerce": [
     {
-      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+      "title": "高瓴出手了一���消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
       "content": "作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。\n  SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔",
       "link": "https://36kr.com/p/3851572421432324?f=rss",
       "source": "36Kr",
@@ -629,18 +629,18 @@
       "date": "2026-06-14"
     },
     {
-      "title": "The customer signals hiding in your ecommerce data — and what to do with them",
-      "content": "Most ecommerce brands don&rsquo;t use these 3 retention tactics. Learn how smart brands keep their customers.",
-      "link": "https://www.retaildive.com/spons/the-customer-signals-hiding-in-your-ecommerce-data-and-what-to-do-with-th/821939/",
+      "title": "90% of retailers are using AI. Far fewer are ready to run it at scale",
+      "content": "Most retailers invest in AI, but few see results. This piece shows why success depends on store-level execution&mdash;and what&rsquo;s needed at the edge to drive impact.",
+      "link": "https://www.retaildive.com/spons/90-of-retailers-are-using-ai-far-fewer-are-ready-to-run-it-at-scale/822118/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-06-15"
     },
     {
-      "title": "90% of retailers are using AI. Far fewer are ready to run it at scale",
-      "content": "Most retailers invest in AI, but few see results. This piece shows why success depends on store-level execution&mdash;and what&rsquo;s needed at the edge to drive impact.",
-      "link": "https://www.retaildive.com/spons/90-of-retailers-are-using-ai-far-fewer-are-ready-to-run-it-at-scale/822118/",
+      "title": "The customer signals hiding in your ecommerce data — and what to do with them",
+      "content": "Most ecommerce brands don&rsquo;t use these 3 retention tactics. Learn how smart brands keep their customers.",
+      "link": "https://www.retaildive.com/spons/the-customer-signals-hiding-in-your-ecommerce-data-and-what-to-do-with-th/821939/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
@@ -831,8 +831,23 @@
     {
       "name": "container",
       "author": "apple",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "link": "https://github.com/apple/container",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-15"
+    },
+    {
+      "name": "pm-skills",
+      "author": "phuryn",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "link": "https://github.com/phuryn/pm-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -847,10 +862,10 @@
       "date": "2026-06-15"
     },
     {
-      "name": "pm-skills",
-      "author": "phuryn",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "link": "https://github.com/phuryn/pm-skills",
+      "name": "SkillSpector",
+      "author": "NVIDIA",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "link": "https://github.com/NVIDIA/SkillSpector",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -864,7 +879,7 @@
     {
       "name": "chopratejas",
       "author": "sponsors",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "link": "https://github.com/sponsors/chopratejas",
       "stars": 0,
       "trend": 50,
@@ -879,29 +894,14 @@
     {
       "name": "headroom",
       "author": "chopratejas",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "link": "https://github.com/chopratejas/headroom",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-15"
-    },
-    {
-      "name": "SkillSpector",
-      "author": "NVIDIA",
-      "description": "OpenAI Plugins",
-      "link": "https://github.com/NVIDIA/SkillSpector",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
+          "name": "RAG"
         }
       ],
       "date": "2026-06-15"
@@ -909,7 +909,7 @@
     {
       "name": "agent-skills",
       "author": "addyosmani",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "link": "https://github.com/addyosmani/agent-skills",
       "stars": 0,
       "trend": 50,
@@ -924,23 +924,8 @@
     {
       "name": "Agent-Reach",
       "author": "Panniantong",
-      "description": "Python tool for converting files and office documents to Markdown.",
+      "description": "We write your reusable computer vision tools. 💜",
       "link": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-15"
-    },
-    {
-      "name": "tolaria",
-      "author": "refactoringhq",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "link": "https://github.com/refactoringhq/tolaria",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -949,22 +934,37 @@
           "name": "Agent"
         },
         {
-          "name": "LLM"
+          "name": "Vision"
         }
       ],
       "date": "2026-06-15"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "We write your reusable computer vision tools. 💜",
-      "link": "https://github.com/apps/github-actions",
+      "name": "turbovec",
+      "author": "RyanCodrai",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "link": "https://github.com/RyanCodrai/turbovec",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Vision"
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-15"
+    },
+    {
+      "name": "tolaria",
+      "author": "refactoringhq",
+      "description": "OpenAI Plugins",
+      "link": "https://github.com/refactoringhq/tolaria",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-06-15"
@@ -1016,21 +1016,9 @@
       "date": "2026-06-15"
     },
     {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "OpenAI Plugins",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub",
-        "GPT-4"
-      ],
-      "likes": 2046,
-      "date": "2026-06-15"
-    },
-    {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The serve",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1218,6 +1206,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-06-15"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-06-15"
     }
   ],
