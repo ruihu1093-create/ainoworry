@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-15 03:48:04",
+  "updatedAt": "2026-06-15 09:59:15",
   "news": [
+    {
+      "title": "The AI layoff wave is becoming a powder keg",
+      "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming ",
+      "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "As AI companies race to go public, who else is along for the ride?",
       "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
@@ -52,15 +61,6 @@
       "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
       "source": "TechCrunch-AI",
       "date": "2026-06-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-      "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
-      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-12",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -146,18 +146,18 @@
       "tagText": "资讯"
     },
     {
-      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+      "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy",
+      "link": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
       "source": "MIT-Tech-Review",
-      "date": "2026-06-12",
+      "date": "2026-06-15",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Inside interoception: The hidden sense of how you feel inside",
-      "summary": "MIT Technology Review&#160;Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming ",
-      "link": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-12",
       "tag": "trend",
@@ -629,13 +629,22 @@
       "date": "2026-06-14"
     },
     {
-      "title": "Shoe Carnival changes corporate name to Shoe Station Group",
-      "content": "The retailer&#39;s new ticker symbol will be &quot;SHOE&quot; and the company will expand the business through the acquisition of other footwear companies.",
-      "link": "https://www.retaildive.com/news/shoe-carnival-name-change-shoe-station-group-ticker-nasdaq/822618/",
+      "title": "The customer signals hiding in your ecommerce data — and what to do with them",
+      "content": "Most ecommerce brands don&rsquo;t use these 3 retention tactics. Learn how smart brands keep their customers.",
+      "link": "https://www.retaildive.com/spons/the-customer-signals-hiding-in-your-ecommerce-data-and-what-to-do-with-th/821939/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-06-11"
+      "date": "2026-06-15"
+    },
+    {
+      "title": "90% of retailers are using AI. Far fewer are ready to run it at scale",
+      "content": "Most retailers invest in AI, but few see results. This piece shows why success depends on store-level execution&mdash;and what&rsquo;s needed at the edge to drive impact.",
+      "link": "https://www.retaildive.com/spons/90-of-retailers-are-using-ai-far-fewer-are-ready-to-run-it-at-scale/822118/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-06-15"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
