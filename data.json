@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-15 15:51:52",
+  "updatedAt": "2026-06-15 19:44:25",
   "news": [
+    {
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race ",
+      "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
       "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos,",
@@ -39,7 +48,7 @@
     },
     {
       "title": "The AI layoff wave is becoming a powder keg",
-      "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming ",
+      "summary": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's har",
       "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
       "source": "TechCrunch-AI",
       "date": "2026-06-15",
@@ -61,15 +70,6 @@
       "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
       "source": "TechCrunch-AI",
       "date": "2026-06-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
-      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-13",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -155,9 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
-      "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is pa",
-      "link": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+      "title": "Why do South Koreans love AI so much?",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I lande",
+      "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-15",
       "tag": "trend",
@@ -620,7 +620,7 @@
   ],
   "ecommerce": [
     {
-      "title": "高瓴出手了一���消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
       "content": "作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。\n  SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔",
       "link": "https://36kr.com/p/3851572421432324?f=rss",
       "source": "36Kr",
