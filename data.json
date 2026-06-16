@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-06-16 06:31:07",
+  "updatedAt": "2026-06-16 12:10:04",
   "news": [
+    {
+      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+      "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
+      "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+      "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
       "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
@@ -65,11 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "The AI layoff wave is becoming a powder keg",
-      "summary": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's har",
-      "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-15",
+      "title": "‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI",
+      "summary": "A Silicon Valley software maker and an ecommerce company reveal to WIRED how they are navigating the emerging challenge of “tokenomics.”",
+      "link": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/",
+      "source": "Wired-AI",
+      "date": "2026-06-16",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/china-us-data-center-opposition/",
       "source": "Wired-AI",
       "date": "2026-06-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "You Probably Won’t Get Rich Off the SpaceX IPO",
-      "summary": "The company has set aside an unusually high number of shares for retail investors. Still, experts say, you’re just getting the crumbs.",
-      "link": "https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/",
-      "source": "Wired-AI",
-      "date": "2026-06-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Why do South Koreans love AI so much?",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I lande",
-      "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-06-15",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
-      "content": "作者｜��楠\n  编辑｜袁斯来\n  硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。\n  SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于",
-      "link": "https://36kr.com/p/3851572421432324?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-06-14"
-    },
-    {
       "title": "90% of retailers are using AI. Far fewer are ready to run it at scale",
       "content": "Most retailers invest in AI, but few see results. This piece shows why success depends on store-level execution&mdash;and what&rsquo;s needed at the edge to drive impact.",
       "link": "https://www.retaildive.com/spons/90-of-retailers-are-using-ai-far-fewer-are-ready-to-run-it-at-scale/822118/",
@@ -786,23 +777,8 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "link": "https://github.com/sponsors/explore",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-16"
-    },
-    {
-      "name": "developers",
-      "author": "trending",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -814,10 +790,10 @@
       "date": "2026-06-16"
     },
     {
-      "name": "last30days-skill",
-      "author": "mvanhorn",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "link": "https://github.com/mvanhorn/last30days-skill",
+      "name": "developers",
+      "author": "trending",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -831,7 +807,7 @@
     {
       "name": "container",
       "author": "apple",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "link": "https://github.com/apple/container",
       "stars": 0,
       "trend": 50,
@@ -839,24 +815,6 @@
       "tags": [
         {
           "name": "Agent"
-        }
-      ],
-      "date": "2026-06-16"
-    },
-    {
-      "name": "pm-skills",
-      "author": "phuryn",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "link": "https://github.com/phuryn/pm-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "RAG"
         }
       ],
       "date": "2026-06-16"
@@ -877,31 +835,16 @@
       "date": "2026-06-16"
     },
     {
-      "name": "chopratejas",
-      "author": "sponsors",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "link": "https://github.com/sponsors/chopratejas",
+      "name": "pm-skills",
+      "author": "phuryn",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "link": "https://github.com/phuryn/pm-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-16"
-    },
-    {
-      "name": "headroom",
-      "author": "chopratejas",
-      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "link": "https://github.com/chopratejas/headroom",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "RAG"
+          "name": "AI"
         }
       ],
       "date": "2026-06-16"
@@ -909,7 +852,7 @@
     {
       "name": "agent-skills",
       "author": "addyosmani",
-      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "link": "https://github.com/addyosmani/agent-skills",
       "stars": 0,
       "trend": 50,
@@ -922,9 +865,57 @@
       "date": "2026-06-16"
     },
     {
+      "name": "iptv",
+      "author": "iptv-org",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "link": "https://github.com/iptv-org/iptv",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-06-16"
+    },
+    {
+      "name": "iptv-bot",
+      "author": "apps",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "link": "https://github.com/apps/iptv-bot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-16"
+    },
+    {
+      "name": "last30days-skill",
+      "author": "mvanhorn",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-16"
+    },
+    {
       "name": "Agent-Reach",
       "author": "Panniantong",
-      "description": "We write your reusable computer vision tools. 💜",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "link": "https://github.com/Panniantong/Agent-Reach",
       "stars": 0,
       "trend": 50,
@@ -932,18 +923,15 @@
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "Vision"
         }
       ],
       "date": "2026-06-16"
     },
     {
-      "name": "turbovec",
-      "author": "RyanCodrai",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "link": "https://github.com/RyanCodrai/turbovec",
+      "name": "music-assistant",
+      "author": "sponsors",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "link": "https://github.com/sponsors/music-assistant",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -955,16 +943,16 @@
       "date": "2026-06-16"
     },
     {
-      "name": "tolaria",
-      "author": "refactoringhq",
-      "description": "OpenAI Plugins",
-      "link": "https://github.com/refactoringhq/tolaria",
+      "name": "server",
+      "author": "music-assistant",
+      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "link": "https://github.com/music-assistant/server",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "LLM"
         }
       ],
       "date": "2026-06-16"
@@ -974,7 +962,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -985,7 +973,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -996,7 +984,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -1007,12 +995,25 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 1697,
+      "date": "2026-06-16"
+    },
+    {
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex.",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub",
+        "GPT-4"
+      ],
+      "likes": 2046,
       "date": "2026-06-16"
     },
     {
@@ -1206,19 +1207,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-06-16"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-06-16"
     }
   ],
