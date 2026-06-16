@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-16 21:40:21",
+  "updatedAt": "2026-06-16 23:21:05",
   "news": [
+    {
+      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggest",
+      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
       "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The l",
@@ -59,15 +68,6 @@
       "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
       "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
       "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "ChatGPT’s market share slips below 50% for first time",
-      "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude ",
-      "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
       "source": "TechCrunch-AI",
       "date": "2026-06-16",
       "tag": "trend",
