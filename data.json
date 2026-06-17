@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17 21:57:35",
+  "updatedAt": "2026-06-17 23:26:20",
   "news": [
     {
       "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
@@ -74,6 +74,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+      "summary": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos ove",
+      "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "source": "Wired-AI",
+      "date": "2026-06-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
       "summary": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
       "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
@@ -142,15 +151,6 @@
       "link": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
       "source": "Wired-AI",
       "date": "2026-06-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
-      "summary": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company ",
-      "link": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
-      "source": "Wired-AI",
-      "date": "2026-06-15",
       "tag": "trend",
       "tagText": "资讯"
     },
