@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-06-17 19:23:02",
+  "updatedAt": "2026-06-17 21:57:35",
   "news": [
+    {
+      "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+      "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+      "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+      "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it w",
+      "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
       "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the An",
@@ -14,6 +32,15 @@
       "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
       "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
       "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+      "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it w",
+      "link": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
       "source": "TechCrunch-AI",
       "date": "2026-06-17",
       "tag": "trend",
@@ -41,33 +68,6 @@
       "title": "Google bets on Gemini to reinvent the smart home speaker",
       "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands ",
       "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-      "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
-      "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-      "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a p",
-      "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-      "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
-      "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
       "source": "TechCrunch-AI",
       "date": "2026-06-17",
       "tag": "trend",
