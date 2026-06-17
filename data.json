@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-06-17 16:36:51",
+  "updatedAt": "2026-06-17 19:23:02",
   "news": [
+    {
+      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the An",
+      "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+      "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+      "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+      "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+      "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+      "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+      "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google bets on Gemini to reinvent the smart home speaker",
       "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands ",
@@ -38,29 +74,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-      "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a convers",
-      "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-      "source": "TechCrunch-AI",
+      "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
+      "summary": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
+      "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
+      "source": "Wired-AI",
       "date": "2026-06-17",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggest",
-      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The l",
-      "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-16",
+      "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
+      "summary": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumv",
+      "link": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
+      "source": "Wired-AI",
+      "date": "2026-06-17",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -128,36 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
-      "summary": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the res",
-      "link": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
-      "source": "Wired-AI",
-      "date": "2026-06-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "The Download: a reality check for geoengineering and the science of interoception",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-06-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Entrepreneurs in Nairobi make the case for going solar",
-      "summary": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to",
-      "link": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-06-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hacking the atmosphere: Geoengineering gets a reality check",
-      "summary": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft wit",
-      "link": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-17",
       "tag": "trend",
