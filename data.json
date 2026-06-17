@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-06-17 08:59:09",
+  "updatedAt": "2026-06-17 12:54:28",
   "news": [
+    {
+      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+      "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
+      "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+      "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a convers",
+      "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
       "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggest",
@@ -41,33 +59,6 @@
       "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
       "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
       "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
-      "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure  to make the most of AI, Robinhood's CEO Vlad Ten",
-      "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Probably raises $9M to build a more reliable kind of AI",
-      "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
-      "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-      "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
-      "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
       "source": "TechCrunch-AI",
       "date": "2026-06-16",
       "tag": "trend",
@@ -146,20 +137,29 @@
       "tagText": "资讯"
     },
     {
-      "title": "Exclusive eBook: How AI is becoming the next military advisor",
-      "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were o",
-      "link": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+      "title": "The Download: a reality check for geoengineering and the science of interoception",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
       "source": "MIT-Tech-Review",
-      "date": "2026-06-16",
+      "date": "2026-06-17",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+      "title": "Entrepreneurs in Nairobi make the case for going solar",
+      "summary": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to",
+      "link": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
       "source": "MIT-Tech-Review",
-      "date": "2026-06-16",
+      "date": "2026-06-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Hacking the atmosphere: Geoengineering gets a reality check",
+      "summary": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft wit",
+      "link": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-17",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "氪星晚报｜菜鸟将在荷兰建设欧洲供应链履约中心；有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应用大奖；国务院：深入实施“人工智能+”行动，探索人机协同的新型工作形态",
+      "content": "大公司：\n  监管约谈山姆后，沃尔玛中国多位高管变动\n  36氪了解到，山姆",
+      "link": "https://36kr.com/p/3857175761081348?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-06-17"
+    },
+    {
       "title": "8点1氪丨连涨3天，SpaceX超越亚马逊跻身全球前五；支付宝启动史上最大改版；微信支付“AI专属卡”最快本周内上线",
       "content": "今日热点导览\n  \n   山姆中国变更董事长\n   海康威视7月1日上调硬盘价\n   5月份全球纯电和插电式混动汽车销量连续三个月增长\n   美国零售经纪商处的SpaceX投资者每人至少分得一股IPO股票\n   传苹果首款折叠屏将延期发布，产业链人士：假的\n  </ul",
       "link": "https://36kr.com/p/3856525981275138?f=rss",
@@ -627,15 +636,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-06-17"
-    },
-    {
-      "title": "鸿蒙智行全面引入电池二供，国轩高科将上车问界｜36氪独家",
-      "content": "今年以来，市场竞争进一步加剧，内存等供应链成本大幅攀升，寻求供应链降本、使产品定价更具竞争力，成了汽车行业更为迫切的课题。\n  在这样的背景下，36氪从多位产业人士处了解到，稳居中高端市场的鸿蒙智行也开始全面引入多家动力电池供应商。\n  “除了尊界短期内规模支撑不了第二家，其他界可能都会引入多元电池供应商。”有知情人士透露。\n  据36",
-      "link": "https://36kr.com/p/3855879311823873?f=rss",
-      "source": "36Kr",
-      "impact": "high",
-      "impactText": "高",
-      "date": "2026-06-16"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -807,7 +807,7 @@
     {
       "name": "container",
       "author": "apple",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "link": "https://github.com/apple/container",
       "stars": 0,
       "trend": 50,
@@ -822,8 +822,23 @@
     {
       "name": "SkillSpector",
       "author": "NVIDIA",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "link": "https://github.com/NVIDIA/SkillSpector",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-17"
+    },
+    {
+      "name": "agent-skills",
+      "author": "addyosmani",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "link": "https://github.com/addyosmani/agent-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -837,23 +852,8 @@
     {
       "name": "pm-skills",
       "author": "phuryn",
-      "description": "Collection of publicly available IPTV channels from all over the world",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "link": "https://github.com/phuryn/pm-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-06-17"
-    },
-    {
-      "name": "agent-skills",
-      "author": "addyosmani",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "link": "https://github.com/addyosmani/agent-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -885,7 +885,7 @@
     {
       "name": "iptv-bot",
       "author": "apps",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "link": "https://github.com/apps/iptv-bot",
       "stars": 0,
       "trend": 50,
@@ -898,24 +898,9 @@
       "date": "2026-06-17"
     },
     {
-      "name": "last30days-skill",
-      "author": "mvanhorn",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "link": "https://github.com/mvanhorn/last30days-skill",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-06-17"
-    },
-    {
       "name": "Agent-Reach",
       "author": "Panniantong",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "link": "https://github.com/Panniantong/Agent-Reach",
       "stars": 0,
       "trend": 50,
@@ -928,10 +913,10 @@
       "date": "2026-06-17"
     },
     {
-      "name": "music-assistant",
+      "name": "chopratejas",
       "author": "sponsors",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "link": "https://github.com/sponsors/music-assistant",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "link": "https://github.com/sponsors/chopratejas",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -943,16 +928,34 @@
       "date": "2026-06-17"
     },
     {
-      "name": "server",
-      "author": "music-assistant",
-      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
-      "link": "https://github.com/music-assistant/server",
+      "name": "github-copilot-cli",
+      "author": "apps",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "link": "https://github.com/apps/github-copilot-cli",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-17"
+    },
+    {
+      "name": "last30days-skill",
+      "author": "mvanhorn",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "link": "https://github.com/mvanhorn/last30days-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "LLM"
+        },
+        {
+          "name": "RAG"
         }
       ],
       "date": "2026-06-17"
@@ -984,7 +987,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -1007,11 +1010,10 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex.",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The serve",
       "link": "https://github.com/collections",
       "tools": [
-        "GitHub",
-        "GPT-4"
+        "GitHub"
       ],
       "likes": 2046,
       "date": "2026-06-17"
@@ -1019,10 +1021,11 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The serve",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex.",
       "link": "https://github.com/events",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
       "likes": 2526,
       "date": "2026-06-17"
