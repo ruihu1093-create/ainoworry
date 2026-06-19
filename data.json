@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-19 06:13:25",
+  "updatedAt": "2026-06-19 11:18:30",
   "news": [
+    {
+      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+      "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
       "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
@@ -68,15 +77,6 @@
       "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
       "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth ",
       "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "General Intuition in talks to raise $300M at around $2B valuation",
-      "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
-      "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
       "source": "TechCrunch-AI",
       "date": "2026-06-18",
       "tag": "trend",
@@ -155,11 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck t",
+      "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
       "source": "MIT-Tech-Review",
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "tag": "trend",
       "tagText": "资讯"
     },
