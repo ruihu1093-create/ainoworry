@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-19 11:18:30",
+  "updatedAt": "2026-06-19 14:56:08",
   "news": [
+    {
+      "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
       "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
@@ -68,15 +77,6 @@
       "title": "AI data centers just got a government-mandated fast lane to the grid",
       "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
       "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-      "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth ",
-      "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
       "source": "TechCrunch-AI",
       "date": "2026-06-18",
       "tag": "trend",
@@ -155,9 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck t",
-      "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-19",
       "tag": "trend",
@@ -774,23 +774,8 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/trending/developers",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-19"
-    },
-    {
-      "name": "SkillSpector",
-      "author": "NVIDIA",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "link": "https://github.com/NVIDIA/SkillSpector",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -802,16 +787,19 @@
       "date": "2026-06-19"
     },
     {
-      "name": "agent-skills",
-      "author": "addyosmani",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "link": "https://github.com/addyosmani/agent-skills",
+      "name": "SkillSpector",
+      "author": "NVIDIA",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "link": "https://github.com/NVIDIA/SkillSpector",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "LLM"
+        },
+        {
+          "name": "RAG"
         }
       ],
       "date": "2026-06-19"
@@ -819,7 +807,7 @@
     {
       "name": "iptv",
       "author": "iptv-org",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "link": "https://github.com/iptv-org/iptv",
       "stars": 0,
       "trend": 50,
@@ -834,43 +822,13 @@
     {
       "name": "iptv-bot",
       "author": "apps",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "link": "https://github.com/apps/iptv-bot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-19"
-    },
-    {
-      "name": "container",
-      "author": "apple",
-      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
-      "link": "https://github.com/apple/container",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-19"
-    },
-    {
-      "name": "pm-skills",
-      "author": "phuryn",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "link": "https://github.com/phuryn/pm-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
           "name": "LLM"
         },
         {
@@ -880,31 +838,10 @@
       "date": "2026-06-19"
     },
     {
-      "name": "Agent-Reach",
-      "author": "Panniantong",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "link": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "RAG"
-        }
-      ],
-      "date": "2026-06-19"
-    },
-    {
-      "name": "agentsview",
-      "author": "kenn-io",
-      "description": "Meshery, the cloud native manager",
-      "link": "https://github.com/kenn-io/agentsview",
+      "name": "codebase-memory-mcp",
+      "author": "DeusData",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "link": "https://github.com/DeusData/codebase-memory-mcp",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -918,14 +855,29 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-19"
+    },
+    {
+      "name": "Agent-Reach",
+      "author": "Panniantong",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-06-19"
@@ -933,8 +885,53 @@
     {
       "name": "chopratejas",
       "author": "sponsors",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "link": "https://github.com/sponsors/chopratejas",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-19"
+    },
+    {
+      "name": "headroom",
+      "author": "chopratejas",
+      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+      "link": "https://github.com/chopratejas/headroom",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-19"
+    },
+    {
+      "name": "agent-skills",
+      "author": "addyosmani",
+      "description": "Meshery, the cloud native manager",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-19"
+    },
+    {
+      "name": "container",
+      "author": "apple",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "link": "https://github.com/apple/container",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -961,7 +958,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "description": "Collection of publicly available IPTV channels from all over the world",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -972,7 +969,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -983,7 +980,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other age",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -992,15 +989,26 @@
       "date": "2026-06-19"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
-      "link": "https://github.com/sponsors/explore",
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex.",
+      "link": "https://github.com/collections",
       "tools": [
         "GitHub",
-        "LLM"
+        "GPT-4"
       ],
-      "likes": 7510,
+      "likes": 2046,
+      "date": "2026-06-19"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other age",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
       "date": "2026-06-19"
     },
     {
@@ -1183,19 +1191,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-06-19"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-06-19"
     }
   ],
