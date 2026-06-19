@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19 21:06:15",
+  "updatedAt": "2026-06-19 22:52:23",
   "news": [
     {
       "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
@@ -29,7 +29,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
       "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
       "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
       "source": "TechCrunch-AI",
@@ -77,15 +77,6 @@
       "title": "OpenAI is bringing on some big guns in the lead-up to its IPO ",
       "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball i",
       "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
-      "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and convers",
-      "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
       "source": "TechCrunch-AI",
       "date": "2026-06-18",
       "tag": "trend",
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
       "source": "Wired-AI",
       "date": "2026-06-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-19",
       "tag": "trend",
       "tagText": "资讯"
     },
