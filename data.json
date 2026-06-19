@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-19 00:23:02",
+  "updatedAt": "2026-06-19 06:13:25",
   "news": [
+    {
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
       "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
@@ -56,8 +65,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-      "summary": "Karamo Brown, famous for his pep talks on Netflix&#8217;s “Queer Eye,” has jumped into the wellness and AI space with his new app, Kē. After spending ",
+      "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+      "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth ",
       "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
       "source": "TechCrunch-AI",
       "date": "2026-06-18",
@@ -68,15 +77,6 @@
       "title": "General Intuition in talks to raise $300M at around $2B valuation",
       "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
       "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight ",
-      "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
-      "link": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
       "source": "TechCrunch-AI",
       "date": "2026-06-18",
       "tag": "trend",
