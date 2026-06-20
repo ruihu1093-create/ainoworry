@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-20 15:43:44",
+  "updatedAt": "2026-06-20 17:22:08",
   "news": [
+    {
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
       "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national s",
@@ -68,15 +77,6 @@
       "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
       "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to",
       "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO ",
-      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball i",
-      "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
       "source": "TechCrunch-AI",
       "date": "2026-06-18",
       "tag": "trend",
