@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-06-21 14:00:30",
+  "updatedAt": "2026-06-21 16:27:19",
   "news": [
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for th",
+      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
       "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
@@ -59,24 +77,6 @@
       "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
       "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
       "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The US says ASML’s top chip tool may be in China, but how?",
-      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
-      "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-      "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
       "source": "TechCrunch-AI",
       "date": "2026-06-19",
       "tag": "trend",
