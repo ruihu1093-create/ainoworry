@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21 08:26:11",
+  "updatedAt": "2026-06-21 11:42:21",
   "news": [
     {
       "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+      "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+      "link": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+      "source": "Wired-AI",
+      "date": "2026-06-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Siri AI Hands On: A Smart, Helpful Assistant",
       "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
       "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
@@ -140,15 +149,6 @@
       "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
       "summary": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumv",
       "link": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
-      "source": "Wired-AI",
-      "date": "2026-06-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
-      "summary": "Arriving six years after Google’s last smart speaker, the new HomePod-style device was redesigned to play host to Gemini’s chatbot.",
-      "link": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/",
       "source": "Wired-AI",
       "date": "2026-06-17",
       "tag": "trend",
@@ -823,16 +823,16 @@
       "date": "2026-06-21"
     },
     {
-      "name": "chopratejas",
-      "author": "sponsors",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "link": "https://github.com/sponsors/chopratejas",
+      "name": "headroom",
+      "author": "chopratejas",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "link": "https://github.com/chopratejas/headroom",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-06-21"
@@ -840,7 +840,7 @@
     {
       "name": "github-copilot-cli",
       "author": "apps",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "link": "https://github.com/apps/github-copilot-cli",
       "stars": 0,
       "trend": 50,
@@ -870,14 +870,14 @@
     {
       "name": "iptv",
       "author": "iptv-org",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "link": "https://github.com/iptv-org/iptv",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-06-21"
@@ -885,7 +885,7 @@
     {
       "name": "iptv-bot",
       "author": "apps",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "description": "The sandbox agent framework.",
       "link": "https://github.com/apps/iptv-bot",
       "stars": 0,
       "trend": 50,
@@ -898,19 +898,16 @@
       "date": "2026-06-21"
     },
     {
-      "name": "agent-skills",
-      "author": "addyosmani",
-      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
-      "link": "https://github.com/addyosmani/agent-skills",
+      "name": "iroh",
+      "author": "n0-computer",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "link": "https://github.com/n0-computer/iroh",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "LLM"
         }
       ],
       "date": "2026-06-21"
@@ -931,16 +928,16 @@
       "date": "2026-06-21"
     },
     {
-      "name": "meshery",
-      "author": "meshery",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "link": "https://github.com/meshery/meshery",
+      "name": "system_prompts_leaks",
+      "author": "asgeirtj",
+      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "LLM"
         }
       ],
       "date": "2026-06-21"
@@ -960,9 +957,20 @@
       "date": "2026-06-21"
     },
     {
+      "title": "开源项目: explore",
+      "author": "@anonymous",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "link": "https://github.com/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 3045,
+      "date": "2026-06-21"
+    },
+    {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -973,7 +981,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -984,12 +992,23 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "description": "The sandbox agent framework.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
       "likes": 2526,
+      "date": "2026-06-21"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-06-21"
     },
     {
@@ -1172,32 +1191,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-06-21"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
-      "date": "2026-06-21"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
       "date": "2026-06-21"
     }
   ],
