@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-22 12:46:07",
+  "updatedAt": "2026-06-22 17:27:57",
   "news": [
+    {
+      "title": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
+      "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting ",
+      "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "When the Trump administration cracks down on Anthropic, who benefits?",
       "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for th",
@@ -65,20 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Billionaire Ambani wants AI in every call, app, and home",
-      "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
-      "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
-      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-19",
+      "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+      "summary": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative ",
+      "link": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+      "source": "Wired-AI",
+      "date": "2026-06-22",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -137,15 +137,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
-      "summary": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos ove",
-      "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-      "source": "Wired-AI",
-      "date": "2026-06-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "The Download: record-breaking subsea tunnels and flexible data centers",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
@@ -158,6 +149,15 @@
       "title": "The Download: AI bottleneck debates, and BCI trials take off",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottlene",
+      "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-19",
       "tag": "trend",
