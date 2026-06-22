@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-22 20:40:06",
+  "updatedAt": "2026-06-22 22:43:45",
   "news": [
+    {
+      "title": "The AI world is getting ‘loopy’",
+      "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+      "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
       "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
@@ -74,17 +83,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "In the Weights is your new AI-centric vanity search",
-      "summary": "So ... what's your In the Weights score?",
-      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
-      "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers' keystroke data to train AI models.",
+      "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
       "link": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
       "source": "Wired-AI",
       "date": "2026-06-22",
@@ -146,18 +146,18 @@
       "tagText": "资讯"
     },
     {
-      "title": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
-      "summary": "The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their",
-      "link": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
-      "source": "Wired-AI",
-      "date": "2026-06-18",
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of",
+      "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-22",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Three things to watch amid Anthropic’s latest feud with the government",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of",
-      "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "title": "The Download: record-breaking subsea tunnels and flexible data centers",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-22",
       "tag": "trend",
