@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23 08:28:43",
+  "updatedAt": "2026-06-23 11:57:11",
   "news": [
     {
       "title": "The running list: major tech layoffs in 2026 where employers cited AI",
@@ -146,18 +146,18 @@
       "tagText": "资讯"
     },
     {
-      "title": "Three things to watch amid Anthropic’s latest feud with the government",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of",
-      "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
+      "summary": "India is home to about 60% of the world’s wild Asian elephants, and around 80% of the animals’ habitat lies outside protected areas, according to the ",
+      "link": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
       "source": "MIT-Tech-Review",
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "The Download: record-breaking subsea tunnels and flexible data centers",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of",
+      "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-22",
       "tag": "trend",
@@ -620,9 +620,9 @@
   ],
   "ecommerce": [
     {
-      "title": "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子",
-      "content": "今日热点导览\n  三星电子向韩国所有员工开放ChatGPT和Codex\n  港股智谱暴涨，总市值突破1万亿港元\n  何小鹏、曾顺福、白重恩出任蚂蚁集团独立董事\n  杨子卸任巨力集团职务\n  供应链公司：已向苹果首款折叠屏iPhone小批量供货\n  TOP3大新闻\n  <st",
-      "link": "https://36kr.com/p/3865001641006081?f=rss",
+      "title": "只租办公室的拼多多，在雄安买了一栋楼",
+      "content": "扎堆雄安的互联网大厂又多了一个。\n  6月21日，拼多多集团与中国电建完成正式签约，通过整体购置方式持有雄安·电建智汇城数字新消费电商产业园的办公楼。\n  这是拼多多第一次“买楼”。\n  <img data-img-size-val=\"2830,1981\" s",
+      "link": "https://36kr.com/p/3865625576297476?f=rss",
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
@@ -810,23 +810,8 @@
     {
       "name": "codebase-memory-mcp",
       "author": "DeusData",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "link": "https://github.com/DeusData/codebase-memory-mcp",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-23"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -838,10 +823,25 @@
       "date": "2026-06-23"
     },
     {
-      "name": "OpenMontage",
-      "author": "calesthio",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "link": "https://github.com/calesthio/OpenMontage",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-23"
+    },
+    {
+      "name": "timesfm",
+      "author": "google-research",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "link": "https://github.com/google-research/timesfm",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -855,7 +855,7 @@
     {
       "name": "Agent-Reach",
       "author": "Panniantong",
-      "description": "Collection of publicly available IPTV channels from all over the world",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "link": "https://github.com/Panniantong/Agent-Reach",
       "stars": 0,
       "trend": 50,
@@ -870,7 +870,7 @@
     {
       "name": "iroh",
       "author": "n0-computer",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "description": "Collection of publicly available IPTV channels from all over the world",
       "link": "https://github.com/n0-computer/iroh",
       "stars": 0,
       "trend": 50,
@@ -883,10 +883,10 @@
       "date": "2026-06-23"
     },
     {
-      "name": "timesfm",
-      "author": "google-research",
+      "name": "system_prompts_leaks",
+      "author": "asgeirtj",
       "description": "The sandbox agent framework.",
-      "link": "https://github.com/google-research/timesfm",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -915,8 +915,23 @@
     {
       "name": "iptv-bot",
       "author": "apps",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
       "link": "https://github.com/apps/iptv-bot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-23"
+    },
+    {
+      "name": "penpot",
+      "author": "penpot",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "link": "https://github.com/penpot/penpot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -941,21 +956,6 @@
         }
       ],
       "date": "2026-06-23"
-    },
-    {
-      "name": "flue",
-      "author": "withastro",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/withastro/flue",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-23"
     }
   ],
   "agents": [
@@ -973,10 +973,11 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Collection of publicly available IPTV channels from all over the world",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex.",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
       "likes": 3045,
       "date": "2026-06-23"
@@ -984,30 +985,18 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex.",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational aw",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub",
-        "GPT-4"
+        "GitHub"
       ],
       "likes": 1697,
       "date": "2026-06-23"
     },
     {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
-      "date": "2026-06-23"
-    },
-    {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "description": "The sandbox agent framework.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1208,6 +1197,19 @@
         "剪映"
       ],
       "likes": 18500,
+      "date": "2026-06-23"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
       "date": "2026-06-23"
     }
   ],
