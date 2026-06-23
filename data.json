@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-06-23 00:01:26",
+  "updatedAt": "2026-06-23 04:56:41",
   "news": [
+    {
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated f",
+      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The AI world is getting ‘loopy’",
       "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
@@ -61,24 +79,6 @@
       "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
       "source": "TechCrunch-AI",
       "date": "2026-06-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
-      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-20",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子",
+      "content": "今日热点导览\n  三星电子向韩国所有员工开放ChatGPT和Codex\n  港股智谱暴涨，总市值突破1万亿港元\n  何小鹏、曾顺福、白重恩出任蚂蚁集团独立董事\n  杨子卸任巨力集团职务\n  供应链公司：已向苹果首款折叠屏iPhone小批量供货\n  TOP3大新闻\n  <st",
+      "link": "https://36kr.com/p/3865001641006081?f=rss",
+      "source": "36Kr",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-06-23"
+    },
     {
       "title": "What a 1937 candy store figured out about omnichannel that most retailers haven’t",
       "content": "A 90-year-old NYC candy store runs smarter omnichannel operations than many large retailers.",
