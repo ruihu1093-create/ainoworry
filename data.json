@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23 04:56:41",
+  "updatedAt": "2026-06-23 08:28:43",
   "news": [
     {
       "title": "The running list: major tech layoffs in 2026 where employers cited AI",
@@ -11,8 +11,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
-      "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
+      "summary": "OpenAI is using AI to help the open source community better protect itself.",
       "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
       "source": "TechCrunch-AI",
       "date": "2026-06-23",
