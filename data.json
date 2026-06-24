@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-24 13:17:37",
+  "updatedAt": "2026-06-24 16:15:10",
   "news": [
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
+      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
       "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
@@ -65,20 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
-      "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel ",
-      "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-      "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
-      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-22",
+      "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
+      "summary": "At high-stakes meetings with the White House, Anthropic's cofounder—a \"weirdo,\" per one official—has been replaced by cofounder Tom Brown.",
+      "link": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
+      "source": "Wired-AI",
+      "date": "2026-06-24",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -137,11 +137,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "The White House Is Making Up Its Rules for AI in Real Time",
-      "summary": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company",
-      "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
-      "source": "Wired-AI",
-      "date": "2026-06-18",
+      "title": "Europe’s extreme heat is shutting down power plants",
+      "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try ",
+      "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-24",
       "tag": "trend",
       "tagText": "资讯"
     },
