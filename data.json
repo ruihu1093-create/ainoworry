@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-24 18:48:59",
+  "updatedAt": "2026-06-24 20:45:21",
   "news": [
+    {
+      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+      "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Facebook rolls out an AI companion app for creators",
       "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
@@ -65,11 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated f",
-      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-23",
+      "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
+      "summary": "The AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”",
+      "link": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
+      "source": "Wired-AI",
+      "date": "2026-06-24",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "The Download: introducing the Engineering issue",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-06-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-      "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away f",
-      "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-24",
       "tag": "trend",
