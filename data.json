@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-06-24 16:15:10",
+  "updatedAt": "2026-06-24 18:48:59",
   "news": [
+    {
+      "title": "Facebook rolls out an AI companion app for creators",
+      "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+      "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+      "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+      "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
+      "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
@@ -43,33 +70,6 @@
       "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "source": "TechCrunch-AI",
       "date": "2026-06-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI launches new initiative to help find and patch open source bugs",
-      "summary": "OpenAI is using AI to help the open source community better protect itself.",
-      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The AI world is getting ‘loopy’",
-      "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
-      "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
-      "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
-      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-22",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -155,7 +155,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
+      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
       "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away f",
       "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
       "source": "MIT-Tech-Review",
