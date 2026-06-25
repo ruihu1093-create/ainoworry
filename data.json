@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-06-25 11:37:30",
+  "updatedAt": "2026-06-25 14:22:57",
   "news": [
+    {
+      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+      "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
+      "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+      "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
       "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
@@ -41,33 +59,6 @@
       "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
       "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
       "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Facebook rolls out an AI companion app for creators",
-      "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
-      "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-      "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
-      "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Figma adds code layers, support for animations, more AI features in new update",
-      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
-      "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
       "source": "TechCrunch-AI",
       "date": "2026-06-24",
       "tag": "trend",
@@ -151,6 +142,15 @@
       "link": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
       "source": "Wired-AI",
       "date": "2026-06-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-25",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -638,10 +638,10 @@
       "date": "2026-06-25"
     },
     {
-      "title": "36氪首发 | 固态变压器领域累计出货超50MW，功率半导体模组厂商完成数千万元融资",
-      "content": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉��矽迪半导体近日完成数千万元人民币天使轮+融资，由苏创投和婧嘉投资共同投资，后浪资本担任战略财务顾问。本轮融资资金将主要用于固态变压器（SST）功率模组研发、产品迭代以及供应链体系建设。\n  矽迪半导体成立于2023年，主要从事功率半导体模组的",
-      "link": "https://36kr.com/p/3867975570035717?f=rss",
-      "source": "36Kr",
+      "title": "The Backroom: The weight-loss era is not just about selling clothes",
+      "content": "Liza Amlani, principal at Retail Strategy Group, joins us to discuss how retailers and brands can successfully grapple with what she calls &ldquo;fit volatility.&rdquo;",
+      "link": "https://www.retaildive.com/news/podcast-the-backroom-glp1-weight-loss-era-not-just-selling-clothes/823700/",
+      "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-06-25"
