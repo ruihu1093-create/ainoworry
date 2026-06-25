@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-06-25 14:22:57",
+  "updatedAt": "2026-06-25 17:08:50",
   "news": [
+    {
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something clos",
+      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "summary": "Un0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
       "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
@@ -41,24 +68,6 @@
       "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
       "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
       "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI researchers continue to leave Google for its rivals",
-      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John ",
-      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-      "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
-      "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
       "source": "TechCrunch-AI",
       "date": "2026-06-24",
       "tag": "trend",
@@ -146,18 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-06-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’",
-      "link": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "title": "Repositioning retail for the AI era",
+      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be fla",
+      "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-25",
       "tag": "trend",
@@ -633,6 +633,15 @@
       "content": "文&nbsp;|&nbsp;阿至\n  给飞行器做“大脑”，从来不是一件容易事，在国内尤其如此。\n  这是一个长期被欧美巨头垄断的赛道，霍尼韦尔、柯林斯宇航、泰雷兹和GE四家吃下超过八成市场份额。从当下的产业背景来看，自主航电不仅关乎中国航空产业的供应链安全，也是国产民机、eVTOL等新机型实现成本可控和商业化闭环的重要前提之一。\n  在",
       "link": "https://36kr.com/p/3868030861645058?f=rss",
       "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "How retailers are thinking about omnichannel in the age of AI",
+      "content": "</figu",
+      "link": "https://www.retaildive.com/news/ulta-stitch-fix-tapestry-retail-omnichannel-ai-age/823707/",
+      "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-06-25"
