@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25 00:06:40",
+  "updatedAt": "2026-06-25 05:01:19",
   "news": [
     {
       "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
@@ -68,15 +68,6 @@
       "title": "Figma adds code layers, support for animations, more AI features in new update",
       "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
       "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
-      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
       "source": "TechCrunch-AI",
       "date": "2026-06-24",
       "tag": "trend",
@@ -158,6 +149,15 @@
       "title": "Europe’s extreme heat is shutting down power plants",
       "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try ",
       "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: introducing the Engineering issue",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-24",
       "tag": "trend",
@@ -619,6 +619,24 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "国产航电黑马8个月融三轮，要做中国版霍尼韦尔｜36氪首发",
+      "content": "文&nbsp;|&nbsp;阿至\n  给飞行器做“大脑”，从来不是一件容易事，在国内尤其如此。\n  这是一个长期被欧美巨头垄断的赛道，霍尼韦尔、柯林斯宇航、泰雷兹和GE四家吃下超过八成市场份额。从当下的产业背景来看，自主航电不仅关乎中国航空产业的供应链安全，也是国产民机、eVTOL等新机型实现成本可控和商业化闭环的重要前提之一。\n  在",
+      "link": "https://36kr.com/p/3868030861645058?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "36氪首发 | 固态变压器领域累计出货超50MW，功率半导体模组厂商完成数千万元融资",
+      "content": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，矽迪半导体近日完成数千万元人民币天使轮+融资，由苏创投和婧嘉投资共同投资，后浪资本担任战略财务顾问。本轮融资资金将主要用于固态变压器（SST）功率模组研发、产品迭代以及供应链体系建设。\n  矽迪半导体成立于2023年，主要从事功率半导体模组的研",
+      "link": "https://36kr.com/p/3867975570035717?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-06-25"
+    },
     {
       "title": "8点1氪丨SK海力士已提交美国IPO申请；马斯克身家蒸发3400亿美元，已不是万亿富豪；券商暂停股票类跨境TRS新增",
       "content": "今日热点导览\n  豆包专业版正式上线，采用三级阶梯定价方案\n  半导体新股暴涨900%，中一签该股最高盈利超20万元\n  以色列证实向伊朗偷运数万台“星链”接收器\n  霍尔木兹海峡对商船完全开放60天，国际油价下跌\n  券商暂停股票类跨境TRS新增，后续业务规模或将逐步归",
