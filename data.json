@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25 08:54:46",
+  "updatedAt": "2026-06-25 11:37:30",
   "news": [
     {
       "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
@@ -74,6 +74,24 @@
       "tagText": "资讯"
     },
     {
+      "title": "World Cup Teams Are in a Race for AI Dominance",
+      "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which ",
+      "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
+      "source": "Wired-AI",
+      "date": "2026-06-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
+      "summary": "As UK police embrace the AI revolution, a WIRED investigation reveals the messy inside story of one region’s experiment with predictive analytics.",
+      "link": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
+      "source": "Wired-AI",
+      "date": "2026-06-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
       "summary": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
       "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
@@ -137,29 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "World Cup Scams Are Getting Harder to Spot",
-      "summary": "From fake tickets to cloned websites, AI is magnifying World Cup scams. Can fans distinguish between what’s real and what’s not?",
-      "link": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
-      "source": "Wired-AI",
-      "date": "2026-06-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Europe’s extreme heat is shutting down power plants",
-      "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try ",
-      "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+      "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’",
+      "link": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
       "source": "MIT-Tech-Review",
-      "date": "2026-06-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: introducing the Engineering issue",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -639,20 +639,11 @@
     },
     {
       "title": "36氪首发 | 固态变压器领域累计出货超50MW，功率半导体模组厂商完成数千万元融资",
-      "content": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，矽迪半导体近日完成数千万元人民币天使轮+融资，由苏创投和婧嘉投资共同投资，后浪资本担任战略财务顾问。本轮融资资金将主要用于固态变压器（SST）功率模组研发、产品迭代以及供应链体系建设。\n  矽迪半导体成立于2023年，主要从事功率半导体模组的研",
+      "content": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉��矽迪半导体近日完成数千万元人民币天使轮+融资，由苏创投和婧嘉投资共同投资，后浪资本担任战略财务顾问。本轮融资资金将主要用于固态变压器（SST）功率模组研发、产品迭代以及供应链体系建设。\n  矽迪半导体成立于2023年，主要从事功率半导体模组的",
       "link": "https://36kr.com/p/3867975570035717?f=rss",
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-06-25"
-    },
-    {
-      "title": "8点1氪丨SK海力士已提交美国IPO申请；马斯克身家蒸发3400亿美元，已不是万亿富豪；券商暂停股票类跨境TRS新增",
-      "content": "今日热点导览\n  豆包专业版正式上线，采用三级阶梯定价方案\n  半导体新股暴涨900%，中一签该股最高盈利超20万元\n  以色列证实向伊朗偷运数万台“星链”接收器\n  霍尔木兹海峡对商船完全开放60天，国际油价下跌\n  券商暂停股票类跨境TRS新增，后续业务规模或将逐步归",
-      "link": "https://36kr.com/p/3867827741086728?f=rss",
-      "source": "36Kr",
-      "impact": "high",
-      "impactText": "高",
       "date": "2026-06-25"
     },
     {
@@ -841,10 +832,10 @@
       "date": "2026-06-25"
     },
     {
-      "name": "codebase-memory-mcp",
-      "author": "DeusData",
+      "name": "OpenMontage",
+      "author": "calesthio",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "link": "https://github.com/DeusData/codebase-memory-mcp",
+      "link": "https://github.com/calesthio/OpenMontage",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -858,7 +849,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -873,14 +864,14 @@
     {
       "name": "timesfm",
       "author": "google-research",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "link": "https://github.com/google-research/timesfm",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-06-25"
@@ -888,53 +879,8 @@
     {
       "name": "worldmonitor",
       "author": "koala73",
-      "description": "The sandbox agent framework.",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "link": "https://github.com/koala73/worldmonitor",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "name": "asgeirtj",
-      "author": "sponsors",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "link": "https://github.com/sponsors/asgeirtj",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "name": "system_prompts_leaks",
-      "author": "asgeirtj",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "link": "https://github.com/asgeirtj/system_prompts_leaks",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "name": "Agent-Reach",
-      "author": "Panniantong",
-      "description": "The open-source CapCut alternative",
-      "link": "https://github.com/Panniantong/Agent-Reach",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -948,8 +894,23 @@
     {
       "name": "penpot",
       "author": "penpot",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "link": "https://github.com/penpot/penpot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-06-25"
+    },
+    {
+      "name": "asgeirtj",
+      "author": "sponsors",
+      "description": "The sandbox agent framework.",
+      "link": "https://github.com/sponsors/asgeirtj",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -961,16 +922,46 @@
       "date": "2026-06-25"
     },
     {
-      "name": "flue",
-      "author": "withastro",
-      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-      "link": "https://github.com/withastro/flue",
+      "name": "system_prompts_leaks",
+      "author": "asgeirtj",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "RAG"
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-25"
+    },
+    {
+      "name": "Agent-Reach",
+      "author": "Panniantong",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-25"
+    },
+    {
+      "name": "daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "description": "AI agent to evaluate and score resumes.",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-06-25"
@@ -991,11 +982,10 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex.",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub",
-        "GPT-4"
+        "GitHub"
       ],
       "likes": 3045,
       "date": "2026-06-25"
@@ -1003,10 +993,11 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex.",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
       "likes": 1697,
       "date": "2026-06-25"
@@ -1014,29 +1005,19 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "The sandbox agent framework.",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decisi",
       "link": "https://github.com/collections",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 2046,
       "date": "2026-06-25"
     },
     {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
-      "date": "2026-06-25"
-    },
-    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Collection of publicly available IPTV channels from all over the world",
+      "description": "The sandbox agent framework.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1224,6 +1205,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-06-25"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-06-25"
     }
   ],
