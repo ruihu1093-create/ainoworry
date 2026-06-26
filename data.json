@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26 13:07:52",
+  "updatedAt": "2026-06-26 16:12:37",
   "news": [
     {
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
@@ -74,6 +74,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Europe Is Fed Up and Wants Its Own AI",
+      "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
+      "link": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+      "source": "Wired-AI",
+      "date": "2026-06-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
       "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
       "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
@@ -140,15 +149,6 @@
       "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
       "summary": "At high-stakes meetings with the White House, Anthropic's cofounder—a \"weirdo,\" per one official—has been replaced by cofounder Tom Brown.",
       "link": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
-      "source": "Wired-AI",
-      "date": "2026-06-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
-      "summary": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit.",
-      "link": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
       "source": "Wired-AI",
       "date": "2026-06-24",
       "tag": "trend",
