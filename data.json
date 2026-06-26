@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26 10:21:03",
+  "updatedAt": "2026-06-26 13:07:52",
   "news": [
     {
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
@@ -155,9 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-      "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperat",
-      "link": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
       "source": "MIT-Tech-Review",
       "date": "2026-06-26",
       "tag": "trend",
@@ -810,29 +810,14 @@
     {
       "name": "calesthio",
       "author": "sponsors",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "description": "A framework for building agent-native applications.",
       "link": "https://github.com/sponsors/calesthio",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-06-26"
-    },
-    {
-      "name": "OpenMontage",
-      "author": "calesthio",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "link": "https://github.com/calesthio/OpenMontage",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-06-26"
@@ -840,23 +825,53 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "LLM"
         }
       ],
       "date": "2026-06-26"
     },
     {
-      "name": "timesfm",
-      "author": "google-research",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "link": "https://github.com/google-research/timesfm",
+      "name": "agent-native",
+      "author": "BuilderIO",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "link": "https://github.com/BuilderIO/agent-native",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-26"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-26"
+    },
+    {
+      "name": "builder-io-integration",
+      "author": "apps",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "link": "https://github.com/apps/builder-io-integration",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -868,10 +883,25 @@
       "date": "2026-06-26"
     },
     {
-      "name": "worldmonitor",
-      "author": "koala73",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "link": "https://github.com/koala73/worldmonitor",
+      "name": "no-mistakes",
+      "author": "kunchenguid",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "link": "https://github.com/kunchenguid/no-mistakes",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-26"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -885,59 +915,14 @@
     {
       "name": "penpot",
       "author": "penpot",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "link": "https://github.com/penpot/penpot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-06-26"
-    },
-    {
-      "name": "asgeirtj",
-      "author": "sponsors",
-      "description": "The sandbox agent framework.",
-      "link": "https://github.com/sponsors/asgeirtj",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-26"
-    },
-    {
-      "name": "system_prompts_leaks",
-      "author": "asgeirtj",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
-      "link": "https://github.com/asgeirtj/system_prompts_leaks",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-26"
-    },
-    {
-      "name": "Agent-Reach",
-      "author": "Panniantong",
-      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-      "link": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-06-26"
@@ -947,6 +932,21 @@
       "author": "ZhuLinsen",
       "description": "AI agent to evaluate and score resumes.",
       "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-26"
+    },
+    {
+      "name": "voicebox",
+      "author": "jamiepine",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "link": "https://github.com/jamiepine/voicebox",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -973,10 +973,11 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decisi",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 3045,
       "date": "2026-06-26"
@@ -984,11 +985,10 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex.",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub",
-        "GPT-4"
+        "GitHub"
       ],
       "likes": 1697,
       "date": "2026-06-26"
@@ -996,19 +996,29 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decisi",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational aw",
       "link": "https://github.com/collections",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 2046,
       "date": "2026-06-26"
     },
     {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
+      "date": "2026-06-26"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "The sandbox agent framework.",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MIT",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1196,19 +1206,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-06-26"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-06-26"
     }
   ],
