@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-06-26 02:55:56",
+  "updatedAt": "2026-06-26 06:53:38",
   "news": [
     {
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump adm",
+      "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump ",
       "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
       "source": "TechCrunch-AI",
       "date": "2026-06-25",
@@ -619,15 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "科氪 | 雷鸟创新 618 持续领跑 AR+智能眼镜品类，Q1 全球出货量再度登顶",
-      "content": "2026 年上半年，全球智能眼镜市场迎来爆发式增长。IDC 数据显示全球 AR 市场（含 ER）同比增长 168.6%。国内市场的强劲增势同样印证了这一行业趋势，商务部大数据显示，2026 年 1 至 3 月，中国智能眼镜网络零售销售额同比增长 161.9%，AR 眼镜的受众圈层持续拓宽，正稳步渗透大众消费市场。\n  在激烈的竞争态势下，全球领先消费级 AR 品牌",
-      "link": "https://36kr.com/p/3868204527457287?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-06-25"
-    },
     {
       "title": "How retailers are thinking about omnichannel in the age of AI",
       "content": "</figu",
