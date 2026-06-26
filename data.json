@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-06-26 18:28:07",
+  "updatedAt": "2026-06-26 20:43:57",
   "news": [
     {
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the U.S.",
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, devel",
+      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
       "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
       "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
       "source": "TechCrunch-AI",
@@ -68,15 +77,6 @@
       "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
       "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something clos",
       "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
       "source": "TechCrunch-AI",
       "date": "2026-06-25",
       "tag": "trend",
