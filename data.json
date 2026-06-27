@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-27 16:01:33",
+  "updatedAt": "2026-06-27 17:58:33",
   "news": [
+    {
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
       "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — int",
@@ -70,15 +79,6 @@
       "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
       "source": "TechCrunch-AI",
       "date": "2026-06-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump ",
-      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-25",
       "tag": "trend",
       "tagText": "资讯"
     },
