@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-27 00:02:27",
+  "updatedAt": "2026-06-27 04:49:50",
   "news": [
+    {
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
       "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, devel",
@@ -74,11 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something clos",
-      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-25",
+      "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+      "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and g",
+      "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+      "source": "Wired-AI",
+      "date": "2026-06-27",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "A24 Knows You’re Mad About the Google AI Collab",
       "summary": "Indie movie fans are upset about Google DeepMind’s $75 million investment in the studio, which comes as AI companies are deepening their influence in ",
       "link": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
-      "source": "Wired-AI",
-      "date": "2026-06-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
-      "summary": "The AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”",
-      "link": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
       "source": "Wired-AI",
       "date": "2026-06-24",
       "tag": "trend",
