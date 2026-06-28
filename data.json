@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-28 15:15:17",
+  "updatedAt": "2026-06-28 17:04:43",
   "news": [
+    {
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
       "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
@@ -68,15 +77,6 @@
       "title": "It’s not about Anthropic vs. OpenAI anymore",
       "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collect",
       "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice ",
-      "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
       "source": "TechCrunch-AI",
       "date": "2026-06-26",
       "tag": "trend",
