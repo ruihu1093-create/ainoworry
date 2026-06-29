@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29 05:27:05",
+  "updatedAt": "2026-06-29 10:49:08",
   "news": [
     {
       "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
+      "summary": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
+      "link": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
+      "source": "Wired-AI",
+      "date": "2026-06-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
       "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and g",
       "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
@@ -149,15 +158,6 @@
       "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
       "summary": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
       "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
-      "source": "Wired-AI",
-      "date": "2026-06-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A24 Knows You’re Mad About the Google AI Collab",
-      "summary": "Indie movie fans are upset about Google DeepMind’s $75 million investment in the studio, which comes as AI companies are deepening their influence in ",
-      "link": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
       "source": "Wired-AI",
       "date": "2026-06-24",
       "tag": "trend",
@@ -629,27 +629,18 @@
       "date": "2026-06-29"
     },
     {
-      "title": "一折买 Miu Miu，谁在做奢侈品牌的\"拼多多\"？｜商业Friday",
-      "content": "文｜贺哲馨\n  编辑｜乔芊\n  Judy第一次意识到，原来打折的奢侈品也有准入门槛，是在申请加入On The List的一次特卖活动时。提交申请后的第三天，她依旧没有收到邀请消息。“我还以为填完资料",
-      "link": "https://36kr.com/p/3867976058803459?f=rss",
-      "source": "36Kr",
-      "impact": "high",
-      "impactText": "高",
-      "date": "2026-06-28"
+      "title": "Modernizing the retail edge—a competitive imperative",
+      "content": "Modernize retail edge infrastructure or fall behind&mdash;AI, real-time inventory, and seamless checkout await.",
+      "link": "https://www.retaildive.com/spons/modernizing-the-retail-edgea-competitive-imperative/823231/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-06-29"
     },
     {
       "title": "How retailers are thinking about omnichannel in the age of AI",
       "content": "</figu",
       "link": "https://www.retaildive.com/news/ulta-stitch-fix-tapestry-retail-omnichannel-ai-age/823707/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-06-25"
-    },
-    {
-      "title": "The Backroom: The weight-loss era is not just about selling clothes",
-      "content": "Liza Amlani, principal at Retail Strategy Group, joins us to discuss how retailers and brands can successfully grapple with what she calls &ldquo;fit volatility.&rdquo;",
-      "link": "https://www.retaildive.com/news/podcast-the-backroom-glp1-weight-loss-era-not-just-selling-clothes/823700/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
@@ -826,25 +817,10 @@
       "date": "2026-06-29"
     },
     {
-      "name": "OpenMontage",
-      "author": "calesthio",
-      "description": "macOS video editor built for AI",
-      "link": "https://github.com/calesthio/OpenMontage",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-06-29"
-    },
-    {
-      "name": "codebase-memory-mcp",
-      "author": "DeusData",
+      "name": "calesthio",
+      "author": "sponsors",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "link": "https://github.com/DeusData/codebase-memory-mcp",
+      "link": "https://github.com/sponsors/calesthio",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -871,55 +847,10 @@
       "date": "2026-06-29"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "AI agent to evaluate and score resumes.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-29"
-    },
-    {
-      "name": "palmier-pro",
-      "author": "palmier-io",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "link": "https://github.com/palmier-io/palmier-pro",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-06-29"
-    },
-    {
       "name": "design.md",
       "author": "google-labs-code",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "AI agent to evaluate and score resumes.",
       "link": "https://github.com/google-labs-code/design.md",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-29"
-    },
-    {
-      "name": "ai-website-cloner-template",
-      "author": "JCodesMore",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "link": "https://github.com/JCodesMore/ai-website-cloner-template",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -933,8 +864,23 @@
     {
       "name": "simplex-chat",
       "author": "sponsors",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "link": "https://github.com/sponsors/simplex-chat",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-06-29"
+    },
+    {
+      "name": "simplex-chat",
+      "author": "simplex-chat",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "link": "https://github.com/simplex-chat/simplex-chat",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -946,16 +892,49 @@
       "date": "2026-06-29"
     },
     {
-      "name": "simplex-chat",
-      "author": "simplex-chat",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "link": "https://github.com/simplex-chat/simplex-chat",
+      "name": "no-mistakes",
+      "author": "kunchenguid",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "link": "https://github.com/kunchenguid/no-mistakes",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-29"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-06-29"
+    },
+    {
+      "name": "ai-website-cloner-template",
+      "author": "JCodesMore",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+      "link": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-06-29"
@@ -963,8 +942,23 @@
     {
       "name": "hiring-agent",
       "author": "interviewstreet",
-      "description": "A framework for building agent-native applications.",
+      "description": "macOS video editor built for AI",
       "link": "https://github.com/interviewstreet/hiring-agent",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-29"
+    },
+    {
+      "name": "daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "description": "A framework for building agent-native applications.",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -1000,13 +994,23 @@
       "date": "2026-06-29"
     },
     {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "AI agent to evaluate and score resumes.",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
+      "date": "2026-06-29"
+    },
+    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decisi",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "link": "https://github.com/collections",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 2046,
       "date": "2026-06-29"
@@ -1014,7 +1018,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1025,7 +1029,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1213,19 +1217,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-06-29"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-06-29"
     }
   ],
