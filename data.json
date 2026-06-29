@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29 21:22:01",
+  "updatedAt": "2026-06-29 22:52:47",
   "news": [
     {
       "title": "Gemini’s personalized AI image generation is now free for US users",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+      "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to",
+      "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "source": "Wired-AI",
+      "date": "2026-06-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
       "summary": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
       "link": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
       "source": "Wired-AI",
       "date": "2026-06-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
-      "summary": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
-      "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
-      "source": "Wired-AI",
-      "date": "2026-06-24",
       "tag": "trend",
       "tagText": "资讯"
     },
