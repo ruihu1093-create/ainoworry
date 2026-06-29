@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-29 19:50:57",
+  "updatedAt": "2026-06-29 21:22:01",
   "news": [
+    {
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your ",
+      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
       "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
       "source": "Wired-AI",
       "date": "2026-06-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI agents are not your “coworkers”",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine comi",
-      "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-06-29",
       "tag": "trend",
       "tagText": "资讯"
     },
