@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-06-29 10:49:08",
+  "updatedAt": "2026-06-29 14:48:11",
   "news": [
+    {
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+      "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Omen AI’s plan to optimize data centers is all wet",
+      "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+      "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
       "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
@@ -59,24 +77,6 @@
       "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
       "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, devel",
       "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice ",
-      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
       "source": "TechCrunch-AI",
       "date": "2026-06-26",
       "tag": "trend",
@@ -620,12 +620,21 @@
   ],
   "ecommerce": [
     {
-      "title": "中国卖家涌向拉美：高增长与合规门槛齐升丨最前线",
-      "content": "作者丨欧雪\n  编辑丨袁斯来\n  6月26日，亚马逊全球开店在杭州宣布推出“拉美速通计划”，计划在2026年内面向3000个具备长期投入意愿的中国品牌，提供巴西本土公司注册协助、墨西哥RFC税号解决方案、最高12000美元补贴及物流费用减免等支持，帮助卖家全面扎根拉美市场。\n  拉美正在成为跨境电商的新热土。据eMarketer数据，2",
-      "link": "https://36kr.com/p/3873539789034501?f=rss",
+      "title": "Flipper Device’s new Busy Bar is a customizable display for productivity",
+      "content": "Flipper Device's new Busy Bar will retail for $249.",
+      "link": "https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "烧光5000亿后，京东方开始给股民赚钱",
+      "content": "作者&nbsp;|&nbsp;范亮\n  编辑&nbsp;|&nbsp;张帆\n  很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超过100万名股东。\n  人气足够高，股价却长期止步不前。2001年京东方上市之初，开盘价为3.54元/股（前复权）；到2025年末，收盘价",
+      "link": "https://36kr.com/p/3874045136720899?f=rss",
       "source": "36Kr",
-      "impact": "high",
-      "impactText": "高",
+      "impact": "medium",
+      "impactText": "中",
       "date": "2026-06-29"
     },
     {
