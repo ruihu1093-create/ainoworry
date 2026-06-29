@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-29 14:48:11",
+  "updatedAt": "2026-06-29 17:32:37",
   "news": [
+    {
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "summary": "TIDAL's new policy will prevent AI-generated music from making money on its service.",
+      "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
       "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
@@ -48,7 +57,7 @@
     },
     {
       "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — int",
+      "summary": "When confronted with cancer, Conno Christou fed everything tied to his regime — blood results, scan data, wearable output, journal entries — into Clau",
       "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
       "source": "TechCrunch-AI",
       "date": "2026-06-27",
@@ -61,24 +70,6 @@
       "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
       "source": "TechCrunch-AI",
       "date": "2026-06-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, devel",
-      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-26",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
       "source": "Wired-AI",
       "date": "2026-06-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Agent confidence on the technical frontier",
+      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic busin",
+      "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-06-29",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -645,15 +645,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-06-29"
-    },
-    {
-      "title": "How retailers are thinking about omnichannel in the age of AI",
-      "content": "</figu",
-      "link": "https://www.retaildive.com/news/ulta-stitch-fix-tapestry-retail-omnichannel-ai-age/823707/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-06-25"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
