@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-30 19:49:21",
+  "updatedAt": "2026-06-30 21:24:54",
   "news": [
+    {
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
       "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
@@ -77,15 +86,6 @@
       "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
       "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
       "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
-      "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
       "source": "TechCrunch-AI",
       "date": "2026-06-30",
       "tag": "trend",
