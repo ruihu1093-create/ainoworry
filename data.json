@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-06-30 14:10:12",
+  "updatedAt": "2026-06-30 17:02:51",
   "news": [
+    {
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
+      "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Podcasting platform Riverside enters the newsletter publishing game",
+      "summary": "Users will be able use AI to create newsletters based on their recordings.",
+      "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+      "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
       "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
@@ -29,8 +56,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
+      "summary": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
       "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
       "source": "TechCrunch-AI",
       "date": "2026-06-30",
@@ -59,24 +86,6 @@
       "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
       "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
       "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-      "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
-      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "TIDAL cracks down on AI music by cutting off monetization",
-      "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
-      "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
       "source": "TechCrunch-AI",
       "date": "2026-06-29",
       "tag": "trend",
@@ -149,15 +158,6 @@
       "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
       "summary": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
-      "source": "Wired-AI",
-      "date": "2026-06-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "World Cup Teams Are in a Race for AI Dominance",
-      "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which ",
-      "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
       "source": "Wired-AI",
       "date": "2026-06-25",
       "tag": "trend",
@@ -638,13 +638,13 @@
       "date": "2026-06-29"
     },
     {
-      "title": "Modernizing the retail edge—a competitive imperative",
-      "content": "Modernize retail edge infrastructure or fall behind&mdash;AI, real-time inventory and seamless checkout await.",
-      "link": "https://www.retaildive.com/spons/modernizing-the-retail-edgea-competitive-imperative/823231/",
+      "title": "What Walmart’s Vibe.co deal means for CTV, retail media convergence",
+      "content": "<img src=\"https://imgproxy.divecdn.com/pCJ04IF3hUXWyPCQT0fCC9r93zlFKhRXY6OfAsVJmfU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS92aXppby10di1saXZpbmctcm9vbS5qcGc=.web",
+      "link": "https://www.retaildive.com/news/walmart-vibeco-deal-ctv-retail-media-convergence/824065/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-06-29"
+      "date": "2026-06-30"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
