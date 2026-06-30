@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-30 21:24:54",
+  "updatedAt": "2026-06-30 23:07:11",
   "news": [
+    {
+      "title": "OpenClaw is finally available on Android and iOS",
+      "summary": "The free open source agentic program is finally invading your phone.",
+      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
       "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
@@ -77,15 +86,6 @@
       "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
       "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
       "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
-      "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
       "source": "TechCrunch-AI",
       "date": "2026-06-30",
       "tag": "trend",
