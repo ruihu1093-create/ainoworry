@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-06-30 08:26:46",
+  "updatedAt": "2026-06-30 11:42:27",
   "news": [
+    {
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The AI jobs debate just got messier",
       "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the",
@@ -74,11 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Omen AI’s plan to optimize data centers is all wet",
-      "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
-      "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-29",
+      "title": "Bernie Sanders Saw This Coming",
+      "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionai",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
+      "source": "Wired-AI",
+      "date": "2026-06-30",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "World Cup Teams Are in a Race for AI Dominance",
       "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which ",
       "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
-      "source": "Wired-AI",
-      "date": "2026-06-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
-      "summary": "As UK police embrace the AI revolution, a WIRED investigation reveals the messy inside story of one region’s experiment with predictive analytics.",
-      "link": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
       "source": "Wired-AI",
       "date": "2026-06-25",
       "tag": "trend",
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "content": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-06-30"
+    },
+    {
       "title": "烧光5000亿后，京东方开始给股民赚钱",
       "content": "作者&nbsp;|&nbsp;范亮\n  编辑&nbsp;|&nbsp;张帆\n  很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超过100万名股东。\n  人气足够高，股价却长期止步不前。2001年京东方上市之初，开盘价为3.54元/股（前复权）；到2025年末，收盘价",
       "link": "https://36kr.com/p/3874045136720899?f=rss",
@@ -790,24 +799,6 @@
       "date": "2026-06-30"
     },
     {
-      "name": "developers",
-      "author": "trending",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "link": "https://github.com/trending/developers",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "RAG"
-        }
-      ],
-      "date": "2026-06-30"
-    },
-    {
       "name": "calesthio",
       "author": "sponsors",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
@@ -823,31 +814,19 @@
       "date": "2026-06-30"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Clone any website with one command using AI coding agents",
-      "link": "https://github.com/apps/dependabot",
+      "name": "OpenMontage",
+      "author": "calesthio",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "link": "https://github.com/calesthio/OpenMontage",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-30"
-    },
-    {
-      "name": "design.md",
-      "author": "google-labs-code",
-      "description": "AI agent to evaluate and score resumes.",
-      "link": "https://github.com/google-labs-code/design.md",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
+          "name": "LLM"
+        },
         {
-          "name": "Agent"
+          "name": "RAG"
         }
       ],
       "date": "2026-06-30"
@@ -855,8 +834,38 @@
     {
       "name": "simplex-chat",
       "author": "sponsors",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "description": "git push no-mistakes",
       "link": "https://github.com/sponsors/simplex-chat",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-06-30"
+    },
+    {
+      "name": "simplex-chat",
+      "author": "simplex-chat",
+      "description": "Clone any website with one command using AI coding agents",
+      "link": "https://github.com/simplex-chat/simplex-chat",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-30"
+    },
+    {
+      "name": "codebase-memory-mcp",
+      "author": "DeusData",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "link": "https://github.com/DeusData/codebase-memory-mcp",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -868,10 +877,10 @@
       "date": "2026-06-30"
     },
     {
-      "name": "simplex-chat",
-      "author": "simplex-chat",
+      "name": "dependabot",
+      "author": "apps",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "link": "https://github.com/simplex-chat/simplex-chat",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -885,23 +894,8 @@
     {
       "name": "no-mistakes",
       "author": "kunchenguid",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "link": "https://github.com/kunchenguid/no-mistakes",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-06-30"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/kunchenguid/no-mistakes",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -916,25 +910,40 @@
       "date": "2026-06-30"
     },
     {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-06-30"
+    },
+    {
       "name": "ai-website-cloner-template",
       "author": "JCodesMore",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "link": "https://github.com/JCodesMore/ai-website-cloner-template",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-06-30"
     },
     {
-      "name": "hiring-agent",
-      "author": "interviewstreet",
-      "description": "macOS video editor built for AI",
-      "link": "https://github.com/interviewstreet/hiring-agent",
+      "name": "TREK",
+      "author": "mauriceboe",
+      "description": "AI agent to evaluate and score resumes.",
+      "link": "https://github.com/mauriceboe/TREK",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -946,10 +955,10 @@
       "date": "2026-06-30"
     },
     {
-      "name": "daily_stock_analysis",
-      "author": "ZhuLinsen",
-      "description": "A framework for building agent-native applications.",
-      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -985,17 +994,6 @@
       "date": "2026-06-30"
     },
     {
-      "title": "开源项目: topics",
-      "author": "@anonymous",
-      "description": "AI agent to evaluate and score resumes.",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 1697,
-      "date": "2026-06-30"
-    },
-    {
       "title": "开源项目: collections",
       "author": "@anonymous",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
@@ -1009,7 +1007,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1020,7 +1018,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge ",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1208,6 +1206,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-06-30"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-06-30"
     }
   ],
