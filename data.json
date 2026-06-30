@@ -1,9 +1,18 @@
 {
-  "updatedAt": "2026-06-30 11:42:27",
+  "updatedAt": "2026-06-30 14:10:12",
   "news": [
     {
+      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+      "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "source": "TechCrunch-AI",
+      "date": "2026-06-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
       "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
       "source": "TechCrunch-AI",
       "date": "2026-06-30",
@@ -68,15 +77,6 @@
       "title": "TIDAL cracks down on AI music by cutting off monetization",
       "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
       "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-      "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
-      "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
       "source": "TechCrunch-AI",
       "date": "2026-06-29",
       "tag": "trend",
@@ -621,7 +621,7 @@
   "ecommerce": [
     {
       "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "content": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "content": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
       "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
       "source": "TechCrunch",
       "impact": "medium",
@@ -639,7 +639,7 @@
     },
     {
       "title": "Modernizing the retail edge—a competitive imperative",
-      "content": "Modernize retail edge infrastructure or fall behind&mdash;AI, real-time inventory, and seamless checkout await.",
+      "content": "Modernize retail edge infrastructure or fall behind&mdash;AI, real-time inventory and seamless checkout await.",
       "link": "https://www.retaildive.com/spons/modernizing-the-retail-edgea-competitive-imperative/823231/",
       "source": "Retail-Dive",
       "impact": "medium",
