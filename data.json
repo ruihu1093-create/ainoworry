@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01 19:47:51",
+  "updatedAt": "2026-07-01 21:23:58",
   "news": [
     {
       "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
@@ -155,11 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Europe Is Fed Up and Wants Its Own AI",
-      "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
-      "link": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
-      "source": "Wired-AI",
-      "date": "2026-06-26",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to g",
+      "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-07-01",
       "tag": "trend",
       "tagText": "资讯"
     },
