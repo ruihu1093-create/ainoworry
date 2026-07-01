@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-01 17:10:58",
+  "updatedAt": "2026-07-01 19:47:51",
   "news": [
+    {
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer",
+      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk bein",
+      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
       "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
@@ -47,29 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenClaw is finally available on Android and iOS",
-      "summary": "The free open source agentic program is finally invading your phone.",
-      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
-      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-      "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
-      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-      "source": "TechCrunch-AI",
-      "date": "2026-06-30",
+      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
+      "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
+      "link": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
+      "source": "Wired-AI",
+      "date": "2026-07-01",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
       "source": "Wired-AI",
       "date": "2026-06-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to g",
-      "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-07-01",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -844,10 +844,10 @@
       "date": "2026-07-01"
     },
     {
-      "name": "codebase-memory-mcp",
-      "author": "DeusData",
+      "name": "design.md",
+      "author": "google-labs-code",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "link": "https://github.com/DeusData/codebase-memory-mcp",
+      "link": "https://github.com/google-labs-code/design.md",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -861,14 +861,14 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-07-01"
@@ -876,7 +876,7 @@
     {
       "name": "no-mistakes",
       "author": "kunchenguid",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
       "link": "https://github.com/kunchenguid/no-mistakes",
       "stars": 0,
       "trend": 50,
@@ -891,7 +891,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -906,7 +906,7 @@
     {
       "name": "ai-website-cloner-template",
       "author": "JCodesMore",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description": "AI agent to evaluate and score resumes.",
       "link": "https://github.com/JCodesMore/ai-website-cloner-template",
       "stars": 0,
       "trend": 50,
@@ -919,25 +919,10 @@
       "date": "2026-07-01"
     },
     {
-      "name": "TREK",
-      "author": "mauriceboe",
-      "description": "AI agent to evaluate and score resumes.",
-      "link": "https://github.com/mauriceboe/TREK",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-01"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
+      "name": "lingbot-map",
+      "author": "Robbyant",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/Robbyant/lingbot-map",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -945,6 +930,21 @@
         {
           "name": "Agent"
         },
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-07-01"
+    },
+    {
+      "name": "orca",
+      "author": "stablyai",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "link": "https://github.com/stablyai/orca",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
         {
           "name": "LLM"
         }
@@ -976,9 +976,20 @@
       "date": "2026-07-01"
     },
     {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
+      "date": "2026-07-01"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge ",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1192,19 +1203,6 @@
         "美团"
       ],
       "likes": 2650,
-      "date": "2026-07-01"
-    },
-    {
-      "title": "心理咨询师AI预约+回访系统",
-      "author": "@心理小林",
-      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
-      "link": "https://dify.ai/",
-      "tools": [
-        "Dify",
-        "Coze",
-        "微信"
-      ],
-      "likes": 3940,
       "date": "2026-07-01"
     }
   ],
