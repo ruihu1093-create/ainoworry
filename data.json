@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01 08:07:29",
+  "updatedAt": "2026-07-01 11:57:40",
   "news": [
     {
       "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
+      "summary": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to B",
+      "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+      "source": "Wired-AI",
+      "date": "2026-07-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
       "summary": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals",
       "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
       "source": "Wired-AI",
       "date": "2026-06-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
-      "summary": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
-      "source": "Wired-AI",
-      "date": "2026-06-25",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,6 +620,24 @@
   ],
   "ecommerce": [
     {
+      "title": "上纬新材CEO田华首谈具身智能：要造所有人买得起的个人机器人",
+      "content": "过去的两年里，人形机器人规模化落地几乎成为了科技与投资界共同的焦虑。尽管产业产值被普遍寄予万亿级的厚望，但在成本、供应链质量以及最核心的用户场景定义面前，行业依然还在探索。\n  2025年11月，上纬新材控制权变更后，这家原本以工业材料为主的企业，确定新材料+具身智能的双轮发展战略，成为A股具身智能第一股。\n  这一变更背后的深层逻辑，是收购方在消费",
+      "link": "https://36kr.com/p/3877003233898501?f=rss",
+      "source": "36Kr",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "古茗即饮饮料将上线零售渠道，从门店迈向货架的一大步｜ 独家",
+      "content": "文｜钟艺璇\n  编辑｜乔芊\n  36氪独家获悉，古茗RTD（即饮）饮料即将进入零售渠道，目前选定上线城市为广州、深圳、香港、温岭以及杭州。该项目在古茗级别为S级。\n  去年12月，古茗正式上线即饮饮料，但渠道仅限于古茗门店销售。目前已经推出苹果汁、羽衣甘蓝果蔬汁、泰橘汁、七重果蔬汁四种产品，皆采用HPP",
+      "link": "https://36kr.com/p/3868265993016580?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-07-01"
+    },
+    {
       "title": "What Walmart’s Vibe.co deal means for CTV, retail media convergence",
       "content": "<img src=\"https://imgproxy.divecdn.com/pCJ04IF3hUXWyPCQT0fCC9r93zlFKhRXY6OfAsVJmfU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS92aXppby10di1saXZpbmctcm9vbS5qcGc=.web",
       "link": "https://www.retaildive.com/news/walmart-vibeco-deal-ctv-retail-media-convergence/824065/",
@@ -768,7 +786,7 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
@@ -781,10 +799,10 @@
       "date": "2026-07-01"
     },
     {
-      "name": "calesthio",
-      "author": "sponsors",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "link": "https://github.com/sponsors/calesthio",
+      "name": "ai-berkshire",
+      "author": "xbtlin",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "link": "https://github.com/xbtlin/ai-berkshire",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -796,10 +814,25 @@
       "date": "2026-07-01"
     },
     {
-      "name": "OpenMontage",
-      "author": "calesthio",
+      "name": "simplex-chat",
+      "author": "sponsors",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "link": "https://github.com/sponsors/simplex-chat",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-01"
+    },
+    {
+      "name": "simplex-chat",
+      "author": "simplex-chat",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "link": "https://github.com/calesthio/OpenMontage",
+      "link": "https://github.com/simplex-chat/simplex-chat",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -814,25 +847,10 @@
       "date": "2026-07-01"
     },
     {
-      "name": "simplex-chat",
-      "author": "sponsors",
-      "description": "git push no-mistakes",
-      "link": "https://github.com/sponsors/simplex-chat",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-01"
-    },
-    {
-      "name": "simplex-chat",
-      "author": "simplex-chat",
+      "name": "OpenMontage",
+      "author": "calesthio",
       "description": "Clone any website with one command using AI coding agents",
-      "link": "https://github.com/simplex-chat/simplex-chat",
+      "link": "https://github.com/calesthio/OpenMontage",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -846,14 +864,14 @@
     {
       "name": "codebase-memory-mcp",
       "author": "DeusData",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "link": "https://github.com/DeusData/codebase-memory-mcp",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "AI"
         }
       ],
       "date": "2026-07-01"
@@ -861,14 +879,14 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-07-01"
@@ -876,7 +894,7 @@
     {
       "name": "no-mistakes",
       "author": "kunchenguid",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "link": "https://github.com/kunchenguid/no-mistakes",
       "stars": 0,
       "trend": 50,
@@ -884,9 +902,6 @@
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "LLM"
         }
       ],
       "date": "2026-07-01"
@@ -909,14 +924,14 @@
     {
       "name": "ai-website-cloner-template",
       "author": "JCodesMore",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "link": "https://github.com/JCodesMore/ai-website-cloner-template",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-07-01"
@@ -939,7 +954,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -947,6 +962,9 @@
       "tags": [
         {
           "name": "Agent"
+        },
+        {
+          "name": "LLM"
         }
       ],
       "date": "2026-07-01"
@@ -956,7 +974,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -965,42 +983,20 @@
       "date": "2026-07-01"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: topics",
       "author": "@anonymous",
       "description": "Clone any website with one command using AI coding agents",
-      "link": "https://github.com/explore",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 3045,
-      "date": "2026-07-01"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
-      "date": "2026-07-01"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
+      "likes": 1697,
       "date": "2026-07-01"
     },
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge ",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1201,6 +1197,32 @@
         "剪映"
       ],
       "likes": 18500,
+      "date": "2026-07-01"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
+      "date": "2026-07-01"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
       "date": "2026-07-01"
     }
   ],
