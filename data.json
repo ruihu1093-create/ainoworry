@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-02 02:51:21",
+  "updatedAt": "2026-07-02 06:38:08",
   "news": [
+    {
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
       "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
@@ -59,15 +68,6 @@
       "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
       "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern futur",
       "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
-      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
       "source": "TechCrunch-AI",
       "date": "2026-07-01",
       "tag": "trend",
