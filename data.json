@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02 09:58:51",
+  "updatedAt": "2026-07-02 12:11:59",
   "news": [
     {
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
@@ -783,14 +783,14 @@
     {
       "name": "ai-berkshire",
       "author": "xbtlin",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "link": "https://github.com/xbtlin/ai-berkshire",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-07-02"
@@ -798,23 +798,8 @@
     {
       "name": "simplex-chat",
       "author": "sponsors",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "link": "https://github.com/sponsors/simplex-chat",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-02"
-    },
-    {
-      "name": "simplex-chat",
-      "author": "simplex-chat",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "link": "https://github.com/simplex-chat/simplex-chat",
+      "link": "https://github.com/sponsors/simplex-chat",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -829,25 +814,10 @@
       "date": "2026-07-02"
     },
     {
-      "name": "OpenMontage",
-      "author": "calesthio",
-      "description": "Clone any website with one command using AI coding agents",
-      "link": "https://github.com/calesthio/OpenMontage",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-02"
-    },
-    {
-      "name": "design.md",
-      "author": "google-labs-code",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "link": "https://github.com/google-labs-code/design.md",
+      "name": "simplex-chat",
+      "author": "simplex-chat",
+      "description": "git push no-mistakes",
+      "link": "https://github.com/simplex-chat/simplex-chat",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -859,16 +829,46 @@
       "date": "2026-07-02"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "link": "https://github.com/apps/dependabot",
+      "name": "free-for-dev",
+      "author": "ripienaar",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "link": "https://github.com/ripienaar/free-for-dev",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
+        }
+      ],
+      "date": "2026-07-02"
+    },
+    {
+      "name": "codebase-memory-mcp",
+      "author": "DeusData",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "link": "https://github.com/DeusData/codebase-memory-mcp",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-02"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-07-02"
@@ -876,14 +876,14 @@
     {
       "name": "no-mistakes",
       "author": "kunchenguid",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "link": "https://github.com/kunchenguid/no-mistakes",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-07-02"
@@ -891,7 +891,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description": "Clone any website with one command using AI coding agents",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -904,10 +904,25 @@
       "date": "2026-07-02"
     },
     {
-      "name": "ai-website-cloner-template",
-      "author": "JCodesMore",
-      "description": "AI agent to evaluate and score resumes.",
-      "link": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "name": "calesthio",
+      "author": "sponsors",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "link": "https://github.com/sponsors/calesthio",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-02"
+    },
+    {
+      "name": "OpenMontage",
+      "author": "calesthio",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "link": "https://github.com/calesthio/OpenMontage",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -921,7 +936,7 @@
     {
       "name": "lingbot-map",
       "author": "Robbyant",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "link": "https://github.com/Robbyant/lingbot-map",
       "stars": 0,
       "trend": 50,
@@ -929,24 +944,6 @@
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-07-02"
-    },
-    {
-      "name": "orca",
-      "author": "stablyai",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "link": "https://github.com/stablyai/orca",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
         }
       ],
       "date": "2026-07-02"
@@ -965,9 +962,20 @@
       "date": "2026-07-02"
     },
     {
+      "title": "开源项目: explore",
+      "author": "@anonymous",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design sy",
+      "link": "https://github.com/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 3045,
+      "date": "2026-07-02"
+    },
+    {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Clone any website with one command using AI coding agents",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -976,25 +984,25 @@
       "date": "2026-07-02"
     },
     {
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2046,
+      "date": "2026-07-02"
+    },
+    {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "Clone any website with one command using AI coding agents",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-07-02"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge ",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-07-02"
     },
     {
@@ -1190,19 +1198,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-07-02"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
       "date": "2026-07-02"
     }
   ],
