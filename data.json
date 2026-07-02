@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-02 17:42:24",
+  "updatedAt": "2026-07-02 19:18:26",
   "news": [
+    {
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
       "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting th",
@@ -74,11 +92,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
-      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-01",
+      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+      "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
+      "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+      "source": "Wired-AI",
+      "date": "2026-07-02",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
       "source": "Wired-AI",
       "date": "2026-06-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
-      "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and g",
-      "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
-      "source": "Wired-AI",
-      "date": "2026-06-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Achieving operational excellence with AI",
-      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way",
-      "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-07-02",
       "tag": "trend",
       "tagText": "资讯"
     },
