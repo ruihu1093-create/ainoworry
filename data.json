@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-02 15:11:43",
+  "updatedAt": "2026-07-02 17:42:24",
   "news": [
+    {
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting th",
+      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
       "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
@@ -68,15 +77,6 @@
       "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
       "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
       "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big clo",
-      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
       "source": "TechCrunch-AI",
       "date": "2026-07-01",
       "tag": "trend",
@@ -155,9 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "Teaching AI to run with the turbines",
-      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases a",
-      "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "title": "Achieving operational excellence with AI",
+      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way",
+      "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
       "source": "MIT-Tech-Review",
       "date": "2026-07-02",
       "tag": "trend",
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "Target grows marketplace with Forever 21, Clarks brand additions",
+      "content": "<img src=\"https://imgproxy.divecdn.com/xasVVYwbYZUuYu4-27iKJIqYa9KK3Rhdi5waAgkFbwY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYXJnZXRfU29Ib19TaGVsdmVzLmpwZw==.web",
+      "link": "https://www.retaildive.com/news/target-grows-marketplace-forever-21-clarks-beauty-brand-additions/824336/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-07-02"
+    },
+    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -895,24 +904,9 @@
       "date": "2026-07-02"
     },
     {
-      "name": "design.md",
-      "author": "google-labs-code",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "link": "https://github.com/google-labs-code/design.md",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-02"
-    },
-    {
       "name": "calesthio",
       "author": "sponsors",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
       "link": "https://github.com/sponsors/calesthio",
       "stars": 0,
       "trend": 50,
@@ -927,8 +921,23 @@
     {
       "name": "OpenMontage",
       "author": "calesthio",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "link": "https://github.com/calesthio/OpenMontage",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-02"
+    },
+    {
+      "name": "lingbot-map",
+      "author": "Robbyant",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "link": "https://github.com/Robbyant/lingbot-map",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -994,17 +1003,6 @@
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-07-02"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge ",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-07-02"
     },
     {
@@ -1187,6 +1185,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-07-02"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-07-02"
     }
   ],
