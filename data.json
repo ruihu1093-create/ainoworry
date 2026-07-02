@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-02 19:18:26",
+  "updatedAt": "2026-07-02 21:00:33",
   "news": [
+    {
+      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.",
+      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meta quietly launches vibe-coded gaming app Pocket",
       "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
@@ -77,15 +86,6 @@
       "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
       "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk bein",
       "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
-      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
       "source": "TechCrunch-AI",
       "date": "2026-07-01",
       "tag": "trend",
