@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02 06:38:08",
+  "updatedAt": "2026-07-02 09:58:51",
   "news": [
     {
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
@@ -146,18 +146,18 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
-      "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
-      "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
-      "source": "Wired-AI",
-      "date": "2026-06-26",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to g",
+      "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-07-01",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to g",
-      "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
       "source": "MIT-Tech-Review",
       "date": "2026-07-01",
       "tag": "trend",
