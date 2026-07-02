@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-07-02 12:11:59",
+  "updatedAt": "2026-07-02 15:11:43",
   "news": [
     {
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
+      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Yep, we’re using OpenClaw to date now",
+      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagr",
+      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI",
       "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
       "source": "TechCrunch-AI",
       "date": "2026-07-02",
@@ -59,15 +77,6 @@
       "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
       "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big clo",
       "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern futur",
-      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
       "source": "TechCrunch-AI",
       "date": "2026-07-01",
       "tag": "trend",
@@ -146,20 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to g",
-      "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "title": "Teaching AI to run with the turbines",
+      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases a",
+      "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
       "source": "MIT-Tech-Review",
-      "date": "2026-07-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "What Walmart’s Vibe.co deal means for CTV, retail media convergence",
-      "content": "<img src=\"https://imgproxy.divecdn.com/pCJ04IF3hUXWyPCQT0fCC9r93zlFKhRXY6OfAsVJmfU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS92aXppby10di1saXZpbmctcm9vbS5qcGc=.web",
-      "link": "https://www.retaildive.com/news/walmart-vibeco-deal-ctv-retail-media-convergence/824065/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-06-30"
-    },
-    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -904,9 +895,24 @@
       "date": "2026-07-02"
     },
     {
+      "name": "design.md",
+      "author": "google-labs-code",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "link": "https://github.com/google-labs-code/design.md",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-02"
+    },
+    {
       "name": "calesthio",
       "author": "sponsors",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "link": "https://github.com/sponsors/calesthio",
       "stars": 0,
       "trend": 50,
@@ -921,23 +927,8 @@
     {
       "name": "OpenMontage",
       "author": "calesthio",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "link": "https://github.com/calesthio/OpenMontage",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-02"
-    },
-    {
-      "name": "lingbot-map",
-      "author": "Robbyant",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "link": "https://github.com/Robbyant/lingbot-map",
+      "link": "https://github.com/calesthio/OpenMontage",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -1003,6 +994,17 @@
         "GitHub"
       ],
       "likes": 2526,
+      "date": "2026-07-02"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge ",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-07-02"
     },
     {
@@ -1185,19 +1187,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-07-02"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-07-02"
     }
   ],
