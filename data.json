@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03 09:53:44",
+  "updatedAt": "2026-07-03 12:05:55",
   "news": [
     {
       "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
@@ -783,7 +783,7 @@
     {
       "name": "ai-berkshire",
       "author": "xbtlin",
-      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "link": "https://github.com/xbtlin/ai-berkshire",
       "stars": 0,
       "trend": 50,
@@ -798,8 +798,23 @@
     {
       "name": "simplex-chat",
       "author": "sponsors",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "link": "https://github.com/sponsors/simplex-chat",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-03"
+    },
+    {
+      "name": "simplex-chat",
+      "author": "simplex-chat",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "link": "https://github.com/simplex-chat/simplex-chat",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -814,10 +829,10 @@
       "date": "2026-07-03"
     },
     {
-      "name": "simplex-chat",
-      "author": "simplex-chat",
-      "description": "git push no-mistakes",
-      "link": "https://github.com/simplex-chat/simplex-chat",
+      "name": "strix",
+      "author": "usestrix",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "link": "https://github.com/usestrix/strix",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -829,10 +844,25 @@
       "date": "2026-07-03"
     },
     {
-      "name": "free-for-dev",
-      "author": "ripienaar",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "link": "https://github.com/ripienaar/free-for-dev",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Edit videos with coding agents",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-03"
+    },
+    {
+      "name": "lingbot-map",
+      "author": "Robbyant",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "link": "https://github.com/Robbyant/lingbot-map",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -846,7 +876,7 @@
     {
       "name": "codebase-memory-mcp",
       "author": "DeusData",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "description": "agent multiplexer that lives in your terminal.",
       "link": "https://github.com/DeusData/codebase-memory-mcp",
       "stars": 0,
       "trend": 50,
@@ -861,7 +891,37 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "description": "Clone any website with one command using AI coding agents",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-03"
+    },
+    {
+      "name": "diegosouzapw",
+      "author": "sponsors",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "link": "https://github.com/sponsors/diegosouzapw",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-03"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -874,70 +934,10 @@
       "date": "2026-07-03"
     },
     {
-      "name": "no-mistakes",
-      "author": "kunchenguid",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "link": "https://github.com/kunchenguid/no-mistakes",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-03"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Clone any website with one command using AI coding agents",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-03"
-    },
-    {
-      "name": "calesthio",
-      "author": "sponsors",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "link": "https://github.com/sponsors/calesthio",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-03"
-    },
-    {
-      "name": "OpenMontage",
-      "author": "calesthio",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "link": "https://github.com/calesthio/OpenMontage",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-03"
-    },
-    {
-      "name": "lingbot-map",
-      "author": "Robbyant",
+      "name": "video-use",
+      "author": "browser-use",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "link": "https://github.com/Robbyant/lingbot-map",
+      "link": "https://github.com/browser-use/video-use",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -964,7 +964,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design sy",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GP",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -975,7 +975,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video",
+      "description": "Edit videos with coding agents",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -986,7 +986,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "description": "agent multiplexer that lives in your terminal.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1003,6 +1003,17 @@
         "GitHub"
       ],
       "likes": 2526,
+      "date": "2026-07-03"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design sy",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-07-03"
     },
     {
@@ -1185,19 +1196,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-07-03"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-07-03"
     }
   ],
