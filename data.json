@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-03 20:59:53",
+  "updatedAt": "2026-07-03 22:11:31",
   "news": [
+    {
+      "title": "The only AI glossary you’ll need this year",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo",
+      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
       "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
@@ -79,15 +88,6 @@
       "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
       "source": "TechCrunch-AI",
       "date": "2026-07-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
-      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-01",
       "tag": "trend",
       "tagText": "资讯"
     },
