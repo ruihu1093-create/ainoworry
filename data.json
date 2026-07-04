@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-04 17:10:22",
+  "updatedAt": "2026-07-04 19:04:28",
   "news": [
+    {
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Alibaba reportedly bans employees from using Claude Code",
       "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
@@ -77,15 +86,6 @@
       "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
       "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting th",
       "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
-      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
       "source": "TechCrunch-AI",
       "date": "2026-07-02",
       "tag": "trend",
