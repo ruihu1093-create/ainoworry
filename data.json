@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-04 15:58:13",
+  "updatedAt": "2026-07-04 17:10:22",
   "news": [
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
       "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI ",
@@ -77,15 +86,6 @@
       "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
       "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
       "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Yep, we’re using OpenClaw to date now",
-      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagr",
-      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
       "source": "TechCrunch-AI",
       "date": "2026-07-02",
       "tag": "trend",
