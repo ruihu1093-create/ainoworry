@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-04 14:25:50",
+  "updatedAt": "2026-07-04 15:58:13",
   "news": [
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI ",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The only AI glossary you’ll need this year",
       "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo",
@@ -77,15 +86,6 @@
       "title": "Yep, we’re using OpenClaw to date now",
       "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagr",
       "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI",
-      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
       "source": "TechCrunch-AI",
       "date": "2026-07-02",
       "tag": "trend",
