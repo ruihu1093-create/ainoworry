@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05 16:03:39",
+  "updatedAt": "2026-07-05 17:59:07",
   "news": [
     {
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
@@ -83,15 +83,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
-      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
       "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
       "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
@@ -158,6 +149,15 @@
       "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-07-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. ",
+      "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
       "source": "MIT-Tech-Review",
       "date": "2026-07-03",
       "tag": "trend",
