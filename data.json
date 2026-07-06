@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-06 18:08:15",
+  "updatedAt": "2026-07-06 20:50:03",
   "news": [
+    {
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated f",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
       "summary": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.",
@@ -14,6 +32,15 @@
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
       "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing ",
       "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
       "source": "TechCrunch-AI",
       "date": "2026-07-06",
       "tag": "trend",
@@ -43,42 +70,6 @@
       "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
       "source": "TechCrunch-AI",
       "date": "2026-07-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
-      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI ",
-      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The only AI glossary you’ll need this year",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo",
-      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-03",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -142,6 +133,15 @@
       "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
       "source": "Wired-AI",
       "date": "2026-06-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Your family’s $300 stake in OpenAI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO S",
+      "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-07-06",
       "tag": "trend",
       "tagText": "资讯"
     },
