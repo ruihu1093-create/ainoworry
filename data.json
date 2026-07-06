@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-06 15:51:56",
+  "updatedAt": "2026-07-06 18:08:15",
   "news": [
+    {
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "summary": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.",
+      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
       "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing ",
@@ -70,15 +79,6 @@
       "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "source": "TechCrunch-AI",
       "date": "2026-07-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-02",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -645,15 +645,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-07-06"
-    },
-    {
-      "title": "Target grows marketplace with Forever 21, Clarks brand additions",
-      "content": "<img src=\"https://imgproxy.divecdn.com/xasVVYwbYZUuYu4-27iKJIqYa9KK3Rhdi5waAgkFbwY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYXJnZXRfU29Ib19TaGVsdmVzLmpwZw==.web",
-      "link": "https://www.retaildive.com/news/target-grows-marketplace-forever-21-clarks-beauty-brand-additions/824336/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-07-02"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
