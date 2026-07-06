@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-06 12:00:13",
+  "updatedAt": "2026-07-06 15:51:56",
   "news": [
+    {
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing ",
+      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a b",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
       "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Go",
@@ -59,24 +77,6 @@
       "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
       "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
       "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
       "source": "TechCrunch-AI",
       "date": "2026-07-02",
       "tag": "trend",
@@ -146,18 +146,18 @@
       "tagText": "资讯"
     },
     {
-      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "link": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
       "source": "MIT-Tech-Review",
-      "date": "2026-07-03",
+      "date": "2026-07-06",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. ",
-      "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
       "source": "MIT-Tech-Review",
       "date": "2026-07-03",
       "tag": "trend",
