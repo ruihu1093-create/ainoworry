@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-07 21:19:52",
+  "updatedAt": "2026-07-07 22:56:59",
   "news": [
+    {
+      "title": "Meta rolls out Muse, a new AI image generator",
+      "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
       "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
@@ -74,11 +83,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
-      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-06",
+      "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+      "summary": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
+      "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+      "source": "Wired-AI",
+      "date": "2026-07-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI’s Chief Futurist Is Leaving the Company",
+      "summary": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
+      "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+      "source": "Wired-AI",
+      "date": "2026-07-07",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -115,24 +133,6 @@
       "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
       "source": "Wired-AI",
       "date": "2026-07-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
-      "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
-      "link": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
-      "source": "Wired-AI",
-      "date": "2026-07-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
-      "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
-      "link": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
-      "source": "Wired-AI",
-      "date": "2026-07-01",
       "tag": "trend",
       "tagText": "资讯"
     },
