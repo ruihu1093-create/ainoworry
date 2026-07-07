@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-07 19:49:10",
+  "updatedAt": "2026-07-07 21:19:52",
   "news": [
+    {
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
       "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team ident",
@@ -59,24 +77,6 @@
       "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
       "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
       "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Every major tech layoff in 2026 that has name-checked AI",
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated f",
-      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as ",
-      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
       "source": "TechCrunch-AI",
       "date": "2026-07-06",
       "tag": "trend",
@@ -861,7 +861,7 @@
     {
       "name": "ogulcancelik",
       "author": "sponsors",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "link": "https://github.com/sponsors/ogulcancelik",
       "stars": 0,
       "trend": 50,
@@ -876,14 +876,14 @@
     {
       "name": "herdr",
       "author": "ogulcancelik",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.",
       "link": "https://github.com/ogulcancelik/herdr",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-07-07"
@@ -891,7 +891,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -906,8 +906,23 @@
     {
       "name": "diegosouzapw",
       "author": "sponsors",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "link": "https://github.com/sponsors/diegosouzapw",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-07"
+    },
+    {
+      "name": "OmniRoute",
+      "author": "diegosouzapw",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "link": "https://github.com/diegosouzapw/OmniRoute",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -921,32 +936,14 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Build local voice agents with open-source models",
+      "description": "High performance self-hosted photo and video management solution.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-07"
-    },
-    {
-      "name": "page-agent",
-      "author": "alibaba",
-      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-      "link": "https://github.com/alibaba/page-agent",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "LLM"
+          "name": "AI"
         }
       ],
       "date": "2026-07-07"
@@ -989,7 +986,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Wind",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1000,7 +997,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1011,7 +1008,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
