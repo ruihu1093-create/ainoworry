@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-07 14:22:32",
+  "updatedAt": "2026-07-07 17:10:00",
   "news": [
+    {
+      "title": "Claude Cowork expands to mobile and web",
+      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their lap",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
       "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
@@ -74,11 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
-      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-06",
+      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+      "summary": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
+      "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+      "source": "Wired-AI",
+      "date": "2026-07-07",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -122,15 +131,6 @@
       "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
       "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
       "link": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
-      "source": "Wired-AI",
-      "date": "2026-07-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
-      "summary": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to B",
-      "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
       "source": "Wired-AI",
       "date": "2026-07-01",
       "tag": "trend",
@@ -620,22 +620,13 @@
   ],
   "ecommerce": [
     {
-      "title": "AI in retail is only as good as its data foundation",
-      "content": "Agentic commerce needs clean, structured data to deliver ROI at scale",
-      "link": "https://www.retaildive.com/spons/ai-in-retail-is-only-as-good-as-its-data-foundation/824409/",
+      "title": "Nordstrom teases retail’s other big summer sale",
+      "content": "<img src=\"https://imgproxy.divecdn.com/ECFFR4hnfr4NhzdHZQf2iusbhwIN4t4E3gqG67yVrDw/g:nowe:92:287/c:1128:637/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xXzJfeGZRMmxBQy5q",
+      "link": "https://www.retaildive.com/news/nordstrom-teases-anniversary-summer-sale/824579/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "Tariffs, trade shocks and the end of retail planning as we know it",
-      "content": "Tariffs are the latest disruption, not the last. Here&#39;s how leading retailers are responding.",
-      "link": "https://www.retaildive.com/spons/tariffs-trade-shocks-and-the-end-of-retail-planning-as-we-know-it/824372/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-07-06"
+      "date": "2026-07-07"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -870,7 +861,7 @@
     {
       "name": "ogulcancelik",
       "author": "sponsors",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.",
       "link": "https://github.com/sponsors/ogulcancelik",
       "stars": 0,
       "trend": 50,
@@ -885,14 +876,14 @@
     {
       "name": "herdr",
       "author": "ogulcancelik",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
       "link": "https://github.com/ogulcancelik/herdr",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-07-07"
@@ -900,7 +891,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -915,23 +906,8 @@
     {
       "name": "diegosouzapw",
       "author": "sponsors",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "link": "https://github.com/sponsors/diegosouzapw",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-07"
-    },
-    {
-      "name": "OmniRoute",
-      "author": "diegosouzapw",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "link": "https://github.com/diegosouzapw/OmniRoute",
+      "link": "https://github.com/sponsors/diegosouzapw",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -945,14 +921,32 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "High performance self-hosted photo and video management solution.",
+      "description": "Build local voice agents with open-source models",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-07"
+    },
+    {
+      "name": "page-agent",
+      "author": "alibaba",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "link": "https://github.com/alibaba/page-agent",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
         }
       ],
       "date": "2026-07-07"
@@ -995,7 +989,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Wind",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1006,7 +1000,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1017,7 +1011,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
