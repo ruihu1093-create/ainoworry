@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-07 08:19:04",
+  "updatedAt": "2026-07-07 11:44:23",
   "news": [
+    {
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "summary": "Forterra has deployed more than 100",
+      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The ‘first’ AI-run ransomware attack still needed a human",
       "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose t",
@@ -74,6 +83,24 @@
       "tagText": "资讯"
     },
     {
+      "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
+      "summary": "Norwegian striker Erling Haaland isn’t just a footballer anymore. He’s become an internet character perpetuated by fans and AI.",
+      "link": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
+      "source": "Wired-AI",
+      "date": "2026-07-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "British Space Startup Launches Longevity Lab Into Orbit",
+      "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
+      "link": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
+      "source": "Wired-AI",
+      "date": "2026-07-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
       "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
       "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
@@ -119,47 +146,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Bernie Sanders Saw This Coming",
-      "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionai",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
-      "source": "Wired-AI",
-      "date": "2026-06-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
-      "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to",
-      "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
-      "source": "Wired-AI",
-      "date": "2026-06-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Your family’s $300 stake in OpenAI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO S",
-      "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to",
+      "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
       "source": "MIT-Tech-Review",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny",
+      "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
       "source": "MIT-Tech-Review",
-      "date": "2026-07-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-07-03",
+      "date": "2026-07-07",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -792,38 +792,8 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "link": "https://github.com/trending/developers",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Vision"
-        }
-      ],
-      "date": "2026-07-07"
-    },
-    {
-      "name": "strix",
-      "author": "usestrix",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "link": "https://github.com/usestrix/strix",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-07"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
-      "link": "https://github.com/apps/dependabot",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -835,10 +805,40 @@
       "date": "2026-07-07"
     },
     {
-      "name": "exercises-dataset",
-      "author": "hasaneyldrm",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.",
-      "link": "https://github.com/hasaneyldrm/exercises-dataset",
+      "name": "strix",
+      "author": "usestrix",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "link": "https://github.com/usestrix/strix",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Vision"
+        }
+      ],
+      "date": "2026-07-07"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "agent multiplexer that lives in your terminal.",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-07"
+    },
+    {
+      "name": "Zackriya-Solutions",
+      "author": "sponsors",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "link": "https://github.com/sponsors/Zackriya-Solutions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -850,40 +850,10 @@
       "date": "2026-07-07"
     },
     {
-      "name": "diegosouzapw",
-      "author": "sponsors",
-      "description": "agent multiplexer that lives in your terminal.",
-      "link": "https://github.com/sponsors/diegosouzapw",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-07"
-    },
-    {
-      "name": "OmniRoute",
-      "author": "diegosouzapw",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "link": "https://github.com/diegosouzapw/OmniRoute",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-07"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
+      "name": "meetily",
+      "author": "Zackriya-Solutions",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "link": "https://github.com/apps/dependabot",
+      "link": "https://github.com/Zackriya-Solutions/meetily",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -898,25 +868,10 @@
       "date": "2026-07-07"
     },
     {
-      "name": "Zackriya-Solutions",
+      "name": "ogulcancelik",
       "author": "sponsors",
-      "description": "Edit videos with coding agents",
-      "link": "https://github.com/sponsors/Zackriya-Solutions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-07"
-    },
-    {
-      "name": "meetily",
-      "author": "Zackriya-Solutions",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "link": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.",
+      "link": "https://github.com/sponsors/ogulcancelik",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -928,10 +883,10 @@
       "date": "2026-07-07"
     },
     {
-      "name": "altic-dev",
-      "author": "sponsors",
-      "description": "Build local voice agents with open-source models",
-      "link": "https://github.com/sponsors/altic-dev",
+      "name": "herdr",
+      "author": "ogulcancelik",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "link": "https://github.com/ogulcancelik/herdr",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -943,14 +898,62 @@
       "date": "2026-07-07"
     },
     {
-      "name": "FluidVoice",
-      "author": "altic-dev",
-      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-      "link": "https://github.com/altic-dev/FluidVoice",
+      "name": "github-actions",
+      "author": "apps",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-07"
+    },
+    {
+      "name": "diegosouzapw",
+      "author": "sponsors",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "link": "https://github.com/sponsors/diegosouzapw",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-07"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Build local voice agents with open-source models",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-07"
+    },
+    {
+      "name": "page-agent",
+      "author": "alibaba",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "link": "https://github.com/alibaba/page-agent",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
         {
           "name": "LLM"
         }
@@ -973,7 +976,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, a",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 1",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -984,7 +987,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "agent multiplexer that lives in your terminal.",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -993,20 +996,9 @@
       "date": "2026-07-07"
     },
     {
-      "title": "开源项目: topics",
-      "author": "@anonymous",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 1697,
-      "date": "2026-07-07"
-    },
-    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Edit videos with coding agents",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1015,9 +1007,20 @@
       "date": "2026-07-07"
     },
     {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
+      "date": "2026-07-07"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Build local voice agents with open-source models",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
