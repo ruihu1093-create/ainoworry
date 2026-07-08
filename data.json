@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-08 11:00:58",
+  "updatedAt": "2026-07-08 13:53:08",
   "news": [
+    {
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+      "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
       "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
@@ -83,11 +92,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "The ‘first’ AI-run ransomware attack still needed a human",
-      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose t",
-      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-06",
+      "title": "Pickup Artist Mystery Has an AI Girlfriend",
+      "summary": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
+      "link": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
+      "source": "Wired-AI",
+      "date": "2026-07-08",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
       "source": "Wired-AI",
       "date": "2026-07-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-07-07",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -624,6 +624,15 @@
       "content": "20世纪50年代，“日本制造”对世界来说意味着低廉的价格和三流的产品。到70年代日本家电崛起，巅峰时期美国市场三成的彩电都是日本产品。80年代，丰田、本田、日产等日本汽车品牌接棒家电走向世界。再往后，日本动漫、游戏、音乐等文化娱乐产业开始向海外输出并成为支柱产业。\n  从廉价服装到二次元，日本输出海外的核心产品在过去七十年里换了好几轮，从侧面说明一国出海的主流产品",
       "link": "https://36kr.com/p/3886574096265481?f=rss",
       "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "The running list of retail deals in 2026",
+      "content": "In the first half of the year, Etsy sold Depop, Reformation filed for an IPO&nbsp;and Bed Bath &amp; Beyond made a slew of acquisitions.",
+      "link": "https://www.retaildive.com/news/running-list-major-retail-deals-acquisitions-ipos-2026/824389/",
+      "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-07-08"
