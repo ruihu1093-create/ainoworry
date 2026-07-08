@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-08 15:59:44",
+  "updatedAt": "2026-07-08 17:46:52",
   "news": [
+    {
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to exp",
+      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
+      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "These AI startups are growing  revenue at faster and faster rates",
       "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
@@ -59,33 +86,6 @@
       "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
       "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
       "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-      "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team ident",
-      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Claude Cowork expands to mobile and web",
-      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their lap",
-      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
-      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
       "source": "TechCrunch-AI",
       "date": "2026-07-07",
       "tag": "trend",
