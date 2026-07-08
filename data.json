@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-08 19:18:39",
+  "updatedAt": "2026-07-08 21:02:41",
   "news": [
+    {
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter r",
+      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google Photos adds a new AI ‘Video Remix’ tool",
       "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic s",
@@ -65,28 +83,10 @@
       "tagText": "资讯"
     },
     {
-      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-      "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
-      "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-      "source": "TechCrunch-AI",
+      "title": "I Built a Self-Improving AI, and So Can You",
+      "summary": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
+      "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
+      "source": "Wired-AI",
       "date": "2026-07-08",
       "tag": "trend",
       "tagText": "资讯"
@@ -155,11 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-      "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
-      "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-      "source": "Wired-AI",
-      "date": "2026-07-02",
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-07-08",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -621,7 +621,7 @@
   "ecommerce": [
     {
       "title": "从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海",
-      "content": "20世纪50年代，“日本制造”对世界来说意味着低廉的价格和三流的产品。到70年代日本家电崛起，巅峰时期美国市场三成的彩电都是日本产品。80年代，丰田、本田、日产等日本汽车品牌接棒家电走向世界。再往后，日本动漫、游戏、音乐等文化娱乐产业开始向海外输出并成为支柱产业。\n  从廉价服装到二次元，日本输出海外的核心产品在过去��十年里换了好几轮，从侧面说明一国出海的主流产",
+      "content": "20世纪50年代，“日本制造”对世界来说意味着低廉的价格和三流的产品。到70年代日本家电崛起，巅峰时期美国市场三成的彩电都是日本产品。80年代，丰田、本田、日产等日本汽车品牌接棒家电走向世界。再往后，日本动漫、游戏、音乐等文化娱乐产业开始向海外输出并成为支柱产业。\n  从廉价服装到二次元，日本输出海外的核心产品在过去七十年里换了好几轮，从侧面说明一国出海的主流产品",
       "link": "https://36kr.com/p/3886574096265481?f=rss",
       "source": "36Kr",
       "impact": "medium",
