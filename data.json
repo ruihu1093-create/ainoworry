@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-08 13:53:08",
+  "updatedAt": "2026-07-08 15:59:44",
   "news": [
+    {
+      "title": "These AI startups are growing  revenue at faster and faster rates",
+      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
       "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
@@ -21,7 +30,7 @@
     },
     {
       "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
       "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
       "source": "TechCrunch-AI",
       "date": "2026-07-08",
@@ -77,15 +86,6 @@
       "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
       "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
       "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
-      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
       "source": "TechCrunch-AI",
       "date": "2026-07-07",
       "tag": "trend",
