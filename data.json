@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-08 17:46:52",
+  "updatedAt": "2026-07-08 19:18:39",
   "news": [
+    {
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic s",
+      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT a",
+      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
       "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to exp",
@@ -38,6 +56,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT a",
+      "link": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
       "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
       "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
@@ -61,33 +88,6 @@
       "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
       "source": "TechCrunch-AI",
       "date": "2026-07-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-      "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
-      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
-      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
-      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-07",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -621,7 +621,7 @@
   "ecommerce": [
     {
       "title": "从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海",
-      "content": "20世纪50年代，“日本制造”对世界来说意味着低廉的价格和三流的产品。到70年代日本家电崛起，巅峰时期美国市场三成的彩电都是日本产品。80年代，丰田、本田、日产等日本汽车品牌接棒家电走向世界。再往后，日本动漫、游戏、音乐等文化娱乐产业开始向海外输出并成为支柱产业。\n  从廉价服装到二次元，日本输出海外的核心产品在过去七十年里换了好几轮，从侧面说明一国出海的主流产品",
+      "content": "20世纪50年代，“日本制造”对世界来说意味着低廉的价格和三流的产品。到70年代日本家电崛起，巅峰时期美国市场三成的彩电都是日本产品。80年代，丰田、本田、日产等日本汽车品牌接棒家电走向世界。再往后，日本动漫、游戏、音乐等文化娱乐产业开始向海外输出并成为支柱产业。\n  从廉价服装到二次元，日本输出海外的核心产品在过去��十年里换了好几轮，从侧面说明一国出海的主流产",
       "link": "https://36kr.com/p/3886574096265481?f=rss",
       "source": "36Kr",
       "impact": "medium",
@@ -816,23 +816,8 @@
     {
       "name": "Zackriya-Solutions",
       "author": "sponsors",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "link": "https://github.com/sponsors/Zackriya-Solutions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-08"
-    },
-    {
-      "name": "meetily",
-      "author": "Zackriya-Solutions",
       "description": "An open source design system that's fully customizable and agent ready",
-      "link": "https://github.com/Zackriya-Solutions/meetily",
+      "link": "https://github.com/sponsors/Zackriya-Solutions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -844,10 +829,10 @@
       "date": "2026-07-08"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
+      "name": "strix",
+      "author": "usestrix",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "link": "https://github.com/apps/dependabot",
+      "link": "https://github.com/usestrix/strix",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -862,10 +847,10 @@
       "date": "2026-07-08"
     },
     {
-      "name": "ai-job-search",
-      "author": "MadsLorentzen",
+      "name": "dependabot",
+      "author": "apps",
       "description": "agent multiplexer that lives in your terminal.",
-      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -965,6 +950,21 @@
         }
       ],
       "date": "2026-07-08"
+    },
+    {
+      "name": "ogulcancelik",
+      "author": "sponsors",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "link": "https://github.com/sponsors/ogulcancelik",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-07-08"
     }
   ],
   "agents": [
@@ -993,7 +993,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "description": "agent multiplexer that lives in your terminal.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -1004,7 +1004,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "agent multiplexer that lives in your terminal.",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GP",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -1015,11 +1015,10 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex.",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
       "link": "https://github.com/collections",
       "tools": [
-        "GitHub",
-        "GPT-4"
+        "GitHub"
       ],
       "likes": 2046,
       "date": "2026-07-08"
@@ -1027,7 +1026,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "description": "Build local voice agents with open-source models",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1038,7 +1037,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Build local voice agents with open-source models",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
