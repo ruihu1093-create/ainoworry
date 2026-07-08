@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-08 05:47:03",
+  "updatedAt": "2026-07-08 08:21:01",
   "news": [
+    {
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
@@ -74,15 +92,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
-      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
       "summary": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
       "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
@@ -149,15 +158,6 @@
       "title": "The foundational elements of AI architecture that IT leaders need to scale",
       "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to",
       "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-07-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-      "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny",
-      "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
       "source": "MIT-Tech-Review",
       "date": "2026-07-07",
       "tag": "trend",
@@ -798,14 +798,14 @@
     {
       "name": "strix",
       "author": "usestrix",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "link": "https://github.com/usestrix/strix",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Vision"
+          "name": "LLM"
         }
       ],
       "date": "2026-07-08"
