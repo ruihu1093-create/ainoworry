@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-09 10:20:56",
+  "updatedAt": "2026-07-09 13:45:56",
   "news": [
+    {
+      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+      "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even ",
+      "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+      "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+      "summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+      "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
       "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models",
@@ -41,33 +68,6 @@
       "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
       "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to exp",
       "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
-      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-      "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
-      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "These AI startups are growing  revenue at faster and faster rates",
-      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
-      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
       "source": "TechCrunch-AI",
       "date": "2026-07-08",
       "tag": "trend",
@@ -155,11 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "EmTech AI 2026: The Rise of the AI Platform",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
       "source": "MIT-Tech-Review",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海",
-      "content": "20世纪50年代，“日本制造”对世界来说意味着低廉的价格和三流的产品。到70年代日本家电崛起，巅峰时期美国市场三成的彩电都是日本产品。80年代，丰田、本田、日产等日本汽车品牌接棒家电走向世界。再往后，日本动漫、游戏、音乐等文化娱乐产业开始向海外输出并成为支柱产业。\n  从廉价服装到二次元，日本输出海外的核心产品在过去七十年里换了好几轮，从侧面说明一国出海的主流产品",
-      "link": "https://36kr.com/p/3886574096265481?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-07-08"
-    },
-    {
       "title": "The running list of retail deals in 2026",
       "content": "In the first half of the year, Etsy sold Depop, Reformation filed for an IPO&nbsp;and Bed Bath &amp; Beyond made a slew of acquisitions.",
       "link": "https://www.retaildive.com/news/running-list-major-retail-deals-acquisitions-ipos-2026/824389/",
@@ -786,8 +777,23 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "link": "https://github.com/sponsors/explore",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-09"
+    },
+    {
+      "name": "developers",
+      "author": "trending",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -799,10 +805,10 @@
       "date": "2026-07-09"
     },
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "ai-job-search",
+      "author": "MadsLorentzen",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -816,23 +822,8 @@
     {
       "name": "Zackriya-Solutions",
       "author": "sponsors",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "link": "https://github.com/sponsors/Zackriya-Solutions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-09"
-    },
-    {
-      "name": "meetily",
-      "author": "Zackriya-Solutions",
       "description": "An open source design system that's fully customizable and agent ready",
-      "link": "https://github.com/Zackriya-Solutions/meetily",
+      "link": "https://github.com/sponsors/Zackriya-Solutions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -844,10 +835,40 @@
       "date": "2026-07-09"
     },
     {
+      "name": "meetily",
+      "author": "Zackriya-Solutions",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "link": "https://github.com/Zackriya-Solutions/meetily",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-09"
+    },
+    {
       "name": "dependabot",
       "author": "apps",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "description": "agent multiplexer that lives in your terminal.",
       "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-09"
+    },
+    {
+      "name": "astryx",
+      "author": "facebook",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "link": "https://github.com/facebook/astryx",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -862,39 +883,9 @@
       "date": "2026-07-09"
     },
     {
-      "name": "ai-job-search",
-      "author": "MadsLorentzen",
-      "description": "agent multiplexer that lives in your terminal.",
-      "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-09"
-    },
-    {
-      "name": "astryx",
-      "author": "facebook",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "link": "https://github.com/facebook/astryx",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-09"
-    },
-    {
       "name": "github-actions",
       "author": "apps",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -907,9 +898,24 @@
       "date": "2026-07-09"
     },
     {
+      "name": "system_prompts_leaks",
+      "author": "asgeirtj",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-09"
+    },
+    {
       "name": "codex-plugin-cc",
       "author": "openai",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "link": "https://github.com/openai/codex-plugin-cc",
       "stars": 0,
       "trend": 50,
@@ -922,40 +928,25 @@
       "date": "2026-07-09"
     },
     {
-      "name": "page-agent",
-      "author": "alibaba",
+      "name": "ogulcancelik",
+      "author": "sponsors",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "link": "https://github.com/sponsors/ogulcancelik",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-09"
+    },
+    {
+      "name": "herdr",
+      "author": "ogulcancelik",
       "description": "Build local voice agents with open-source models",
-      "link": "https://github.com/alibaba/page-agent",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-09"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Repository for skills to assist AI coding agents with .NET and C#",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-09"
-    },
-    {
-      "name": "copilot-swe-agent",
-      "author": "apps",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "link": "https://github.com/apps/copilot-swe-agent",
+      "link": "https://github.com/ogulcancelik/herdr",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -971,7 +962,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 1",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letter",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -982,23 +973,12 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 1",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
       ],
       "likes": 4324,
-      "date": "2026-07-09"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@anonymous",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "link": "https://github.com/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 3045,
       "date": "2026-07-09"
     },
     {
@@ -1015,30 +995,18 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex.",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GP",
       "link": "https://github.com/collections",
       "tools": [
-        "GitHub",
-        "GPT-4"
+        "GitHub"
       ],
       "likes": 2046,
       "date": "2026-07-09"
     },
     {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
-      "date": "2026-07-09"
-    },
-    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Build local voice agents with open-source models",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1213,6 +1181,32 @@
         "Notion"
       ],
       "likes": 3780,
+      "date": "2026-07-09"
+    },
+    {
+      "title": "财务顾问搭建AI报表分析助手",
+      "author": "@CFO老李",
+      "description": "基于本地部署的开源大模型搭建财务分析Agent，能读取报表自动识别风险和异常项，数据不出企业。",
+      "link": "https://ollama.com/",
+      "tools": [
+        "Ollama",
+        "DeepSeek",
+        "Python"
+      ],
+      "likes": 6300,
+      "date": "2026-07-09"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-07-09"
     }
   ],
