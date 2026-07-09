@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-07-09 18:47:35",
+  "updatedAt": "2026-07-09 20:44:21",
   "news": [
     {
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation tha",
+      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new m",
+      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Google will now disclose which ads are made with AI",
-      "summary": "A new feature will indicate when advertisers have used generative AI tools to create or edit their ads, Google says.",
+      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until ",
       "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
       "source": "TechCrunch-AI",
       "date": "2026-07-09",
@@ -12,7 +30,7 @@
     },
     {
       "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "summary": "The Paris-based ElevenLabs competitor, just announced a hefty seed extension round.",
+      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's ",
       "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
       "source": "TechCrunch-AI",
       "date": "2026-07-09",
@@ -29,8 +47,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "How to stop Meta’s AI image generator from using your Instagram photos",
-      "summary": "Meta's new AI image generator is using your public Instagram photos unless you opt out. Here's how to do that.",
+      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+      "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can t",
       "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
       "source": "TechCrunch-AI",
       "date": "2026-07-09",
@@ -59,24 +77,6 @@
       "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
       "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
       "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-      "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
-      "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-      "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even ",
-      "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
       "source": "TechCrunch-AI",
       "date": "2026-07-09",
       "tag": "trend",
@@ -619,15 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "Nvidia is a victim of the compute marketplace it created",
-      "content": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sideli",
-      "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-07-09"
-    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
