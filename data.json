@@ -1,10 +1,19 @@
 {
-  "updatedAt": "2026-07-09 13:45:56",
+  "updatedAt": "2026-07-09 16:24:41",
   "news": [
     {
-      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-      "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even ",
-      "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s",
+      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
+      "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
       "source": "TechCrunch-AI",
       "date": "2026-07-09",
       "tag": "trend",
@@ -14,6 +23,15 @@
       "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
       "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
       "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+      "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even ",
+      "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
       "source": "TechCrunch-AI",
       "date": "2026-07-09",
       "tag": "trend",
@@ -56,20 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Why this CEO thinks video games make better training data than the internet",
-      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT a",
-      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to exp",
-      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-08",
+      "title": "The 1X Neo Robot Has Freaky Fast Fingers",
+      "summary": "The soft, weirdly sexualized home-chore robot has been given some very tactile hands.",
+      "link": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
+      "source": "Wired-AI",
+      "date": "2026-07-09",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -140,15 +149,6 @@
       "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
       "summary": "Norwegian striker Erling Haaland isn’t just a footballer anymore. He’s become an internet character perpetuated by fans and AI.",
       "link": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
-      "source": "Wired-AI",
-      "date": "2026-07-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "British Space Startup Launches Longevity Lab Into Orbit",
-      "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
-      "link": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
       "source": "Wired-AI",
       "date": "2026-07-07",
       "tag": "trend",
@@ -627,15 +627,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-07-08"
-    },
-    {
-      "title": "Nordstrom teases retail’s other big summer sale",
-      "content": "<img src=\"https://imgproxy.divecdn.com/ECFFR4hnfr4NhzdHZQf2iusbhwIN4t4E3gqG67yVrDw/g:nowe:92:287/c:1128:637/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xXzJfeGZRMmxBQy5q",
-      "link": "https://www.retaildive.com/news/nordstrom-teases-anniversary-summer-sale/824579/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-07-07"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
