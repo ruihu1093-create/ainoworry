@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-10 20:19:02",
+  "updatedAt": "2026-07-10 21:57:29",
   "news": [
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
       "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in re",
@@ -83,11 +92,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Can AI answer the $3 trillion question?",
-      "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
-      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-09",
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+      "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+      "source": "Wired-AI",
+      "date": "2026-07-10",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
       "summary": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
       "link": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
-      "source": "Wired-AI",
-      "date": "2026-07-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I Built a Self-Improving AI, and So Can You",
-      "summary": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
-      "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
       "source": "Wired-AI",
       "date": "2026-07-08",
       "tag": "trend",
