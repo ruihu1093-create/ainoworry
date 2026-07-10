@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10 04:46:33",
+  "updatedAt": "2026-07-10 08:18:04",
   "news": [
     {
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+      "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governanc",
+      "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
+      "source": "Wired-AI",
+      "date": "2026-07-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
       "summary": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
       "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
@@ -149,15 +158,6 @@
       "title": "Pickup Artist Mystery Has an AI Girlfriend",
       "summary": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
       "link": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
-      "source": "Wired-AI",
-      "date": "2026-07-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
-      "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
-      "link": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
       "source": "Wired-AI",
       "date": "2026-07-08",
       "tag": "trend",
@@ -759,23 +759,8 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "link": "https://github.com/sponsors/explore",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-10"
-    },
-    {
-      "name": "developers",
-      "author": "trending",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -787,10 +772,10 @@
       "date": "2026-07-10"
     },
     {
-      "name": "ai-job-search",
-      "author": "MadsLorentzen",
+      "name": "developers",
+      "author": "trending",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -938,13 +923,28 @@
         }
       ],
       "date": "2026-07-10"
+    },
+    {
+      "name": "page-agent",
+      "author": "alibaba",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "link": "https://github.com/alibaba/page-agent",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-10"
     }
   ],
   "agents": [
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letter",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 1",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -955,7 +955,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 1",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -964,9 +964,20 @@
       "date": "2026-07-10"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: explore",
       "author": "@anonymous",
       "description": "agent multiplexer that lives in your terminal.",
+      "link": "https://github.com/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 3045,
+      "date": "2026-07-10"
+    },
+    {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -975,20 +986,20 @@
       "date": "2026-07-10"
     },
     {
-      "title": "开源项目: collections",
+      "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GP",
-      "link": "https://github.com/collections",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
-      "likes": 2046,
+      "likes": 2526,
       "date": "2026-07-10"
     },
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1176,19 +1187,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-07-10"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-07-10"
     }
   ],
