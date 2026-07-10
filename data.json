@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10 08:18:04",
+  "updatedAt": "2026-07-10 11:47:07",
   "news": [
     {
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
+      "summary": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
+      "link": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+      "source": "Wired-AI",
+      "date": "2026-07-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
       "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governanc",
       "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
@@ -149,15 +158,6 @@
       "title": "I Built a Self-Improving AI, and So Can You",
       "summary": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
       "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
-      "source": "Wired-AI",
-      "date": "2026-07-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Pickup Artist Mystery Has an AI Girlfriend",
-      "summary": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
-      "link": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
       "source": "Wired-AI",
       "date": "2026-07-08",
       "tag": "trend",
@@ -774,7 +774,7 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
@@ -789,23 +789,8 @@
     {
       "name": "Zackriya-Solutions",
       "author": "sponsors",
-      "description": "An open source design system that's fully customizable and agent ready",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "link": "https://github.com/sponsors/Zackriya-Solutions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-10"
-    },
-    {
-      "name": "meetily",
-      "author": "Zackriya-Solutions",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "link": "https://github.com/Zackriya-Solutions/meetily",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -817,10 +802,10 @@
       "date": "2026-07-10"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
+      "name": "asgeirtj",
+      "author": "sponsors",
       "description": "agent multiplexer that lives in your terminal.",
-      "link": "https://github.com/apps/dependabot",
+      "link": "https://github.com/sponsors/asgeirtj",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -832,10 +817,25 @@
       "date": "2026-07-10"
     },
     {
-      "name": "astryx",
-      "author": "facebook",
+      "name": "strix",
+      "author": "usestrix",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "link": "https://github.com/usestrix/strix",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-10"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "link": "https://github.com/facebook/astryx",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -850,39 +850,9 @@
       "date": "2026-07-10"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-10"
-    },
-    {
-      "name": "system_prompts_leaks",
-      "author": "asgeirtj",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
-      "link": "https://github.com/asgeirtj/system_prompts_leaks",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-10"
-    },
-    {
       "name": "codex-plugin-cc",
       "author": "openai",
-      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
       "link": "https://github.com/openai/codex-plugin-cc",
       "stars": 0,
       "trend": 50,
@@ -897,14 +867,14 @@
     {
       "name": "ogulcancelik",
       "author": "sponsors",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "link": "https://github.com/sponsors/ogulcancelik",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-07-10"
@@ -912,7 +882,7 @@
     {
       "name": "herdr",
       "author": "ogulcancelik",
-      "description": "Build local voice agents with open-source models",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "link": "https://github.com/ogulcancelik/herdr",
       "stars": 0,
       "trend": 50,
@@ -925,10 +895,40 @@
       "date": "2026-07-10"
     },
     {
-      "name": "page-agent",
-      "author": "alibaba",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "link": "https://github.com/alibaba/page-agent",
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Build local voice agents with open-source models",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-10"
+    },
+    {
+      "name": "astryx",
+      "author": "facebook",
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "link": "https://github.com/facebook/astryx",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-10"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -955,29 +955,19 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex.",
       "link": "https://github.com/manifest.json",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
       "likes": 4324,
       "date": "2026-07-10"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@anonymous",
-      "description": "agent multiplexer that lives in your terminal.",
-      "link": "https://github.com/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 3045,
-      "date": "2026-07-10"
-    },
-    {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "description": "An open source design system that's fully customizable and agent ready",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -986,9 +976,20 @@
       "date": "2026-07-10"
     },
     {
-      "title": "开源项目: events",
+      "title": "开源项目: collections",
       "author": "@anonymous",
       "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2046,
+      "date": "2026-07-10"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GP",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -999,7 +1000,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
