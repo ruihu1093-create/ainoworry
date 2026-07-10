@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-10 16:52:29",
+  "updatedAt": "2026-07-10 18:20:19",
   "news": [
+    {
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in re",
+      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
       "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
@@ -68,24 +86,6 @@
       "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
       "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation tha",
       "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new m",
-      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google will now disclose which ads are made with AI",
-      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until ",
-      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
       "source": "TechCrunch-AI",
       "date": "2026-07-09",
       "tag": "trend",
