@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11 07:08:59",
+  "updatedAt": "2026-07-11 09:23:59",
   "news": [
     {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
@@ -759,7 +759,7 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. The #1 Ai Meeting Minutes generator.",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
