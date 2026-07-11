@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11 22:42:41",
+  "updatedAt": "2026-07-11 23:50:46",
   "news": [
     {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
@@ -942,6 +942,61 @@
   ],
   "agents": [
     {
+      "title": "开源项目: opensearch.xml",
+      "author": "@anonymous",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 1",
+      "link": "https://github.com/opensearch.xml",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2325,
+      "date": "2026-07-11"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@anonymous",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "link": "https://github.com/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 3045,
+      "date": "2026-07-11"
+    },
+    {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
+      "date": "2026-07-11"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GP",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
+      "date": "2026-07-11"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
+      "date": "2026-07-11"
+    },
+    {
       "title": "独立开发者用AI搭建自动化内容工厂",
       "author": "@技术小白不白",
       "description": "非技术背景的产品经理，通过组合多个AI工具，搭建了从选题、写作到分发的全流程自动化系统，月收入破5万。",
@@ -1134,71 +1189,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-07-11"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
-      "date": "2026-07-11"
-    },
-    {
-      "title": "心理咨询师AI预约+回访系统",
-      "author": "@心理小林",
-      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
-      "link": "https://dify.ai/",
-      "tools": [
-        "Dify",
-        "Coze",
-        "微信"
-      ],
-      "likes": 3940,
-      "date": "2026-07-11"
-    },
-    {
-      "title": "程序员用AI重构遗留代码，工期缩短80%",
-      "author": "@代码清洁工",
-      "description": "10万行祖传Python代码用Cursor+Claude重构，3周完成原来预估3个月的工作，减少60%bug。",
-      "link": "https://cursor.com/",
-      "tools": [
-        "Cursor",
-        "Claude",
-        "GitHub"
-      ],
-      "likes": 21000,
-      "date": "2026-07-11"
-    },
-    {
-      "title": "出版社编辑AI选稿系统，效率提升7倍",
-      "author": "@纸书的坚守者",
-      "description": "构建AI辅助选稿系统，自动阅读投稿并生成评审报告，编辑精力集中于真正优秀的稿件。",
-      "link": "https://claude.ai/",
-      "tools": [
-        "Claude",
-        "Python",
-        "Notion"
-      ],
-      "likes": 4230,
-      "date": "2026-07-11"
-    },
-    {
-      "title": "HR总监AI面试助手：候选人评估更客观",
-      "author": "@人才猎手张",
-      "description": "搭建AI辅助面试系统，自动生成岗位专项题库、评分标准和面试报告，招聘效率提升3倍。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "Notion",
-        "Lark"
-      ],
-      "likes": 5580,
       "date": "2026-07-11"
     }
   ],
