@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-11 00:04:58",
+  "updatedAt": "2026-07-11 04:09:50",
   "news": [
     {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "summary": "Meta told Dylan Byers, of Puck News, that it had nixed the feature after backlash from its user base.",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the c",
       "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
       "source": "TechCrunch-AI",
       "date": "2026-07-10",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Apple sues OpenAI over alleged trade secret theft",
-      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
       "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
       "source": "TechCrunch-AI",
       "date": "2026-07-10",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+      "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "source": "Wired-AI",
+      "date": "2026-07-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
       "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
       "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
       "source": "Wired-AI",
       "date": "2026-07-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
-      "summary": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
-      "link": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
-      "source": "Wired-AI",
-      "date": "2026-07-08",
       "tag": "trend",
       "tagText": "资讯"
     },
