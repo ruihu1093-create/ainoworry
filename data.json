@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-11 15:51:49",
+  "updatedAt": "2026-07-11 16:52:03",
   "news": [
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
       "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the c",
@@ -77,15 +86,6 @@
       "title": "An AI agent startup just let its agent run its $100M fundraise",
       "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actual",
       "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome ext",
-      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
       "source": "TechCrunch-AI",
       "date": "2026-07-09",
       "tag": "trend",
