@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12 08:10:12",
+  "updatedAt": "2026-07-12 10:23:20",
   "news": [
     {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and ",
+      "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "source": "Wired-AI",
+      "date": "2026-07-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "OpenAI’s Head of Safety Is Leaving the Company",
       "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
       "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
@@ -149,15 +158,6 @@
       "title": "The 1X Neo Robot Has Freaky Fast Fingers",
       "summary": "The soft, oddly intimate home-chore robot has been given some very tactile hands.",
       "link": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
-      "source": "Wired-AI",
-      "date": "2026-07-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The $28 Million Mistake That Inspired Estonia’s AI ‘Fuckup Finder’",
-      "summary": "A single wording mistake cost the government millions. Now Estonia is using AI to spot legal errors before they become law—and to automate more of the",
-      "link": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
       "source": "Wired-AI",
       "date": "2026-07-09",
       "tag": "trend",
@@ -781,25 +781,10 @@
       "date": "2026-07-12"
     },
     {
-      "name": "developers",
-      "author": "trending",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "link": "https://github.com/trending/developers",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-12"
-    },
-    {
-      "name": "ai-job-search",
-      "author": "MadsLorentzen",
+      "name": "meetily",
+      "author": "Zackriya-Solutions",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "link": "https://github.com/Zackriya-Solutions/meetily",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -947,6 +932,21 @@
         }
       ],
       "date": "2026-07-12"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-12"
     }
   ],
   "agents": [
@@ -962,20 +962,9 @@
       "date": "2026-07-12"
     },
     {
-      "title": "开源项目: manifest.json",
-      "author": "@anonymous",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
-      "link": "https://github.com/manifest.json",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 4324,
-      "date": "2026-07-12"
-    },
-    {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "agent multiplexer that lives in your terminal.",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -986,7 +975,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "description": "An open source design system that's fully customizable and agent ready",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -995,20 +984,20 @@
       "date": "2026-07-12"
     },
     {
-      "title": "开源项目: collections",
+      "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "link": "https://github.com/collections",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GP",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
-      "likes": 2046,
+      "likes": 2526,
       "date": "2026-07-12"
     },
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GP",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1196,6 +1185,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-07-12"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-07-12"
     }
   ],
