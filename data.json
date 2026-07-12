@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12 10:23:20",
+  "updatedAt": "2026-07-12 11:55:52",
   "news": [
     {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
@@ -783,38 +783,8 @@
     {
       "name": "meetily",
       "author": "Zackriya-Solutions",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "link": "https://github.com/Zackriya-Solutions/meetily",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-12"
-    },
-    {
-      "name": "codex-plugin-cc",
-      "author": "openai",
-      "description": "agent multiplexer that lives in your terminal.",
-      "link": "https://github.com/openai/codex-plugin-cc",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-12"
-    },
-    {
-      "name": "wonderwhy-er",
-      "author": "sponsors",
       "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
-      "link": "https://github.com/sponsors/wonderwhy-er",
+      "link": "https://github.com/Zackriya-Solutions/meetily",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -828,8 +798,83 @@
     {
       "name": "DesktopCommanderMCP",
       "author": "wonderwhy-er",
-      "description": "An open source design system that's fully customizable and agent ready",
+      "description": "agent multiplexer that lives in your terminal.",
       "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-12"
+    },
+    {
+      "name": "codex-plugin-cc",
+      "author": "openai",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "link": "https://github.com/openai/codex-plugin-cc",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-12"
+    },
+    {
+      "name": "CubeSandbox",
+      "author": "TencentCloud",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "link": "https://github.com/TencentCloud/CubeSandbox",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-12"
+    },
+    {
+      "name": "abseil-cpp",
+      "author": "abseil",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "link": "https://github.com/abseil/abseil-cpp",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-12"
+    },
+    {
+      "name": "herdr",
+      "author": "ogulcancelik",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "link": "https://github.com/ogulcancelik/herdr",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-12"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -856,25 +901,10 @@
       "date": "2026-07-12"
     },
     {
-      "name": "ogulcancelik",
-      "author": "sponsors",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "link": "https://github.com/sponsors/ogulcancelik",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-12"
-    },
-    {
-      "name": "herdr",
-      "author": "ogulcancelik",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "link": "https://github.com/ogulcancelik/herdr",
+      "name": "system_prompts_leaks",
+      "author": "asgeirtj",
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -886,10 +916,10 @@
       "date": "2026-07-12"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
+      "name": "diegosouzapw",
+      "author": "sponsors",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/sponsors/diegosouzapw",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -904,40 +934,10 @@
       "date": "2026-07-12"
     },
     {
-      "name": "CubeSandbox",
-      "author": "TencentCloud",
-      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "link": "https://github.com/TencentCloud/CubeSandbox",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-12"
-    },
-    {
-      "name": "astryx",
-      "author": "facebook",
-      "description": "Chrome DevTools for coding agents",
-      "link": "https://github.com/facebook/astryx",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-12"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "link": "https://github.com/apps/github-actions",
+      "name": "OmniRoute",
+      "author": "diegosouzapw",
+      "description": "345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+      "link": "https://github.com/diegosouzapw/OmniRoute",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -964,7 +964,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "description": "agent multiplexer that lives in your terminal.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -975,29 +975,30 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "An open source design system that's fully customizable and agent ready",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Goog",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
       "likes": 1697,
       "date": "2026-07-12"
     },
     {
-      "title": "开源项目: events",
+      "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GP",
-      "link": "https://github.com/events",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
-      "likes": 2526,
+      "likes": 2046,
       "date": "2026-07-12"
     },
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "An open source design system that's fully customizable and agent ready",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
