@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-13 20:10:38",
+  "updatedAt": "2026-07-13 21:52:23",
   "news": [
+    {
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valle",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
       "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to cla",
@@ -83,11 +92,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-10",
+      "title": "Siri AI Is Becoming Apple’s Everything Tool",
+      "summary": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 publi",
+      "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
+      "source": "Wired-AI",
+      "date": "2026-07-13",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
       "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is endin",
       "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
-      "source": "Wired-AI",
-      "date": "2026-07-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The 1X Neo Robot Has Freaky Fast Fingers",
-      "summary": "The soft, oddly intimate home-chore robot has been given some very tactile hands.",
-      "link": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
       "source": "Wired-AI",
       "date": "2026-07-09",
       "tag": "trend",
