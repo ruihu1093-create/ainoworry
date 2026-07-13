@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-13 22:52:30",
+  "updatedAt": "2026-07-13 23:50:49",
   "news": [
+    {
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "summary": "The company is raising at least $75 million, led by Robot, with significant participation from USV and other prominent investors.",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Satya Nadella has issued a shocking warning to companies using AI",
       "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valle",
@@ -77,15 +86,6 @@
       "title": "Apple sues OpenAI over alleged trade secret theft",
       "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
       "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in re",
-      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
       "source": "TechCrunch-AI",
       "date": "2026-07-10",
       "tag": "trend",
