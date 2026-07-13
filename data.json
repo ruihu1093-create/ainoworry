@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-13 13:18:45",
+  "updatedAt": "2026-07-13 16:27:47",
   "news": [
+    {
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Waze adds new AI-powered features and customization updates",
+      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its prod",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
@@ -68,24 +86,6 @@
       "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
       "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacu",
       "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actual",
-      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
       "source": "TechCrunch-AI",
       "date": "2026-07-09",
       "tag": "trend",
@@ -766,6 +766,36 @@
   ],
   "github": [
     {
+      "name": "explore",
+      "author": "sponsors",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "link": "https://github.com/sponsors/explore",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-13"
+    },
+    {
+      "name": "ai-job-search",
+      "author": "MadsLorentzen",
+      "description": "Abseil Common Libraries (C++)",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-13"
+    },
+    {
       "name": "wonderwhy-er",
       "author": "sponsors",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
@@ -914,57 +944,24 @@
         }
       ],
       "date": "2026-07-13"
-    },
-    {
-      "name": "diegosouzapw",
-      "author": "sponsors",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "link": "https://github.com/sponsors/diegosouzapw",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-07-13"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-13"
     }
   ],
   "agents": [
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "agent multiplexer that lives in your terminal.",
-      "link": "https://github.com/explore",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
+      "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
       ],
-      "likes": 3045,
+      "likes": 2325,
       "date": "2026-07-13"
     },
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-sou",
+      "description": "agent multiplexer that lives in your terminal.",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -975,24 +972,24 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Goog",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GP",
       "link": "https://github.com/collections",
       "tools": [
-        "GitHub",
-        "GPT-4"
+        "GitHub"
       ],
       "likes": 2046,
       "date": "2026-07-13"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "link": "https://github.com/sponsors/explore",
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Goog",
+      "link": "https://github.com/events",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
-      "likes": 7510,
+      "likes": 2526,
       "date": "2026-07-13"
     },
     {
