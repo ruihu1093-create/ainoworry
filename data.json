@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14 11:23:13",
+  "updatedAt": "2026-07-14 13:29:11",
   "news": [
     {
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
@@ -11,8 +11,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationshi",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationshi",
       "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
       "source": "TechCrunch-AI",
       "date": "2026-07-14",
@@ -757,36 +757,6 @@
   ],
   "github": [
     {
-      "name": "explore",
-      "author": "sponsors",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "link": "https://github.com/sponsors/explore",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-14"
-    },
-    {
-      "name": "ai-job-search",
-      "author": "MadsLorentzen",
-      "description": "Abseil Common Libraries (C++)",
-      "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-14"
-    },
-    {
       "name": "wonderwhy-er",
       "author": "sponsors",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
@@ -935,24 +905,43 @@
         }
       ],
       "date": "2026-07-14"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-14"
+    },
+    {
+      "name": "codex-plugin-cc",
+      "author": "openai",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "link": "https://github.com/openai/codex-plugin-cc",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-14"
     }
   ],
   "agents": [
     {
-      "title": "开源项目: opensearch.xml",
-      "author": "@anonymous",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
-      "link": "https://github.com/opensearch.xml",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2325,
-      "date": "2026-07-14"
-    },
-    {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "description": "agent multiplexer that lives in your terminal.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -963,7 +952,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "agent multiplexer that lives in your terminal.",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GP",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -972,9 +961,20 @@
       "date": "2026-07-14"
     },
     {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
+      "date": "2026-07-14"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 1",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
