@@ -1,9 +1,18 @@
 {
-  "updatedAt": "2026-07-14 22:54:47",
+  "updatedAt": "2026-07-14 23:50:43",
   "news": [
     {
+      "title": "Lorde says AI glasses are “not sexy”",
+      "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said on stage.",
+      "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-      "summary": "OpenAI's first hardware device is reported to be a screenless, AI-guided smart speaker that can move. Weird enough for you?",
+      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the de",
       "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
       "source": "TechCrunch-AI",
       "date": "2026-07-14",
@@ -77,15 +86,6 @@
       "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
       "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating ex",
       "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-      "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
-      "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
       "source": "TechCrunch-AI",
       "date": "2026-07-14",
       "tag": "trend",
