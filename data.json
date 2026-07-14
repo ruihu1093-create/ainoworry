@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14 07:55:32",
+  "updatedAt": "2026-07-14 09:54:22",
   "news": [
     {
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
+      "summary": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist.",
+      "link": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
+      "source": "Wired-AI",
+      "date": "2026-07-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Siri AI Is Becoming Apple’s Everything Tool",
       "summary": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 publi",
       "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
@@ -149,15 +158,6 @@
       "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
       "summary": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
       "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
-      "source": "Wired-AI",
-      "date": "2026-07-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-      "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is endin",
-      "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
       "source": "Wired-AI",
       "date": "2026-07-09",
       "tag": "trend",
@@ -621,7 +621,7 @@
   "ecommerce": [
     {
       "title": "一场高转化抽奖活动应该怎么设计？从奖品、规则到传播路径的完整拆解",
-      "content": "在微信私域生态中，抽奖几乎是商家长期使用的互动玩法：公众号涨粉、社群促活、线下门店引流、会员权益发放、品牌活动传播，都能看到它的身影。它的优势很直接：用户理解门槛低、参与反馈快、成本相对可控，也容易和微信内的公众号、社群、小程序、门店场景结合。\n  但也正因为抽奖看起来简单，很多活动最后只做成了“一次热闹”。参与人数有了，目标用户没沉淀；奖品发出去了，后续转化没接",
+      "content": "在微信私域生态中，抽奖几乎是商家长期使用的互动玩法：公众号涨粉、社群促活、线下门店引流、会员权益发放、品牌活动传播，都能看到它的身影。它的优势很直接：用户理解门��低、参与反馈快、成本相对可控，也容易和微信内的公众号、社群、小程序、门店场景结合。\n  但也正因为抽奖看起来简单，很多活动最后只做成了“一次热闹”。参与人数有了，目标用户没沉淀；奖品发出去了，后续转化没",
       "link": "https://36kr.com/p/3893457328700165?f=rss",
       "source": "36Kr",
       "impact": "medium",
