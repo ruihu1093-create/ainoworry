@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-14 02:03:57",
+  "updatedAt": "2026-07-14 05:25:18",
   "news": [
+    {
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even ",
+      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
       "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationshi",
@@ -79,15 +88,6 @@
       "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
       "source": "TechCrunch-AI",
       "date": "2026-07-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-11",
       "tag": "trend",
       "tagText": "资讯"
     },
