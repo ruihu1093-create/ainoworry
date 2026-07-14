@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14 09:54:22",
+  "updatedAt": "2026-07-14 11:23:13",
   "news": [
     {
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+      "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chat",
+      "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+      "source": "Wired-AI",
+      "date": "2026-07-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
       "summary": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist.",
       "link": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
       "source": "Wired-AI",
       "date": "2026-07-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-      "summary": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
-      "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
-      "source": "Wired-AI",
-      "date": "2026-07-09",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "一场高转化抽奖活动应该怎么设计？从奖品、规则到传播路径的完整拆解",
-      "content": "在微信私域生态中，抽奖几乎是商家长期使用的互动玩法：公众号涨粉、社群促活、线下门店引流、会员权益发放、品牌活动传播，都能看到它的身影。它的优势很直接：用户理解门��低、参与反馈快、成本相对可控，也容易和微信内的公众号、社群、小程序、门店场景结合。\n  但也正因为抽奖看起来简单，很多活动最后只做成了“一次热闹”。参与人数有了，目标用户没沉淀；奖品发出去了，后续转化没",
-      "link": "https://36kr.com/p/3893457328700165?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-07-13"
-    },
-    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -798,14 +789,14 @@
     {
       "name": "wonderwhy-er",
       "author": "sponsors",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "link": "https://github.com/sponsors/wonderwhy-er",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Audio"
+          "name": "Agent"
         }
       ],
       "date": "2026-07-14"
@@ -813,7 +804,7 @@
     {
       "name": "DesktopCommanderMCP",
       "author": "wonderwhy-er",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "stars": 0,
       "trend": 50,
@@ -826,85 +817,10 @@
       "date": "2026-07-14"
     },
     {
-      "name": "Zackriya-Solutions",
-      "author": "sponsors",
-      "description": "agent multiplexer that lives in your terminal.",
-      "link": "https://github.com/sponsors/Zackriya-Solutions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-14"
-    },
-    {
-      "name": "meetily",
-      "author": "Zackriya-Solutions",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "link": "https://github.com/Zackriya-Solutions/meetily",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-14"
-    },
-    {
-      "name": "CubeSandbox",
-      "author": "TencentCloud",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "link": "https://github.com/TencentCloud/CubeSandbox",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-14"
-    },
-    {
-      "name": "codex-plugin-cc",
-      "author": "openai",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "link": "https://github.com/openai/codex-plugin-cc",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-14"
-    },
-    {
-      "name": "herdr",
-      "author": "ogulcancelik",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "link": "https://github.com/ogulcancelik/herdr",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-14"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "link": "https://github.com/apps/github-actions",
+      "name": "abseil-cpp",
+      "author": "abseil",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "link": "https://github.com/abseil/abseil-cpp",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -918,7 +834,7 @@
     {
       "name": "OfficeCLI",
       "author": "iOfficeAI",
-      "description": "An open source design system that's fully customizable and agent ready",
+      "description": "agent multiplexer that lives in your terminal.",
       "link": "https://github.com/iOfficeAI/OfficeCLI",
       "stars": 0,
       "trend": 50,
@@ -933,7 +849,7 @@
     {
       "name": "github-copilot-cli",
       "author": "apps",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "link": "https://github.com/apps/github-copilot-cli",
       "stars": 0,
       "trend": 50,
@@ -941,6 +857,81 @@
       "tags": [
         {
           "name": "AI"
+        }
+      ],
+      "date": "2026-07-14"
+    },
+    {
+      "name": "orca",
+      "author": "stablyai",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "link": "https://github.com/stablyai/orca",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-14"
+    },
+    {
+      "name": "ogulcancelik",
+      "author": "sponsors",
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "link": "https://github.com/sponsors/ogulcancelik",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-14"
+    },
+    {
+      "name": "herdr",
+      "author": "ogulcancelik",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
+      "link": "https://github.com/ogulcancelik/herdr",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Audio"
+        }
+      ],
+      "date": "2026-07-14"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "The design language that makes your AI harness better at design.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-07-14"
+    },
+    {
+      "name": "diegosouzapw",
+      "author": "sponsors",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "link": "https://github.com/sponsors/diegosouzapw",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-07-14"
@@ -959,6 +950,17 @@
       "date": "2026-07-14"
     },
     {
+      "title": "开源项目: explore",
+      "author": "@anonymous",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "link": "https://github.com/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 3045,
+      "date": "2026-07-14"
+    },
+    {
       "title": "开源项目: topics",
       "author": "@anonymous",
       "description": "agent multiplexer that lives in your terminal.",
@@ -970,26 +972,14 @@
       "date": "2026-07-14"
     },
     {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GP",
-      "link": "https://github.com/collections",
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 2046,
-      "date": "2026-07-14"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Goog",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub",
-        "GPT-4"
-      ],
-      "likes": 2526,
+      "likes": 7510,
       "date": "2026-07-14"
     },
     {
