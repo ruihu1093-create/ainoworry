@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-14 19:13:06",
+  "updatedAt": "2026-07-14 20:56:13",
   "news": [
+    {
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 publi",
+      "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic’s newest ad is creeping people out",
+      "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into critic",
+      "link": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+      "summary": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
+      "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google faces another AI training lawsuit from major publishers",
       "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
@@ -59,33 +86,6 @@
       "title": "The real AI race may no longer be at the frontier",
       "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still mat",
       "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-      "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks",
-      "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
-      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
-      "link": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even ",
-      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
       "source": "TechCrunch-AI",
       "date": "2026-07-14",
       "tag": "trend",
