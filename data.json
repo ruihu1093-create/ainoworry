@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15 02:01:16",
+  "updatedAt": "2026-07-15 05:25:58",
   "news": [
     {
       "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "安踏品牌CEO徐阳离职，激进的零售实验结束了｜独家",
+      "content": "文｜贺哲馨、任彩茹\n  编辑｜乔芊\n  36氪独家获悉，安踏品牌CEO徐阳将离职。\n  安踏集团回应36氪称，原安踏品牌CEO徐阳因家庭原因辞任该职，集团已批准并将另有任用；安踏集团执行董事、集团联席CEO赖世贤即日起将代理安踏品牌CEO一职。安踏品牌既定的长期发展战略保持不变。安踏集团有完备的组织及业务管理体系，持续吸纳全球的优秀人才",
+      "link": "https://36kr.com/p/3889213745543687?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-07-15"
+    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
