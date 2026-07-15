@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-15 18:02:16",
+  "updatedAt": "2026-07-15 20:04:47",
   "news": [
+    {
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be pa",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
       "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
@@ -38,6 +56,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "summary": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture d",
+      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
       "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI ado",
       "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
@@ -56,28 +83,19 @@
       "tagText": "资讯"
     },
     {
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
-      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-      "source": "TechCrunch-AI",
+      "title": "AI Isn’t Smarter Than a Baby—Yet",
+      "summary": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.",
+      "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
+      "source": "Wired-AI",
       "date": "2026-07-15",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
-      "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
-      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "source": "TechCrunch-AI",
+      "title": "Thinking Machines Lab Drops Its First Model",
+      "summary": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among ",
+      "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+      "source": "Wired-AI",
       "date": "2026-07-15",
       "tag": "trend",
       "tagText": "资讯"
@@ -133,24 +151,6 @@
       "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
       "source": "Wired-AI",
       "date": "2026-07-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
-      "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and ",
-      "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-      "source": "Wired-AI",
-      "date": "2026-07-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI’s Head of Safety Is Leaving the Company",
-      "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
-      "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "source": "Wired-AI",
-      "date": "2026-07-11",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -630,7 +630,7 @@
     },
     {
       "title": "安踏品牌CEO徐阳离职，激进的零售实验结束了｜独家",
-      "content": "文｜贺哲馨、任彩茹\n  编辑｜乔芊\n  36氪独家获悉，安踏品牌CEO徐阳将离职。\n  安踏集团回应36氪称，原安踏品牌CEO徐阳因家庭原因辞任该职，集团已批准并将另有任用；安踏集团执行董事、集团联席CEO赖世贤即日起将代理安踏品牌CEO一职。安踏品牌既定的长期发展战略保持不变。安踏集团有完备的组织及业务管理体系，持续吸纳全球的优秀人才",
+      "content": "文｜贺哲馨、任彩茹\n  编辑｜乔芊\n  36氪独家获悉，安踏品牌CEO徐阳将离职。\n  安踏集团回应36氪称，原安踏品牌CEO徐阳因家庭原因辞任该职，集团已批准并将另有任用；安踏集团执行董事、集团联席CEO赖世贤即日起将代理安踏品牌CEO一职。安踏品牌既定的长期发展战略保持不变。安踏集团有完备的组织及业务管理体系，持续吸纳��球的优秀人",
       "link": "https://36kr.com/p/3889213745543687?f=rss",
       "source": "36Kr",
       "impact": "medium",
@@ -801,14 +801,14 @@
     {
       "name": "DesktopCommanderMCP",
       "author": "wonderwhy-er",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-07-15"
@@ -816,7 +816,7 @@
     {
       "name": "stitch-skills",
       "author": "google-labs-code",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "link": "https://github.com/google-labs-code/stitch-skills",
       "stars": 0,
       "trend": 50,
@@ -824,36 +824,6 @@
       "tags": [
         {
           "name": "Agent"
-        }
-      ],
-      "date": "2026-07-15"
-    },
-    {
-      "name": "abseil-cpp",
-      "author": "abseil",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "link": "https://github.com/abseil/abseil-cpp",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-15"
-    },
-    {
-      "name": "ai-job-search",
-      "author": "MadsLorentzen",
-      "description": "Asio C++ Library",
-      "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
         }
       ],
       "date": "2026-07-15"
@@ -962,6 +932,39 @@
         }
       ],
       "date": "2026-07-15"
+    },
+    {
+      "name": "archify",
+      "author": "tt-a1i",
+      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "link": "https://github.com/tt-a1i/archify",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-07-15"
+    },
+    {
+      "name": "codex-plugin-cc",
+      "author": "openai",
+      "description": "The design language that makes your AI harness better at design.",
+      "link": "https://github.com/openai/codex-plugin-cc",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-07-15"
     }
   ],
   "agents": [
@@ -977,36 +980,25 @@
       "date": "2026-07-15"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "link": "https://github.com/explore",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 3045,
+      "likes": 1697,
       "date": "2026-07-15"
     },
     {
-      "title": "开源项目: collections",
+      "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
-      "date": "2026-07-15"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "link": "https://github.com/sponsors/explore",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
-      "likes": 7510,
+      "likes": 2526,
       "date": "2026-07-15"
     },
     {
@@ -1215,6 +1207,19 @@
         "美团"
       ],
       "likes": 2650,
+      "date": "2026-07-15"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
       "date": "2026-07-15"
     }
   ],
