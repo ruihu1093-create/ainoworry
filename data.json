@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15 08:00:32",
+  "updatedAt": "2026-07-15 10:44:55",
   "news": [
     {
       "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
@@ -92,6 +92,24 @@
       "tagText": "资讯"
     },
     {
+      "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
+      "summary": "Companies’ increasing reliance on AI chatbots isn’t making the customer service experience smarter. It’s just making it more infuriating.",
+      "link": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/",
+      "source": "Wired-AI",
+      "date": "2026-07-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
+      "summary": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Br",
+      "link": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
+      "source": "Wired-AI",
+      "date": "2026-07-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
       "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chat",
       "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
@@ -140,24 +158,6 @@
       "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
       "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
       "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
-      "source": "Wired-AI",
-      "date": "2026-07-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
-      "summary": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
-      "link": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
-      "source": "Wired-AI",
-      "date": "2026-07-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
-      "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up be",
-      "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
       "source": "Wired-AI",
       "date": "2026-07-10",
       "tag": "trend",
@@ -766,6 +766,36 @@
   ],
   "github": [
     {
+      "name": "explore",
+      "author": "sponsors",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "link": "https://github.com/sponsors/explore",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-15"
+    },
+    {
+      "name": "ai-job-search",
+      "author": "MadsLorentzen",
+      "description": "Abseil Common Libraries (C++)",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-15"
+    },
+    {
       "name": "wonderwhy-er",
       "author": "sponsors",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
@@ -914,43 +944,24 @@
         }
       ],
       "date": "2026-07-15"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-15"
-    },
-    {
-      "name": "codex-plugin-cc",
-      "author": "openai",
-      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "link": "https://github.com/openai/codex-plugin-cc",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-15"
     }
   ],
   "agents": [
     {
+      "title": "开源项目: opensearch.xml",
+      "author": "@anonymous",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
+      "link": "https://github.com/opensearch.xml",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2325,
+      "date": "2026-07-15"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "agent multiplexer that lives in your terminal.",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -961,7 +972,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GP",
+      "description": "agent multiplexer that lives in your terminal.",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -970,20 +981,9 @@
       "date": "2026-07-15"
     },
     {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
-      "date": "2026-07-15"
-    },
-    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 1",
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
