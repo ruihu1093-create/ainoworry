@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-15 10:44:55",
+  "updatedAt": "2026-07-15 12:11:23",
   "news": [
+    {
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
+      "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
       "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
@@ -74,20 +92,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Google faces another AI training lawsuit from major publishers",
-      "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
-      "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-      "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their rele",
-      "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-14",
+      "title": "The Apple FaceID Co-Inventor Building a Frontier AI Model for the Human Brain",
+      "summary": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technolog",
+      "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
+      "source": "Wired-AI",
+      "date": "2026-07-15",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
       "source": "Wired-AI",
       "date": "2026-07-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-      "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
-      "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
-      "source": "Wired-AI",
-      "date": "2026-07-10",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+      "content": "大公司：\n  美团、青桔、哈啰共享单车调价\n  近期，美团单车、滴滴青桔、哈",
+      "link": "https://36kr.com/p/3896563671222147?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-07-15"
+    },
+    {
       "title": "安踏品牌CEO徐阳离职，激进的零售实验结束了｜独家",
       "content": "文｜贺哲馨、任彩茹\n  编辑｜乔芊\n  36氪独家获悉，安踏品牌CEO徐阳将离职。\n  安踏集团回应36氪称，原安踏品牌CEO徐阳因家庭原因辞任该职，集团已批准并将另有任用；安踏集团执行董事、集团联席CEO赖世贤即日起将代理安踏品牌CEO一职。安踏品牌既定的长期发展战略保持不变。安踏集团有完备的组织及业务管理体系，持续吸纳全球的优秀人才",
       "link": "https://36kr.com/p/3889213745543687?f=rss",
@@ -766,40 +775,10 @@
   ],
   "github": [
     {
-      "name": "explore",
-      "author": "sponsors",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "link": "https://github.com/sponsors/explore",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-15"
-    },
-    {
-      "name": "ai-job-search",
-      "author": "MadsLorentzen",
-      "description": "Abseil Common Libraries (C++)",
-      "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-15"
-    },
-    {
-      "name": "wonderwhy-er",
-      "author": "sponsors",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "link": "https://github.com/sponsors/wonderwhy-er",
+      "name": "developers",
+      "author": "trending",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -813,8 +792,23 @@
     {
       "name": "DesktopCommanderMCP",
       "author": "wonderwhy-er",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-15"
+    },
+    {
+      "name": "stitch-skills",
+      "author": "google-labs-code",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "link": "https://github.com/google-labs-code/stitch-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -828,7 +822,7 @@
     {
       "name": "abseil-cpp",
       "author": "abseil",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "link": "https://github.com/abseil/abseil-cpp",
       "stars": 0,
       "trend": 50,
@@ -841,9 +835,24 @@
       "date": "2026-07-15"
     },
     {
+      "name": "ai-job-search",
+      "author": "MadsLorentzen",
+      "description": "Asio C++ Library",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-15"
+    },
+    {
       "name": "OfficeCLI",
       "author": "iOfficeAI",
-      "description": "agent multiplexer that lives in your terminal.",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "link": "https://github.com/iOfficeAI/OfficeCLI",
       "stars": 0,
       "trend": 50,
@@ -858,7 +867,7 @@
     {
       "name": "github-copilot-cli",
       "author": "apps",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "link": "https://github.com/apps/github-copilot-cli",
       "stars": 0,
       "trend": 50,
@@ -873,7 +882,7 @@
     {
       "name": "orca",
       "author": "stablyai",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "link": "https://github.com/stablyai/orca",
       "stars": 0,
       "trend": 50,
@@ -886,10 +895,10 @@
       "date": "2026-07-15"
     },
     {
-      "name": "ogulcancelik",
-      "author": "sponsors",
+      "name": "asio",
+      "author": "chriskohlhoff",
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "link": "https://github.com/sponsors/ogulcancelik",
+      "link": "https://github.com/chriskohlhoff/asio",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -901,25 +910,10 @@
       "date": "2026-07-15"
     },
     {
-      "name": "herdr",
-      "author": "ogulcancelik",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
-      "link": "https://github.com/ogulcancelik/herdr",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Audio"
-        }
-      ],
-      "date": "2026-07-15"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "The design language that makes your AI harness better at design.",
-      "link": "https://github.com/apps/github-actions",
+      "name": "hallmark",
+      "author": "Nutlope",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "link": "https://github.com/Nutlope/hallmark",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -931,10 +925,25 @@
       "date": "2026-07-15"
     },
     {
-      "name": "diegosouzapw",
-      "author": "sponsors",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "link": "https://github.com/sponsors/diegosouzapw",
+      "name": "bun",
+      "author": "oven-sh",
+      "description": "agent multiplexer that lives in your terminal.",
+      "link": "https://github.com/oven-sh/bun",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-15"
+    },
+    {
+      "name": "autofix-ci",
+      "author": "apps",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "link": "https://github.com/apps/autofix-ci",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -948,20 +957,20 @@
   ],
   "agents": [
     {
-      "title": "开源项目: opensearch.xml",
+      "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
-      "link": "https://github.com/opensearch.xml",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with codin",
+      "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
       ],
-      "likes": 2325,
+      "likes": 4324,
       "date": "2026-07-15"
     },
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -970,14 +979,14 @@
       "date": "2026-07-15"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "agent multiplexer that lives in your terminal.",
-      "link": "https://github.com/topics",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
+      "likes": 2046,
       "date": "2026-07-15"
     },
     {
