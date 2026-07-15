@@ -1,9 +1,36 @@
 {
-  "updatedAt": "2026-07-15 16:17:00",
+  "updatedAt": "2026-07-15 18:02:16",
   "news": [
     {
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The d",
+      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line,",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bri",
+      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
       "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
       "source": "TechCrunch-AI",
       "date": "2026-07-15",
@@ -52,33 +79,6 @@
       "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
       "source": "TechCrunch-AI",
       "date": "2026-07-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Lorde says AI glasses are ‘not sexy’",
-      "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
-      "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the de",
-      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
-      "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-14",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -155,9 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberatta",
+      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
       "source": "MIT-Tech-Review",
       "date": "2026-07-15",
       "tag": "trend",
@@ -801,8 +801,23 @@
     {
       "name": "DesktopCommanderMCP",
       "author": "wonderwhy-er",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-15"
+    },
+    {
+      "name": "stitch-skills",
+      "author": "google-labs-code",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "link": "https://github.com/google-labs-code/stitch-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -814,16 +829,31 @@
       "date": "2026-07-15"
     },
     {
-      "name": "stitch-skills",
-      "author": "google-labs-code",
+      "name": "abseil-cpp",
+      "author": "abseil",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "link": "https://github.com/google-labs-code/stitch-skills",
+      "link": "https://github.com/abseil/abseil-cpp",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
+        }
+      ],
+      "date": "2026-07-15"
+    },
+    {
+      "name": "ai-job-search",
+      "author": "MadsLorentzen",
+      "description": "Asio C++ Library",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-07-15"
@@ -932,39 +962,6 @@
         }
       ],
       "date": "2026-07-15"
-    },
-    {
-      "name": "archify",
-      "author": "tt-a1i",
-      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
-      "link": "https://github.com/tt-a1i/archify",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "RAG"
-        }
-      ],
-      "date": "2026-07-15"
-    },
-    {
-      "name": "codex-plugin-cc",
-      "author": "openai",
-      "description": "The design language that makes your AI harness better at design.",
-      "link": "https://github.com/openai/codex-plugin-cc",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-07-15"
     }
   ],
   "agents": [
@@ -980,25 +977,36 @@
       "date": "2026-07-15"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "link": "https://github.com/topics",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
+      "likes": 3045,
       "date": "2026-07-15"
     },
     {
-      "title": "开源项目: events",
+      "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "link": "https://github.com/events",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
-      "likes": 2526,
+      "likes": 2046,
+      "date": "2026-07-15"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-07-15"
     },
     {
@@ -1207,19 +1215,6 @@
         "美团"
       ],
       "likes": 2650,
-      "date": "2026-07-15"
-    },
-    {
-      "title": "心理咨询师AI预约+回访系统",
-      "author": "@心理小林",
-      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
-      "link": "https://dify.ai/",
-      "tools": [
-        "Dify",
-        "Coze",
-        "微信"
-      ],
-      "likes": 3940,
       "date": "2026-07-15"
     }
   ],
