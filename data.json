@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16 21:10:22",
+  "updatedAt": "2026-07-16 22:53:34",
   "news": [
     {
       "title": "Google Vids now lets you star in your own AI videos",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+      "summary": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the compan",
+      "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+      "source": "Wired-AI",
+      "date": "2026-07-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
       "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may alrea",
       "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
       "source": "Wired-AI",
       "date": "2026-07-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
-      "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chat",
-      "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
-      "source": "Wired-AI",
-      "date": "2026-07-14",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -822,15 +822,12 @@
     {
       "name": "hallmark",
       "author": "Nutlope",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "Skills for Design Engineers.",
       "link": "https://github.com/Nutlope/hallmark",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        {
-          "name": "Agent"
-        },
         {
           "name": "LLM"
         }
@@ -838,10 +835,10 @@
       "date": "2026-07-16"
     },
     {
-      "name": "orca",
-      "author": "stablyai",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "link": "https://github.com/stablyai/orca",
+      "name": "Vibe-Trading",
+      "author": "HKUDS",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "link": "https://github.com/HKUDS/Vibe-Trading",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -853,10 +850,25 @@
       "date": "2026-07-16"
     },
     {
-      "name": "bun",
-      "author": "oven-sh",
+      "name": "skills",
+      "author": "emilkowalski",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "link": "https://github.com/emilkowalski/skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-16"
+    },
+    {
+      "name": "orca",
+      "author": "stablyai",
       "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
-      "link": "https://github.com/oven-sh/bun",
+      "link": "https://github.com/stablyai/orca",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -871,10 +883,10 @@
       "date": "2026-07-16"
     },
     {
-      "name": "OpenCut-app",
-      "author": "sponsors",
+      "name": "autofix-ci",
+      "author": "apps",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "link": "https://github.com/sponsors/OpenCut-app",
+      "link": "https://github.com/apps/autofix-ci",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -886,10 +898,10 @@
       "date": "2026-07-16"
     },
     {
-      "name": "OfficeCLI",
-      "author": "iOfficeAI",
+      "name": "OpenCut",
+      "author": "OpenCut-app",
       "description": "The design language that makes your AI harness better at design.",
-      "link": "https://github.com/iOfficeAI/OfficeCLI",
+      "link": "https://github.com/OpenCut-app/OpenCut",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -901,9 +913,24 @@
       "date": "2026-07-16"
     },
     {
+      "name": "OfficeCLI",
+      "author": "iOfficeAI",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "link": "https://github.com/iOfficeAI/OfficeCLI",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-16"
+    },
+    {
       "name": "github-copilot-cli",
       "author": "apps",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "description": "agent multiplexer that lives in your terminal.",
       "link": "https://github.com/apps/github-copilot-cli",
       "stars": 0,
       "trend": 50,
@@ -918,47 +945,14 @@
     {
       "name": "awesome-llm-apps",
       "author": "Shubhamsaboo",
-      "description": "agent multiplexer that lives in your terminal.",
+      "description": "Action for checking out a repo",
       "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
-        },
-        {
           "name": "LLM"
-        }
-      ],
-      "date": "2026-07-16"
-    },
-    {
-      "name": "codex-plugin-cc",
-      "author": "openai",
-      "description": "Action for checking out a repo",
-      "link": "https://github.com/openai/codex-plugin-cc",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-16"
-    },
-    {
-      "name": "diegosouzapw",
-      "author": "sponsors",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "link": "https://github.com/sponsors/diegosouzapw",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
         }
       ],
       "date": "2026-07-16"
@@ -977,31 +971,9 @@
       "date": "2026-07-16"
     },
     {
-      "title": "开源项目: topics",
-      "author": "@anonymous",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 1697,
-      "date": "2026-07-16"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-sou",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
-      "date": "2026-07-16"
-    },
-    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-sou",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1215,6 +1187,32 @@
         "美团"
       ],
       "likes": 2650,
+      "date": "2026-07-16"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
+      "date": "2026-07-16"
+    },
+    {
+      "title": "程序员用AI重构遗留代码，工期缩短80%",
+      "author": "@代码清洁工",
+      "description": "10万行祖传Python代码用Cursor+Claude重构，3周完成原来预估3个月的工作，减少60%bug。",
+      "link": "https://cursor.com/",
+      "tools": [
+        "Cursor",
+        "Claude",
+        "GitHub"
+      ],
+      "likes": 21000,
       "date": "2026-07-16"
     }
   ],
