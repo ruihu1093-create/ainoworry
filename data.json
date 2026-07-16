@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-16 18:02:47",
+  "updatedAt": "2026-07-16 19:59:43",
   "news": [
+    {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered ",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google’s AI Mode now lets you link and interact with select apps",
       "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
@@ -74,20 +92,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be pa",
-      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-15",
+      "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+      "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may alrea",
+      "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+      "source": "Wired-AI",
+      "date": "2026-07-16",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
       "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chat",
       "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
-      "source": "Wired-AI",
-      "date": "2026-07-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
-      "summary": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist.",
-      "link": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
       "source": "Wired-AI",
       "date": "2026-07-14",
       "tag": "trend",
