@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-16 02:31:27",
+  "updatedAt": "2026-07-16 05:36:04",
   "news": [
+    {
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
@@ -68,15 +77,6 @@
       "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
       "summary": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture d",
       "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI ado",
-      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
       "source": "TechCrunch-AI",
       "date": "2026-07-15",
       "tag": "trend",
