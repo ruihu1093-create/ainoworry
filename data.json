@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16 08:05:22",
+  "updatedAt": "2026-07-16 10:54:51",
   "news": [
     {
       "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Please Stop Making Me Opt Out of AI",
+      "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive feat",
+      "link": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
+      "source": "Wired-AI",
+      "date": "2026-07-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "AI Isn’t Smarter Than a Baby—Yet",
       "summary": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.",
       "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
@@ -142,15 +151,6 @@
       "link": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
       "source": "Wired-AI",
       "date": "2026-07-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Siri AI Is Becoming Apple’s Everything Tool",
-      "summary": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 publi",
-      "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
-      "source": "Wired-AI",
-      "date": "2026-07-13",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -775,10 +775,10 @@
   ],
   "github": [
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "explore",
+      "author": "sponsors",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -790,9 +790,24 @@
       "date": "2026-07-16"
     },
     {
+      "name": "wonderwhy-er",
+      "author": "sponsors",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "link": "https://github.com/sponsors/wonderwhy-er",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-16"
+    },
+    {
       "name": "DesktopCommanderMCP",
       "author": "wonderwhy-er",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "stars": 0,
       "trend": 50,
@@ -805,84 +820,9 @@
       "date": "2026-07-16"
     },
     {
-      "name": "stitch-skills",
-      "author": "google-labs-code",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "link": "https://github.com/google-labs-code/stitch-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-16"
-    },
-    {
-      "name": "OfficeCLI",
-      "author": "iOfficeAI",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "link": "https://github.com/iOfficeAI/OfficeCLI",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-16"
-    },
-    {
-      "name": "github-copilot-cli",
-      "author": "apps",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "link": "https://github.com/apps/github-copilot-cli",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-16"
-    },
-    {
-      "name": "orca",
-      "author": "stablyai",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "link": "https://github.com/stablyai/orca",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-16"
-    },
-    {
-      "name": "Vibe-Trading",
-      "author": "HKUDS",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "link": "https://github.com/HKUDS/Vibe-Trading",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-16"
-    },
-    {
       "name": "hallmark",
       "author": "Nutlope",
-      "description": "agent multiplexer that lives in your terminal.",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "link": "https://github.com/Nutlope/hallmark",
       "stars": 0,
       "trend": 50,
@@ -898,10 +838,10 @@
       "date": "2026-07-16"
     },
     {
-      "name": "bun",
-      "author": "oven-sh",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
-      "link": "https://github.com/oven-sh/bun",
+      "name": "orca",
+      "author": "stablyai",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "link": "https://github.com/stablyai/orca",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -913,10 +853,10 @@
       "date": "2026-07-16"
     },
     {
-      "name": "autofix-ci",
-      "author": "apps",
+      "name": "bun",
+      "author": "oven-sh",
       "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
-      "link": "https://github.com/apps/autofix-ci",
+      "link": "https://github.com/oven-sh/bun",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -931,10 +871,25 @@
       "date": "2026-07-16"
     },
     {
-      "name": "codex-plugin-cc",
-      "author": "openai",
+      "name": "OpenCut-app",
+      "author": "sponsors",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "link": "https://github.com/sponsors/OpenCut-app",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-16"
+    },
+    {
+      "name": "OfficeCLI",
+      "author": "iOfficeAI",
       "description": "The design language that makes your AI harness better at design.",
-      "link": "https://github.com/openai/codex-plugin-cc",
+      "link": "https://github.com/iOfficeAI/OfficeCLI",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -946,10 +901,58 @@
       "date": "2026-07-16"
     },
     {
-      "name": "dependabot",
+      "name": "github-copilot-cli",
       "author": "apps",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "link": "https://github.com/apps/dependabot",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "link": "https://github.com/apps/github-copilot-cli",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-16"
+    },
+    {
+      "name": "awesome-llm-apps",
+      "author": "Shubhamsaboo",
+      "description": "agent multiplexer that lives in your terminal.",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-07-16"
+    },
+    {
+      "name": "codex-plugin-cc",
+      "author": "openai",
+      "description": "Action for checking out a repo",
+      "link": "https://github.com/openai/codex-plugin-cc",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-16"
+    },
+    {
+      "name": "diegosouzapw",
+      "author": "sponsors",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "link": "https://github.com/sponsors/diegosouzapw",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -963,20 +966,20 @@
   ],
   "agents": [
     {
-      "title": "开源项目: manifest.json",
+      "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with codin",
-      "link": "https://github.com/manifest.json",
+      "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
       ],
-      "likes": 4324,
+      "likes": 2325,
       "date": "2026-07-16"
     },
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -985,9 +988,20 @@
       "date": "2026-07-16"
     },
     {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-sou",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
+      "date": "2026-07-16"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GP",
+      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1201,19 +1215,6 @@
         "美团"
       ],
       "likes": 2650,
-      "date": "2026-07-16"
-    },
-    {
-      "title": "心理咨询师AI预约+回访系统",
-      "author": "@心理小林",
-      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
-      "link": "https://dify.ai/",
-      "tools": [
-        "Dify",
-        "Coze",
-        "微信"
-      ],
-      "likes": 3940,
       "date": "2026-07-16"
     }
   ],
