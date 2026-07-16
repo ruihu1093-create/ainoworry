@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16 05:36:04",
+  "updatedAt": "2026-07-16 08:05:22",
   "news": [
     {
       "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
@@ -865,16 +865,16 @@
       "date": "2026-07-16"
     },
     {
-      "name": "asio",
-      "author": "chriskohlhoff",
-      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "link": "https://github.com/chriskohlhoff/asio",
+      "name": "Vibe-Trading",
+      "author": "HKUDS",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "link": "https://github.com/HKUDS/Vibe-Trading",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-07-16"
@@ -882,12 +882,15 @@
     {
       "name": "hallmark",
       "author": "Nutlope",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "description": "agent multiplexer that lives in your terminal.",
       "link": "https://github.com/Nutlope/hallmark",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
+        {
+          "name": "Agent"
+        },
         {
           "name": "LLM"
         }
@@ -897,7 +900,7 @@
     {
       "name": "bun",
       "author": "oven-sh",
-      "description": "agent multiplexer that lives in your terminal.",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
       "link": "https://github.com/oven-sh/bun",
       "stars": 0,
       "trend": 50,
@@ -912,23 +915,8 @@
     {
       "name": "autofix-ci",
       "author": "apps",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
-      "link": "https://github.com/apps/autofix-ci",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-16"
-    },
-    {
-      "name": "archify",
-      "author": "tt-a1i",
       "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
-      "link": "https://github.com/tt-a1i/archify",
+      "link": "https://github.com/apps/autofix-ci",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -953,6 +941,21 @@
       "tags": [
         {
           "name": "LLM"
+        }
+      ],
+      "date": "2026-07-16"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-07-16"
@@ -982,14 +985,14 @@
       "date": "2026-07-16"
     },
     {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "link": "https://github.com/events",
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GP",
+      "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 2526,
+      "likes": 7510,
       "date": "2026-07-16"
     },
     {
