@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-17 21:48:06",
+  "updatedAt": "2026-07-17 22:43:59",
   "news": [
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Agility Robotics plants its flag in Tesla’s backyard",
       "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
@@ -68,15 +77,6 @@
       "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
       "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
       "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google’s AI Mode now lets you link and interact with select apps",
-      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
       "source": "TechCrunch-AI",
       "date": "2026-07-16",
       "tag": "trend",
