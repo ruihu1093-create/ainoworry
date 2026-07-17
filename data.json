@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17 08:02:36",
+  "updatedAt": "2026-07-17 10:42:32",
   "news": [
     {
       "title": "Google Vids now lets you star in your own AI videos",
@@ -92,6 +92,24 @@
       "tagText": "资讯"
     },
     {
+      "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+      "summary": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are ov",
+      "link": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+      "source": "Wired-AI",
+      "date": "2026-07-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
+      "summary": "The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic thin",
+      "link": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
+      "source": "Wired-AI",
+      "date": "2026-07-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
       "summary": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the compan",
       "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
@@ -140,24 +158,6 @@
       "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
       "summary": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technolog",
       "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
-      "source": "Wired-AI",
-      "date": "2026-07-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
-      "summary": "Companies’ increasing reliance on AI chatbots isn’t making the customer service experience smarter. It’s just making it more infuriating.",
-      "link": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/",
-      "source": "Wired-AI",
-      "date": "2026-07-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
-      "summary": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Br",
-      "link": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
       "source": "Wired-AI",
       "date": "2026-07-15",
       "tag": "trend",
@@ -840,8 +840,23 @@
     {
       "name": "orca",
       "author": "stablyai",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "link": "https://github.com/stablyai/orca",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-17"
+    },
+    {
+      "name": "bun",
+      "author": "oven-sh",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "link": "https://github.com/oven-sh/bun",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -853,10 +868,10 @@
       "date": "2026-07-17"
     },
     {
-      "name": "bun",
-      "author": "oven-sh",
+      "name": "autofix-ci",
+      "author": "apps",
       "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
-      "link": "https://github.com/oven-sh/bun",
+      "link": "https://github.com/apps/autofix-ci",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -871,10 +886,25 @@
       "date": "2026-07-17"
     },
     {
-      "name": "OpenCut-app",
-      "author": "sponsors",
+      "name": "OpenCut",
+      "author": "OpenCut-app",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "link": "https://github.com/sponsors/OpenCut-app",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-17"
+    },
+    {
+      "name": "ai-job-search",
+      "author": "MadsLorentzen",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -932,36 +962,6 @@
         }
       ],
       "date": "2026-07-17"
-    },
-    {
-      "name": "codex-plugin-cc",
-      "author": "openai",
-      "description": "Action for checking out a repo",
-      "link": "https://github.com/openai/codex-plugin-cc",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-17"
-    },
-    {
-      "name": "diegosouzapw",
-      "author": "sponsors",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "link": "https://github.com/sponsors/diegosouzapw",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-17"
     }
   ],
   "agents": [
@@ -990,7 +990,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-sou",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1001,7 +1001,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-sou",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
