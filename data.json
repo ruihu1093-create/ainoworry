@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-17 10:42:32",
+  "updatedAt": "2026-07-17 12:05:31",
   "news": [
+    {
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google Vids now lets you star in your own AI videos",
       "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered ",
@@ -77,15 +86,6 @@
       "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
       "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
       "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
       "source": "TechCrunch-AI",
       "date": "2026-07-16",
       "tag": "trend",
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "8点1氪丨长鑫科技网上发行初步中签率为0.40995452%；特朗普头像将被印上硬币，面值1美元；多家NFC鲜榨果汁生产车间被曝无水果",
-      "content": "今日热点导览\n  SpaceX市值蒸发近8500亿美元\n  韩国将暂停新的单一股票杠杆ETF上市，以抑制市场波动\n  泡泡玛特创始人王宁带队探访苹果总部\n  亚马逊Leo与南非企业达成协议，预计明年启动卫星互联网服务\n  日本拟采购2.75万颗英伟达Rubin芯片，打造本",
-      "link": "https://36kr.com/p/3898973942007684?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-07-17"
-    },
-    {
       "title": "Bath & Body Works launches in Brazil",
       "content": "The retailer debuted its first store in the country&nbsp;in&nbsp;S&atilde;o Paulo as international growth remains a driving force for its transformation strategy.&nbsp;",
       "link": "https://www.retaildive.com/news/bath-body-works-launches-brazil-international-expansion/825238/",
@@ -777,23 +768,8 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "link": "https://github.com/sponsors/explore",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-17"
-    },
-    {
-      "name": "wonderwhy-er",
-      "author": "sponsors",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "link": "https://github.com/sponsors/wonderwhy-er",
+      "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -805,24 +781,9 @@
       "date": "2026-07-17"
     },
     {
-      "name": "DesktopCommanderMCP",
-      "author": "wonderwhy-er",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-17"
-    },
-    {
       "name": "hallmark",
       "author": "Nutlope",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "link": "https://github.com/Nutlope/hallmark",
       "stars": 0,
       "trend": 50,
@@ -838,25 +799,10 @@
       "date": "2026-07-17"
     },
     {
-      "name": "orca",
-      "author": "stablyai",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "link": "https://github.com/stablyai/orca",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-17"
-    },
-    {
-      "name": "bun",
-      "author": "oven-sh",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "link": "https://github.com/oven-sh/bun",
+      "name": "abseil-cpp",
+      "author": "abseil",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "link": "https://github.com/abseil/abseil-cpp",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -868,10 +814,25 @@
       "date": "2026-07-17"
     },
     {
-      "name": "autofix-ci",
-      "author": "apps",
+      "name": "wonderwhy-er",
+      "author": "sponsors",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "link": "https://github.com/sponsors/wonderwhy-er",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-17"
+    },
+    {
+      "name": "DesktopCommanderMCP",
+      "author": "wonderwhy-er",
       "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
-      "link": "https://github.com/apps/autofix-ci",
+      "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -888,59 +849,29 @@
     {
       "name": "OpenCut",
       "author": "OpenCut-app",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "link": "https://github.com/OpenCut-app/OpenCut",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-17"
-    },
-    {
-      "name": "ai-job-search",
-      "author": "MadsLorentzen",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-17"
-    },
-    {
-      "name": "OfficeCLI",
-      "author": "iOfficeAI",
-      "description": "The design language that makes your AI harness better at design.",
-      "link": "https://github.com/iOfficeAI/OfficeCLI",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-07-17"
-    },
-    {
-      "name": "github-copilot-cli",
-      "author": "apps",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
-      "link": "https://github.com/apps/github-copilot-cli",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
           "name": "Agent"
+        }
+      ],
+      "date": "2026-07-17"
+    },
+    {
+      "name": "orca",
+      "author": "stablyai",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "link": "https://github.com/stablyai/orca",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-07-17"
@@ -948,17 +879,74 @@
     {
       "name": "awesome-llm-apps",
       "author": "Shubhamsaboo",
-      "description": "agent multiplexer that lives in your terminal.",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
-        },
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-07-17"
+    },
+    {
+      "name": "bun",
+      "author": "oven-sh",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "link": "https://github.com/oven-sh/bun",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-17"
+    },
+    {
+      "name": "autofix-ci",
+      "author": "apps",
+      "description": "The design language that makes your AI harness better at design.",
+      "link": "https://github.com/apps/autofix-ci",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
         {
           "name": "LLM"
+        }
+      ],
+      "date": "2026-07-17"
+    },
+    {
+      "name": "OfficeCLI",
+      "author": "iOfficeAI",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "link": "https://github.com/iOfficeAI/OfficeCLI",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-17"
+    },
+    {
+      "name": "github-copilot-cli",
+      "author": "apps",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "link": "https://github.com/apps/github-copilot-cli",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-07-17"
@@ -968,7 +956,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with codin",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -990,23 +978,12 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-sou",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-07-17"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-sou",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-07-17"
     },
     {
@@ -1215,6 +1192,19 @@
         "美团"
       ],
       "likes": 2650,
+      "date": "2026-07-17"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
       "date": "2026-07-17"
     }
   ],
