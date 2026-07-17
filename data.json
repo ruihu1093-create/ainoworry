@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-07-17 16:11:23",
+  "updatedAt": "2026-07-17 18:01:19",
   "news": [
+    {
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pa",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
       "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without p",
       "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+      "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pa",
+      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
       "source": "TechCrunch-AI",
       "date": "2026-07-17",
       "tag": "trend",
@@ -68,24 +86,6 @@
       "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
       "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the developm",
       "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-      "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
-      "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
-      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
       "source": "TechCrunch-AI",
       "date": "2026-07-16",
       "tag": "trend",
