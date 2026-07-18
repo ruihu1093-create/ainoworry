@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18 07:42:05",
+  "updatedAt": "2026-07-18 09:19:55",
   "news": [
     {
       "title": "Neil Rimer thinks the AI money is coming back out",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+      "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+      "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+      "source": "Wired-AI",
+      "date": "2026-07-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
       "summary": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are ov",
       "link": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
@@ -149,15 +158,6 @@
       "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
       "summary": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technolog",
       "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
-      "source": "Wired-AI",
-      "date": "2026-07-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
-      "summary": "Companies’ increasing reliance on AI chatbots isn’t making the customer service experience smarter. It’s just making it more infuriating.",
-      "link": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/",
       "source": "Wired-AI",
       "date": "2026-07-15",
       "tag": "trend",
