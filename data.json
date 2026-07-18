@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18 09:19:55",
+  "updatedAt": "2026-07-18 10:58:45",
   "news": [
     {
       "title": "Neil Rimer thinks the AI money is coming back out",
@@ -83,6 +83,24 @@
       "tagText": "资讯"
     },
     {
+      "title": "Your Period Tracker Is (Probably) Spying on You",
+      "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s sc",
+      "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+      "source": "Wired-AI",
+      "date": "2026-07-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+      "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
+      "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "source": "Wired-AI",
+      "date": "2026-07-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
       "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
       "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
@@ -140,24 +158,6 @@
       "title": "AI Isn’t Smarter Than a Baby—Yet",
       "summary": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.",
       "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
-      "source": "Wired-AI",
-      "date": "2026-07-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Thinking Machines Lab Drops Its First Model",
-      "summary": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among ",
-      "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
-      "source": "Wired-AI",
-      "date": "2026-07-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
-      "summary": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technolog",
-      "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
       "source": "Wired-AI",
       "date": "2026-07-15",
       "tag": "trend",
@@ -783,7 +783,7 @@
     {
       "name": "hallmark",
       "author": "Nutlope",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
       "link": "https://github.com/Nutlope/hallmark",
       "stars": 0,
       "trend": 50,
@@ -794,51 +794,6 @@
         },
         {
           "name": "LLM"
-        }
-      ],
-      "date": "2026-07-18"
-    },
-    {
-      "name": "abseil-cpp",
-      "author": "abseil",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "link": "https://github.com/abseil/abseil-cpp",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-18"
-    },
-    {
-      "name": "wonderwhy-er",
-      "author": "sponsors",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "link": "https://github.com/sponsors/wonderwhy-er",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-18"
-    },
-    {
-      "name": "DesktopCommanderMCP",
-      "author": "wonderwhy-er",
-      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
-      "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         },
         {
           "name": "RAG"
@@ -847,10 +802,10 @@
       "date": "2026-07-18"
     },
     {
-      "name": "OpenCut",
-      "author": "OpenCut-app",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "link": "https://github.com/OpenCut-app/OpenCut",
+      "name": "OpenCut-app",
+      "author": "sponsors",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "link": "https://github.com/sponsors/OpenCut-app",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -862,10 +817,10 @@
       "date": "2026-07-18"
     },
     {
-      "name": "orca",
-      "author": "stablyai",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "link": "https://github.com/stablyai/orca",
+      "name": "OpenCut",
+      "author": "OpenCut-app",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "link": "https://github.com/OpenCut-app/OpenCut",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -879,44 +834,47 @@
     {
       "name": "awesome-llm-apps",
       "author": "Shubhamsaboo",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
+          "name": "Agent"
+        },
+        {
           "name": "LLM"
         }
       ],
       "date": "2026-07-18"
     },
     {
-      "name": "bun",
-      "author": "oven-sh",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "link": "https://github.com/oven-sh/bun",
+      "name": "Vibe-Trading",
+      "author": "HKUDS",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "link": "https://github.com/HKUDS/Vibe-Trading",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-07-18"
     },
     {
-      "name": "autofix-ci",
-      "author": "apps",
-      "description": "The design language that makes your AI harness better at design.",
-      "link": "https://github.com/apps/autofix-ci",
+      "name": "DeepTutor",
+      "author": "HKUDS",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "link": "https://github.com/HKUDS/DeepTutor",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "Agent"
         }
       ],
       "date": "2026-07-18"
@@ -924,7 +882,7 @@
     {
       "name": "OfficeCLI",
       "author": "iOfficeAI",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "description": "Lightweight coding agent that runs in your terminal",
       "link": "https://github.com/iOfficeAI/OfficeCLI",
       "stars": 0,
       "trend": 50,
@@ -939,8 +897,53 @@
     {
       "name": "github-copilot-cli",
       "author": "apps",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "description": "A coding agent for open models like Kimi K3",
       "link": "https://github.com/apps/github-copilot-cli",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-18"
+    },
+    {
+      "name": "skills",
+      "author": "mattpocock",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "link": "https://github.com/mattpocock/skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-18"
+    },
+    {
+      "name": "cangjie-skill",
+      "author": "kangarooking",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "link": "https://github.com/kangarooking/cangjie-skill",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Vision"
+        }
+      ],
+      "date": "2026-07-18"
+    },
+    {
+      "name": "codex",
+      "author": "openai",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/openai/codex",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -965,9 +968,20 @@
       "date": "2026-07-18"
     },
     {
+      "title": "开源项目: explore",
+      "author": "@anonymous",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-sou",
+      "link": "https://github.com/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 3045,
+      "date": "2026-07-18"
+    },
+    {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -978,12 +992,23 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-sou",
+      "description": "Lightweight coding agent that runs in your terminal",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
       "likes": 2526,
+      "date": "2026-07-18"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "A coding agent for open models like Kimi K3",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-07-18"
     },
     {
@@ -1179,32 +1204,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-07-18"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
-      "date": "2026-07-18"
-    },
-    {
-      "title": "心理咨询师AI预约+回访系统",
-      "author": "@心理小林",
-      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
-      "link": "https://dify.ai/",
-      "tools": [
-        "Dify",
-        "Coze",
-        "微信"
-      ],
-      "likes": 3940,
       "date": "2026-07-18"
     }
   ],
