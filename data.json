@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-18 17:53:09",
+  "updatedAt": "2026-07-18 18:57:06",
   "news": [
+    {
+      "title": "Kimi: Threat or menace?",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Neil Rimer thinks the AI money is coming back out",
       "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redi",
@@ -68,15 +77,6 @@
       "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
       "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pa",
       "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
       "source": "TechCrunch-AI",
       "date": "2026-07-17",
       "tag": "trend",
