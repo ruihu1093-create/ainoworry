@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-19 19:00:03",
+  "updatedAt": "2026-07-19 20:09:31",
   "news": [
+    {
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
       "summary": "\"Everybody knows the Greeks are inside.\"",
@@ -68,15 +77,6 @@
       "title": "AI-driven memory crunch jolts India’s smartphone market",
       "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
       "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pa",
-      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
       "source": "TechCrunch-AI",
       "date": "2026-07-17",
       "tag": "trend",
