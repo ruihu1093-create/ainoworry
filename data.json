@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19 10:23:28",
+  "updatedAt": "2026-07-19 11:53:27",
   "news": [
     {
       "title": "Kimi: Threat or menace?",
@@ -834,7 +834,7 @@
     {
       "name": "awesome-llm-apps",
       "author": "Shubhamsaboo",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "stars": 0,
       "trend": 50,
@@ -852,7 +852,7 @@
     {
       "name": "Vibe-Trading",
       "author": "HKUDS",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
       "link": "https://github.com/HKUDS/Vibe-Trading",
       "stars": 0,
       "trend": 50,
@@ -867,7 +867,7 @@
     {
       "name": "DeepTutor",
       "author": "HKUDS",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "link": "https://github.com/HKUDS/DeepTutor",
       "stars": 0,
       "trend": 50,
@@ -880,25 +880,10 @@
       "date": "2026-07-19"
     },
     {
-      "name": "OfficeCLI",
-      "author": "iOfficeAI",
+      "name": "mattpocock",
+      "author": "sponsors",
       "description": "Lightweight coding agent that runs in your terminal",
-      "link": "https://github.com/iOfficeAI/OfficeCLI",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-19"
-    },
-    {
-      "name": "github-copilot-cli",
-      "author": "apps",
-      "description": "A coding agent for open models like Kimi K3",
-      "link": "https://github.com/apps/github-copilot-cli",
+      "link": "https://github.com/sponsors/mattpocock",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -912,7 +897,7 @@
     {
       "name": "skills",
       "author": "mattpocock",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "A coding agent for open models like Kimi K3",
       "link": "https://github.com/mattpocock/skills",
       "stars": 0,
       "trend": 50,
@@ -925,25 +910,43 @@
       "date": "2026-07-19"
     },
     {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-19"
+    },
+    {
       "name": "cangjie-skill",
       "author": "kangarooking",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "link": "https://github.com/kangarooking/cangjie-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Vision"
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
         }
       ],
       "date": "2026-07-19"
     },
     {
-      "name": "codex",
-      "author": "openai",
+      "name": "OfficeCLI",
+      "author": "iOfficeAI",
       "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/openai/codex",
+      "link": "https://github.com/iOfficeAI/OfficeCLI",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -970,7 +973,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-sou",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -981,7 +984,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
