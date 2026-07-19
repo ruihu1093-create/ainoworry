@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-19 13:07:45",
+  "updatedAt": "2026-07-19 14:51:05",
   "news": [
+    {
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Kimi: Threat or menace?",
       "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
@@ -68,15 +77,6 @@
       "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
       "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without p",
       "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
-      "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pa",
-      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
       "source": "TechCrunch-AI",
       "date": "2026-07-17",
       "tag": "trend",
