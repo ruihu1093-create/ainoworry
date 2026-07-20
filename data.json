@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-20 17:56:42",
+  "updatedAt": "2026-07-20 19:42:54",
   "news": [
+    {
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "summary": "X says the rebuilt version of its Android app is now available globally.",
+      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "YouTube clarifies policies around AI slop and upsetting videos",
       "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
@@ -52,24 +79,6 @@
       "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
       "source": "TechCrunch-AI",
       "date": "2026-07-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
-      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-17",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "AI Isn’t Smarter Than a Baby—Yet",
       "summary": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.",
       "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
-      "source": "Wired-AI",
-      "date": "2026-07-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Thinking Machines Lab Drops Its First Model",
-      "summary": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among ",
-      "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
       "source": "Wired-AI",
       "date": "2026-07-15",
       "tag": "trend",
