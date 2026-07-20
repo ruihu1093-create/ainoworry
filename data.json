@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20 09:55:50",
+  "updatedAt": "2026-07-20 12:14:19",
   "news": [
     {
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
@@ -831,23 +831,8 @@
     {
       "name": "OpenCut-app",
       "author": "sponsors",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "link": "https://github.com/sponsors/OpenCut-app",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-20"
-    },
-    {
-      "name": "OpenCut",
-      "author": "OpenCut-app",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "link": "https://github.com/OpenCut-app/OpenCut",
+      "link": "https://github.com/sponsors/OpenCut-app",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -859,19 +844,61 @@
       "date": "2026-07-20"
     },
     {
-      "name": "awesome-llm-apps",
-      "author": "Shubhamsaboo",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "name": "OpenCut",
+      "author": "OpenCut-app",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "link": "https://github.com/OpenCut-app/OpenCut",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        },
+        }
+      ],
+      "date": "2026-07-20"
+    },
+    {
+      "name": "awesome-llm-apps",
+      "author": "Shubhamsaboo",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
         {
           "name": "LLM"
+        }
+      ],
+      "date": "2026-07-20"
+    },
+    {
+      "name": "DeepTutor",
+      "author": "HKUDS",
+      "description": "Skills for Design Engineers",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-20"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-07-20"
@@ -892,25 +919,25 @@
       "date": "2026-07-20"
     },
     {
-      "name": "DeepTutor",
-      "author": "HKUDS",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "link": "https://github.com/HKUDS/DeepTutor",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-20"
-    },
-    {
-      "name": "mattpocock",
+      "name": "tirth8205",
       "author": "sponsors",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "link": "https://github.com/sponsors/tirth8205",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-20"
+    },
+    {
+      "name": "code-review-graph",
+      "author": "tirth8205",
       "description": "Lightweight coding agent that runs in your terminal",
-      "link": "https://github.com/sponsors/mattpocock",
+      "link": "https://github.com/tirth8205/code-review-graph",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -922,64 +949,31 @@
       "date": "2026-07-20"
     },
     {
-      "name": "skills",
-      "author": "mattpocock",
+      "name": "ibelick",
+      "author": "sponsors",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "link": "https://github.com/sponsors/ibelick",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-20"
+    },
+    {
+      "name": "ui-skills",
+      "author": "ibelick",
       "description": "A coding agent for open models like Kimi K3",
-      "link": "https://github.com/mattpocock/skills",
+      "link": "https://github.com/ibelick/ui-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        }
-      ],
-      "date": "2026-07-20"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-20"
-    },
-    {
-      "name": "cangjie-skill",
-      "author": "kangarooking",
-      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "link": "https://github.com/kangarooking/cangjie-skill",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-20"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "LLM"
         }
       ],
       "date": "2026-07-20"
@@ -1000,7 +994,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmar",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -1009,20 +1003,20 @@
       "date": "2026-07-20"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: collections",
       "author": "@anonymous",
       "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
-      "link": "https://github.com/topics",
+      "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
+      "likes": 2046,
       "date": "2026-07-20"
     },
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Lightweight coding agent that runs in your terminal",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-sou",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1033,7 +1027,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "A coding agent for open models like Kimi K3",
+      "description": "Lightweight coding agent that runs in your terminal",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
