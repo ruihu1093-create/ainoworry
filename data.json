@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20 06:13:09",
+  "updatedAt": "2026-07-20 09:55:50",
   "news": [
     {
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
@@ -620,6 +620,33 @@
   ],
   "ecommerce": [
     {
+      "title": "From season to sentiment: How the pace of consumer trends reshapes retail planning",
+      "content": "Consumer trends are more complex than seasons. Here&#39;s how retailers are tracking them.",
+      "link": "https://www.retaildive.com/spons/from-season-to-sentiment-how-the-pace-of-consumer-trends-reshapes-retail-p/824796/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Global coverage and effectiveness: Why CPG sales leaders own retailer success, direct or indirect",
+      "content": "The CPG brands winning in retail aren&#39;t covering more accounts &mdash; they&#39;re covering smarter.",
+      "link": "https://www.retaildive.com/spons/global-coverage-and-effectiveness-why-cpg-sales-leaders-own-retailer-succe/825356/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "AI is creating ecommerce’s next optimization challenge: The intent gap",
+      "content": "AI is changing how shoppers arrive. Is your checkout keeping up?",
+      "link": "https://www.retaildive.com/spons/ai-is-creating-ecommerces-next-optimization-challenge-the-intent-gap/825381/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-07-20"
+    },
+    {
       "title": "Gap sticks with ‘90s nostalgia, denim for Hailey Bieber capsule campaign",
       "content": "The launch builds on the retailer&rsquo;s recent success with advertising that brings together fashion, music and culture.",
       "link": "https://www.retaildive.com/news/gap-hailey-bieber-capsule-campaign-90s-nostalgia-denim/825516/",
@@ -927,8 +954,23 @@
     {
       "name": "cangjie-skill",
       "author": "kangarooking",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
       "link": "https://github.com/kangarooking/cangjie-skill",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-20"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -938,21 +980,6 @@
         },
         {
           "name": "LLM"
-        }
-      ],
-      "date": "2026-07-20"
-    },
-    {
-      "name": "OfficeCLI",
-      "author": "iOfficeAI",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/iOfficeAI/OfficeCLI",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
         }
       ],
       "date": "2026-07-20"
