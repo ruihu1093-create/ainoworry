@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-20 19:42:54",
+  "updatedAt": "2026-07-20 21:07:31",
   "news": [
+    {
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "summary": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sou",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "X relaunches a rebuilt Android app after year-long effort",
       "summary": "X says the rebuilt version of its Android app is now available globally.",
@@ -68,15 +77,6 @@
       "title": "Kimi: Threat or menace?",
       "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
       "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redi",
-      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
       "source": "TechCrunch-AI",
       "date": "2026-07-18",
       "tag": "trend",
@@ -837,7 +837,7 @@
     {
       "name": "OpenCut",
       "author": "OpenCut-app",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "link": "https://github.com/OpenCut-app/OpenCut",
       "stars": 0,
       "trend": 50,
@@ -852,12 +852,15 @@
     {
       "name": "awesome-llm-apps",
       "author": "Shubhamsaboo",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
+        {
+          "name": "Agent"
+        },
         {
           "name": "LLM"
         }
@@ -867,7 +870,7 @@
     {
       "name": "DeepTutor",
       "author": "HKUDS",
-      "description": "Skills for Design Engineers",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "link": "https://github.com/HKUDS/DeepTutor",
       "stars": 0,
       "trend": 50,
@@ -880,10 +883,40 @@
       "date": "2026-07-20"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
+      "name": "Dicklesworthstone",
+      "author": "sponsors",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/sponsors/Dicklesworthstone",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-20"
+    },
+    {
+      "name": "destructive_command_guard",
+      "author": "Dicklesworthstone",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "link": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-20"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -897,7 +930,7 @@
     {
       "name": "Vibe-Trading",
       "author": "HKUDS",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "description": "Lightweight coding agent that runs in your terminal",
       "link": "https://github.com/HKUDS/Vibe-Trading",
       "stars": 0,
       "trend": 50,
@@ -912,7 +945,7 @@
     {
       "name": "tirth8205",
       "author": "sponsors",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "description": "Kimi Code CLI is your next CLI agent.",
       "link": "https://github.com/sponsors/tirth8205",
       "stars": 0,
       "trend": 50,
@@ -927,38 +960,8 @@
     {
       "name": "code-review-graph",
       "author": "tirth8205",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "link": "https://github.com/tirth8205/code-review-graph",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-20"
-    },
-    {
-      "name": "ibelick",
-      "author": "sponsors",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "link": "https://github.com/sponsors/ibelick",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-20"
-    },
-    {
-      "name": "ui-skills",
-      "author": "ibelick",
       "description": "A coding agent for open models like Kimi K3",
-      "link": "https://github.com/ibelick/ui-skills",
+      "link": "https://github.com/tirth8205/code-review-graph",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -985,7 +988,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmar",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -994,9 +997,20 @@
       "date": "2026-07-20"
     },
     {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmar",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
+      "date": "2026-07-20"
+    },
+    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1007,7 +1021,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-sou",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1018,7 +1032,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Lightweight coding agent that runs in your terminal",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-sou",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1206,19 +1220,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-07-20"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-07-20"
     }
   ],
