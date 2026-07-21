@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21 22:51:29",
+  "updatedAt": "2026-07-21 23:53:18",
   "news": [
     {
       "title": "OpenAI says Hugging Face was breached by its own pre-release models",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet ",
+      "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "source": "Wired-AI",
+      "date": "2026-07-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
       "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
       "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
@@ -149,15 +158,6 @@
       "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
       "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
       "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
-      "source": "Wired-AI",
-      "date": "2026-07-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-      "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
-      "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
       "source": "Wired-AI",
       "date": "2026-07-18",
       "tag": "trend",
