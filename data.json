@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-21 19:14:04",
+  "updatedAt": "2026-07-21 21:02:58",
   "news": [
+    {
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI and the rise of the universal entertainment app",
+      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it ea",
+      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google releases three new Gemini models — but no 3.5 Pro",
       "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI str",
@@ -50,33 +77,6 @@
       "title": "Trump’s latest AI czar has already resigned",
       "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
       "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
-      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI’s most important protocol is getting a little bit easier to use",
-      "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites a",
-      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "X relaunches a rebuilt Android app after year-long effort",
-      "summary": "X says the rebuilt version of its Android app is now available globally.",
-      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
       "source": "TechCrunch-AI",
       "date": "2026-07-20",
       "tag": "trend",
