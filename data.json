@@ -1,9 +1,18 @@
 {
-  "updatedAt": "2026-07-21 13:38:23",
+  "updatedAt": "2026-07-21 15:39:52",
   "news": [
     {
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
+      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campa",
+      "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
+      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
       "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
       "source": "TechCrunch-AI",
       "date": "2026-07-21",
@@ -11,7 +20,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "Gritt exits stealth with $34 million for robots to build solar plants — then, everything else",
+      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
       "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
       "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
       "source": "TechCrunch-AI",
@@ -83,11 +92,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
-      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
-      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-20",
+      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+      "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrast",
+      "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+      "source": "Wired-AI",
+      "date": "2026-07-21",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
       "summary": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are ov",
       "link": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
-      "source": "Wired-AI",
-      "date": "2026-07-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
-      "summary": "The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic thin",
-      "link": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
       "source": "Wired-AI",
       "date": "2026-07-17",
       "tag": "trend",
@@ -620,9 +620,9 @@
   ],
   "ecommerce": [
     {
-      "title": "From season to sentiment: How the pace of consumer trends reshapes retail planning",
-      "content": "Consumer trends are more complex than seasons. Here&#39;s how retailers are tracking them.",
-      "link": "https://www.retaildive.com/spons/from-season-to-sentiment-how-the-pace-of-consumer-trends-reshapes-retail-p/824796/",
+      "title": "AI is creating ecommerce’s next optimization challenge: The intent gap",
+      "content": "AI is changing how shoppers arrive. Is your checkout keeping up?",
+      "link": "https://www.retaildive.com/spons/ai-is-creating-ecommerces-next-optimization-challenge-the-intent-gap/825381/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
@@ -638,9 +638,9 @@
       "date": "2026-07-20"
     },
     {
-      "title": "AI is creating ecommerce’s next optimization challenge: The intent gap",
-      "content": "AI is changing how shoppers arrive. Is your checkout keeping up?",
-      "link": "https://www.retaildive.com/spons/ai-is-creating-ecommerces-next-optimization-challenge-the-intent-gap/825381/",
+      "title": "From season to sentiment: How the pace of consumer trends reshapes retail planning",
+      "content": "Consumer trends are more complex than seasons. Here&#39;s how retailers are tracking them.",
+      "link": "https://www.retaildive.com/spons/from-season-to-sentiment-how-the-pace-of-consumer-trends-reshapes-retail-p/824796/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
