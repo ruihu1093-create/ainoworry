@@ -1,9 +1,18 @@
 {
-  "updatedAt": "2026-07-21 11:04:07",
+  "updatedAt": "2026-07-21 13:38:23",
   "news": [
     {
-      "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
-      "summary": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.",
+      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
+      "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Gritt exits stealth with $34 million for robots to build solar plants — then, everything else",
+      "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
       "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
       "source": "TechCrunch-AI",
       "date": "2026-07-21",
@@ -83,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech",
+      "summary": "Last month, more than a hundred Stanford students left their own graduation to protest Google’s military contracts and deals with ICE. Two organizers,",
+      "link": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
+      "source": "Wired-AI",
+      "date": "2026-07-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The Army Is Burning Through Its AI Tokens",
       "summary": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
       "link": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
       "source": "Wired-AI",
       "date": "2026-07-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-      "summary": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the compan",
-      "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-      "source": "Wired-AI",
-      "date": "2026-07-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
-      "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may alrea",
-      "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
-      "source": "Wired-AI",
-      "date": "2026-07-16",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -801,20 +801,14 @@
     {
       "name": "hallmark",
       "author": "Nutlope",
-      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "link": "https://github.com/Nutlope/hallmark",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
-        },
-        {
           "name": "LLM"
-        },
-        {
-          "name": "RAG"
         }
       ],
       "date": "2026-07-21"
@@ -822,7 +816,7 @@
     {
       "name": "OpenCut-app",
       "author": "sponsors",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "link": "https://github.com/sponsors/OpenCut-app",
       "stars": 0,
       "trend": 50,
@@ -837,8 +831,56 @@
     {
       "name": "OpenCut",
       "author": "OpenCut-app",
-      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
       "link": "https://github.com/OpenCut-app/OpenCut",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-07-21"
+    },
+    {
+      "name": "DeepTutor",
+      "author": "HKUDS",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-21"
+    },
+    {
+      "name": "tirth8205",
+      "author": "sponsors",
+      "description": "The most intelligent agent harness for code",
+      "link": "https://github.com/sponsors/tirth8205",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-21"
+    },
+    {
+      "name": "code-review-graph",
+      "author": "tirth8205",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "link": "https://github.com/tirth8205/code-review-graph",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -868,40 +910,10 @@
       "date": "2026-07-21"
     },
     {
-      "name": "DeepTutor",
-      "author": "HKUDS",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "link": "https://github.com/HKUDS/DeepTutor",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-21"
-    },
-    {
-      "name": "Dicklesworthstone",
-      "author": "sponsors",
+      "name": "kimi-cli",
+      "author": "MoonshotAI",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/sponsors/Dicklesworthstone",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-21"
-    },
-    {
-      "name": "destructive_command_guard",
-      "author": "Dicklesworthstone",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
-      "link": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "link": "https://github.com/MoonshotAI/kimi-cli",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -928,40 +940,28 @@
       "date": "2026-07-21"
     },
     {
-      "name": "Vibe-Trading",
-      "author": "HKUDS",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "link": "https://github.com/HKUDS/Vibe-Trading",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-21"
-    },
-    {
-      "name": "tirth8205",
+      "name": "ibelick",
       "author": "sponsors",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "link": "https://github.com/sponsors/tirth8205",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "link": "https://github.com/sponsors/ibelick",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
+        },
+        {
+          "name": "LLM"
         }
       ],
       "date": "2026-07-21"
     },
     {
-      "name": "code-review-graph",
-      "author": "tirth8205",
-      "description": "A coding agent for open models like Kimi K3",
-      "link": "https://github.com/tirth8205/code-review-graph",
+      "name": "ui-skills",
+      "author": "ibelick",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "link": "https://github.com/ibelick/ui-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -988,7 +988,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description": "Kimi Code CLI is your next CLI agent.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -997,20 +997,9 @@
       "date": "2026-07-21"
     },
     {
-      "title": "开源项目: topics",
-      "author": "@anonymous",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmar",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 1697,
-      "date": "2026-07-21"
-    },
-    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1021,7 +1010,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1032,7 +1021,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-sou",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1220,6 +1209,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-07-21"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-07-21"
     }
   ],
