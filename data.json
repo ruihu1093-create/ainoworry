@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-21 08:20:56",
+  "updatedAt": "2026-07-21 11:04:07",
   "news": [
+    {
+      "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+      "summary": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.",
+      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
       "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
@@ -74,11 +83,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go p",
-      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-19",
+      "title": "The Army Is Burning Through Its AI Tokens",
+      "summary": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
+      "link": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
+      "source": "Wired-AI",
+      "date": "2026-07-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Etsy Is In Its Flop Era, and Sellers Are Fleeing",
+      "summary": "Once a quirky bastion of amateur vulva jewelry and pet portraits, Etsy is now deluged with mass-produced goods and AI knockoffs. Some customers don’t ",
+      "link": "https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/",
+      "source": "Wired-AI",
+      "date": "2026-07-21",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
       "source": "Wired-AI",
       "date": "2026-07-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Please Stop Making Me Opt Out of AI",
-      "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive feat",
-      "link": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
-      "source": "Wired-AI",
-      "date": "2026-07-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Isn’t Smarter Than a Baby—Yet",
-      "summary": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.",
-      "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
-      "source": "Wired-AI",
-      "date": "2026-07-15",
       "tag": "trend",
       "tagText": "资讯"
     },
