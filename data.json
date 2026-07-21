@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21 17:12:46",
+  "updatedAt": "2026-07-21 19:14:04",
   "news": [
     {
       "title": "Google releases three new Gemini models — but no 3.5 Pro",
@@ -83,11 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
-      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-20",
+      "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+      "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
+      "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+      "source": "Wired-AI",
+      "date": "2026-07-21",
       "tag": "trend",
       "tagText": "资讯"
     },
