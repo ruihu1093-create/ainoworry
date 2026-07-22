@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-22 05:45:05",
+  "updatedAt": "2026-07-22 08:21:24",
   "news": [
+    {
+      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars ",
+      "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
       "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
@@ -68,15 +77,6 @@
       "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
       "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
       "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
-      "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
-      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
       "source": "TechCrunch-AI",
       "date": "2026-07-21",
       "tag": "trend",
@@ -831,7 +831,7 @@
     {
       "name": "DeepTutor",
       "author": "HKUDS",
-      "description": "Kimi Code CLI is your next CLI agent.",
+      "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
       "link": "https://github.com/HKUDS/DeepTutor",
       "stars": 0,
       "trend": 50,
@@ -844,10 +844,10 @@
       "date": "2026-07-22"
     },
     {
-      "name": "tirth8205",
-      "author": "sponsors",
-      "description": "The most intelligent agent harness for code",
-      "link": "https://github.com/sponsors/tirth8205",
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -861,7 +861,7 @@
     {
       "name": "code-review-graph",
       "author": "tirth8205",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "description": "The most intelligent agent harness for code",
       "link": "https://github.com/tirth8205/code-review-graph",
       "stars": 0,
       "trend": 50,
@@ -876,7 +876,7 @@
     {
       "name": "awesome-llm-apps",
       "author": "Shubhamsaboo",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
       "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "stars": 0,
       "trend": 50,
@@ -887,6 +887,21 @@
         },
         {
           "name": "LLM"
+        }
+      ],
+      "date": "2026-07-22"
+    },
+    {
+      "name": "kimi-code",
+      "author": "MoonshotAI",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "link": "https://github.com/MoonshotAI/kimi-code",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-07-22"
@@ -938,21 +953,6 @@
         }
       ],
       "date": "2026-07-22"
-    },
-    {
-      "name": "ui-skills",
-      "author": "ibelick",
-      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "link": "https://github.com/ibelick/ui-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-22"
     }
   ],
   "agents": [
@@ -970,7 +970,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Kimi Code CLI is your next CLI agent.",
+      "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -979,9 +979,20 @@
       "date": "2026-07-22"
     },
     {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
+      "date": "2026-07-22"
+    },
+    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "description": "The most intelligent agent harness for code",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -992,7 +1003,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1003,7 +1014,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1191,19 +1202,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-07-22"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-07-22"
     }
   ],
