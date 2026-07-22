@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-22 17:12:30",
+  "updatedAt": "2026-07-22 19:08:22",
   "news": [
+    {
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators",
+      "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI ",
+      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
       "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch",
@@ -23,6 +50,15 @@
       "title": "OpenAI’s AI spending spree has ballooned to $750B",
       "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
       "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+      "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the ",
+      "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
       "source": "TechCrunch-AI",
       "date": "2026-07-22",
       "tag": "trend",
@@ -56,38 +92,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars ",
-      "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-      "source": "TechCrunch-AI",
+      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+      "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, acc",
+      "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+      "source": "Wired-AI",
       "date": "2026-07-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
-      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta is testing an AI bedtime story app for people with no imagination",
-      "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
-      "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-21",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/",
       "source": "Wired-AI",
       "date": "2026-07-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Your Period Tracker Is (Probably) Spying on You",
-      "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s sc",
-      "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
-      "source": "Wired-AI",
-      "date": "2026-07-18",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,15 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-      "content": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
-      "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-07-22"
-    },
     {
       "title": "氪星晚报 ｜苹果iPhone18系列已量产；小红书回应IPO传闻：相关信息均不属实；明治将在华牛奶业务转让给澳亚集团",
       "content": "大公司：\n  小马智行与京东养车达成战略合作\n  36氪获悉，7月21日，小马智行与京东养车达成战略合作，双方将围绕自动驾驶车辆维保服务及供应链协同等领域展开深度合作，共同打造面向自动驾驶车队的标准化、规模化运维服务体系。这是自动驾驶公司首次与全国性汽车后市场服务平台建立全面战略合作。\n  <str",
