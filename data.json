@@ -1,9 +1,18 @@
 {
-  "updatedAt": "2026-07-22 21:06:21",
+  "updatedAt": "2026-07-22 22:57:18",
   "news": [
     {
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-      "summary": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distil",
+      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
       "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
       "source": "TechCrunch-AI",
       "date": "2026-07-22",
@@ -77,15 +86,6 @@
       "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
       "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the ",
       "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "source": "TechCrunch-AI",
       "date": "2026-07-22",
       "tag": "trend",
