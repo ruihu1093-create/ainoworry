@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-22 15:30:19",
+  "updatedAt": "2026-07-22 17:12:30",
   "news": [
+    {
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch",
+      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+      "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assis",
+      "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI’s AI spending spree has ballooned to $750B",
+      "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
       "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
@@ -59,24 +86,6 @@
       "title": "OpenAI says Hugging Face was breached by its pre-release models",
       "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
       "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
-      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI and the rise of the universal entertainment app",
-      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it ea",
-      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
       "source": "TechCrunch-AI",
       "date": "2026-07-21",
       "tag": "trend",
@@ -149,15 +158,6 @@
       "title": "Your Period Tracker Is (Probably) Spying on You",
       "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s sc",
       "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
-      "source": "Wired-AI",
-      "date": "2026-07-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
-      "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
-      "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
       "source": "Wired-AI",
       "date": "2026-07-18",
       "tag": "trend",
