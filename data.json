@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-22 11:05:02",
+  "updatedAt": "2026-07-22 13:41:36",
   "news": [
+    {
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+      "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners",
+      "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
       "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars ",
@@ -50,33 +77,6 @@
       "title": "AI and the rise of the universal entertainment app",
       "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it ea",
       "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google releases three new Gemini models — but no 3.5 Pro",
-      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI str",
-      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "US threatens sanctions against Chinese AI models over IP theft",
-      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campa",
-      "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
-      "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
       "source": "TechCrunch-AI",
       "date": "2026-07-21",
       "tag": "trend",
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+      "content": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+      "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-07-22"
+    },
+    {
       "title": "氪星晚报 ｜苹果iPhone18系列已量产；小红书回应IPO传闻：相关信息均不属实；明治将在华牛奶业务转让给澳亚集团",
       "content": "大公司：\n  小马智行与京东养车达成战略合作\n  36氪获悉，7月21日，小马智行与京东养车达成战略合作，双方将围绕自动驾驶车辆维保服务及供应链协同等领域展开深度合作，共同打造面向自动驾驶车队的标准化、规模化运维服务体系。这是自动驾驶公司首次与全国性汽车后市场服务平台建立全面战略合作。\n  <str",
       "link": "https://36kr.com/p/3906606931907971?f=rss",
@@ -790,6 +799,21 @@
       "date": "2026-07-22"
     },
     {
+      "name": "developers",
+      "author": "trending",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "link": "https://github.com/trending/developers",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-22"
+    },
+    {
       "name": "hallmark",
       "author": "Nutlope",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
@@ -805,58 +829,10 @@
       "date": "2026-07-22"
     },
     {
-      "name": "OpenCut-app",
+      "name": "tirth8205",
       "author": "sponsors",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "link": "https://github.com/sponsors/OpenCut-app",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-22"
-    },
-    {
-      "name": "OpenCut",
-      "author": "OpenCut-app",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "link": "https://github.com/OpenCut-app/OpenCut",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "RAG"
-        }
-      ],
-      "date": "2026-07-22"
-    },
-    {
-      "name": "DeepTutor",
-      "author": "HKUDS",
       "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
-      "link": "https://github.com/HKUDS/DeepTutor",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-22"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/sponsors/tirth8205",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -883,9 +859,57 @@
       "date": "2026-07-22"
     },
     {
+      "name": "DeepTutor",
+      "author": "HKUDS",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-07-22"
+    },
+    {
+      "name": "kimi-code",
+      "author": "MoonshotAI",
+      "description": "The open-source CapCut alternative",
+      "link": "https://github.com/MoonshotAI/kimi-code",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-22"
+    },
+    {
+      "name": "jcode",
+      "author": "1jehuang",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "link": "https://github.com/1jehuang/jcode",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-22"
+    },
+    {
       "name": "awesome-llm-apps",
       "author": "Shubhamsaboo",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "description": "Kimi Code CLI is your next CLI agent.",
       "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "stars": 0,
       "trend": 50,
@@ -896,51 +920,6 @@
         },
         {
           "name": "LLM"
-        }
-      ],
-      "date": "2026-07-22"
-    },
-    {
-      "name": "kimi-code",
-      "author": "MoonshotAI",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "link": "https://github.com/MoonshotAI/kimi-code",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-22"
-    },
-    {
-      "name": "kimi-cli",
-      "author": "MoonshotAI",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/MoonshotAI/kimi-cli",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-22"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-07-22"
@@ -962,6 +941,36 @@
         }
       ],
       "date": "2026-07-22"
+    },
+    {
+      "name": "ui-skills",
+      "author": "ibelick",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "link": "https://github.com/ibelick/ui-skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-22"
+    },
+    {
+      "name": "OpenCut-app",
+      "author": "sponsors",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "link": "https://github.com/sponsors/OpenCut-app",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-22"
     }
   ],
   "agents": [
@@ -977,9 +986,20 @@
       "date": "2026-07-22"
     },
     {
+      "title": "开源项目: manifest.json",
+      "author": "@anonymous",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmar",
+      "link": "https://github.com/manifest.json",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 4324,
+      "date": "2026-07-22"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -988,20 +1008,9 @@
       "date": "2026-07-22"
     },
     {
-      "title": "开源项目: topics",
-      "author": "@anonymous",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 1697,
-      "date": "2026-07-22"
-    },
-    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "The most intelligent agent harness for code",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a v",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1012,7 +1021,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "description": "Kimi Code CLI is your next CLI agent.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1023,10 +1032,11 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 7510,
       "date": "2026-07-22"
