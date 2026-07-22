@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-22 02:11:33",
+  "updatedAt": "2026-07-22 05:45:05",
   "news": [
+    {
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meta is testing an AI bedtime story app for people with no imagination",
       "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
@@ -68,15 +77,6 @@
       "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
       "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
       "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
       "source": "TechCrunch-AI",
       "date": "2026-07-21",
       "tag": "trend",
@@ -813,7 +813,7 @@
     {
       "name": "OpenCut",
       "author": "OpenCut-app",
-      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "link": "https://github.com/OpenCut-app/OpenCut",
       "stars": 0,
       "trend": 50,
