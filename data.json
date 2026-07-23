@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23 10:16:32",
+  "updatedAt": "2026-07-23 12:20:50",
   "news": [
     {
       "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
@@ -768,7 +768,7 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
@@ -783,7 +783,7 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
@@ -791,21 +791,6 @@
       "tags": [
         {
           "name": "AI"
-        }
-      ],
-      "date": "2026-07-23"
-    },
-    {
-      "name": "hallmark",
-      "author": "Nutlope",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "link": "https://github.com/Nutlope/hallmark",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
         }
       ],
       "date": "2026-07-23"
@@ -828,23 +813,23 @@
     {
       "name": "code-review-graph",
       "author": "tirth8205",
-      "description": "The most intelligent agent harness for code",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "link": "https://github.com/tirth8205/code-review-graph",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-07-23"
     },
     {
-      "name": "DeepTutor",
-      "author": "HKUDS",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "link": "https://github.com/HKUDS/DeepTutor",
+      "name": "hallmark",
+      "author": "Nutlope",
+      "description": "The most intelligent agent harness for code",
+      "link": "https://github.com/Nutlope/hallmark",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -853,7 +838,7 @@
           "name": "Agent"
         },
         {
-          "name": "RAG"
+          "name": "LLM"
         }
       ],
       "date": "2026-07-23"
@@ -861,7 +846,7 @@
     {
       "name": "kimi-code",
       "author": "MoonshotAI",
-      "description": "The open-source CapCut alternative",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "link": "https://github.com/MoonshotAI/kimi-code",
       "stars": 0,
       "trend": 50,
@@ -874,10 +859,10 @@
       "date": "2026-07-23"
     },
     {
-      "name": "jcode",
-      "author": "1jehuang",
-      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
-      "link": "https://github.com/1jehuang/jcode",
+      "name": "worldmonitor",
+      "author": "koala73",
+      "description": "Bonsai Demo",
+      "link": "https://github.com/koala73/worldmonitor",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -889,28 +874,55 @@
       "date": "2026-07-23"
     },
     {
-      "name": "awesome-llm-apps",
-      "author": "Shubhamsaboo",
+      "name": "DeepTutor",
+      "author": "HKUDS",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-23"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
       "description": "Kimi Code CLI is your next CLI agent.",
-      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "LLM"
         }
       ],
       "date": "2026-07-23"
     },
     {
-      "name": "ibelick",
-      "author": "sponsors",
+      "name": "Bonsai-demo",
+      "author": "PrismML-Eng",
+      "description": "Web UI for the pi coding agent",
+      "link": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-23"
+    },
+    {
+      "name": "copilot-swe-agent",
+      "author": "apps",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "link": "https://github.com/sponsors/ibelick",
+      "link": "https://github.com/apps/copilot-swe-agent",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -925,31 +937,16 @@
       "date": "2026-07-23"
     },
     {
-      "name": "ui-skills",
-      "author": "ibelick",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "link": "https://github.com/ibelick/ui-skills",
+      "name": "copilot-pull-request-reviewer",
+      "author": "apps",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "link": "https://github.com/apps/copilot-pull-request-reviewer",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "AI"
-        }
-      ],
-      "date": "2026-07-23"
-    },
-    {
-      "name": "OpenCut-app",
-      "author": "sponsors",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/sponsors/OpenCut-app",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-07-23"
@@ -959,7 +956,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmar",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -970,7 +967,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmar",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -979,23 +976,24 @@
       "date": "2026-07-23"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "link": "https://github.com/explore",
+      "description": "Bonsai Demo",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 3045,
+      "likes": 1697,
       "date": "2026-07-23"
     },
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a v",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniM",
       "link": "https://github.com/collections",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
       "likes": 2046,
       "date": "2026-07-23"
@@ -1014,11 +1012,10 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "description": "Web UI for the pi coding agent",
       "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 7510,
       "date": "2026-07-23"
