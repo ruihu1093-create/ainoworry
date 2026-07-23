@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-23 04:11:43",
+  "updatedAt": "2026-07-23 07:29:01",
   "news": [
+    {
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
       "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
@@ -77,15 +86,6 @@
       "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
       "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assis",
       "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI’s AI spending spree has ballooned to $750B",
-      "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
-      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
       "source": "TechCrunch-AI",
       "date": "2026-07-22",
       "tag": "trend",
