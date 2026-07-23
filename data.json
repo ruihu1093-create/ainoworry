@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-23 12:20:50",
+  "updatedAt": "2026-07-23 15:04:53",
   "news": [
+    {
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors ",
+      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it",
+      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
       "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
@@ -68,24 +86,6 @@
       "title": "Monday.com lays off hundreds to focus on AI",
       "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI ",
       "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch",
-      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
-      "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assis",
-      "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
       "source": "TechCrunch-AI",
       "date": "2026-07-22",
       "tag": "trend",
