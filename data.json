@@ -1,9 +1,18 @@
 {
-  "updatedAt": "2026-07-24 22:01:12",
+  "updatedAt": "2026-07-24 23:59:30",
   "news": [
     {
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acq",
+      "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI as",
       "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
       "source": "TechCrunch-AI",
       "date": "2026-07-24",
@@ -83,16 +92,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+      "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
       "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on A",
       "link": "https://www.wired.com/story/uncanny-valley-podcast/",
       "source": "Wired-AI",
