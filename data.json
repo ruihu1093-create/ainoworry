@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-24 12:23:44",
+  "updatedAt": "2026-07-24 14:51:17",
   "news": [
+    {
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
       "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthro",
@@ -68,15 +77,6 @@
       "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors ",
       "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it",
       "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google’s Gemini nears billion-user milestone",
-      "summary": "Gemini had over 750 million monthly users in February.",
-      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
       "source": "TechCrunch-AI",
       "date": "2026-07-23",
       "tag": "trend",
