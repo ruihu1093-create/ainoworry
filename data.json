@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-24 16:32:52",
+  "updatedAt": "2026-07-24 18:15:26",
   "news": [
+    {
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acq",
+      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic launches Opus 5",
+      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
       "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to ",
@@ -23,6 +41,15 @@
       "title": "Midjourney acquired the astrology app Co-Star",
       "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
       "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+      "summary": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do wi",
+      "link": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
       "source": "TechCrunch-AI",
       "date": "2026-07-24",
       "tag": "trend",
@@ -65,29 +92,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most ela",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Runway launches AI model router as generative media gets crowded",
-      "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prio",
-      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI makes ChatGPT Health available to all US users",
-      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-23",
+      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+      "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on A",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast/",
+      "source": "Wired-AI",
+      "date": "2026-07-24",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
       "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet ",
       "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-      "source": "Wired-AI",
-      "date": "2026-07-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
-      "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
-      "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
       "source": "Wired-AI",
       "date": "2026-07-21",
       "tag": "trend",
