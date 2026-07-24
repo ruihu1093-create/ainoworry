@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24 08:19:26",
+  "updatedAt": "2026-07-24 10:59:48",
   "news": [
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Some Kids Will Never Think AI Is Cool",
+      "summary": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
+      "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
+      "source": "Wired-AI",
+      "date": "2026-07-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
       "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
       "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
@@ -149,15 +158,6 @@
       "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
       "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrast",
       "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
-      "source": "Wired-AI",
-      "date": "2026-07-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech",
-      "summary": "Last month, more than a hundred Stanford students left their own graduation to protest Google’s military contracts and deals with ICE. Two organizers,",
-      "link": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
       "source": "Wired-AI",
       "date": "2026-07-21",
       "tag": "trend",
@@ -768,14 +768,14 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-07-24"
@@ -783,7 +783,7 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
@@ -796,9 +796,39 @@
       "date": "2026-07-24"
     },
     {
+      "name": "ai-agent-book",
+      "author": "bojieli",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "link": "https://github.com/bojieli/ai-agent-book",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-24"
+    },
+    {
+      "name": "worldmonitor",
+      "author": "koala73",
+      "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
+      "link": "https://github.com/koala73/worldmonitor",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-24"
+    },
+    {
       "name": "tirth8205",
       "author": "sponsors",
-      "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
+      "description": "The most intelligent agent harness for code",
       "link": "https://github.com/sponsors/tirth8205",
       "stars": 0,
       "trend": 50,
@@ -813,7 +843,7 @@
     {
       "name": "code-review-graph",
       "author": "tirth8205",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "link": "https://github.com/tirth8205/code-review-graph",
       "stars": 0,
       "trend": 50,
@@ -826,10 +856,55 @@
       "date": "2026-07-24"
     },
     {
-      "name": "hallmark",
-      "author": "Nutlope",
-      "description": "The most intelligent agent harness for code",
-      "link": "https://github.com/Nutlope/hallmark",
+      "name": "kimi-code",
+      "author": "MoonshotAI",
+      "description": "Web UI for the pi coding agent",
+      "link": "https://github.com/MoonshotAI/kimi-code",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-24"
+    },
+    {
+      "name": "jcode",
+      "author": "1jehuang",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "link": "https://github.com/1jehuang/jcode",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-24"
+    },
+    {
+      "name": "diegosouzapw",
+      "author": "sponsors",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "link": "https://github.com/sponsors/diegosouzapw",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-24"
+    },
+    {
+      "name": "OmniRoute",
+      "author": "diegosouzapw",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "link": "https://github.com/diegosouzapw/OmniRoute",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -844,25 +919,10 @@
       "date": "2026-07-24"
     },
     {
-      "name": "kimi-code",
-      "author": "MoonshotAI",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "link": "https://github.com/MoonshotAI/kimi-code",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-24"
-    },
-    {
-      "name": "worldmonitor",
-      "author": "koala73",
-      "description": "Bonsai Demo",
-      "link": "https://github.com/koala73/worldmonitor",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Learn it. Build it. Ship it for others.",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -876,71 +936,8 @@
     {
       "name": "DeepTutor",
       "author": "HKUDS",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description": "Bonsai Demo",
       "link": "https://github.com/HKUDS/DeepTutor",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-24"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-24"
-    },
-    {
-      "name": "Bonsai-demo",
-      "author": "PrismML-Eng",
-      "description": "Web UI for the pi coding agent",
-      "link": "https://github.com/PrismML-Eng/Bonsai-demo",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-24"
-    },
-    {
-      "name": "copilot-swe-agent",
-      "author": "apps",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "link": "https://github.com/apps/copilot-swe-agent",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-07-24"
-    },
-    {
-      "name": "copilot-pull-request-reviewer",
-      "author": "apps",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "link": "https://github.com/apps/copilot-pull-request-reviewer",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -956,7 +953,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmar",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -967,7 +964,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational aw",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -976,9 +973,21 @@
       "date": "2026-07-24"
     },
     {
+      "title": "开源项目: explore",
+      "author": "@anonymous",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniM",
+      "link": "https://github.com/explore",
+      "tools": [
+        "GitHub",
+        "GPT-4"
+      ],
+      "likes": 3045,
+      "date": "2026-07-24"
+    },
+    {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Bonsai Demo",
+      "description": "Web UI for the pi coding agent",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -989,11 +998,10 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniM",
+      "description": "Kimi Code CLI is your next CLI agent.",
       "link": "https://github.com/collections",
       "tools": [
-        "GitHub",
-        "GPT-4"
+        "GitHub"
       ],
       "likes": 2046,
       "date": "2026-07-24"
@@ -1001,23 +1009,13 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Kimi Code CLI is your next CLI agent.",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "link": "https://github.com/events",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 2526,
-      "date": "2026-07-24"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "Web UI for the pi coding agent",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-07-24"
     },
     {
