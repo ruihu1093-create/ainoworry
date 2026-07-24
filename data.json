@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-24 14:51:17",
+  "updatedAt": "2026-07-24 16:32:52",
   "news": [
+    {
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to ",
+      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+      "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Midjourney acquired the astrology app Co-Star",
+      "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+      "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
       "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
@@ -65,20 +92,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to l",
-      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors ",
-      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it",
-      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-23",
+      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+      "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
+      "link": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+      "source": "Wired-AI",
+      "date": "2026-07-24",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -140,24 +158,6 @@
       "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
       "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
       "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
-      "source": "Wired-AI",
-      "date": "2026-07-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
-      "summary": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real u",
-      "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
-      "source": "Wired-AI",
-      "date": "2026-07-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
-      "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrast",
-      "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
       "source": "Wired-AI",
       "date": "2026-07-21",
       "tag": "trend",
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "Ross accelerates brick-and-mortar expansion with nearly 50 new locations",
+      "content": "The discount retailer is on track to open around 110 stores this year.",
+      "link": "https://www.retaildive.com/news/ross-brick-and-mortar-expansion-stores/826085/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-07-24"
+    },
     {
       "title": "Michaels launches AI shopping assistant",
       "content": "The retailer is positioning the Ask Mike tool as a way shoppers can move beyond keyword filtering and receive personalized recommendations.&nbsp;",
