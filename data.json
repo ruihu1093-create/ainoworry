@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-25 11:59:56",
+  "updatedAt": "2026-07-25 13:54:08",
   "news": [
+    {
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
       "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
@@ -77,15 +86,6 @@
       "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
       "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
       "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthro",
-      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
       "source": "TechCrunch-AI",
       "date": "2026-07-24",
       "tag": "trend",
