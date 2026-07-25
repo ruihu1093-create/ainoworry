@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25 10:35:30",
+  "updatedAt": "2026-07-25 11:59:56",
   "news": [
     {
       "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
@@ -822,7 +822,7 @@
     {
       "name": "worldmonitor",
       "author": "koala73",
-      "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
+      "description": "The most intelligent agent harness for code",
       "link": "https://github.com/koala73/worldmonitor",
       "stars": 0,
       "trend": 50,
@@ -837,7 +837,7 @@
     {
       "name": "tirth8205",
       "author": "sponsors",
-      "description": "The most intelligent agent harness for code",
+      "description": "Web UI for the pi coding agent",
       "link": "https://github.com/sponsors/tirth8205",
       "stars": 0,
       "trend": 50,
@@ -865,10 +865,10 @@
       "date": "2026-07-25"
     },
     {
-      "name": "kimi-code",
-      "author": "MoonshotAI",
-      "description": "Web UI for the pi coding agent",
-      "link": "https://github.com/MoonshotAI/kimi-code",
+      "name": "jcode",
+      "author": "1jehuang",
+      "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
+      "link": "https://github.com/1jehuang/jcode",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -880,16 +880,19 @@
       "date": "2026-07-25"
     },
     {
-      "name": "jcode",
-      "author": "1jehuang",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "link": "https://github.com/1jehuang/jcode",
+      "name": "pi-web",
+      "author": "agegr",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "link": "https://github.com/agegr/pi-web",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
         }
       ],
       "date": "2026-07-25"
@@ -910,28 +913,25 @@
       "date": "2026-07-25"
     },
     {
-      "name": "OmniRoute",
-      "author": "diegosouzapw",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "link": "https://github.com/diegosouzapw/OmniRoute",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "LLM"
         }
       ],
       "date": "2026-07-25"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Learn it. Build it. Ship it for others.",
-      "link": "https://github.com/apps/dependabot",
+      "name": "kimi-code",
+      "author": "MoonshotAI",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "link": "https://github.com/MoonshotAI/kimi-code",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -943,10 +943,10 @@
       "date": "2026-07-25"
     },
     {
-      "name": "DeepTutor",
-      "author": "HKUDS",
-      "description": "Bonsai Demo",
-      "link": "https://github.com/HKUDS/DeepTutor",
+      "name": "pi",
+      "author": "earendil-works",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "link": "https://github.com/earendil-works/pi",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -996,7 +996,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Web UI for the pi coding agent",
+      "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -1016,15 +1016,14 @@
       "date": "2026-07-25"
     },
     {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "link": "https://github.com/events",
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
-      "likes": 2526,
+      "likes": 7510,
       "date": "2026-07-25"
     },
     {
