@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25 08:57:49",
+  "updatedAt": "2026-07-25 10:35:30",
   "news": [
     {
       "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+      "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and",
+      "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "source": "Wired-AI",
+      "date": "2026-07-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
       "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on A",
       "link": "https://www.wired.com/story/uncanny-valley-podcast/",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
       "source": "Wired-AI",
       "date": "2026-07-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet ",
-      "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-      "source": "Wired-AI",
-      "date": "2026-07-21",
       "tag": "trend",
       "tagText": "资讯"
     },
