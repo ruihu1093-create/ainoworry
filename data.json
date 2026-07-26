@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-26 19:18:13",
+  "updatedAt": "2026-07-26 20:52:56",
   "news": [
+    {
+      "title": "Making sense of the panic over Chinese AI",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
       "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
@@ -77,15 +86,6 @@
       "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
       "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to ",
       "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-      "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
       "source": "TechCrunch-AI",
       "date": "2026-07-24",
       "tag": "trend",
