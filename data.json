@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26 10:41:10",
+  "updatedAt": "2026-07-26 11:59:27",
   "news": [
     {
       "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
@@ -837,23 +837,8 @@
     {
       "name": "tirth8205",
       "author": "sponsors",
-      "description": "Web UI for the pi coding agent",
-      "link": "https://github.com/sponsors/tirth8205",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-26"
-    },
-    {
-      "name": "code-review-graph",
-      "author": "tirth8205",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "link": "https://github.com/tirth8205/code-review-graph",
+      "link": "https://github.com/sponsors/tirth8205",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -865,10 +850,10 @@
       "date": "2026-07-26"
     },
     {
-      "name": "jcode",
-      "author": "1jehuang",
-      "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
-      "link": "https://github.com/1jehuang/jcode",
+      "name": "code-review-graph",
+      "author": "tirth8205",
+      "description": "Web UI for the pi coding agent",
+      "link": "https://github.com/tirth8205/code-review-graph",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -880,10 +865,10 @@
       "date": "2026-07-26"
     },
     {
-      "name": "pi-web",
-      "author": "agegr",
+      "name": "jcode",
+      "author": "1jehuang",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "link": "https://github.com/agegr/pi-web",
+      "link": "https://github.com/1jehuang/jcode",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -900,7 +885,7 @@
     {
       "name": "diegosouzapw",
       "author": "sponsors",
-      "description": "Kimi Code CLI is your next CLI agent.",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/sponsors/diegosouzapw",
       "stars": 0,
       "trend": 50,
@@ -915,23 +900,8 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "Learn it. Build it. Ship it for others.",
       "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-26"
-    },
-    {
-      "name": "kimi-code",
-      "author": "MoonshotAI",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "link": "https://github.com/MoonshotAI/kimi-code",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -947,6 +917,36 @@
       "author": "earendil-works",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "link": "https://github.com/earendil-works/pi",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-07-26"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-26"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -984,11 +984,10 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniM",
+      "description": "Web UI for the pi coding agent",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub",
-        "GPT-4"
+        "GitHub"
       ],
       "likes": 3045,
       "date": "2026-07-26"
@@ -996,34 +995,13 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 1697,
-      "date": "2026-07-26"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
-      "date": "2026-07-26"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-07-26"
     },
     {
@@ -1206,6 +1184,32 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-07-26"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
+      "date": "2026-07-26"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
       "date": "2026-07-26"
     }
   ],
