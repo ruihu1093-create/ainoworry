@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-27 20:19:02",
+  "updatedAt": "2026-07-27 22:02:15",
   "news": [
+    {
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — wi",
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL v",
+      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
       "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
@@ -61,24 +79,6 @@
       "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
       "source": "TechCrunch-AI",
       "date": "2026-07-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Are brain waves the next unlock for physical AI?",
-      "summary": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
-      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Making sense of the panic over Chinese AI",
-      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-26",
       "tag": "trend",
       "tagText": "资讯"
     },
