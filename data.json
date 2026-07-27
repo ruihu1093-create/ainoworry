@@ -1,9 +1,45 @@
 {
-  "updatedAt": "2026-07-27 13:36:27",
+  "updatedAt": "2026-07-27 16:13:06",
   "news": [
     {
+      "title": "Google’s AI search is rapidly becoming the default, new data shows",
+      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover inform",
+      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026 ",
+      "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion brea",
+      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "summary": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Are brain waves the next unlock for physical AI?",
-      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "summary": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
       "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
       "source": "TechCrunch-AI",
       "date": "2026-07-27",
@@ -43,51 +79,6 @@
       "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
       "source": "TechCrunch-AI",
       "date": "2026-07-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI as",
-      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic launches Opus 5",
-      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-24",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -158,6 +149,15 @@
       "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
       "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
       "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+      "source": "Wired-AI",
+      "date": "2026-07-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+      "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, acc",
+      "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
       "source": "Wired-AI",
       "date": "2026-07-22",
       "tag": "trend",
