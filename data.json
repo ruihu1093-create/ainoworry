@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27 06:58:33",
+  "updatedAt": "2026-07-27 10:46:54",
   "news": [
     {
       "title": "Are brain waves the next unlock for physical AI?",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "This Is Donald Trump’s AI Brain Trust",
+      "summary": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being ",
+      "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+      "source": "Wired-AI",
+      "date": "2026-07-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
       "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and",
       "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
@@ -149,15 +158,6 @@
       "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
       "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
       "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
-      "source": "Wired-AI",
-      "date": "2026-07-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
-      "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, acc",
-      "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
       "source": "Wired-AI",
       "date": "2026-07-22",
       "tag": "trend",
