@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28 08:26:49",
+  "updatedAt": "2026-07-28 11:13:31",
   "news": [
     {
       "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
@@ -74,6 +74,24 @@
       "tagText": "资讯"
     },
     {
+      "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+      "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sul",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+      "source": "Wired-AI",
+      "date": "2026-07-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+      "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit lea",
+      "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+      "source": "Wired-AI",
+      "date": "2026-07-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Private Claude Chats Exposed in Google and Bing Search Results",
       "summary": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
       "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
@@ -133,24 +151,6 @@
       "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
       "source": "Wired-AI",
       "date": "2026-07-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
-      "summary": "With “blessings” from the original Jibo founders, iKairos is a wearable or desk-mounted “AI journal” that turns your family moments into AI images and",
-      "link": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
-      "source": "Wired-AI",
-      "date": "2026-07-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
-      "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
-      "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
-      "source": "Wired-AI",
-      "date": "2026-07-22",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -759,14 +759,14 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-07-28"
@@ -774,14 +774,29 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-28"
+    },
+    {
+      "name": "worldmonitor",
+      "author": "koala73",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "link": "https://github.com/koala73/worldmonitor",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-07-28"
@@ -789,14 +804,14 @@
     {
       "name": "i-have-adhd",
       "author": "ayghri",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "link": "https://github.com/ayghri/i-have-adhd",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-07-28"
@@ -804,53 +819,8 @@
     {
       "name": "ai-agent-book",
       "author": "bojieli",
-      "description": "Web UI for the pi coding agent",
+      "description": "Self-hosted deployment platform",
       "link": "https://github.com/bojieli/ai-agent-book",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-28"
-    },
-    {
-      "name": "openship",
-      "author": "oblien",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "link": "https://github.com/oblien/openship",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-28"
-    },
-    {
-      "name": "pi-web",
-      "author": "agegr",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "link": "https://github.com/agegr/pi-web",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-07-28"
-    },
-    {
-      "name": "code-review-graph",
-      "author": "tirth8205",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/tirth8205/code-review-graph",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -864,8 +834,53 @@
     {
       "name": "diegosouzapw",
       "author": "sponsors",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/sponsors/diegosouzapw",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-28"
+    },
+    {
+      "name": "OmniRoute",
+      "author": "diegosouzapw",
+      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude &amp; Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+      "link": "https://github.com/diegosouzapw/OmniRoute",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-28"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Web UI for the pi coding agent",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-28"
+    },
+    {
+      "name": "mattpocock",
+      "author": "sponsors",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "link": "https://github.com/sponsors/mattpocock",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -880,10 +895,10 @@
       "date": "2026-07-28"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
+      "name": "skills",
+      "author": "mattpocock",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "link": "https://github.com/apps/dependabot",
+      "link": "https://github.com/mattpocock/skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -895,10 +910,25 @@
       "date": "2026-07-28"
     },
     {
-      "name": "skills",
-      "author": "mattpocock",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "link": "https://github.com/mattpocock/skills",
+      "name": "adhd",
+      "author": "UditAkhourii",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "link": "https://github.com/UditAkhourii/adhd",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-28"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -908,43 +938,13 @@
         }
       ],
       "date": "2026-07-28"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-28"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "A collection of agent skills for CAD, robotics and hardware design",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-28"
     }
   ],
   "agents": [
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational aw",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -955,7 +955,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational aw",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -966,7 +966,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmar",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -977,24 +977,12 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniM",
+      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude &amp; Codex Agent SDK. Fans out parallel divergent thoughts under ",
       "link": "https://github.com/topics",
-      "tools": [
-        "GitHub",
-        "GPT-4"
-      ],
-      "likes": 1697,
-      "date": "2026-07-28"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
-      "likes": 2046,
+      "likes": 1697,
       "date": "2026-07-28"
     },
     {
@@ -1189,6 +1177,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-07-28"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-07-28"
     }
   ],
