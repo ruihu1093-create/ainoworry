@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28 02:54:57",
+  "updatedAt": "2026-07-28 05:43:13",
   "news": [
     {
       "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
@@ -68,15 +68,6 @@
       "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026 ",
       "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion brea",
       "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-      "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
-      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
       "source": "TechCrunch-AI",
       "date": "2026-07-27",
       "tag": "trend",
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
       "source": "Wired-AI",
       "date": "2026-07-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading",
+      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-07-27",
       "tag": "trend",
       "tagText": "资讯"
     },
