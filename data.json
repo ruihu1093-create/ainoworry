@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-07-28 13:54:56",
+  "updatedAt": "2026-07-28 16:03:23",
   "news": [
     {
-      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates a",
+      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
       "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
       "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
       "source": "TechCrunch-AI",
@@ -59,24 +68,6 @@
       "title": "Threads users can now chat with Meta AI in their DMs",
       "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
       "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google’s AI search is rapidly becoming the default, new data shows",
-      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover inform",
-      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026 ",
-      "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion brea",
-      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch-AI",
       "date": "2026-07-27",
       "tag": "trend",
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
       "source": "Wired-AI",
       "date": "2026-07-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-07-28",
       "tag": "trend",
       "tagText": "资讯"
     },
