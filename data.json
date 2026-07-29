@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29 08:32:47",
+  "updatedAt": "2026-07-29 11:21:39",
   "news": [
     {
       "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
@@ -52,6 +52,24 @@
       "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
       "source": "TechCrunch-AI",
       "date": "2026-07-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’",
+      "summary": "Novelists, journalists, and power LinkedIn posters are embracing first-person narratives and idiosyncrasies to avoid being mistaken for chat bots.",
+      "link": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
+      "source": "Wired-AI",
+      "date": "2026-07-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
+      "summary": "Parents are getting fed up with garbled bedtime stories that feature characters based on actual photos of their children.",
+      "link": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
+      "source": "Wired-AI",
+      "date": "2026-07-29",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -119,20 +137,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
-      "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
-      "link": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-      "source": "Wired-AI",
-      "date": "2026-07-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Some Kids Will Never Think AI Is Cool",
-      "summary": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
-      "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
-      "source": "Wired-AI",
-      "date": "2026-07-24",
+      "title": "The AI Hype Index: Unsexy AI",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at ma",
+      "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-07-29",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading",
       "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-07-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
       "source": "MIT-Tech-Review",
       "date": "2026-07-27",
       "tag": "trend",
@@ -766,10 +766,10 @@
   ],
   "github": [
     {
-      "name": "explore",
-      "author": "sponsors",
+      "name": "developers",
+      "author": "trending",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "link": "https://github.com/sponsors/explore",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -781,10 +781,10 @@
       "date": "2026-07-29"
     },
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "buzz",
+      "author": "block",
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/block/buzz",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -798,7 +798,7 @@
     {
       "name": "worldmonitor",
       "author": "koala73",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "link": "https://github.com/koala73/worldmonitor",
       "stars": 0,
       "trend": 50,
@@ -813,8 +813,23 @@
     {
       "name": "i-have-adhd",
       "author": "ayghri",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
       "link": "https://github.com/ayghri/i-have-adhd",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-29"
+    },
+    {
+      "name": "ego-lite",
+      "author": "citrolabs",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "link": "https://github.com/citrolabs/ego-lite",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -828,7 +843,7 @@
     {
       "name": "ai-agent-book",
       "author": "bojieli",
-      "description": "Self-hosted deployment platform",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/bojieli/ai-agent-book",
       "stars": 0,
       "trend": 50,
@@ -843,14 +858,14 @@
     {
       "name": "diegosouzapw",
       "author": "sponsors",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "link": "https://github.com/sponsors/diegosouzapw",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "LLM"
         }
       ],
       "date": "2026-07-29"
@@ -873,23 +888,8 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Web UI for the pi coding agent",
+      "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-29"
-    },
-    {
-      "name": "mattpocock",
-      "author": "sponsors",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "link": "https://github.com/sponsors/mattpocock",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -904,25 +904,10 @@
       "date": "2026-07-29"
     },
     {
-      "name": "skills",
-      "author": "mattpocock",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "link": "https://github.com/mattpocock/skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-07-29"
-    },
-    {
-      "name": "adhd",
-      "author": "UditAkhourii",
+      "name": "mattpocock",
+      "author": "sponsors",
       "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
-      "link": "https://github.com/UditAkhourii/adhd",
+      "link": "https://github.com/sponsors/mattpocock",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -934,16 +919,34 @@
       "date": "2026-07-29"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "link": "https://github.com/apps/dependabot",
+      "name": "Kronos",
+      "author": "shiyu-coder",
+      "description": "Web UI for the pi coding agent",
+      "link": "https://github.com/shiyu-coder/Kronos",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-29"
+    },
+    {
+      "name": "adhd",
+      "author": "UditAkhourii",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "link": "https://github.com/UditAkhourii/adhd",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
         }
       ],
       "date": "2026-07-29"
@@ -951,20 +954,9 @@
   ],
   "agents": [
     {
-      "title": "开源项目: opensearch.xml",
-      "author": "@anonymous",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational aw",
-      "link": "https://github.com/opensearch.xml",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2325,
-      "date": "2026-07-29"
-    },
-    {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational aw",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -975,10 +967,11 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniM",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
       "likes": 3045,
       "date": "2026-07-29"
@@ -986,7 +979,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude &amp; Codex Agent SDK. Fans out parallel divergent thoughts under ",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -995,15 +988,37 @@
       "date": "2026-07-29"
     },
     {
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude &amp; Codex Agent SDK. Fans out parallel divergent thoughts under ",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2046,
+      "date": "2026-07-29"
+    },
+    {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-lev",
       "link": "https://github.com/events",
       "tools": [
         "GitHub",
         "LLM"
       ],
       "likes": 2526,
+      "date": "2026-07-29"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, con",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-07-29"
     },
     {
@@ -1186,19 +1201,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-07-29"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-07-29"
     }
   ],
