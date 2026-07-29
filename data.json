@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-29 19:07:54",
+  "updatedAt": "2026-07-29 20:51:03",
   "news": [
+    {
+      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
       "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
@@ -50,15 +59,6 @@
       "title": "Bot-detection startup Spur nabs $200M from Insight",
       "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
       "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates a",
-      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
       "source": "TechCrunch-AI",
       "date": "2026-07-28",
       "tag": "trend",
