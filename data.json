@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-29 21:56:08",
+  "updatedAt": "2026-07-29 22:57:36",
   "news": [
+    {
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs,",
+      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026 ",
       "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for",
@@ -74,15 +92,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
       "summary": "I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed.",
       "link": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
       "source": "Wired-AI",
       "date": "2026-07-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-      "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and",
-      "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-      "source": "Wired-AI",
-      "date": "2026-07-25",
       "tag": "trend",
       "tagText": "资讯"
     },
