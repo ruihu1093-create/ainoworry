@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-29 11:21:39",
+  "updatedAt": "2026-07-29 14:00:00",
   "news": [
+    {
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI im",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
       "summary": "The deal is Cyera's third acquisition this year.",
@@ -43,15 +52,6 @@
       "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
       "source": "TechCrunch-AI",
       "date": "2026-07-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — wi",
-      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-27",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -137,6 +137,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "The Download: a chip talent battle, and deflating AI hype",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-07-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The AI Hype Index: Unsexy AI",
       "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at ma",
       "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
@@ -151,15 +160,6 @@
       "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
       "source": "MIT-Tech-Review",
       "date": "2026-07-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading",
-      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-07-27",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,15 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "content": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital",
-      "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-07-28"
-    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
