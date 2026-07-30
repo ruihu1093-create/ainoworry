@@ -1,9 +1,18 @@
 {
-  "updatedAt": "2026-07-30 21:03:31",
+  "updatedAt": "2026-07-30 23:01:11",
   "news": [
     {
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
-      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on th",
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on th",
       "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
       "source": "TechCrunch-AI",
       "date": "2026-07-30",
@@ -149,15 +158,6 @@
       "title": "AI Scammers Are Better at Building Trust Than Humans",
       "summary": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating “exploitable",
       "link": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
-      "source": "Wired-AI",
-      "date": "2026-07-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
-      "summary": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future human",
-      "link": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
       "source": "Wired-AI",
       "date": "2026-07-30",
       "tag": "trend",
