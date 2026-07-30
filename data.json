@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30 06:23:09",
+  "updatedAt": "2026-07-30 09:27:09",
   "news": [
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
+      "summary": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future human",
+      "link": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
+      "source": "Wired-AI",
+      "date": "2026-07-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
       "summary": "I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed.",
       "link": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
@@ -149,15 +158,6 @@
       "title": "Private Claude Chats Exposed in Google and Bing Search Results",
       "summary": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
       "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
-      "source": "Wired-AI",
-      "date": "2026-07-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "This Is Donald Trump’s AI Brain Trust",
-      "summary": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being ",
-      "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
       "source": "Wired-AI",
       "date": "2026-07-27",
       "tag": "trend",
