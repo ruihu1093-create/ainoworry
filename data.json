@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-30 15:49:03",
+  "updatedAt": "2026-07-30 17:21:51",
   "news": [
+    {
+      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environ",
+      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meta says AI is making it easier to build new apps — and more are coming",
       "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more n",
@@ -74,11 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs,",
-      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-29",
+      "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
+      "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assiste",
+      "link": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+      "source": "Wired-AI",
+      "date": "2026-07-30",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’",
       "summary": "Novelists, journalists, and power LinkedIn posters are embracing first-person narratives and idiosyncrasies to avoid being mistaken for chat bots.",
       "link": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
-      "source": "Wired-AI",
-      "date": "2026-07-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
-      "summary": "Parents are getting fed up with garbled bedtime stories that feature characters based on actual photos of their children.",
-      "link": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
       "source": "Wired-AI",
       "date": "2026-07-29",
       "tag": "trend",
