@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-30 11:48:21",
+  "updatedAt": "2026-07-30 13:49:02",
   "news": [
+    {
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Ga",
+      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
       "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth",
@@ -77,15 +86,6 @@
       "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
       "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedule",
       "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
       "source": "TechCrunch-AI",
       "date": "2026-07-29",
       "tag": "trend",
