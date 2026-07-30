@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-30 00:01:31",
+  "updatedAt": "2026-07-30 03:52:47",
   "news": [
+    {
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
       "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
@@ -77,15 +86,6 @@
       "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
       "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
       "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI im",
-      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
       "source": "TechCrunch-AI",
       "date": "2026-07-29",
       "tag": "trend",
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "希音：一家时尚品牌包裹下的科技公司",
+      "content": "作者&nbsp; |&nbsp;王熠&nbsp;\n  封面来源&nbsp; |&nbsp; 企业图片&nbsp;\n  是时候重新认识希音了。\n  7月26日，希音国际（SHEIN）向港交所披露聆",
+      "link": "https://36kr.com/p/3917513813650824?f=rss",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-07-30"
+    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
