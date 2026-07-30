@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30 03:52:47",
+  "updatedAt": "2026-07-30 06:23:09",
   "news": [
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
@@ -56,7 +56,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "title": "The Hugging Face break-in explained",
       "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
       "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
       "source": "TechCrunch-AI",
