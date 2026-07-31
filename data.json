@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-31 19:18:10",
+  "updatedAt": "2026-07-31 20:59:54",
   "news": [
+    {
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
       "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. Th",
@@ -77,15 +86,6 @@
       "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
       "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
       "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
       "source": "TechCrunch-AI",
       "date": "2026-07-30",
       "tag": "trend",
