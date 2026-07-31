@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31 17:46:45",
+  "updatedAt": "2026-07-31 19:18:10",
   "news": [
     {
       "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Chinese AI Researchers Are Finding Their Voice on X",
+      "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and sha",
+      "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+      "source": "Wired-AI",
+      "date": "2026-07-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
       "summary": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
       "link": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
@@ -149,15 +158,6 @@
       "title": "The New Friend AI Pendant Can Now Talk Back to You",
       "summary": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
       "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
-      "source": "Wired-AI",
-      "date": "2026-07-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
-      "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks",
-      "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
       "source": "Wired-AI",
       "date": "2026-07-30",
       "tag": "trend",
