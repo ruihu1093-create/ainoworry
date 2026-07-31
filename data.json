@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-07-31 22:11:30",
+  "updatedAt": "2026-07-31 23:58:09",
   "news": [
+    {
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
       "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
@@ -70,15 +79,6 @@
       "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
       "source": "TechCrunch-AI",
       "date": "2026-07-31",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-30",
       "tag": "trend",
       "tagText": "资讯"
     },
