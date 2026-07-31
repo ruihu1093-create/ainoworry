@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-31 13:53:58",
+  "updatedAt": "2026-07-31 15:59:43",
   "news": [
+    {
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+      "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "source": "TechCrunch-AI",
+      "date": "2026-07-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic says its own AI models breached three companies during security tests",
       "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
@@ -74,26 +92,26 @@
       "tagText": "资讯"
     },
     {
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environ",
-      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-30",
+      "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
+      "summary": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
+      "link": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
+      "source": "Wired-AI",
+      "date": "2026-07-31",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Meta says AI is making it easier to build new apps — and more are coming",
-      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more n",
-      "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-30",
+      "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+      "summary": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
+      "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
+      "source": "Wired-AI",
+      "date": "2026-07-31",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
-      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-part",
+      "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
+      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during thir",
       "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
       "source": "Wired-AI",
       "date": "2026-07-31",
@@ -140,24 +158,6 @@
       "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
       "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks",
       "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
-      "source": "Wired-AI",
-      "date": "2026-07-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
-      "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open interne",
-      "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
-      "source": "Wired-AI",
-      "date": "2026-07-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "LinkedIn Won’t Be Expanding Its Data Centers in the Next Year",
-      "summary": "Despite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it’s challenging engineers to make every GPU count.",
-      "link": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
       "source": "Wired-AI",
       "date": "2026-07-30",
       "tag": "trend",
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
+      "content": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices.",
+      "link": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-07-31"
+    },
+    {
       "title": "The Backroom: How long can the consumer hang on?",
       "content": "Discretionary retail sales have been surprisingly strong so far this year. The team discusses the reasons why and what that might mean for the rest of 2026.",
       "link": "https://www.retaildive.com/news/podcast-the-backroom-gap-happy-stripe-retail-q1/826557/",
@@ -906,7 +915,7 @@
     {
       "name": "t3code",
       "author": "pingdotgg",
-      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "description": "A library of agent skills for CAD, CAE and CAM",
       "link": "https://github.com/pingdotgg/t3code",
       "stars": 0,
       "trend": 50,
