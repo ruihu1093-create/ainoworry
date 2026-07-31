@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31 06:07:39",
+  "updatedAt": "2026-07-31 09:39:50",
   "news": [
     {
       "title": "Anthropic says its own AI models breached three companies during security tests",
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "希音：一家时尚品牌包裹下的科技公司",
-      "content": "作者&nbsp; |&nbsp;王熠&nbsp;\n  封面来源&nbsp; |&nbsp; 企业图片&nbsp;\n  是时候重新认识希音了。\n  7月26日，希音国际（SHEIN）向港交所披露聆",
-      "link": "https://36kr.com/p/3917513813650824?f=rss",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-07-30"
-    },
-    {
       "title": "The Backroom: How long can the consumer hang on?",
       "content": "Discretionary retail sales have been surprisingly strong so far this year. The team discusses the reasons why and what that might mean for the rest of 2026.",
       "link": "https://www.retaildive.com/news/podcast-the-backroom-gap-happy-stripe-retail-q1/826557/",
@@ -822,23 +813,8 @@
     {
       "name": "worldmonitor",
       "author": "koala73",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "link": "https://github.com/koala73/worldmonitor",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-31"
-    },
-    {
-      "name": "i-have-adhd",
-      "author": "ayghri",
       "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "link": "https://github.com/ayghri/i-have-adhd",
+      "link": "https://github.com/koala73/worldmonitor",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -853,10 +829,10 @@
       "date": "2026-07-31"
     },
     {
-      "name": "ai-agent-book",
-      "author": "bojieli",
+      "name": "i-have-adhd",
+      "author": "ayghri",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/bojieli/ai-agent-book",
+      "link": "https://github.com/ayghri/i-have-adhd",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -868,10 +844,10 @@
       "date": "2026-07-31"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
+      "name": "open-code-review",
+      "author": "alibaba",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/alibaba/open-code-review",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -883,10 +859,10 @@
       "date": "2026-07-31"
     },
     {
-      "name": "open-code-review",
-      "author": "alibaba",
+      "name": "mattpocock",
+      "author": "sponsors",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "link": "https://github.com/alibaba/open-code-review",
+      "link": "https://github.com/sponsors/mattpocock",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -898,24 +874,9 @@
       "date": "2026-07-31"
     },
     {
-      "name": "diegosouzapw",
-      "author": "sponsors",
-      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
-      "link": "https://github.com/sponsors/diegosouzapw",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-07-31"
-    },
-    {
       "name": "OmniRoute",
       "author": "diegosouzapw",
-      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude &amp; Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
       "link": "https://github.com/diegosouzapw/OmniRoute",
       "stars": 0,
       "trend": 50,
@@ -930,8 +891,41 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude &amp; Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
       "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-07-31"
+    },
+    {
+      "name": "t3code",
+      "author": "pingdotgg",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "link": "https://github.com/pingdotgg/t3code",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-07-31"
+    },
+    {
+      "name": "topcoat",
+      "author": "tokio-rs",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "link": "https://github.com/tokio-rs/topcoat",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -943,19 +937,16 @@
       "date": "2026-07-31"
     },
     {
-      "name": "jcode",
-      "author": "1jehuang",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "link": "https://github.com/1jehuang/jcode",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
-        },
-        {
-          "name": "LLM"
+          "name": "AI"
         }
       ],
       "date": "2026-07-31"
@@ -976,11 +967,10 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-lev",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 3045,
       "date": "2026-07-31"
@@ -988,10 +978,11 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniM",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
       "likes": 1697,
       "date": "2026-07-31"
