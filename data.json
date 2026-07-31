@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31 20:59:54",
+  "updatedAt": "2026-07-31 22:11:30",
   "news": [
     {
       "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
@@ -83,15 +83,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "Chinese AI Researchers Are Finding Their Voice on X",
       "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and sha",
       "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
@@ -158,6 +149,15 @@
       "title": "The New Friend AI Pendant Can Now Talk Back to You",
       "summary": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
       "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
+      "source": "Wired-AI",
+      "date": "2026-07-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+      "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks",
+      "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
       "source": "Wired-AI",
       "date": "2026-07-30",
       "tag": "trend",
@@ -619,15 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
-      "content": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices.",
-      "link": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-07-31"
-    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
