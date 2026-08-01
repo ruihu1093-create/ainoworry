@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01 06:24:30",
+  "updatedAt": "2026-08-01 09:02:16",
   "news": [
     {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -805,6 +805,36 @@
       "date": "2026-08-01"
     },
     {
+      "name": "open-code-review",
+      "author": "alibaba",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "link": "https://github.com/alibaba/open-code-review",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-01"
+    },
+    {
+      "name": "ai-agent-book",
+      "author": "bojieli",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "link": "https://github.com/bojieli/ai-agent-book",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-01"
+    },
+    {
       "name": "virgiliojr94",
       "author": "sponsors",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
@@ -908,39 +938,6 @@
         }
       ],
       "date": "2026-08-01"
-    },
-    {
-      "name": "worldmonitor",
-      "author": "koala73",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "link": "https://github.com/koala73/worldmonitor",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-08-01"
-    },
-    {
-      "name": "opengeos",
-      "author": "sponsors",
-      "description": "Open-Source Frontier Voice AI",
-      "link": "https://github.com/sponsors/opengeos",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-01"
     }
   ],
   "agents": [
@@ -958,12 +955,23 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational aw",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
       "likes": 2046,
+      "date": "2026-08-01"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational aw",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
       "date": "2026-08-01"
     },
     {
@@ -1185,19 +1193,6 @@
         "微信"
       ],
       "likes": 3940,
-      "date": "2026-08-01"
-    },
-    {
-      "title": "程序员用AI重构遗留代码，工期缩短80%",
-      "author": "@代码清洁工",
-      "description": "10万行祖传Python代码用Cursor+Claude重构，3周完成原来预估3个月的工作，减少60%bug。",
-      "link": "https://cursor.com/",
-      "tools": [
-        "Cursor",
-        "Claude",
-        "GitHub"
-      ],
-      "likes": 21000,
       "date": "2026-08-01"
     }
   ],
