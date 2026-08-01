@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-01 17:07:15",
+  "updatedAt": "2026-08-01 19:02:10",
   "news": [
+    {
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
       "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
@@ -59,15 +68,6 @@
       "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
       "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
       "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-31",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. Th",
-      "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
       "source": "TechCrunch-AI",
       "date": "2026-07-31",
       "tag": "trend",
