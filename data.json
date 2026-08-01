@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01 14:56:22",
+  "updatedAt": "2026-08-01 15:59:20",
   "news": [
     {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -74,15 +74,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-31",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
       "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the ",
       "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
@@ -92,7 +83,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
       "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be",
       "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
       "source": "Wired-AI",
@@ -158,6 +149,15 @@
       "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
       "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assiste",
       "link": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+      "source": "Wired-AI",
+      "date": "2026-07-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The New Friend AI Pendant Can Now Talk Back to You",
+      "summary": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
+      "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
       "source": "Wired-AI",
       "date": "2026-07-30",
       "tag": "trend",
