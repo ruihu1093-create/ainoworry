@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02 17:57:53",
+  "updatedAt": "2026-08-02 19:14:04",
   "news": [
     {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
@@ -796,10 +796,25 @@
       "date": "2026-08-02"
     },
     {
-      "name": "i-have-adhd",
-      "author": "ayghri",
+      "name": "book-to-skill",
+      "author": "virgiliojr94",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "link": "https://github.com/virgiliojr94/book-to-skill",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-02"
+    },
+    {
+      "name": "AI-For-Beginners",
+      "author": "microsoft",
       "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "link": "https://github.com/ayghri/i-have-adhd",
+      "link": "https://github.com/microsoft/AI-For-Beginners",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -814,16 +829,16 @@
       "date": "2026-08-02"
     },
     {
-      "name": "AI-For-Beginners",
-      "author": "microsoft",
+      "name": "ai-agent-book",
+      "author": "bojieli",
       "description": "bluetooth mesh chat, IRC vibes",
-      "link": "https://github.com/microsoft/AI-For-Beginners",
+      "link": "https://github.com/bojieli/ai-agent-book",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-08-02"
@@ -932,56 +947,29 @@
         }
       ],
       "date": "2026-08-02"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-02"
     }
   ],
   "agents": [
     {
-      "title": "开源项目: topics",
-      "author": "@anonymous",
-      "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-lev",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub",
-        "LLM"
-      ],
-      "likes": 1697,
-      "date": "2026-08-02"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's ",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
-      "date": "2026-08-02"
-    },
-    {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Simple, unified interface to multiple Generative AI providers",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's ",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
       "likes": 2526,
+      "date": "2026-08-02"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-08-02"
     },
     {
@@ -1203,6 +1191,19 @@
         "微信"
       ],
       "likes": 3940,
+      "date": "2026-08-02"
+    },
+    {
+      "title": "程序员用AI重构遗留代码，工期缩短80%",
+      "author": "@代码清洁工",
+      "description": "10万行祖传Python代码用Cursor+Claude重构，3周完成原来预估3个月的工作，减少60%bug。",
+      "link": "https://cursor.com/",
+      "tools": [
+        "Cursor",
+        "Claude",
+        "GitHub"
+      ],
+      "likes": 21000,
       "date": "2026-08-02"
     }
   ],
