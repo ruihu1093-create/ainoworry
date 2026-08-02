@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-02 20:49:52",
+  "updatedAt": "2026-08-02 21:51:33",
   "news": [
+    {
+      "title": "Sam Altman and AI’s decel debate",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
       "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
@@ -59,15 +68,6 @@
       "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
       "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking ",
       "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-31",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Siri AI could come with a paywall for power users",
-      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-      "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
       "source": "TechCrunch-AI",
       "date": "2026-07-31",
       "tag": "trend",
