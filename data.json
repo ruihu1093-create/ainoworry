@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02 13:39:10",
+  "updatedAt": "2026-08-02 14:58:22",
   "news": [
     {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
@@ -789,7 +789,7 @@
     {
       "name": "i-have-adhd",
       "author": "ayghri",
-      "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "link": "https://github.com/ayghri/i-have-adhd",
       "stars": 0,
       "trend": 50,
