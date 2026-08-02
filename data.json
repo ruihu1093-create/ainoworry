@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02 05:52:16",
+  "updatedAt": "2026-08-02 08:15:15",
   "news": [
     {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
@@ -70,6 +70,15 @@
       "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
       "source": "TechCrunch-AI",
       "date": "2026-07-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “di",
+      "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+      "source": "Wired-AI",
+      "date": "2026-08-02",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
       "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assiste",
       "link": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
-      "source": "Wired-AI",
-      "date": "2026-07-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The New Friend AI Pendant Can Now Talk Back to You",
-      "summary": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
-      "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
       "source": "Wired-AI",
       "date": "2026-07-30",
       "tag": "trend",
