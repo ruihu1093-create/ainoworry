@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-08-03 18:47:16",
+  "updatedAt": "2026-08-03 20:23:52",
   "news": [
+    {
+      "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+      "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
       "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI l",
@@ -11,7 +29,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "Congress’s favorite AI tool? ChatGPT",
+      "title": "Congress’ favorite AI tool? ChatGPT",
       "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, ",
       "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
       "source": "TechCrunch-AI",
@@ -61,15 +79,6 @@
       "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
       "source": "TechCrunch-AI",
       "date": "2026-08-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-31",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
       "source": "Wired-AI",
       "date": "2026-07-31",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
-      "summary": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
-      "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
-      "source": "Wired-AI",
-      "date": "2026-07-30",
       "tag": "trend",
       "tagText": "资讯"
     },
