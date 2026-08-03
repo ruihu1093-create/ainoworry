@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-08-03 16:19:30",
+  "updatedAt": "2026-08-03 18:47:16",
   "news": [
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI l",
+      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Congress’s favorite AI tool? ChatGPT",
+      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, ",
+      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
       "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
@@ -12,7 +30,7 @@
     },
     {
       "title": "Sam Altman and AI’s decel debate",
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
       "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
       "source": "TechCrunch-AI",
       "date": "2026-08-02",
@@ -39,7 +57,7 @@
     },
     {
       "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "summary": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and ineffic",
       "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
       "source": "TechCrunch-AI",
       "date": "2026-08-01",
@@ -56,24 +74,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-31",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. Th",
-      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-31",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "AI Conquered Coding. Fast Food Is Next",
       "summary": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
       "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
@@ -84,7 +84,7 @@
     },
     {
       "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
-      "summary": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
+      "summary": "Steve Eimers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
       "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
       "source": "Wired-AI",
       "date": "2026-08-03",
@@ -619,15 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "content": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital",
-      "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-08-02"
-    },
     {
       "title": "前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发",
       "content": "文｜张子怡\n  编辑｜袁斯来\n  36氪获悉，3D打印智能制造品牌「轻量智造（LightMake）」连续完成两轮共计超2500万元人民币融资，投资机构有海目星激光老板家族办公室、南山资本、卓源亚洲、朗翰资本。本轮融资资金主要用于产品研发、供应链体系搭建以及全球市场推广。\n  「轻量智造」成立于2025年，团队为中高端SMB（中小型企业）",
