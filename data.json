@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-03 20:23:52",
+  "updatedAt": "2026-08-03 22:04:32",
   "news": [
     {
-      "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
-      "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
       "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
       "source": "TechCrunch-AI",
       "date": "2026-08-03",
@@ -21,7 +21,7 @@
     },
     {
       "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI l",
+      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable",
       "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
       "source": "TechCrunch-AI",
       "date": "2026-08-03",
@@ -629,18 +629,18 @@
       "date": "2026-08-03"
     },
     {
-      "title": "The promise retailers keep breaking (and why the data is to blame)",
-      "content": "Inventory distortion costs retail $1.77 trillion a year. The fix isn&#39;t more counting. It&#39;s better data.",
-      "link": "https://www.retaildive.com/spons/the-promise-retailers-keep-breaking-and-why-the-data-is-to-blame/825616/",
+      "title": "The AI performance question retail isn’t asking",
+      "content": "Engagement with your AI isn&#39;t the measure that matters. Inclusion in AI answers is.",
+      "link": "https://www.retaildive.com/spons/the-ai-performance-question-retail-isnt-asking/826050/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-08-03"
     },
     {
-      "title": "The AI performance question retail isn’t asking",
-      "content": "Engagement with your AI isn&#39;t the measure that matters. Inclusion in AI answers is.",
-      "link": "https://www.retaildive.com/spons/the-ai-performance-question-retail-isnt-asking/826050/",
+      "title": "The promise retailers keep breaking (and why the data is to blame)",
+      "content": "Inventory distortion costs retail $1.77 trillion a year. The fix isn&#39;t more counting. It&#39;s better data.",
+      "link": "https://www.retaildive.com/spons/the-promise-retailers-keep-breaking-and-why-the-data-is-to-blame/825616/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
