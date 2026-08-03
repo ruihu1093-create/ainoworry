@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03 10:38:20",
+  "updatedAt": "2026-08-03 13:37:34",
   "news": [
     {
       "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
@@ -793,25 +793,10 @@
   ],
   "github": [
     {
-      "name": "buzz",
-      "author": "block",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "link": "https://github.com/block/buzz",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-03"
-    },
-    {
-      "name": "virgiliojr94",
-      "author": "sponsors",
+      "name": "developers",
+      "author": "trending",
       "description": "12 Weeks, 24 Lessons, AI for All!",
-      "link": "https://github.com/sponsors/virgiliojr94",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -823,27 +808,9 @@
       "date": "2026-08-03"
     },
     {
-      "name": "i-have-adhd",
-      "author": "ayghri",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "link": "https://github.com/ayghri/i-have-adhd",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-08-03"
-    },
-    {
       "name": "AI-For-Beginners",
       "author": "microsoft",
-      "description": "bluetooth mesh chat, IRC vibes",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "link": "https://github.com/microsoft/AI-For-Beginners",
       "stars": 0,
       "trend": 50,
@@ -856,40 +823,10 @@
       "date": "2026-08-03"
     },
     {
-      "name": "jcode",
-      "author": "1jehuang",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "link": "https://github.com/1jehuang/jcode",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-03"
-    },
-    {
-      "name": "editor",
-      "author": "pascalorg",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "link": "https://github.com/pascalorg/editor",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-03"
-    },
-    {
-      "name": "bitchat",
-      "author": "permissionlesstech",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "link": "https://github.com/permissionlesstech/bitchat",
+      "name": "virgiliojr94",
+      "author": "sponsors",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "link": "https://github.com/sponsors/virgiliojr94",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -901,9 +838,24 @@
       "date": "2026-08-03"
     },
     {
+      "name": "github-copilot-cli",
+      "author": "apps",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "link": "https://github.com/apps/github-copilot-cli",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-08-03"
+    },
+    {
       "name": "airi",
       "author": "moeru-ai",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description": "Simple, unified interface to multiple Generative AI providers",
       "link": "https://github.com/moeru-ai/airi",
       "stars": 0,
       "trend": 50,
@@ -918,8 +870,26 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "A library of agent skills for CAD, CAE and CAM",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-08-03"
+    },
+    {
+      "name": "opengeos",
+      "author": "sponsors",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "link": "https://github.com/sponsors/opengeos",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -931,9 +901,54 @@
       "date": "2026-08-03"
     },
     {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "A library of agent skills for CAD, CAE and CAM",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-03"
+    },
+    {
+      "name": "pre-commit-ci",
+      "author": "apps",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "link": "https://github.com/apps/pre-commit-ci",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-08-03"
+    },
+    {
+      "name": "openwork",
+      "author": "different-ai",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/different-ai/openwork",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-08-03"
+    },
+    {
       "name": "aisuite",
       "author": "andrewyng",
-      "description": "Native and Compact Structured Latents for 3D Generation",
+      "description": "GitHub热门AI项目，本周获得大量关注",
       "link": "https://github.com/andrewyng/aisuite",
       "stars": 0,
       "trend": 50,
@@ -946,31 +961,16 @@
       "date": "2026-08-03"
     },
     {
-      "name": "GeoLibre",
-      "author": "opengeos",
-      "description": "decentralized mesh chat",
-      "link": "https://github.com/opengeos/GeoLibre",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-03"
-    },
-    {
-      "name": "dependabot",
+      "name": "copilot-swe-agent",
       "author": "apps",
       "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/apps/dependabot",
+      "link": "https://github.com/apps/copilot-swe-agent",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-08-03"
@@ -978,37 +978,36 @@
   ],
   "agents": [
     {
+      "title": "开源项目: manifest.json",
+      "author": "@anonymous",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "link": "https://github.com/manifest.json",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 4324,
+      "date": "2026-08-03"
+    },
+    {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comme",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's ",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 1697,
       "date": "2026-08-03"
     },
     {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's ",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
-      "date": "2026-08-03"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
+      "title": "开源项目: explore",
+      "author": "@sponsors",
       "description": "Simple, unified interface to multiple Generative AI providers",
-      "link": "https://github.com/events",
+      "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 2526,
+      "likes": 7510,
       "date": "2026-08-03"
     },
     {
