@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-03 06:17:38",
+  "updatedAt": "2026-08-03 10:38:20",
   "news": [
+    {
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Sam Altman and AI’s decel debate",
       "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
@@ -65,11 +74,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking ",
-      "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-      "source": "TechCrunch-AI",
-      "date": "2026-07-31",
+      "title": "AI Conquered Coding. Fast Food Is Next",
+      "summary": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
+      "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+      "source": "Wired-AI",
+      "date": "2026-08-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+      "summary": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
+      "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
+      "source": "Wired-AI",
+      "date": "2026-08-03",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -140,24 +158,6 @@
       "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
       "summary": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
       "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
-      "source": "Wired-AI",
-      "date": "2026-07-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-      "summary": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot l",
-      "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
-      "source": "Wired-AI",
-      "date": "2026-07-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
-      "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assiste",
-      "link": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
       "source": "Wired-AI",
       "date": "2026-07-30",
       "tag": "trend",
@@ -638,6 +638,24 @@
       "date": "2026-08-03"
     },
     {
+      "title": "The promise retailers keep breaking (and why the data is to blame)",
+      "content": "Inventory distortion costs retail $1.77 trillion a year. The fix isn&#39;t more counting. It&#39;s better data.",
+      "link": "https://www.retaildive.com/spons/the-promise-retailers-keep-breaking-and-why-the-data-is-to-blame/825616/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "The AI performance question retail isn’t asking",
+      "content": "Engagement with your AI isn&#39;t the measure that matters. Inclusion in AI answers is.",
+      "link": "https://www.retaildive.com/spons/the-ai-performance-question-retail-isnt-asking/826050/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-03"
+    },
+    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -807,7 +825,7 @@
     {
       "name": "i-have-adhd",
       "author": "ayghri",
-      "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "link": "https://github.com/ayghri/i-have-adhd",
       "stars": 0,
       "trend": 50,
@@ -962,7 +980,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-lev",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comme",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub",
