@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04 21:07:20",
+  "updatedAt": "2026-08-04 22:58:28",
   "news": [
     {
       "title": "Open-weight AI models are catching up to the frontier. The safety gap remains. ",
@@ -48,7 +48,7 @@
     },
     {
       "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+      "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
       "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
       "source": "TechCrunch-AI",
       "date": "2026-08-04",
@@ -69,6 +69,15 @@
       "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
       "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
       "source": "TechCrunch-AI",
+      "date": "2026-08-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+      "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
+      "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+      "source": "Wired-AI",
       "date": "2026-08-04",
       "tag": "trend",
       "tagText": "资讯"
@@ -142,15 +151,6 @@
       "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
       "source": "Wired-AI",
       "date": "2026-08-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
-      "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the ",
-      "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
-      "source": "Wired-AI",
-      "date": "2026-08-01",
       "tag": "trend",
       "tagText": "资讯"
     },
