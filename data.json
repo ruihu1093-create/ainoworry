@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-04 12:57:43",
+  "updatedAt": "2026-08-04 15:25:12",
   "news": [
+    {
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or a",
+      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+      "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
       "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy fo",
@@ -43,33 +70,6 @@
       "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
       "source": "TechCrunch-AI",
       "date": "2026-08-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Sam Altman and AI’s decel debate",
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
-      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-01",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,18 +620,18 @@
   ],
   "ecommerce": [
     {
-      "title": "The promise retailers keep breaking (and why the data is to blame)",
-      "content": "Inventory distortion costs retail $1.77 trillion a year. The fix isn&#39;t more counting. It&#39;s better data.",
-      "link": "https://www.retaildive.com/spons/the-promise-retailers-keep-breaking-and-why-the-data-is-to-blame/825616/",
+      "title": "The AI performance question retail isn’t asking",
+      "content": "Engagement with your AI isn&#39;t the measure that matters. Inclusion in AI answers is.",
+      "link": "https://www.retaildive.com/spons/the-ai-performance-question-retail-isnt-asking/826050/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-08-03"
     },
     {
-      "title": "The AI performance question retail isn’t asking",
-      "content": "Engagement with your AI isn&#39;t the measure that matters. Inclusion in AI answers is.",
-      "link": "https://www.retaildive.com/spons/the-ai-performance-question-retail-isnt-asking/826050/",
+      "title": "The promise retailers keep breaking (and why the data is to blame)",
+      "content": "Inventory distortion costs retail $1.77 trillion a year. The fix isn&#39;t more counting. It&#39;s better data.",
+      "link": "https://www.retaildive.com/spons/the-promise-retailers-keep-breaking-and-why-the-data-is-to-blame/825616/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
