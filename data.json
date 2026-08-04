@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-04 15:25:12",
+  "updatedAt": "2026-08-04 17:41:58",
   "news": [
+    {
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming A",
+      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
       "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
@@ -50,24 +59,6 @@
       "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
       "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
       "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable",
-      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Congress’ favorite AI tool? ChatGPT",
-      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, ",
-      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
       "source": "TechCrunch-AI",
       "date": "2026-08-03",
       "tag": "trend",
@@ -160,6 +151,15 @@
       "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
       "source": "MIT-Tech-Review",
       "date": "2026-08-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Trump’s AI protectionism has come for robotics",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoi",
+      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-03",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,24 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "The AI performance question retail isn’t asking",
-      "content": "Engagement with your AI isn&#39;t the measure that matters. Inclusion in AI answers is.",
-      "link": "https://www.retaildive.com/spons/the-ai-performance-question-retail-isnt-asking/826050/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "The promise retailers keep breaking (and why the data is to blame)",
-      "content": "Inventory distortion costs retail $1.77 trillion a year. The fix isn&#39;t more counting. It&#39;s better data.",
-      "link": "https://www.retaildive.com/spons/the-promise-retailers-keep-breaking-and-why-the-data-is-to-blame/825616/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-08-03"
-    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
