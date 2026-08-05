@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05 16:04:18",
+  "updatedAt": "2026-08-05 18:17:24",
   "news": [
     {
       "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
@@ -48,7 +48,7 @@
     },
     {
       "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+      "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
       "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
       "source": "TechCrunch-AI",
       "date": "2026-08-05",
@@ -83,9 +83,18 @@
       "tagText": "资讯"
     },
     {
-      "title": "The AI Notetaker Has Been Invited to All the Meetings",
-      "summary": "Wispr Flow, a popular dictation tool, has released a live notetaker that transcribes and summarizes meetings. It joins a growing wave of AI notetakers",
-      "link": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
+      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some",
+      "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "source": "Wired-AI",
+      "date": "2026-08-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+      "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from d",
+      "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
       "source": "Wired-AI",
       "date": "2026-08-05",
       "tag": "trend",
@@ -95,6 +104,15 @@
       "title": "AI Influencers Are Heading Into Uncharted Territory",
       "summary": "Some creators fear the EU AI Act’s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into ",
       "link": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
+      "source": "Wired-AI",
+      "date": "2026-08-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The AI Notetaker Has Been Invited to All the Meetings",
+      "summary": "Wispr Flow, a popular dictation tool, has released a live notetaker that transcribes and summarizes meetings. It joins a growing wave of AI notetakers",
+      "link": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
       "source": "Wired-AI",
       "date": "2026-08-05",
       "tag": "trend",
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
       "source": "Wired-AI",
       "date": "2026-08-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Mistral Is in the Right Place at the Right Time",
-      "summary": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that c",
-      "link": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
-      "source": "Wired-AI",
-      "date": "2026-08-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-08-05",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -623,15 +623,6 @@
       "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
       "content": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
       "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
-      "content": "Robinhood's latest financial instrument intends to let any retail investor feel like they, too, can make money by backing Y Combinator startups.",
-      "link": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/",
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
