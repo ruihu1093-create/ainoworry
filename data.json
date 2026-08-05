@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-05 18:17:24",
+  "updatedAt": "2026-08-05 20:22:27",
   "news": [
+    {
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discove",
+      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
       "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year",
@@ -74,11 +83,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
-      "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-04",
+      "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+      "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human exp",
+      "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+      "source": "Wired-AI",
+      "date": "2026-08-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
+      "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
+      "link": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
+      "source": "Wired-AI",
+      "date": "2026-08-05",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -140,24 +158,6 @@
       "title": "Is This Poker Player Bluffing? The AI Thinks So",
       "summary": "ESPN unveiled an “AI tells detection” tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real t",
       "link": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
-      "source": "Wired-AI",
-      "date": "2026-08-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How One Startup Built a (Mostly) China-Free Robot",
-      "summary": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on ",
-      "link": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
-      "source": "Wired-AI",
-      "date": "2026-08-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
-      "summary": "Puck’s Matthew Belloni says AI has quietly become part of everyday filmmaking. The battle now isn’t whether Hollywood will use the technology—it’s who",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
       "source": "Wired-AI",
       "date": "2026-08-04",
       "tag": "trend",
