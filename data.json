@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-05 11:55:35",
+  "updatedAt": "2026-08-05 13:59:54",
   "news": [
+    {
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+      "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
       "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
@@ -59,15 +68,6 @@
       "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
       "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
       "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or a",
-      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
       "source": "TechCrunch-AI",
       "date": "2026-08-04",
       "tag": "trend",
@@ -146,20 +146,20 @@
       "tagText": "资讯"
     },
     {
+      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The Download: US robot restrictions and ICE’s DNA grab",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
       "source": "MIT-Tech-Review",
       "date": "2026-08-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Trump’s AI protectionism has come for robotics",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoi",
-      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-08-03",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
+      "content": "Robinhood's latest financial instrument intends to let any retail investor feel like they, too, can make money by backing Y Combinator startups.",
+      "link": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-05"
+    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
