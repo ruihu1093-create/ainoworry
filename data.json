@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-08-05 13:59:54",
+  "updatedAt": "2026-08-05 16:04:18",
   "news": [
+    {
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year",
+      "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Hark previews its browser use agent for completing tasks",
+      "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+      "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals ",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blend",
+      "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic is hiring an AI chip design team",
+      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technolog",
+      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
       "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
@@ -41,33 +77,6 @@
       "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
       "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
       "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents",
-      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Spotify expands AI remix and covers project with Merlin partnership",
-      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming A",
-      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
-      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
       "source": "TechCrunch-AI",
       "date": "2026-08-04",
       "tag": "trend",
@@ -151,15 +160,6 @@
       "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
       "source": "MIT-Tech-Review",
       "date": "2026-08-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: US robot restrictions and ICE’s DNA grab",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-08-04",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "content": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+      "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-05"
+    },
     {
       "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
       "content": "Robinhood's latest financial instrument intends to let any retail investor feel like they, too, can make money by backing Y Combinator startups.",
