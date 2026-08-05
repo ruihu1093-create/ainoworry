@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05 22:08:28",
+  "updatedAt": "2026-08-05 23:56:13",
   "news": [
     {
       "title": "Meta launches Muse Code, an AI agent for large code bases",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+      "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purc",
+      "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+      "source": "Wired-AI",
+      "date": "2026-08-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
       "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human exp",
       "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
@@ -149,15 +158,6 @@
       "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
       "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
       "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-      "source": "Wired-AI",
-      "date": "2026-08-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Is This Poker Player Bluffing? The AI Thinks So",
-      "summary": "ESPN unveiled an “AI tells detection” tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real t",
-      "link": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
       "source": "Wired-AI",
       "date": "2026-08-04",
       "tag": "trend",
