@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-07 20:35:28",
+  "updatedAt": "2026-08-07 21:34:32",
   "news": [
+    {
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing ",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
       "source": "Wired-AI",
       "date": "2026-08-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-08-07",
       "tag": "trend",
       "tagText": "资讯"
     },
