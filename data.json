@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07 21:34:32",
+  "updatedAt": "2026-08-07 22:29:57",
   "news": [
     {
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing ",
+      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, h",
       "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "source": "TechCrunch-AI",
       "date": "2026-08-07",
