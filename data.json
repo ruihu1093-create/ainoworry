@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07 09:56:55",
+  "updatedAt": "2026-08-07 10:52:04",
   "news": [
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -70,6 +70,15 @@
       "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
       "source": "TechCrunch-AI",
       "date": "2026-08-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+      "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
+      "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+      "source": "Wired-AI",
+      "date": "2026-08-07",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
       "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some",
       "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-      "source": "Wired-AI",
-      "date": "2026-08-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
-      "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from d",
-      "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
       "source": "Wired-AI",
       "date": "2026-08-05",
       "tag": "trend",
