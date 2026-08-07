@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07 10:52:04",
+  "updatedAt": "2026-08-07 11:41:58",
   "news": [
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -59,15 +59,6 @@
       "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
       "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI system",
       "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
       "source": "TechCrunch-AI",
       "date": "2026-08-06",
       "tag": "trend",
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
       "source": "Wired-AI",
       "date": "2026-08-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-06",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -807,14 +807,14 @@
     {
       "name": "AI-For-Beginners",
       "author": "microsoft",
-      "description": "AirLLM 70B inference with single 4GB GPU",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
       "link": "https://github.com/microsoft/AI-For-Beginners",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "AI"
         }
       ],
       "date": "2026-08-07"
@@ -822,23 +822,8 @@
     {
       "name": "TencentDB-Agent-Memory",
       "author": "TencentCloud",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "description": "AirLLM 70B inference with single 4GB GPU",
       "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-07"
-    },
-    {
-      "name": "airllm",
-      "author": "lyogavin",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "link": "https://github.com/lyogavin/airllm",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -853,10 +838,10 @@
       "date": "2026-08-07"
     },
     {
-      "name": "github-copilot-cli",
-      "author": "apps",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "link": "https://github.com/apps/github-copilot-cli",
+      "name": "usekaneo",
+      "author": "sponsors",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "link": "https://github.com/sponsors/usekaneo",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -868,16 +853,31 @@
       "date": "2026-08-07"
     },
     {
-      "name": "buzz",
-      "author": "block",
-      "description": "Deepfakes Software For All",
-      "link": "https://github.com/block/buzz",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "A hive mind communication platform",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "AI"
+        }
+      ],
+      "date": "2026-08-07"
+    },
+    {
+      "name": "airllm",
+      "author": "lyogavin",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "link": "https://github.com/lyogavin/airllm",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
         }
       ],
       "date": "2026-08-07"
@@ -898,25 +898,10 @@
       "date": "2026-08-07"
     },
     {
-      "name": "openwork",
-      "author": "different-ai",
-      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-      "link": "https://github.com/different-ai/openwork",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-07"
-    },
-    {
-      "name": "agavra",
+      "name": "virgiliojr94",
       "author": "sponsors",
-      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
-      "link": "https://github.com/sponsors/agavra",
+      "description": "A simple tool for coordinating several AI agents.",
+      "link": "https://github.com/sponsors/virgiliojr94",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -928,16 +913,31 @@
       "date": "2026-08-07"
     },
     {
-      "name": "deepfakes",
-      "author": "sponsors",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/sponsors/deepfakes",
+      "name": "book-to-skill",
+      "author": "virgiliojr94",
+      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "link": "https://github.com/virgiliojr94/book-to-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-07"
+    },
+    {
+      "name": "github-copilot-cli",
+      "author": "apps",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "link": "https://github.com/apps/github-copilot-cli",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-08-07"
@@ -967,25 +967,14 @@
       "date": "2026-08-07"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: explore",
       "author": "@anonymous",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "link": "https://github.com/topics",
+      "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
-      "date": "2026-08-07"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
+      "likes": 3045,
       "date": "2026-08-07"
     },
     {
@@ -1194,6 +1183,19 @@
         "美团"
       ],
       "likes": 2650,
+      "date": "2026-08-07"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
       "date": "2026-08-07"
     }
   ],
