@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-07 22:29:57",
+  "updatedAt": "2026-08-07 23:29:23",
   "news": [
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
       "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
@@ -59,15 +68,6 @@
       "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
       "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
       "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — ",
-      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
       "source": "TechCrunch-AI",
       "date": "2026-08-06",
       "tag": "trend",
