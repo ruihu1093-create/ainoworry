@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-07 14:09:56",
+  "updatedAt": "2026-08-07 15:51:59",
   "news": [
+    {
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
       "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
@@ -61,6 +70,15 @@
       "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
       "source": "TechCrunch-AI",
       "date": "2026-08-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Scientists Used AI to Create 16 New Viruses",
+      "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which",
+      "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+      "source": "Wired-AI",
+      "date": "2026-08-07",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
       "source": "Wired-AI",
       "date": "2026-08-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some",
-      "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-      "source": "Wired-AI",
-      "date": "2026-08-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-08-06",
       "tag": "trend",
       "tagText": "资讯"
     },
