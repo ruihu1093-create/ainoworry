@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07 00:38:43",
+  "updatedAt": "2026-08-07 03:46:52",
   "news": [
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -70,6 +70,15 @@
       "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
       "source": "TechCrunch-AI",
       "date": "2026-08-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+      "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+      "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+      "source": "Wired-AI",
+      "date": "2026-08-07",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
       "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from d",
       "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
-      "source": "Wired-AI",
-      "date": "2026-08-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Influencers Are Heading Into Uncharted Territory",
-      "summary": "Some creators fear the EU AI Act’s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into ",
-      "link": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
       "source": "Wired-AI",
       "date": "2026-08-05",
       "tag": "trend",
