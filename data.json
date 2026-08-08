@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-08 19:24:44",
+  "updatedAt": "2026-08-08 20:23:11",
   "news": [
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and car",
@@ -59,15 +68,6 @@
       "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
       "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
       "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
       "source": "TechCrunch-AI",
       "date": "2026-08-06",
       "tag": "trend",
