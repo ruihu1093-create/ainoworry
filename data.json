@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08 20:23:11",
+  "updatedAt": "2026-08-08 21:25:09",
   "news": [
     {
       "title": "OpenAI acquires presentation startup NextSlide",
@@ -59,15 +59,6 @@
       "title": "ChatGPT brings unlimited text chats to free users",
       "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
       "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
       "source": "TechCrunch-AI",
       "date": "2026-08-06",
       "tag": "trend",
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
       "source": "Wired-AI",
       "date": "2026-08-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-07",
       "tag": "trend",
       "tagText": "资讯"
     },
