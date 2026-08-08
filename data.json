@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08 11:23:33",
+  "updatedAt": "2026-08-08 12:38:02",
   "news": [
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
@@ -774,23 +774,8 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "link": "https://github.com/trending/developers",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-08"
-    },
-    {
-      "name": "reverse-skill",
-      "author": "zhaoxuya520",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "link": "https://github.com/zhaoxuya520/reverse-skill",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -805,9 +790,69 @@
       "date": "2026-08-08"
     },
     {
+      "name": "reverse-skill",
+      "author": "zhaoxuya520",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "link": "https://github.com/zhaoxuya520/reverse-skill",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-08-08"
+    },
+    {
+      "name": "TencentDB-Agent-Memory",
+      "author": "TencentCloud",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-08"
+    },
+    {
+      "name": "lyogavin",
+      "author": "sponsors",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "link": "https://github.com/sponsors/lyogavin",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-08"
+    },
+    {
+      "name": "airllm",
+      "author": "lyogavin",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "link": "https://github.com/lyogavin/airllm",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-08-08"
+    },
+    {
       "name": "AI-For-Beginners",
       "author": "microsoft",
-      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "link": "https://github.com/microsoft/AI-For-Beginners",
       "stars": 0,
       "trend": 50,
@@ -820,28 +865,25 @@
       "date": "2026-08-08"
     },
     {
-      "name": "TencentDB-Agent-Memory",
-      "author": "TencentCloud",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "name": "DeepSeek-Reasonix",
+      "author": "esengine",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "link": "https://github.com/esengine/DeepSeek-Reasonix",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
-        },
-        {
-          "name": "LLM"
+          "name": "AI"
         }
       ],
       "date": "2026-08-08"
     },
     {
-      "name": "usekaneo",
-      "author": "sponsors",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "link": "https://github.com/sponsors/usekaneo",
+      "name": "kaneo",
+      "author": "usekaneo",
+      "description": "A simple tool for coordinating several AI agents.",
+      "link": "https://github.com/usekaneo/kaneo",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -855,38 +897,23 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "A hive mind communication platform",
+      "description": "Agent Skills for Google products and technologies",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-08-08"
     },
     {
-      "name": "airllm",
-      "author": "lyogavin",
+      "name": "github-actions",
+      "author": "apps",
       "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-      "link": "https://github.com/lyogavin/airllm",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-08-08"
-    },
-    {
-      "name": "DeepSeek-Reasonix",
-      "author": "esengine",
-      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
-      "link": "https://github.com/esengine/DeepSeek-Reasonix",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -900,44 +927,14 @@
     {
       "name": "virgiliojr94",
       "author": "sponsors",
-      "description": "A simple tool for coordinating several AI agents.",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "link": "https://github.com/sponsors/virgiliojr94",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-08"
-    },
-    {
-      "name": "book-to-skill",
-      "author": "virgiliojr94",
-      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
-      "link": "https://github.com/virgiliojr94/book-to-skill",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-08"
-    },
-    {
-      "name": "github-copilot-cli",
-      "author": "apps",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "link": "https://github.com/apps/github-copilot-cli",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
+          "name": "Vision"
         }
       ],
       "date": "2026-08-08"
@@ -958,7 +955,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory,",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -969,12 +966,34 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
       "likes": 3045,
+      "date": "2026-08-08"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "A simple tool for coordinating several AI agents.",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
+      "date": "2026-08-08"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Agent Skills for Google products and technologies",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-08-08"
     },
     {
@@ -1170,32 +1189,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-08-08"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
-      "date": "2026-08-08"
-    },
-    {
-      "title": "心理咨询师AI预约+回访系统",
-      "author": "@心理小林",
-      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
-      "link": "https://dify.ai/",
-      "tools": [
-        "Dify",
-        "Coze",
-        "微信"
-      ],
-      "likes": 3940,
       "date": "2026-08-08"
     }
   ],
