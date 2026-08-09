@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09 09:34:14",
+  "updatedAt": "2026-08-09 10:28:42",
   "news": [
     {
       "title": "OpenAI acquires presentation startup NextSlide",
@@ -61,6 +61,15 @@
       "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
       "source": "TechCrunch-AI",
       "date": "2026-08-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-",
+      "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+      "source": "Wired-AI",
+      "date": "2026-08-09",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -140,15 +149,6 @@
       "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
       "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purc",
       "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
-      "source": "Wired-AI",
-      "date": "2026-08-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
-      "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human exp",
-      "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
       "source": "Wired-AI",
       "date": "2026-08-05",
       "tag": "trend",
