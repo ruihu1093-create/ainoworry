@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09 15:26:27",
+  "updatedAt": "2026-08-09 16:28:46",
   "news": [
     {
       "title": "The AI safety test is becoming a safety risk",
@@ -52,15 +52,6 @@
       "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
       "source": "TechCrunch-AI",
       "date": "2026-08-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-06",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -160,6 +151,15 @@
       "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
       "source": "MIT-Tech-Review",
       "date": "2026-08-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-06",
       "tag": "trend",
       "tagText": "资讯"
     },
