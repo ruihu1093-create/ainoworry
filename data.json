@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10 12:57:40",
+  "updatedAt": "2026-08-10 14:20:01",
   "news": [
     {
       "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
@@ -624,6 +624,15 @@
       "content": "作者｜Wildcard\n编辑｜靖宇",
       "link": "http://www.geekpark.net/news/368627",
       "source": "极客公园",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Foot Locker reinforces role in sneaker culture with new brand platform",
+      "content": "Chief marketer Brett O&rsquo;Brien digs into the retailer&rsquo;s &ldquo;It Always Will Be Foot Locker&rdquo; creative, which arrives as the business begins to turn around.",
+      "link": "https://www.retaildive.com/news/foot-locker-role-in-sneaker-culture-with-new-brand-platform/827324/",
+      "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-08-10"
