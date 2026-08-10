@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-10 15:55:46",
+  "updatedAt": "2026-08-10 16:51:00",
   "news": [
+    {
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide bet",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
       "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
@@ -59,15 +68,6 @@
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
       "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
       "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, h",
-      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "source": "TechCrunch-AI",
       "date": "2026-08-07",
       "tag": "trend",
