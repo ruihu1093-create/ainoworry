@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10 16:51:00",
+  "updatedAt": "2026-08-10 17:47:57",
   "news": [
     {
       "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
@@ -47,8 +47,17 @@
       "tagText": "资讯"
     },
     {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
+      "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that",
+      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "OpenAI acquires presentation startup NextSlide",
-      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presenta",
       "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
       "source": "TechCrunch-AI",
       "date": "2026-08-08",
@@ -149,15 +158,6 @@
       "title": "Why Normal People Aren’t Using AI Agents",
       "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
       "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-      "source": "Wired-AI",
-      "date": "2026-08-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-      "summary": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including childre",
-      "link": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
       "source": "Wired-AI",
       "date": "2026-08-06",
       "tag": "trend",
