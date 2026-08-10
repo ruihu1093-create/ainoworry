@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10 07:23:08",
+  "updatedAt": "2026-08-10 09:14:32",
   "news": [
     {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -619,6 +619,24 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "美国本土直播带货，长出一头 200 亿美元「巨兽」",
+      "content": "作者｜Wildcard\n编辑｜靖宇",
+      "link": "http://www.geekpark.net/news/368627",
+      "source": "极客公园",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "AI is becoming retail’s operating system",
+      "content": "Retail&#39;s AI advantage won&#39;t come from chatbots. It will come from connected decisions.",
+      "link": "https://www.retaildive.com/spons/ai-is-becoming-retails-operating-system/826765/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-10"
+    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
