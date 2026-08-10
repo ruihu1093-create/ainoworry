@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10 09:14:32",
+  "updatedAt": "2026-08-10 11:03:42",
   "news": [
     {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -70,6 +70,15 @@
       "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
       "source": "TechCrunch-AI",
       "date": "2026-08-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Rise of the 1 am Job Interview",
+      "summary": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—e",
+      "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+      "source": "Wired-AI",
+      "date": "2026-08-10",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
       "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researche",
       "link": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-      "source": "Wired-AI",
-      "date": "2026-08-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all",
-      "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
       "source": "Wired-AI",
       "date": "2026-08-06",
       "tag": "trend",
@@ -775,25 +775,25 @@
   ],
   "github": [
     {
-      "name": "developers",
-      "author": "trending",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "link": "https://github.com/trending/developers",
+      "name": "explore",
+      "author": "sponsors",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-08-10"
     },
     {
-      "name": "pdf-inspector",
-      "author": "firecrawl",
+      "name": "loopx",
+      "author": "huangruiteng",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "link": "https://github.com/firecrawl/pdf-inspector",
+      "link": "https://github.com/huangruiteng/loopx",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -808,16 +808,16 @@
       "date": "2026-08-10"
     },
     {
-      "name": "reverse-skill",
-      "author": "zhaoxuya520",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "link": "https://github.com/zhaoxuya520/reverse-skill",
+      "name": "pdf-inspector",
+      "author": "firecrawl",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "link": "https://github.com/firecrawl/pdf-inspector",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "AI"
         }
       ],
       "date": "2026-08-10"
@@ -838,25 +838,10 @@
       "date": "2026-08-10"
     },
     {
-      "name": "lyogavin",
-      "author": "sponsors",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "link": "https://github.com/sponsors/lyogavin",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-10"
-    },
-    {
-      "name": "airllm",
-      "author": "lyogavin",
-      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-      "link": "https://github.com/lyogavin/airllm",
+      "name": "reverse-skill",
+      "author": "zhaoxuya520",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "link": "https://github.com/zhaoxuya520/reverse-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -870,7 +855,7 @@
     {
       "name": "DeepSeek-Reasonix",
       "author": "esengine",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "link": "https://github.com/esengine/DeepSeek-Reasonix",
       "stars": 0,
       "trend": 50,
@@ -883,10 +868,10 @@
       "date": "2026-08-10"
     },
     {
-      "name": "AI-For-Beginners",
-      "author": "microsoft",
+      "name": "lyogavin",
+      "author": "sponsors",
       "description": "Agent Skills for Google products and technologies",
-      "link": "https://github.com/microsoft/AI-For-Beginners",
+      "link": "https://github.com/sponsors/lyogavin",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -898,10 +883,25 @@
       "date": "2026-08-10"
     },
     {
-      "name": "usekaneo",
+      "name": "airllm",
+      "author": "lyogavin",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "link": "https://github.com/lyogavin/airllm",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-08-10"
+    },
+    {
+      "name": "semantica-agi",
       "author": "sponsors",
       "description": "A simple tool for coordinating several AI agents.",
-      "link": "https://github.com/sponsors/usekaneo",
+      "link": "https://github.com/sponsors/semantica-agi",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -915,7 +915,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "The authentication glue you need.",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -928,10 +928,25 @@
       "date": "2026-08-10"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
+      "name": "skills",
+      "author": "google",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "link": "https://github.com/google/skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-08-10"
+    },
+    {
+      "name": "virgiliojr94",
+      "author": "sponsors",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/sponsors/virgiliojr94",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -941,45 +956,28 @@
         }
       ],
       "date": "2026-08-10"
-    },
-    {
-      "name": "book-to-skill",
-      "author": "virgiliojr94",
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "link": "https://github.com/virgiliojr94/book-to-skill",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "RAG"
-        }
-      ],
-      "date": "2026-08-10"
     }
   ],
   "agents": [
     {
-      "title": "开源项目: manifest.json",
+      "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Se",
-      "link": "https://github.com/manifest.json",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, wit",
+      "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
       ],
-      "likes": 4324,
+      "likes": 2325,
       "date": "2026-08-10"
     },
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "description": "AirLLM 70B inference with single 4GB GPU",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 3045,
       "date": "2026-08-10"
@@ -987,23 +985,12 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
       "likes": 1697,
-      "date": "2026-08-10"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "Agent Skills for Google products and technologies",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
       "date": "2026-08-10"
     },
     {
@@ -1210,6 +1197,19 @@
         "剪映"
       ],
       "likes": 18500,
+      "date": "2026-08-10"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
       "date": "2026-08-10"
     }
   ],
