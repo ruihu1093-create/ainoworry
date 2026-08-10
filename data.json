@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-10 19:52:03",
+  "updatedAt": "2026-08-10 20:36:55",
   "news": [
+    {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
       "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide bet",
@@ -68,15 +77,6 @@
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and car",
       "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
       "source": "TechCrunch-AI",
       "date": "2026-08-07",
       "tag": "trend",
