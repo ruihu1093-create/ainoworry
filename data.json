@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-10 20:36:55",
+  "updatedAt": "2026-08-10 21:36:39",
   "news": [
+    {
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" sy",
+      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
       "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
@@ -70,15 +79,6 @@
       "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
       "source": "TechCrunch-AI",
       "date": "2026-08-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and car",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-07",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,15 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
-      "content": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack.",
-      "link": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-08-10"
-    },
     {
       "title": "美国本土直播带货，长出一头 200 亿美元「巨兽」",
       "content": "作者｜Wildcard\n编辑｜靖宇",
