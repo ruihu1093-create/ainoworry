@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11 10:47:51",
+  "updatedAt": "2026-08-11 11:40:04",
   "news": [
     {
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "A New Trick Reveals AI Models’ Inner Thoughts",
+      "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be",
+      "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+      "source": "Wired-AI",
+      "date": "2026-08-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "AI Is Dead. Organoids Are Alive",
       "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
       "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
@@ -149,15 +158,6 @@
       "title": "Scientists Used AI to Create 16 New Viruses",
       "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which",
       "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-      "source": "Wired-AI",
-      "date": "2026-08-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-      "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-      "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
       "source": "Wired-AI",
       "date": "2026-08-07",
       "tag": "trend",
@@ -804,7 +804,7 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "description": "Give your agent a computer 👾",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
@@ -817,10 +817,25 @@
       "date": "2026-08-11"
     },
     {
-      "name": "loopx",
-      "author": "huangruiteng",
+      "name": "developers",
+      "author": "trending",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "link": "https://github.com/trending/developers",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-11"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "link": "https://github.com/huangruiteng/loopx",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -830,6 +845,21 @@
         },
         {
           "name": "LLM"
+        }
+      ],
+      "date": "2026-08-11"
+    },
+    {
+      "name": "loopx",
+      "author": "huangruiteng",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "link": "https://github.com/huangruiteng/loopx",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-08-11"
@@ -865,69 +895,9 @@
       "date": "2026-08-11"
     },
     {
-      "name": "reverse-skill",
-      "author": "zhaoxuya520",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "link": "https://github.com/zhaoxuya520/reverse-skill",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-08-11"
-    },
-    {
-      "name": "DeepSeek-Reasonix",
-      "author": "esengine",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "link": "https://github.com/esengine/DeepSeek-Reasonix",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-11"
-    },
-    {
-      "name": "lyogavin",
-      "author": "sponsors",
-      "description": "Agent Skills for Google products and technologies",
-      "link": "https://github.com/sponsors/lyogavin",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-11"
-    },
-    {
-      "name": "airllm",
-      "author": "lyogavin",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "link": "https://github.com/lyogavin/airllm",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-08-11"
-    },
-    {
       "name": "semantica-agi",
       "author": "sponsors",
-      "description": "A simple tool for coordinating several AI agents.",
+      "description": "Agent Skills for Google products and technologies",
       "link": "https://github.com/sponsors/semantica-agi",
       "stars": 0,
       "trend": 50,
@@ -940,10 +910,58 @@
       "date": "2026-08-11"
     },
     {
+      "name": "semantica",
+      "author": "semantica-agi",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "link": "https://github.com/semantica-agi/semantica",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-08-11"
+    },
+    {
       "name": "dependabot",
       "author": "apps",
-      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-08-11"
+    },
+    {
+      "name": "reverse-skill",
+      "author": "zhaoxuya520",
+      "description": "A simple tool for coordinating several AI agents.",
+      "link": "https://github.com/zhaoxuya520/reverse-skill",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-11"
+    },
+    {
+      "name": "DeepSeek-Reasonix",
+      "author": "esengine",
+      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+      "link": "https://github.com/esengine/DeepSeek-Reasonix",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -957,23 +975,8 @@
     {
       "name": "skills",
       "author": "google",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "link": "https://github.com/google/skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-11"
-    },
-    {
-      "name": "virgiliojr94",
-      "author": "sponsors",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "link": "https://github.com/sponsors/virgiliojr94",
+      "link": "https://github.com/google/skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -989,7 +992,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, wit",
+      "description": "Give your agent a computer 👾",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -998,13 +1001,23 @@
       "date": "2026-08-11"
     },
     {
+      "title": "开源项目: manifest.json",
+      "author": "@anonymous",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, wit",
+      "link": "https://github.com/manifest.json",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 4324,
+      "date": "2026-08-11"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "AirLLM 70B inference with single 4GB GPU",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Se",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 3045,
       "date": "2026-08-11"
@@ -1012,7 +1025,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -1021,14 +1034,25 @@
       "date": "2026-08-11"
     },
     {
-      "title": "开源项目: events",
+      "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "A simple tool for coordinating several AI agents.",
-      "link": "https://github.com/events",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
-      "likes": 2526,
+      "likes": 2046,
+      "date": "2026-08-11"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "A simple tool for coordinating several AI agents.",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-08-11"
     },
     {
@@ -1211,32 +1235,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-08-11"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
-      "date": "2026-08-11"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
       "date": "2026-08-11"
     }
   ],
