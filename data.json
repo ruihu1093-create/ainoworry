@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-11 20:54:51",
+  "updatedAt": "2026-08-11 21:41:22",
   "news": [
+    {
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI launches ChatGPT desktop app for Linux",
       "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
@@ -11,8 +20,8 @@
       "tagText": "资讯"
     },
     {
-      "title": "Google’s Gemini app surges to one billion users",
-      "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice fe",
       "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
       "source": "TechCrunch-AI",
       "date": "2026-08-11",
@@ -77,15 +86,6 @@
       "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
       "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
       "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" sy",
-      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
       "source": "TechCrunch-AI",
       "date": "2026-08-10",
       "tag": "trend",
