@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-08-11 16:56:19",
+  "updatedAt": "2026-08-11 17:55:07",
   "news": [
+    {
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "summary": "One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance t",
+      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
       "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the c",
@@ -70,24 +88,6 @@
       "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
       "source": "TechCrunch-AI",
       "date": "2026-08-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "summary": "The AI-focused hedge fund is still making some big bets.",
-      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-09",
       "tag": "trend",
       "tagText": "资讯"
     },
