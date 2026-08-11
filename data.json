@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-11 18:56:26",
+  "updatedAt": "2026-08-11 19:59:27",
   "news": [
+    {
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google’s Gemini app surges to one billion users",
       "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
@@ -77,15 +86,6 @@
       "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
       "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" sy",
       "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
       "source": "TechCrunch-AI",
       "date": "2026-08-10",
       "tag": "trend",
