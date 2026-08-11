@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-11 15:56:43",
+  "updatedAt": "2026-08-11 16:56:19",
   "news": [
+    {
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the c",
+      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
       "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, alg",
@@ -77,15 +86,6 @@
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
       "summary": "The AI-focused hedge fund is still making some big bets.",
       "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "summary": "Programming with Claude Code will soon require even less human oversight.",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
       "source": "TechCrunch-AI",
       "date": "2026-08-09",
       "tag": "trend",
@@ -650,15 +650,6 @@
       "title": "Foot Locker reinforces role in sneaker culture with new brand platform",
       "content": "Chief marketer Brett O&rsquo;Brien digs into the retailer&rsquo;s &ldquo;It Always Will Be Foot Locker&rdquo; creative, which arrives as the business begins to turn around.",
       "link": "https://www.retaildive.com/news/foot-locker-role-in-sneaker-culture-with-new-brand-platform/827324/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "AI is becoming retail’s operating system",
-      "content": "Retail&#39;s AI advantage won&#39;t come from chatbots. It will come from connected decisions.",
-      "link": "https://www.retaildive.com/spons/ai-is-becoming-retails-operating-system/826765/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
