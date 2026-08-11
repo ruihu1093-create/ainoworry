@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11 09:56:11",
+  "updatedAt": "2026-08-11 10:47:51",
   "news": [
     {
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "AI Is Dead. Organoids Are Alive",
+      "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
+      "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+      "source": "Wired-AI",
+      "date": "2026-08-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
       "summary": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research in",
       "link": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
@@ -149,15 +158,6 @@
       "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
       "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
       "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-      "source": "Wired-AI",
-      "date": "2026-08-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-      "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
-      "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
       "source": "Wired-AI",
       "date": "2026-08-07",
       "tag": "trend",
