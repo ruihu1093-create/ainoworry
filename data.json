@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12 04:02:31",
+  "updatedAt": "2026-08-12 06:09:55",
   "news": [
     {
       "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
@@ -921,23 +921,8 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
       "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-12"
-    },
-    {
-      "name": "reverse-skill",
-      "author": "zhaoxuya520",
-      "description": "A simple tool for coordinating several AI agents.",
-      "link": "https://github.com/zhaoxuya520/reverse-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -951,29 +936,47 @@
     {
       "name": "DeepSeek-Reasonix",
       "author": "esengine",
-      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+      "description": "A simple tool for coordinating several AI agents.",
       "link": "https://github.com/esengine/DeepSeek-Reasonix",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-08-12"
     },
     {
-      "name": "skills",
-      "author": "google",
+      "name": "vitali87",
+      "author": "sponsors",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "link": "https://github.com/google/skills",
+      "link": "https://github.com/sponsors/vitali87",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Vision"
+        }
+      ],
+      "date": "2026-08-12"
+    },
+    {
+      "name": "code-graph-rag",
+      "author": "vitali87",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "link": "https://github.com/vitali87/code-graph-rag",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "RAG"
         }
       ],
       "date": "2026-08-12"
@@ -1036,14 +1039,14 @@
       "date": "2026-08-12"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "A simple tool for coordinating several AI agents.",
-      "link": "https://github.com/sponsors/explore",
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
-      "likes": 7510,
+      "likes": 2526,
       "date": "2026-08-12"
     },
     {
