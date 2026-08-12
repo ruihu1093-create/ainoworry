@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-12 16:53:08",
+  "updatedAt": "2026-08-12 17:54:43",
   "news": [
+    {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how Amer",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capit",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app.",
+      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
       "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even ",
@@ -59,33 +86,6 @@
       "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
       "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
       "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice fe",
-      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance t",
-      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
       "source": "TechCrunch-AI",
       "date": "2026-08-11",
       "tag": "trend",
@@ -775,459 +775,189 @@
   ],
   "github": [
     {
-      "name": "open-webui",
-      "author": "open-webui",
-      "description": "用户友好的AI聊天界面，支持Ollama、OpenAI等多种大模型后端本地部署",
-      "link": "https://github.com/open-webui/open-webui",
-      "stars": 89000,
-      "trend": 1200,
-      "forks": 8900,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "UI"
-        }
-      ],
-      "icon": "🌐",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "ollama",
-      "author": "ollama",
-      "description": "本地运行Llama、Mistral、Gemma等大模型最简便方式，一行命令启动",
-      "link": "https://github.com/ollama/ollama",
-      "stars": 128000,
-      "trend": 2300,
-      "forks": 11200,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Local"
-        }
-      ],
-      "icon": "🦙",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "dify",
-      "author": "langgenius",
-      "description": "开源LLM应用开发平台，可视化AI工作流编排与RAG管道构建",
-      "link": "https://github.com/langgenius/dify",
-      "stars": 82000,
-      "trend": 980,
-      "forks": 12100,
+      "name": "explore",
+      "author": "sponsors",
+      "description": "Give your agent a computer 👾",
+      "link": "https://github.com/sponsors/explore",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "RAG"
         }
       ],
-      "icon": "⚡",
       "date": "2026-08-12"
     },
     {
-      "name": "ComfyUI",
-      "author": "comfyanonymous",
-      "description": "强大的节点式图像AI生成工作流工具，支持SD、Flux等各类模型",
-      "link": "https://github.com/comfyanonymous/ComfyUI",
-      "stars": 65000,
-      "trend": 750,
-      "forks": 7300,
+      "name": "developers",
+      "author": "trending",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "link": "https://github.com/trending/developers",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
       "tags": [
-        {
-          "name": "Image"
-        },
         {
           "name": "AI"
         }
       ],
-      "icon": "🎨",
       "date": "2026-08-12"
     },
     {
-      "name": "langchain",
-      "author": "langchain-ai",
-      "description": "构建LLM应用程序的核心框架，提供链式调用与Agent工具集成",
-      "link": "https://github.com/langchain-ai/langchain",
-      "stars": 96000,
-      "trend": 600,
-      "forks": 16000,
+      "name": "computer",
+      "author": "cloudflare",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "link": "https://github.com/cloudflare/computer",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-08-12"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-12"
+    },
+    {
+      "name": "semantica",
+      "author": "semantica-agi",
+      "description": "Agent Skills for Google products and technologies",
+      "link": "https://github.com/semantica-agi/semantica",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-12"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
       "tags": [
         {
           "name": "LLM"
         },
-        {
-          "name": "Agent"
-        }
-      ],
-      "icon": "🔗",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "lobe-chat",
-      "author": "lobehub",
-      "description": "开源高性能AI聊天框架，支持多模型、插件系统与私有化部署",
-      "link": "https://github.com/lobehub/lobe-chat",
-      "stars": 51000,
-      "trend": 830,
-      "forks": 5600,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "UI"
-        }
-      ],
-      "icon": "💬",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "AutoGPT",
-      "author": "Significant-Gravitas",
-      "description": "自主AI代理平台，让GPT模型自动拆解任务并持续执行，Agent鼻祖项目",
-      "link": "https://github.com/Significant-Gravitas/AutoGPT",
-      "stars": 170000,
-      "trend": 500,
-      "forks": 44000,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Auto"
-        }
-      ],
-      "icon": "🤖",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "vllm",
-      "author": "vllm-project",
-      "description": "高吞吐量LLM推理引擎，PagedAttention大幅提升GPU利用率与并发能力",
-      "link": "https://github.com/vllm-project/vllm",
-      "stars": 40000,
-      "trend": 920,
-      "forks": 6100,
-      "tags": [
-        {
-          "name": "Inference"
-        },
-        {
-          "name": "GPU"
-        }
-      ],
-      "icon": "🚀",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "stable-diffusion-webui",
-      "author": "AUTOMATIC1111",
-      "description": "Stable Diffusion Web界面，图像生成神器，支持海量LoRA和插件",
-      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "stars": 145000,
-      "trend": 500,
-      "forks": 28000,
-      "tags": [
-        {
-          "name": "Image"
-        },
-        {
-          "name": "SD"
-        }
-      ],
-      "icon": "🌈",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "n8n",
-      "author": "n8n-io",
-      "description": "公平开源工作流自动化工具，支持AI集成，可自托管，支持500+应用",
-      "link": "https://github.com/n8n-io/n8n",
-      "stars": 48000,
-      "trend": 1100,
-      "forks": 7200,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Automation"
-        }
-      ],
-      "icon": "🔄",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "LocalAI",
-      "author": "mudler",
-      "description": "免费开源的OpenAI API替代方案，支持本地运行各类LLM、图像、音频",
-      "link": "https://github.com/mudler/LocalAI",
-      "stars": 27000,
-      "trend": 650,
-      "forks": 3100,
-      "tags": [
-        {
-          "name": "Local"
-        },
-        {
-          "name": "API"
-        }
-      ],
-      "icon": "🏠",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "Flowise",
-      "author": "FlowiseAI",
-      "description": "拖拽式LangChain可视化构建工具，快速搭建AI应用无需写代码",
-      "link": "https://github.com/FlowiseAI/Flowise",
-      "stars": 33000,
-      "trend": 780,
-      "forks": 4200,
-      "tags": [
         {
           "name": "RAG"
-        },
-        {
-          "name": "UI"
         }
       ],
-      "icon": "🌊",
       "date": "2026-08-12"
     },
     {
-      "name": "llama.cpp",
-      "author": "ggerganov",
-      "description": "C++实现的LLaMA推理引擎，支持CPU运行大模型，移动设备也可跑",
-      "link": "https://github.com/ggerganov/llama.cpp",
-      "stars": 72000,
-      "trend": 820,
-      "forks": 10500,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "CPU"
-        }
-      ],
-      "icon": "🦙",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "openai-cookbook",
-      "author": "openai",
-      "description": "OpenAI官方示例和最佳实践，涵盖各类API用法和Prompt工程技巧",
-      "link": "https://github.com/openai/openai-cookbook",
-      "stars": 60000,
-      "trend": 400,
-      "forks": 9700,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Prompt"
-        }
-      ],
-      "icon": "📖",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "haystack",
-      "author": "deepset-ai",
-      "description": "企业级RAG和搜索框架，支持多种向量数据库和LLM后端",
-      "link": "https://github.com/deepset-ai/haystack",
-      "stars": 17000,
-      "trend": 320,
-      "forks": 1900,
-      "tags": [
-        {
-          "name": "RAG"
-        },
-        {
-          "name": "Search"
-        }
-      ],
-      "icon": "🔍",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "mem0",
-      "author": "mem0ai",
-      "description": "AI应用的记忆层，让LLM跨对话保持用户个性化记忆，构建更智能Agent",
-      "link": "https://github.com/mem0ai/mem0",
-      "stars": 23000,
-      "trend": 1500,
-      "forks": 2800,
+      "name": "TencentDB-Agent-Memory",
+      "author": "TencentCloud",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "Memory"
         }
       ],
-      "icon": "🧠",
       "date": "2026-08-12"
     },
     {
-      "name": "instructor",
-      "author": "jxnl",
-      "description": "结构化LLM输出库，让AI返回符合Pydantic格式的数据，减少幻觉",
-      "link": "https://github.com/jxnl/instructor",
-      "stars": 9800,
-      "trend": 460,
-      "forks": 780,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Python"
-        }
-      ],
-      "icon": "📋",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "agentops",
-      "author": "AgentOps-AI",
-      "description": "AI Agent可观测性平台，追踪LLM调用、成本和性能，调试Agent必备",
-      "link": "https://github.com/AgentOps-AI/agentops",
-      "stars": 3200,
-      "trend": 280,
-      "forks": 310,
+      "name": "loopx",
+      "author": "huangruiteng",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "link": "https://github.com/huangruiteng/loopx",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "Monitor"
         }
       ],
-      "icon": "📊",
       "date": "2026-08-12"
     },
     {
-      "name": "chatbot-ui",
-      "author": "mckaywrigley",
-      "description": "开源ChatGPT UI，支持自定义API Key和模型切换，轻量易部署",
-      "link": "https://github.com/mckaywrigley/chatbot-ui",
-      "stars": 28000,
-      "trend": 350,
-      "forks": 7800,
+      "name": "vitali87",
+      "author": "sponsors",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "link": "https://github.com/sponsors/vitali87",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
       "tags": [
-        {
-          "name": "UI"
-        },
-        {
-          "name": "LLM"
-        }
-      ],
-      "icon": "💬",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "anything-llm",
-      "author": "Mintplex-Labs",
-      "description": "全功能私有AI助手，支持文档、网页、数据库作为知识库，一键自托管",
-      "link": "https://github.com/Mintplex-Labs/anything-llm",
-      "stars": 31000,
-      "trend": 880,
-      "forks": 3400,
-      "tags": [
-        {
-          "name": "RAG"
-        },
-        {
-          "name": "Private"
-        }
-      ],
-      "icon": "🔒",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "FastGPT",
-      "author": "labring",
-      "description": "基于LLM的知识库问答系统，支持多轮对话和工作流编排，国产精品",
-      "link": "https://github.com/labring/FastGPT",
-      "stars": 21000,
-      "trend": 720,
-      "forks": 5600,
-      "tags": [
-        {
-          "name": "RAG"
-        },
-        {
-          "name": "Chinese"
-        }
-      ],
-      "icon": "⚡",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "screenshot-to-code",
-      "author": "abi",
-      "description": "截图一键生成HTML/CSS代码，支持Tailwind和多种前端框架",
-      "link": "https://github.com/abi/screenshot-to-code",
-      "stars": 65000,
-      "trend": 1100,
-      "forks": 7900,
-      "tags": [
-        {
-          "name": "Code"
-        },
         {
           "name": "Vision"
         }
       ],
-      "icon": "📸",
       "date": "2026-08-12"
     },
     {
-      "name": "CrewAI",
-      "author": "crewAIInc",
-      "description": "多Agent协作框架，定义角色和任务让多个AI Agent团队协作完成复杂工作",
-      "link": "https://github.com/crewAIInc/crewAI",
-      "stars": 26000,
-      "trend": 1800,
-      "forks": 3600,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Multi"
-        }
-      ],
-      "icon": "👥",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "graphrag",
-      "author": "microsoft",
-      "description": "Microsoft图检索增强生成框架，知识图谱+LLM实现更深层次文档理解",
-      "link": "https://github.com/microsoft/graphrag",
-      "stars": 22000,
-      "trend": 950,
-      "forks": 2100,
+      "name": "code-graph-rag",
+      "author": "vitali87",
+      "description": "Truly independent web browser",
+      "link": "https://github.com/vitali87/code-graph-rag",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
       "tags": [
         {
           "name": "RAG"
-        },
-        {
-          "name": "Graph"
         }
       ],
-      "icon": "🕸️",
+      "date": "2026-08-12"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-12"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "The authentication glue you need.",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
       "date": "2026-08-12"
     }
   ],
