@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-12 21:39:58",
+  "updatedAt": "2026-08-12 22:35:22",
   "news": [
+    {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
       "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
@@ -77,15 +86,6 @@
       "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
       "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even ",
       "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
       "source": "TechCrunch-AI",
       "date": "2026-08-12",
       "tag": "trend",
