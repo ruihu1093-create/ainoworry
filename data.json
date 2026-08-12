@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12 09:57:31",
+  "updatedAt": "2026-08-12 11:00:36",
   "news": [
     {
       "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
@@ -92,6 +92,24 @@
       "tagText": "资讯"
     },
     {
+      "title": "The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
+      "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
+      "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
+      "source": "Wired-AI",
+      "date": "2026-08-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+      "summary": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
+      "link": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+      "source": "Wired-AI",
+      "date": "2026-08-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "You’re Thinking About Online Trends All Wrong",
       "summary": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things ",
       "link": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
       "source": "Wired-AI",
       "date": "2026-08-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Rise of the 1 am Job Interview",
-      "summary": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—e",
-      "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
-      "source": "Wired-AI",
-      "date": "2026-08-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
-      "summary": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
-      "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
-      "source": "Wired-AI",
-      "date": "2026-08-09",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -801,23 +801,23 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-08-12"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
+      "name": "computer",
+      "author": "cloudflare",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "link": "https://github.com/apps/dependabot",
+      "link": "https://github.com/cloudflare/computer",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -832,55 +832,10 @@
       "date": "2026-08-12"
     },
     {
-      "name": "loopx",
-      "author": "huangruiteng",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "link": "https://github.com/huangruiteng/loopx",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-12"
-    },
-    {
-      "name": "pdf-inspector",
-      "author": "firecrawl",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "link": "https://github.com/firecrawl/pdf-inspector",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-12"
-    },
-    {
-      "name": "TencentDB-Agent-Memory",
-      "author": "TencentCloud",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-12"
-    },
-    {
-      "name": "semantica-agi",
-      "author": "sponsors",
-      "description": "Agent Skills for Google products and technologies",
-      "link": "https://github.com/sponsors/semantica-agi",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -894,8 +849,23 @@
     {
       "name": "semantica",
       "author": "semantica-agi",
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "description": "Agent Skills for Google products and technologies",
       "link": "https://github.com/semantica-agi/semantica",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-12"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -910,10 +880,10 @@
       "date": "2026-08-12"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
-      "link": "https://github.com/apps/dependabot",
+      "name": "TencentDB-Agent-Memory",
+      "author": "TencentCloud",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -925,10 +895,10 @@
       "date": "2026-08-12"
     },
     {
-      "name": "DeepSeek-Reasonix",
-      "author": "esengine",
-      "description": "A simple tool for coordinating several AI agents.",
-      "link": "https://github.com/esengine/DeepSeek-Reasonix",
+      "name": "loopx",
+      "author": "huangruiteng",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "link": "https://github.com/huangruiteng/loopx",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -957,17 +927,44 @@
     {
       "name": "code-graph-rag",
       "author": "vitali87",
-      "description": "AirLLM 70B inference with single 4GB GPU",
+      "description": "Truly independent web browser",
       "link": "https://github.com/vitali87/code-graph-rag",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
-        },
-        {
           "name": "RAG"
+        }
+      ],
+      "date": "2026-08-12"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-12"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "The authentication glue you need.",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-08-12"
@@ -988,7 +985,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, wit",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -999,7 +996,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Se",
+      "description": "Agent Skills for Google products and technologies",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -1010,7 +1007,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -1021,23 +1018,12 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
       "likes": 2046,
-      "date": "2026-08-12"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
       "date": "2026-08-12"
     },
     {
@@ -1220,6 +1206,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-08-12"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-08-12"
     }
   ],
