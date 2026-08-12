@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-08-12 12:58:20",
+  "updatedAt": "2026-08-12 14:21:13",
   "news": [
+    {
+      "title": "Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
+      "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
+      "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
       "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
@@ -70,24 +88,6 @@
       "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
       "source": "TechCrunch-AI",
       "date": "2026-08-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "summary": "San Francisco's housing market is in trouble again.",
-      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-10",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -632,15 +632,6 @@
       "title": "DXL board chair steps in for CEO as challenges mount",
       "content": "The big-and-tall men&rsquo;s retailer is mulling a merger, fighting off a takeover offer and grappling with weight-loss drugs&rsquo; impact on its business.",
       "link": "https://www.retaildive.com/news/dxl-board-chair-takes-over-ceo-retires-challenges-mount/827407/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Foot Locker reinforces role in sneaker culture with new brand platform",
-      "content": "Chief marketer Brett O&rsquo;Brien digs into the retailer&rsquo;s &ldquo;It Always Will Be Foot Locker&rdquo; creative, which arrives as the business begins to turn around.",
-      "link": "https://www.retaildive.com/news/foot-locker-role-in-sneaker-culture-with-new-brand-platform/827324/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
