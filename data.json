@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12 08:12:46",
+  "updatedAt": "2026-08-12 09:57:31",
   "news": [
     {
       "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "You’re Thinking About Online Trends All Wrong",
+      "summary": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things ",
+      "link": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
+      "source": "Wired-AI",
+      "date": "2026-08-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
       "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another partici",
       "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
@@ -149,15 +158,6 @@
       "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
       "summary": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
       "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
-      "source": "Wired-AI",
-      "date": "2026-08-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
-      "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-",
-      "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
       "source": "Wired-AI",
       "date": "2026-08-09",
       "tag": "trend",
@@ -627,15 +627,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-08-11"
-    },
-    {
-      "title": "美国本土直播带货，长出一头 200 亿美元「巨兽」",
-      "content": "作者｜Wildcard\n编辑｜靖宇",
-      "link": "http://www.geekpark.net/news/368627",
-      "source": "极客公园",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-08-10"
     },
     {
       "title": "DXL board chair steps in for CEO as challenges mount",
