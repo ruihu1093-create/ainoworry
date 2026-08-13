@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13 22:36:15",
+  "updatedAt": "2026-08-13 23:36:02",
   "news": [
     {
       "title": "Writer introduces new AI model and upgraded harness to contain token costs",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "The Safety Reckoning Inside OpenAI",
+      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+      "source": "Wired-AI",
+      "date": "2026-08-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
       "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat ",
       "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
@@ -149,15 +158,6 @@
       "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
       "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another partici",
       "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
-      "source": "Wired-AI",
-      "date": "2026-08-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A New Trick Reveals AI Models’ Inner Thoughts",
-      "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be",
-      "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
       "source": "Wired-AI",
       "date": "2026-08-11",
       "tag": "trend",
