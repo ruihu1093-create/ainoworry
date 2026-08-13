@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-13 16:52:23",
+  "updatedAt": "2026-08-13 17:54:11",
   "news": [
+    {
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
       "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its ",
@@ -68,15 +77,6 @@
       "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
       "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
       "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even ",
-      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
       "source": "TechCrunch-AI",
       "date": "2026-08-12",
       "tag": "trend",
