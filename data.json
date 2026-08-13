@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-13 17:54:11",
+  "updatedAt": "2026-08-13 18:56:43",
   "news": [
+    {
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests c",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI hires new CRO as executive shake-up continues",
       "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
@@ -68,15 +77,6 @@
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
       "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capit",
       "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
-      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
       "source": "TechCrunch-AI",
       "date": "2026-08-12",
       "tag": "trend",
