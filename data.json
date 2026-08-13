@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13 08:16:35",
+  "updatedAt": "2026-08-13 09:59:37",
   "news": [
     {
       "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+      "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the con",
+      "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+      "source": "Wired-AI",
+      "date": "2026-08-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The White House Is Going to Expand Its AI Policy",
       "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technolog",
       "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
@@ -149,15 +158,6 @@
       "title": "A New Trick Reveals AI Models’ Inner Thoughts",
       "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be",
       "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
-      "source": "Wired-AI",
-      "date": "2026-08-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Is Dead. Organoids Are Alive",
-      "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
-      "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
       "source": "Wired-AI",
       "date": "2026-08-11",
       "tag": "trend",
