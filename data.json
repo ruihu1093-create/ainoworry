@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14 20:25:59",
+  "updatedAt": "2026-08-14 21:20:35",
   "news": [
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+      "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
+      "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+      "source": "Wired-AI",
+      "date": "2026-08-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
       "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
       "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
@@ -149,15 +158,6 @@
       "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
       "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
       "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
-      "source": "Wired-AI",
-      "date": "2026-08-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
-      "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
-      "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
       "source": "Wired-AI",
       "date": "2026-08-12",
       "tag": "trend",
