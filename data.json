@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-14 15:45:55",
+  "updatedAt": "2026-08-14 16:48:43",
   "news": [
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
       "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#1",
@@ -68,15 +77,6 @@
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
       "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests ",
       "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Raj",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
       "source": "TechCrunch-AI",
       "date": "2026-08-13",
       "tag": "trend",
