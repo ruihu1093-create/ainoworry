@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-15 17:16:37",
+  "updatedAt": "2026-08-15 18:26:22",
   "news": [
+    {
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
       "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
@@ -68,15 +77,6 @@
       "title": "IBM partners with OpenAI to bolster enterprise AI push",
       "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
       "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests ",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "source": "TechCrunch-AI",
       "date": "2026-08-13",
       "tag": "trend",
