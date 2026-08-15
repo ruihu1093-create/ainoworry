@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15 08:21:35",
+  "updatedAt": "2026-08-15 09:21:19",
   "news": [
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+      "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first pla",
+      "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+      "source": "Wired-AI",
+      "date": "2026-08-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
       "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
       "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
@@ -149,15 +158,6 @@
       "title": "The White House Is Going to Expand Its AI Policy",
       "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technolog",
       "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
-      "source": "Wired-AI",
-      "date": "2026-08-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
-      "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
-      "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
       "source": "Wired-AI",
       "date": "2026-08-12",
       "tag": "trend",
@@ -918,7 +918,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "description": "Provider-neutral control plane for long-horizon AI agent work across Codex, Claude Code, and other harnesses, with durable goals, typed todos, evidence, gates, quota, recovery, and verifiable handoffs.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
