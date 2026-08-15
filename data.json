@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15 10:17:27",
+  "updatedAt": "2026-08-15 11:15:40",
   "news": [
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
@@ -759,14 +759,14 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-08-15"
@@ -787,10 +787,10 @@
       "date": "2026-08-15"
     },
     {
-      "name": "prime-agent",
-      "author": "PrimeIntellect-ai",
-      "description": "Agent Skills for Google products and technologies",
-      "link": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "name": "diagram-design",
+      "author": "cathrynlavery",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "link": "https://github.com/cathrynlavery/diagram-design",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -802,10 +802,40 @@
       "date": "2026-08-15"
     },
     {
+      "name": "semantica-agi",
+      "author": "sponsors",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "link": "https://github.com/sponsors/semantica-agi",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-08-15"
+    },
+    {
       "name": "semantica",
       "author": "semantica-agi",
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "link": "https://github.com/semantica-agi/semantica",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-08-15"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -820,40 +850,40 @@
       "date": "2026-08-15"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "link": "https://github.com/apps/dependabot",
+      "name": "prime-agent",
+      "author": "PrimeIntellect-ai",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "link": "https://github.com/PrimeIntellect-ai/prime-agent",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-08-15"
     },
     {
-      "name": "skills",
-      "author": "google",
-      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
-      "link": "https://github.com/google/skills",
+      "name": "holehe",
+      "author": "megadose",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "link": "https://github.com/megadose/holehe",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "Agent"
         }
       ],
       "date": "2026-08-15"
     },
     {
-      "name": "celld",
-      "author": "denoland",
-      "description": "Give your agent a computer 👾",
-      "link": "https://github.com/denoland/celld",
+      "name": "Switchyard",
+      "author": "NVIDIA-NeMo",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "link": "https://github.com/NVIDIA-NeMo/Switchyard",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -867,23 +897,8 @@
     {
       "name": "vitali87",
       "author": "sponsors",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/sponsors/vitali87",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-15"
-    },
-    {
-      "name": "code-graph-rag",
-      "author": "vitali87",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "link": "https://github.com/vitali87/code-graph-rag",
+      "link": "https://github.com/sponsors/vitali87",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -893,6 +908,21 @@
         },
         {
           "name": "LLM"
+        }
+      ],
+      "date": "2026-08-15"
+    },
+    {
+      "name": "code-graph-rag",
+      "author": "vitali87",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "link": "https://github.com/vitali87/code-graph-rag",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         },
         {
           "name": "RAG"
@@ -901,24 +931,9 @@
       "date": "2026-08-15"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-15"
-    },
-    {
       "name": "dependabot",
       "author": "apps",
-      "description": "Provider-neutral control plane for long-horizon AI agent work across Codex, Claude Code, and other harnesses, with durable goals, typed todos, evidence, gates, quota, recovery, and verifiable handoffs.",
+      "description": "Give your agent a computer 👾",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -929,28 +944,13 @@
         }
       ],
       "date": "2026-08-15"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-15"
     }
   ],
   "agents": [
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -972,7 +972,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten pa",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -983,12 +983,10 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling f",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub",
-        "GPT-4",
-        "LLM"
+        "GitHub"
       ],
       "likes": 1697,
       "date": "2026-08-15"
@@ -996,7 +994,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applicat",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1018,7 +1016,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
