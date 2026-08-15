@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-15 18:26:22",
+  "updatedAt": "2026-08-15 19:17:55",
   "news": [
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "SpaceX officially closes its Cursor acquisition",
       "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
@@ -68,15 +77,6 @@
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
       "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
       "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
       "source": "TechCrunch-AI",
       "date": "2026-08-13",
       "tag": "trend",
