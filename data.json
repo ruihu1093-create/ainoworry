@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-16 16:18:47",
+  "updatedAt": "2026-08-16 17:15:20",
   "news": [
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
@@ -68,15 +77,6 @@
       "title": "Writer introduces new AI model and upgraded harness to contain token costs",
       "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a m",
       "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
       "source": "TechCrunch-AI",
       "date": "2026-08-13",
       "tag": "trend",
