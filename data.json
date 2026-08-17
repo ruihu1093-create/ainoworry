@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17 20:20:26",
+  "updatedAt": "2026-08-17 21:21:17",
   "news": [
     {
       "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
@@ -30,7 +30,7 @@
     },
     {
       "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "summary": "Wispr’s total funding is now over $361 million.",
+      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
       "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
       "source": "TechCrunch-AI",
       "date": "2026-08-17",
@@ -620,9 +620,9 @@
   ],
   "ecommerce": [
     {
-      "title": "A new community for the people modernizing complex B2B commerce",
-      "content": "A new commerce leadership community with a bold take on B2B ecommerce.",
-      "link": "https://www.retaildive.com/spons/a-new-community-for-the-people-modernizing-complex-b2b-commerce/827937/",
+      "title": "Why retail’s biggest AI assumption is wrong",
+      "content": "Brand equity and marketing spend don&#39;t guarantee AI visibility. Structure does.",
+      "link": "https://www.retaildive.com/spons/why-retails-biggest-ai-assumption-is-wrong/826404/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
@@ -638,9 +638,9 @@
       "date": "2026-08-17"
     },
     {
-      "title": "Why retail’s biggest AI assumption is wrong",
-      "content": "Brand equity and marketing spend don&#39;t guarantee AI visibility. Structure does.",
-      "link": "https://www.retaildive.com/spons/why-retails-biggest-ai-assumption-is-wrong/826404/",
+      "title": "A new community for the people modernizing complex B2B commerce",
+      "content": "A new commerce leadership community with a bold take on B2B ecommerce.",
+      "link": "https://www.retaildive.com/spons/a-new-community-for-the-people-modernizing-complex-b2b-commerce/827937/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
@@ -786,7 +786,7 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
@@ -980,7 +980,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
