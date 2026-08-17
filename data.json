@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17 08:37:03",
+  "updatedAt": "2026-08-17 09:36:17",
   "news": [
     {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
@@ -619,6 +619,33 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "Why retail’s biggest AI assumption is wrong",
+      "content": "Brand equity and marketing spend don&#39;t guarantee AI visibility. Structure does.",
+      "link": "https://www.retaildive.com/spons/why-retails-biggest-ai-assumption-is-wrong/826404/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Why retailers are making EDI compliance non-negotiable for vendors in 2026",
+      "content": "Your vendors&#39; EDI problems are your supply chain problems. Here&#39;s what&#39;s changing.",
+      "link": "https://www.retaildive.com/spons/why-retailers-are-making-edi-compliance-non-negotiable-for-vendors-in-2026/827304/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "A new community for the people modernizing complex B2B commerce",
+      "content": "A new commerce leadership community with a bold take on B2B ecommerce.",
+      "link": "https://www.retaildive.com/spons/a-new-community-for-the-people-modernizing-complex-b2b-commerce/827937/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-17"
+    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
