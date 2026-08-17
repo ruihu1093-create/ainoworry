@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-17 14:22:19",
+  "updatedAt": "2026-08-17 15:20:27",
   "news": [
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
       "summary": "Wispr’s total funding is now over $361 million.",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
       "source": "Wired-AI",
       "date": "2026-08-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The White House Is Going to Expand Its AI Policy",
-      "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technolog",
-      "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
-      "source": "Wired-AI",
-      "date": "2026-08-12",
       "tag": "trend",
       "tagText": "资讯"
     },
