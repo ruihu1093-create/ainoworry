@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-17 16:21:38",
+  "updatedAt": "2026-08-17 17:22:08",
   "news": [
+    {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
       "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data cent",
@@ -79,15 +88,6 @@
       "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
       "source": "TechCrunch-AI",
       "date": "2026-08-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-14",
       "tag": "trend",
       "tagText": "资讯"
     },
