@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-17 12:34:36",
+  "updatedAt": "2026-08-17 13:35:30",
   "news": [
+    {
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "summary": "Wispr’s total funding is now over $361 million.",
+      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
@@ -68,15 +77,6 @@
       "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
       "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#1",
       "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
       "source": "TechCrunch-AI",
       "date": "2026-08-14",
       "tag": "trend",
