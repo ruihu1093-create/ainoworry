@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-18 21:18:45",
+  "updatedAt": "2026-08-18 22:17:31",
   "news": [
+    {
+      "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code hosting platform to rival developers' long preferred favorite, Github.",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI institutes new safeguards after Hugging Face breach",
       "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security du",
@@ -77,15 +86,6 @@
       "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
       "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
       "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data cent",
-      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
       "source": "TechCrunch-AI",
       "date": "2026-08-17",
       "tag": "trend",
@@ -623,15 +623,6 @@
       "title": "TikTok explores peer-to-peer payments via DMs, report says",
       "content": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
       "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "Peacock is raising prices across all of its streaming plans",
-      "content": "\"These price changes allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content across all genres,\" the company wrote on",
-      "link": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
