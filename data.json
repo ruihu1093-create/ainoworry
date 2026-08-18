@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18 08:30:44",
+  "updatedAt": "2026-08-18 09:27:30",
   "news": [
     {
       "title": "Anthropic’s annualized revenue surges to $65B",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
+      "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
+      "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+      "source": "Wired-AI",
+      "date": "2026-08-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
       "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first pla",
       "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
@@ -149,15 +158,6 @@
       "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
       "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat ",
       "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
-      "source": "Wired-AI",
-      "date": "2026-08-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
-      "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the con",
-      "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
       "source": "Wired-AI",
       "date": "2026-08-13",
       "tag": "trend",
