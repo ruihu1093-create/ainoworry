@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18 16:25:17",
+  "updatedAt": "2026-08-18 17:22:05",
   "news": [
     {
       "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "Peacock is raising prices across all of its streaming plans",
+      "content": "\"These price changes allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content across all genres,\" the company wrote on",
+      "link": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-18"
+    },
     {
       "title": "Pros continue to outperform DIY shoppers at Home Depot",
       "content": "The segment is still the &ldquo;clearest opportunity to drive growth&rdquo; at the home improvement retailer even as it beat its own expectations in Q2.",
