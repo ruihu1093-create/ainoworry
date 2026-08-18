@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-08-18 17:22:05",
+  "updatedAt": "2026-08-18 18:31:01",
   "news": [
+    {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security du",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
       "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
@@ -68,24 +86,6 @@
       "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
       "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data cent",
       "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
-      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
       "source": "TechCrunch-AI",
       "date": "2026-08-17",
       "tag": "trend",
