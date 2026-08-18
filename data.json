@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18 18:31:01",
+  "updatedAt": "2026-08-18 19:23:24",
   "news": [
     {
       "title": "OpenAI institutes new safeguards after Hugging Face breach",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+      "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training ",
+      "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+      "source": "Wired-AI",
+      "date": "2026-08-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
       "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
       "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
@@ -149,15 +158,6 @@
       "title": "The Safety Reckoning Inside OpenAI",
       "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
       "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-      "source": "Wired-AI",
-      "date": "2026-08-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
-      "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat ",
-      "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
       "source": "Wired-AI",
       "date": "2026-08-13",
       "tag": "trend",
