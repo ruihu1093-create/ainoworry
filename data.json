@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18 19:23:24",
+  "updatedAt": "2026-08-18 20:17:45",
   "news": [
     {
       "title": "OpenAI institutes new safeguards after Hugging Face breach",
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "TikTok explores peer-to-peer payments via DMs, report says",
+      "content": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+      "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-18"
+    },
     {
       "title": "Peacock is raising prices across all of its streaming plans",
       "content": "\"These price changes allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content across all genres,\" the company wrote on",
