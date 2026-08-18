@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18 10:23:12",
+  "updatedAt": "2026-08-18 11:20:37",
   "news": [
     {
       "title": "Anthropic’s annualized revenue surges to $65B",
@@ -620,9 +620,9 @@
   ],
   "ecommerce": [
     {
-      "title": "Why retail’s biggest AI assumption is wrong",
-      "content": "Brand equity and marketing spend don&#39;t guarantee AI visibility. Structure does.",
-      "link": "https://www.retaildive.com/spons/why-retails-biggest-ai-assumption-is-wrong/826404/",
+      "title": "A new community for the people modernizing complex B2B commerce",
+      "content": "A new commerce leadership community with a bold take on B2B ecommerce.",
+      "link": "https://www.retaildive.com/spons/a-new-community-for-the-people-modernizing-complex-b2b-commerce/827937/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
@@ -638,9 +638,9 @@
       "date": "2026-08-17"
     },
     {
-      "title": "A new community for the people modernizing complex B2B commerce",
-      "content": "A new commerce leadership community with a bold take on B2B ecommerce.",
-      "link": "https://www.retaildive.com/spons/a-new-community-for-the-people-modernizing-complex-b2b-commerce/827937/",
+      "title": "Why retail’s biggest AI assumption is wrong",
+      "content": "Brand equity and marketing spend don&#39;t guarantee AI visibility. Structure does.",
+      "link": "https://www.retaildive.com/spons/why-retails-biggest-ai-assumption-is-wrong/826404/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
@@ -844,21 +844,6 @@
       "date": "2026-08-18"
     },
     {
-      "name": "semantica",
-      "author": "semantica-agi",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "link": "https://github.com/semantica-agi/semantica",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-18"
-    },
-    {
       "name": "dependabot",
       "author": "apps",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
@@ -876,7 +861,7 @@
     {
       "name": "needle",
       "author": "cactus-compute",
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "link": "https://github.com/cactus-compute/needle",
       "stars": 0,
       "trend": 50,
@@ -886,7 +871,7 @@
           "name": "LLM"
         },
         {
-          "name": "RAG"
+          "name": "Vision"
         }
       ],
       "date": "2026-08-18"
@@ -894,41 +879,38 @@
     {
       "name": "holehe",
       "author": "megadose",
-      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
       "link": "https://github.com/megadose/holehe",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
-        },
-        {
           "name": "Vision"
         }
       ],
       "date": "2026-08-18"
     },
     {
-      "name": "prime-agent",
-      "author": "PrimeIntellect-ai",
-      "description": "Animation engine for explanatory math videos",
-      "link": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "name": "omarchy",
+      "author": "basecamp",
+      "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+      "link": "https://github.com/basecamp/omarchy",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-08-18"
     },
     {
-      "name": "vitali87",
+      "name": "unslothai",
       "author": "sponsors",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/sponsors/vitali87",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "link": "https://github.com/sponsors/unslothai",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -940,37 +922,49 @@
       "date": "2026-08-18"
     },
     {
-      "name": "code-graph-rag",
-      "author": "vitali87",
-      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
-      "link": "https://github.com/vitali87/code-graph-rag",
+      "name": "unsloth",
+      "author": "unslothai",
+      "description": "Animation engine for explanatory math videos",
+      "link": "https://github.com/unslothai/unsloth",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-08-18"
+    },
+    {
+      "name": "pre-commit-ci",
+      "author": "apps",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "link": "https://github.com/apps/pre-commit-ci",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Audio"
+        }
+      ],
+      "date": "2026-08-18"
+    },
+    {
+      "name": "lightningpixel",
+      "author": "sponsors",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "link": "https://github.com/sponsors/lightningpixel",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        },
         {
           "name": "RAG"
-        },
-        {
-          "name": "Vision"
-        }
-      ],
-      "date": "2026-08-18"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "LLM"
         }
       ],
       "date": "2026-08-18"
@@ -1013,10 +1007,11 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 1697,
       "date": "2026-08-18"
@@ -1024,7 +1019,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
