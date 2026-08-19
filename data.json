@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19 08:31:30",
+  "updatedAt": "2026-08-19 09:28:51",
   "news": [
     {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+      "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confir",
+      "link": "https://www.wired.com/story/flock-safety-os-investigate/",
+      "source": "Wired-AI",
+      "date": "2026-08-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
       "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training ",
       "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
       "source": "Wired-AI",
       "date": "2026-08-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Safety Reckoning Inside OpenAI",
-      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
-      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-      "source": "Wired-AI",
-      "date": "2026-08-13",
       "tag": "trend",
       "tagText": "资讯"
     },
