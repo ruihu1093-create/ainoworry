@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19 19:20:49",
+  "updatedAt": "2026-08-19 20:20:57",
   "news": [
     {
       "title": "AI was supposed to win people over by now — it hasn’t",
@@ -21,7 +21,7 @@
     },
     {
       "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "summary": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer g",
+      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to co",
       "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
       "source": "TechCrunch-AI",
       "date": "2026-08-19",
@@ -79,6 +79,15 @@
       "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
       "source": "TechCrunch-AI",
       "date": "2026-08-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+      "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+      "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+      "source": "Wired-AI",
+      "date": "2026-08-19",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
       "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve ma",
       "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
-      "source": "Wired-AI",
-      "date": "2026-08-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
-      "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
-      "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
       "source": "Wired-AI",
       "date": "2026-08-14",
       "tag": "trend",
