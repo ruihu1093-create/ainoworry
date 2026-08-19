@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19 13:39:55",
+  "updatedAt": "2026-08-19 14:27:56",
   "news": [
     {
       "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
@@ -83,15 +83,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "summary": "The model maker added $18 billion in annualized revenue in two months.",
-      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
       "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confir",
       "link": "https://www.wired.com/story/flock-safety-os-investigate/",
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
       "source": "Wired-AI",
       "date": "2026-08-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Safety Reckoning Inside OpenAI",
+      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+      "source": "Wired-AI",
+      "date": "2026-08-13",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -801,7 +801,7 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
@@ -816,7 +816,7 @@
     {
       "name": "diagram-design",
       "author": "cathrynlavery",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "link": "https://github.com/cathrynlavery/diagram-design",
       "stars": 0,
       "trend": 50,
@@ -829,16 +829,34 @@
       "date": "2026-08-19"
     },
     {
-      "name": "semantica-agi",
-      "author": "sponsors",
+      "name": "needle",
+      "author": "cactus-compute",
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "link": "https://github.com/sponsors/semantica-agi",
+      "link": "https://github.com/cactus-compute/needle",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "AI"
+        }
+      ],
+      "date": "2026-08-19"
+    },
+    {
+      "name": "semantica",
+      "author": "semantica-agi",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "link": "https://github.com/semantica-agi/semantica",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
         }
       ],
       "date": "2026-08-19"
@@ -859,10 +877,10 @@
       "date": "2026-08-19"
     },
     {
-      "name": "needle",
-      "author": "cactus-compute",
+      "name": "holehe",
+      "author": "megadose",
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-      "link": "https://github.com/cactus-compute/needle",
+      "link": "https://github.com/megadose/holehe",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -877,24 +895,9 @@
       "date": "2026-08-19"
     },
     {
-      "name": "holehe",
-      "author": "megadose",
-      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
-      "link": "https://github.com/megadose/holehe",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Vision"
-        }
-      ],
-      "date": "2026-08-19"
-    },
-    {
       "name": "omarchy",
       "author": "basecamp",
-      "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "link": "https://github.com/basecamp/omarchy",
       "stars": 0,
       "trend": 50,
@@ -907,16 +910,31 @@
       "date": "2026-08-19"
     },
     {
+      "name": "OpenViking",
+      "author": "volcengine",
+      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+      "link": "https://github.com/volcengine/OpenViking",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Vision"
+        }
+      ],
+      "date": "2026-08-19"
+    },
+    {
       "name": "unslothai",
       "author": "sponsors",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
       "link": "https://github.com/sponsors/unslothai",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-08-19"
@@ -924,7 +942,7 @@
     {
       "name": "unsloth",
       "author": "unslothai",
-      "description": "Animation engine for explanatory math videos",
+      "description": "🧱 easy fast local-first microVM runtime and library",
       "link": "https://github.com/unslothai/unsloth",
       "stars": 0,
       "trend": 50,
@@ -939,32 +957,14 @@
     {
       "name": "pre-commit-ci",
       "author": "apps",
-      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
       "link": "https://github.com/apps/pre-commit-ci",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Audio"
-        }
-      ],
-      "date": "2026-08-19"
-    },
-    {
-      "name": "lightningpixel",
-      "author": "sponsors",
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "link": "https://github.com/sponsors/lightningpixel",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
           "name": "LLM"
-        },
-        {
-          "name": "RAG"
         }
       ],
       "date": "2026-08-19"
@@ -985,7 +985,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -996,7 +996,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -1007,24 +1007,34 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 1697,
       "date": "2026-08-19"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "link": "https://github.com/sponsors/explore",
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
-      "likes": 7510,
+      "likes": 2046,
+      "date": "2026-08-19"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
       "date": "2026-08-19"
     },
     {
@@ -1207,19 +1217,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-08-19"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-08-19"
     }
   ],
