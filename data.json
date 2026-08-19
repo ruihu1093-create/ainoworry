@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-19 17:21:47",
+  "updatedAt": "2026-08-19 18:27:35",
   "news": [
+    {
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compu",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
       "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
@@ -68,15 +77,6 @@
       "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
       "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
       "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
-      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
       "source": "TechCrunch-AI",
       "date": "2026-08-18",
       "tag": "trend",
