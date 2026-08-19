@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-19 18:27:35",
+  "updatedAt": "2026-08-19 19:20:49",
   "news": [
+    {
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t ",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "summary": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer g",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meet the startup helping Wall Street put a price on AI compute",
       "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compu",
@@ -50,33 +77,6 @@
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
       "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
       "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security du",
-      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-      "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
-      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
       "source": "TechCrunch-AI",
       "date": "2026-08-18",
       "tag": "trend",
