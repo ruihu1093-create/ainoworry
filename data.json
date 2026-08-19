@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19 16:25:18",
+  "updatedAt": "2026-08-19 17:21:47",
   "news": [
     {
       "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+      "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were ",
+      "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+      "source": "Wired-AI",
+      "date": "2026-08-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
       "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confir",
       "link": "https://www.wired.com/story/flock-safety-os-investigate/",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
       "source": "Wired-AI",
       "date": "2026-08-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Safety Reckoning Inside OpenAI",
-      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
-      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-      "source": "Wired-AI",
-      "date": "2026-08-13",
       "tag": "trend",
       "tagText": "资讯"
     },
