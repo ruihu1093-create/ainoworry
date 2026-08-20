@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-08-20 22:21:17",
+  "updatedAt": "2026-08-20 23:20:37",
   "news": [
     {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
       "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
       "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
       "source": "TechCrunch-AI",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
       "source": "Wired-AI",
       "date": "2026-08-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Debates over AI consciousness are a trap",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but ang",
-      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-08-20",
       "tag": "trend",
       "tagText": "资讯"
     },
