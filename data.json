@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-20 21:23:11",
+  "updatedAt": "2026-08-20 22:21:17",
   "news": [
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google gives publishers a new way to fight AI-driven traffic losses",
       "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting",
@@ -50,15 +59,6 @@
       "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
       "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it",
       "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
-      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
       "source": "TechCrunch-AI",
       "date": "2026-08-20",
       "tag": "trend",
