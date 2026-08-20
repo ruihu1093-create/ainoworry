@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-20 09:29:01",
+  "updatedAt": "2026-08-20 10:24:01",
   "news": [
+    {
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
       "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's",
@@ -149,15 +158,6 @@
       "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
       "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
       "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
-      "source": "Wired-AI",
-      "date": "2026-08-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
-      "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve ma",
-      "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
       "source": "Wired-AI",
       "date": "2026-08-14",
       "tag": "trend",
