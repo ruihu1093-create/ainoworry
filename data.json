@@ -1,9 +1,18 @@
 {
-  "updatedAt": "2026-08-20 15:28:28",
+  "updatedAt": "2026-08-20 16:28:53",
   "news": [
     {
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it",
+      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+      "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
       "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
       "source": "TechCrunch-AI",
       "date": "2026-08-20",
@@ -12,7 +21,7 @@
     },
     {
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+      "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
       "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
       "source": "TechCrunch-AI",
       "date": "2026-08-20",
@@ -68,24 +77,6 @@
       "title": "Researchers say OpenAI revoked their access to limited cyber program",
       "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to co",
       "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meet the startup helping Wall Street put a price on AI compute",
-      "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compu",
-      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-      "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
-      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
       "source": "TechCrunch-AI",
       "date": "2026-08-19",
       "tag": "trend",
@@ -158,6 +149,15 @@
       "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
       "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
       "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+      "source": "Wired-AI",
+      "date": "2026-08-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+      "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve ma",
+      "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
       "source": "Wired-AI",
       "date": "2026-08-14",
       "tag": "trend",
@@ -619,15 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "Pros continue to outperform DIY shoppers at Home Depot",
-      "content": "The segment is still the &ldquo;clearest opportunity to drive growth&rdquo; at the home improvement retailer even as it beat its own expectations in Q2.",
-      "link": "https://www.retaildive.com/news/home-depot-pros-outperform-diy-shoppers-q2-earnings/828159/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-08-18"
-    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
