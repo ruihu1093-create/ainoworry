@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-08-20 16:28:53",
+  "updatedAt": "2026-08-20 17:23:54",
   "news": [
+    {
+      "title": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Ramp launches its own AI model router, called Router",
+      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models ",
+      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
       "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it",
@@ -59,24 +77,6 @@
       "title": "AI was supposed to win people over by now — it hasn’t",
       "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t ",
       "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as",
-      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to co",
-      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
       "source": "TechCrunch-AI",
       "date": "2026-08-19",
       "tag": "trend",
