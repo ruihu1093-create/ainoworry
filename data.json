@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-08-20 17:23:54",
+  "updatedAt": "2026-08-20 18:32:08",
   "news": [
     {
-      "title": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
       "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
       "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
       "source": "TechCrunch-AI",
@@ -59,24 +68,6 @@
       "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
       "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
       "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI an",
-      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI was supposed to win people over by now — it hasn’t",
-      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t ",
-      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
       "source": "TechCrunch-AI",
       "date": "2026-08-19",
       "tag": "trend",
@@ -158,6 +149,15 @@
       "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
       "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve ma",
       "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+      "source": "Wired-AI",
+      "date": "2026-08-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+      "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
+      "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
       "source": "Wired-AI",
       "date": "2026-08-14",
       "tag": "trend",
