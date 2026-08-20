@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-20 11:21:37",
+  "updatedAt": "2026-08-20 12:38:07",
   "news": [
+    {
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
       "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
@@ -77,15 +86,6 @@
       "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
       "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
       "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they",
-      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
       "source": "TechCrunch-AI",
       "date": "2026-08-19",
       "tag": "trend",
