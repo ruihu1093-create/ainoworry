@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21 21:19:03",
+  "updatedAt": "2026-08-21 22:18:53",
   "news": [
     {
       "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
@@ -766,10 +766,10 @@
   ],
   "github": [
     {
-      "name": "explore",
-      "author": "sponsors",
+      "name": "developers",
+      "author": "trending",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "link": "https://github.com/sponsors/explore",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -781,10 +781,10 @@
       "date": "2026-08-21"
     },
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "diagram-design",
+      "author": "cathrynlavery",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/cathrynlavery/diagram-design",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -799,85 +799,10 @@
       "date": "2026-08-21"
     },
     {
-      "name": "OpenViking",
-      "author": "volcengine",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "link": "https://github.com/volcengine/OpenViking",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-21"
-    },
-    {
       "name": "omarchy",
       "author": "basecamp",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "link": "https://github.com/basecamp/omarchy",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-21"
-    },
-    {
-      "name": "needle",
-      "author": "cactus-compute",
-      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
-      "link": "https://github.com/cactus-compute/needle",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-08-21"
-    },
-    {
-      "name": "semantica",
-      "author": "semantica-agi",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "link": "https://github.com/semantica-agi/semantica",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-21"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "A collective list of free APIs",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-21"
-    },
-    {
-      "name": "Switchyard",
-      "author": "NVIDIA-NeMo",
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "link": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "link": "https://github.com/basecamp/omarchy",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -891,23 +816,53 @@
     {
       "name": "MoneyPrinterTurbo",
       "author": "harry0703",
-      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "link": "https://github.com/harry0703/MoneyPrinterTurbo",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Vision"
+          "name": "AI"
         }
       ],
       "date": "2026-08-21"
     },
     {
-      "name": "public-apis",
-      "author": "public-apis",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "link": "https://github.com/public-apis/public-apis",
+      "name": "semantica-agi",
+      "author": "sponsors",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "link": "https://github.com/sponsors/semantica-agi",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-08-21"
+    },
+    {
+      "name": "semantica",
+      "author": "semantica-agi",
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "link": "https://github.com/semantica-agi/semantica",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-08-21"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -919,10 +874,25 @@
       "date": "2026-08-21"
     },
     {
-      "name": "holehe",
-      "author": "megadose",
+      "name": "AprilNEA",
+      "author": "sponsors",
+      "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+      "link": "https://github.com/sponsors/AprilNEA",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-08-21"
+    },
+    {
+      "name": "OpenLogi",
+      "author": "AprilNEA",
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-      "link": "https://github.com/megadose/holehe",
+      "link": "https://github.com/AprilNEA/OpenLogi",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -937,16 +907,46 @@
       "date": "2026-08-21"
     },
     {
-      "name": "AprilNEA",
-      "author": "sponsors",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "link": "https://github.com/sponsors/AprilNEA",
+      "name": "aprilnea",
+      "author": "apps",
+      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "link": "https://github.com/apps/aprilnea",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-08-21"
+    },
+    {
+      "name": "ai-memory",
+      "author": "akitaonrails",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-08-21"
+    },
+    {
+      "name": "llmfit",
+      "author": "AlexsJones",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/AlexsJones/llmfit",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
         }
       ],
       "date": "2026-08-21"
@@ -954,20 +954,9 @@
   ],
   "agents": [
     {
-      "title": "开源项目: opensearch.xml",
-      "author": "@anonymous",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "link": "https://github.com/opensearch.xml",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2325,
-      "date": "2026-08-21"
-    },
-    {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -976,27 +965,36 @@
       "date": "2026-08-21"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling f",
-      "link": "https://github.com/explore",
-      "tools": [
-        "GitHub",
-        "GPT-4",
-        "LLM"
-      ],
-      "likes": 3045,
-      "date": "2026-08-21"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten pa",
-      "link": "https://github.com/events",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 2526,
+      "likes": 1697,
+      "date": "2026-08-21"
+    },
+    {
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2046,
+      "date": "2026-08-21"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-08-21"
     },
     {
