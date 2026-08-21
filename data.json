@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21 15:27:32",
+  "updatedAt": "2026-08-21 16:27:17",
   "news": [
     {
       "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
@@ -59,15 +59,6 @@
       "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
       "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
       "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
       "source": "TechCrunch-AI",
       "date": "2026-08-20",
       "tag": "trend",
@@ -158,6 +149,15 @@
       "title": "The Download: threats from space mirrors and credit for AI drugs",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Mother tongue",
+      "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (",
+      "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
       "source": "MIT-Tech-Review",
       "date": "2026-08-21",
       "tag": "trend",
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "Roots to be acquired by Roberto Cavalli parent company",
+      "content": "The outdoor retailer will go private in a deal led by Marquee Brands that is designed to ensure it &ldquo;remains anchored in Canadian culture.&rdquo;",
+      "link": "https://www.retaildive.com/news/roots-acquired-marquee-brands/828478/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-21"
+    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
