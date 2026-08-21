@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21 16:27:17",
+  "updatedAt": "2026-08-21 17:23:44",
   "news": [
     {
       "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
@@ -939,14 +939,14 @@
     {
       "name": "AprilNEA",
       "author": "sponsors",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
       "link": "https://github.com/sponsors/AprilNEA",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "LLM"
         }
       ],
       "date": "2026-08-21"
