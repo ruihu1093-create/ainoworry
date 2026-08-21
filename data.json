@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21 20:19:58",
+  "updatedAt": "2026-08-21 21:19:03",
   "news": [
     {
       "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
@@ -939,14 +939,14 @@
     {
       "name": "AprilNEA",
       "author": "sponsors",
-      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "link": "https://github.com/sponsors/AprilNEA",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "Agent"
         }
       ],
       "date": "2026-08-21"
