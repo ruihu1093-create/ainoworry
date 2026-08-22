@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-22 18:21:58",
+  "updatedAt": "2026-08-22 19:19:05",
   "news": [
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI says California should strengthen its AI safety bill",
       "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
@@ -68,15 +77,6 @@
       "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
       "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"",
       "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
       "source": "TechCrunch-AI",
       "date": "2026-08-20",
       "tag": "trend",
