@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22 12:29:35",
+  "updatedAt": "2026-08-22 13:27:17",
   "news": [
     {
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
@@ -766,25 +766,10 @@
   ],
   "github": [
     {
-      "name": "developers",
-      "author": "trending",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "link": "https://github.com/trending/developers",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-22"
-    },
-    {
-      "name": "diagram-design",
-      "author": "cathrynlavery",
+      "name": "plugins",
+      "author": "cursor",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "link": "https://github.com/cathrynlavery/diagram-design",
+      "link": "https://github.com/cursor/plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -814,69 +799,9 @@
       "date": "2026-08-22"
     },
     {
-      "name": "MoneyPrinterTurbo",
-      "author": "harry0703",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-22"
-    },
-    {
-      "name": "semantica-agi",
-      "author": "sponsors",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "link": "https://github.com/sponsors/semantica-agi",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-22"
-    },
-    {
-      "name": "semantica",
-      "author": "semantica-agi",
-      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
-      "link": "https://github.com/semantica-agi/semantica",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-08-22"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-22"
-    },
-    {
       "name": "AprilNEA",
       "author": "sponsors",
-      "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "link": "https://github.com/sponsors/AprilNEA",
       "stars": 0,
       "trend": 50,
@@ -891,17 +816,14 @@
     {
       "name": "OpenLogi",
       "author": "AprilNEA",
-      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "link": "https://github.com/AprilNEA/OpenLogi",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
-        },
-        {
-          "name": "Vision"
+          "name": "Agent"
         }
       ],
       "date": "2026-08-22"
@@ -922,10 +844,73 @@
       "date": "2026-08-22"
     },
     {
+      "name": "public-apis",
+      "author": "public-apis",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "link": "https://github.com/public-apis/public-apis",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-08-22"
+    },
+    {
+      "name": "diagram-design",
+      "author": "cathrynlavery",
+      "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-08-22"
+    },
+    {
       "name": "ai-memory",
       "author": "akitaonrails",
-      "description": "GitHub热门AI项目，本周获得大量关注",
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "link": "https://github.com/akitaonrails/ai-memory",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-08-22"
+    },
+    {
+      "name": "omlx",
+      "author": "jundot",
+      "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
+      "link": "https://github.com/jundot/omlx",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-08-22"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -950,35 +935,39 @@
         }
       ],
       "date": "2026-08-22"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-08-22"
     }
   ],
   "agents": [
     {
-      "title": "开源项目: manifest.json",
-      "author": "@anonymous",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "link": "https://github.com/manifest.json",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 4324,
-      "date": "2026-08-22"
-    },
-    {
-      "title": "开源项目: topics",
+      "title": "开源项目: explore",
       "author": "@anonymous",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "link": "https://github.com/topics",
+      "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
+      "likes": 3045,
       "date": "2026-08-22"
     },
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -987,12 +976,24 @@
       "date": "2026-08-22"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "link": "https://github.com/sponsors/explore",
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
+      ],
+      "likes": 2526,
+      "date": "2026-08-22"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub",
+        "LLM"
       ],
       "likes": 7510,
       "date": "2026-08-22"
