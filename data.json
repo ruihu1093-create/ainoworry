@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-22 16:17:39",
+  "updatedAt": "2026-08-22 17:16:16",
   "news": [
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
       "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems i",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
       "source": "Wired-AI",
       "date": "2026-08-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: threats from space mirrors and credit for AI drugs",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-08-21",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -816,8 +816,23 @@
     {
       "name": "OpenLogi",
       "author": "AprilNEA",
-      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "link": "https://github.com/AprilNEA/OpenLogi",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-22"
+    },
+    {
+      "name": "aprilnea",
+      "author": "apps",
+      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "link": "https://github.com/apps/aprilnea",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -829,24 +844,9 @@
       "date": "2026-08-22"
     },
     {
-      "name": "aprilnea",
-      "author": "apps",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "link": "https://github.com/apps/aprilnea",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-22"
-    },
-    {
       "name": "public-apis",
       "author": "public-apis",
-      "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "link": "https://github.com/public-apis/public-apis",
       "stars": 0,
       "trend": 50,
@@ -861,8 +861,23 @@
     {
       "name": "diagram-design",
       "author": "cathrynlavery",
-      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
       "link": "https://github.com/cathrynlavery/diagram-design",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-08-22"
+    },
+    {
+      "name": "ai-memory",
+      "author": "akitaonrails",
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "link": "https://github.com/akitaonrails/ai-memory",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -935,253 +950,6 @@
         }
       ],
       "date": "2026-08-22"
-    },
-    {
-      "name": "open-webui",
-      "author": "open-webui",
-      "description": "用户友好的AI聊天界面，支持Ollama、OpenAI等多种大模型后端本地部署",
-      "link": "https://github.com/open-webui/open-webui",
-      "stars": 89000,
-      "trend": 1200,
-      "forks": 8900,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "UI"
-        }
-      ],
-      "icon": "🌐",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "ollama",
-      "author": "ollama",
-      "description": "本地运行Llama、Mistral、Gemma等大模型最简便方式，一行命令启动",
-      "link": "https://github.com/ollama/ollama",
-      "stars": 128000,
-      "trend": 2300,
-      "forks": 11200,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Local"
-        }
-      ],
-      "icon": "🦙",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "dify",
-      "author": "langgenius",
-      "description": "开源LLM应用开发平台，可视化AI工作流编排与RAG管道构建",
-      "link": "https://github.com/langgenius/dify",
-      "stars": 82000,
-      "trend": 980,
-      "forks": 12100,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "RAG"
-        }
-      ],
-      "icon": "⚡",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "ComfyUI",
-      "author": "comfyanonymous",
-      "description": "强大的节点式图像AI生成工作流工具，支持SD、Flux等各类模型",
-      "link": "https://github.com/comfyanonymous/ComfyUI",
-      "stars": 65000,
-      "trend": 750,
-      "forks": 7300,
-      "tags": [
-        {
-          "name": "Image"
-        },
-        {
-          "name": "AI"
-        }
-      ],
-      "icon": "🎨",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "langchain",
-      "author": "langchain-ai",
-      "description": "构建LLM应用程序的核心框架，提供链式调用与Agent工具集成",
-      "link": "https://github.com/langchain-ai/langchain",
-      "stars": 96000,
-      "trend": 600,
-      "forks": 16000,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Agent"
-        }
-      ],
-      "icon": "🔗",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "lobe-chat",
-      "author": "lobehub",
-      "description": "开源高性能AI聊天框架，支持多模型、插件系统与私有化部署",
-      "link": "https://github.com/lobehub/lobe-chat",
-      "stars": 51000,
-      "trend": 830,
-      "forks": 5600,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "UI"
-        }
-      ],
-      "icon": "💬",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "AutoGPT",
-      "author": "Significant-Gravitas",
-      "description": "自主AI代理平台，让GPT模型自动拆解任务并持续执行，Agent鼻祖项目",
-      "link": "https://github.com/Significant-Gravitas/AutoGPT",
-      "stars": 170000,
-      "trend": 500,
-      "forks": 44000,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Auto"
-        }
-      ],
-      "icon": "🤖",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "vllm",
-      "author": "vllm-project",
-      "description": "高吞吐量LLM推理引擎，PagedAttention大幅提升GPU利用率与并发能力",
-      "link": "https://github.com/vllm-project/vllm",
-      "stars": 40000,
-      "trend": 920,
-      "forks": 6100,
-      "tags": [
-        {
-          "name": "Inference"
-        },
-        {
-          "name": "GPU"
-        }
-      ],
-      "icon": "🚀",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "stable-diffusion-webui",
-      "author": "AUTOMATIC1111",
-      "description": "Stable Diffusion Web界面，图像生成神器，支持海量LoRA和插件",
-      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "stars": 145000,
-      "trend": 500,
-      "forks": 28000,
-      "tags": [
-        {
-          "name": "Image"
-        },
-        {
-          "name": "SD"
-        }
-      ],
-      "icon": "🌈",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "n8n",
-      "author": "n8n-io",
-      "description": "公平开源工作流自动化工具，支持AI集成，可自托管，支持500+应用",
-      "link": "https://github.com/n8n-io/n8n",
-      "stars": 48000,
-      "trend": 1100,
-      "forks": 7200,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Automation"
-        }
-      ],
-      "icon": "🔄",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "LocalAI",
-      "author": "mudler",
-      "description": "免费开源的OpenAI API替代方案，支持本地运行各类LLM、图像、音频",
-      "link": "https://github.com/mudler/LocalAI",
-      "stars": 27000,
-      "trend": 650,
-      "forks": 3100,
-      "tags": [
-        {
-          "name": "Local"
-        },
-        {
-          "name": "API"
-        }
-      ],
-      "icon": "🏠",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "Flowise",
-      "author": "FlowiseAI",
-      "description": "拖拽式LangChain可视化构建工具，快速搭建AI应用无需写代码",
-      "link": "https://github.com/FlowiseAI/Flowise",
-      "stars": 33000,
-      "trend": 780,
-      "forks": 4200,
-      "tags": [
-        {
-          "name": "RAG"
-        },
-        {
-          "name": "UI"
-        }
-      ],
-      "icon": "🌊",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "llama.cpp",
-      "author": "ggerganov",
-      "description": "C++实现的LLaMA推理引擎，支持CPU运行大模型，移动设备也可跑",
-      "link": "https://github.com/ggerganov/llama.cpp",
-      "stars": 72000,
-      "trend": 820,
-      "forks": 10500,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "CPU"
-        }
-      ],
-      "icon": "🦙",
-      "date": "2026-08-22"
     }
   ],
   "agents": [
@@ -1210,11 +978,10 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "link": "https://github.com/events",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 2526,
       "date": "2026-08-22"
@@ -1222,10 +989,11 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
       "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 7510,
       "date": "2026-08-22"
