@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-23 19:18:49",
+  "updatedAt": "2026-08-23 20:16:50",
   "news": [
+    {
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
       "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
@@ -68,15 +77,6 @@
       "title": "Nvidia partners with data center developer Cloverleaf",
       "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
       "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the ",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "source": "TechCrunch-AI",
       "date": "2026-08-21",
       "tag": "trend",
