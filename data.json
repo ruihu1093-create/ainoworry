@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-23 18:21:49",
+  "updatedAt": "2026-08-23 19:18:49",
   "news": [
+    {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
       "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their ",
@@ -68,15 +77,6 @@
       "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the ",
       "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "source": "TechCrunch-AI",
       "date": "2026-08-21",
       "tag": "trend",
