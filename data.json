@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-08-24 14:36:43",
+  "updatedAt": "2026-08-24 15:34:38",
   "news": [
+    {
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise ",
+      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
@@ -52,24 +70,6 @@
       "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
       "source": "TechCrunch-AI",
       "date": "2026-08-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems i",
-      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take",
-      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-21",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -775,28 +775,51 @@
   ],
   "github": [
     {
-      "name": "developers",
-      "author": "trending",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "link": "https://github.com/trending/developers",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
+      "name": "open-webui",
+      "author": "open-webui",
+      "description": "用户友好的AI聊天界面，支持Ollama、OpenAI等多种大模型后端本地部署",
+      "link": "https://github.com/open-webui/open-webui",
+      "stars": 89000,
+      "trend": 1200,
+      "forks": 8900,
       "tags": [
         {
-          "name": "AI"
+          "name": "LLM"
+        },
+        {
+          "name": "UI"
         }
       ],
+      "icon": "🌐",
       "date": "2026-08-24"
     },
     {
-      "name": "AprilNEA",
-      "author": "sponsors",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "link": "https://github.com/sponsors/AprilNEA",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
+      "name": "ollama",
+      "author": "ollama",
+      "description": "本地运行Llama、Mistral、Gemma等大模型最简便方式，一行命令启动",
+      "link": "https://github.com/ollama/ollama",
+      "stars": 128000,
+      "trend": 2300,
+      "forks": 11200,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Local"
+        }
+      ],
+      "icon": "🦙",
+      "date": "2026-08-24"
+    },
+    {
+      "name": "dify",
+      "author": "langgenius",
+      "description": "开源LLM应用开发平台，可视化AI工作流编排与RAG管道构建",
+      "link": "https://github.com/langgenius/dify",
+      "stars": 82000,
+      "trend": 980,
+      "forks": 12100,
       "tags": [
         {
           "name": "Agent"
@@ -805,211 +828,410 @@
           "name": "RAG"
         }
       ],
+      "icon": "⚡",
       "date": "2026-08-24"
     },
     {
-      "name": "omarchy",
-      "author": "basecamp",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "link": "https://github.com/basecamp/omarchy",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
+      "name": "ComfyUI",
+      "author": "comfyanonymous",
+      "description": "强大的节点式图像AI生成工作流工具，支持SD、Flux等各类模型",
+      "link": "https://github.com/comfyanonymous/ComfyUI",
+      "stars": 65000,
+      "trend": 750,
+      "forks": 7300,
       "tags": [
         {
-          "name": "Agent"
+          "name": "Image"
+        },
+        {
+          "name": "AI"
         }
       ],
+      "icon": "🎨",
       "date": "2026-08-24"
     },
     {
-      "name": "OpenViking",
-      "author": "volcengine",
-      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "link": "https://github.com/volcengine/OpenViking",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
+      "name": "langchain",
+      "author": "langchain-ai",
+      "description": "构建LLM应用程序的核心框架，提供链式调用与Agent工具集成",
+      "link": "https://github.com/langchain-ai/langchain",
+      "stars": 96000,
+      "trend": 600,
+      "forks": 16000,
       "tags": [
         {
           "name": "LLM"
-        }
-      ],
-      "date": "2026-08-24"
-    },
-    {
-      "name": "claude-plugins-community",
-      "author": "anthropics",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "link": "https://github.com/anthropics/claude-plugins-community",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
+        },
         {
           "name": "Agent"
         }
       ],
+      "icon": "🔗",
       "date": "2026-08-24"
     },
     {
-      "name": "cordis",
-      "author": "cordiverse",
-      "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
-      "link": "https://github.com/cordiverse/cordis",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
+      "name": "lobe-chat",
+      "author": "lobehub",
+      "description": "开源高性能AI聊天框架，支持多模型、插件系统与私有化部署",
+      "link": "https://github.com/lobehub/lobe-chat",
+      "stars": 51000,
+      "trend": 830,
+      "forks": 5600,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "UI"
+        }
+      ],
+      "icon": "💬",
+      "date": "2026-08-24"
+    },
+    {
+      "name": "AutoGPT",
+      "author": "Significant-Gravitas",
+      "description": "自主AI代理平台，让GPT模型自动拆解任务并持续执行，Agent鼻祖项目",
+      "link": "https://github.com/Significant-Gravitas/AutoGPT",
+      "stars": 170000,
+      "trend": 500,
+      "forks": 44000,
       "tags": [
         {
           "name": "Agent"
         },
+        {
+          "name": "Auto"
+        }
+      ],
+      "icon": "🤖",
+      "date": "2026-08-24"
+    },
+    {
+      "name": "vllm",
+      "author": "vllm-project",
+      "description": "高吞吐量LLM推理引擎，PagedAttention大幅提升GPU利用率与并发能力",
+      "link": "https://github.com/vllm-project/vllm",
+      "stars": 40000,
+      "trend": 920,
+      "forks": 6100,
+      "tags": [
+        {
+          "name": "Inference"
+        },
+        {
+          "name": "GPU"
+        }
+      ],
+      "icon": "🚀",
+      "date": "2026-08-24"
+    },
+    {
+      "name": "stable-diffusion-webui",
+      "author": "AUTOMATIC1111",
+      "description": "Stable Diffusion Web界面，图像生成神器，支持海量LoRA和插件",
+      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "stars": 145000,
+      "trend": 500,
+      "forks": 28000,
+      "tags": [
+        {
+          "name": "Image"
+        },
+        {
+          "name": "SD"
+        }
+      ],
+      "icon": "🌈",
+      "date": "2026-08-24"
+    },
+    {
+      "name": "n8n",
+      "author": "n8n-io",
+      "description": "公平开源工作流自动化工具，支持AI集成，可自托管，支持500+应用",
+      "link": "https://github.com/n8n-io/n8n",
+      "stars": 48000,
+      "trend": 1100,
+      "forks": 7200,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Automation"
+        }
+      ],
+      "icon": "🔄",
+      "date": "2026-08-24"
+    },
+    {
+      "name": "LocalAI",
+      "author": "mudler",
+      "description": "免费开源的OpenAI API替代方案，支持本地运行各类LLM、图像、音频",
+      "link": "https://github.com/mudler/LocalAI",
+      "stars": 27000,
+      "trend": 650,
+      "forks": 3100,
+      "tags": [
+        {
+          "name": "Local"
+        },
+        {
+          "name": "API"
+        }
+      ],
+      "icon": "🏠",
+      "date": "2026-08-24"
+    },
+    {
+      "name": "Flowise",
+      "author": "FlowiseAI",
+      "description": "拖拽式LangChain可视化构建工具，快速搭建AI应用无需写代码",
+      "link": "https://github.com/FlowiseAI/Flowise",
+      "stars": 33000,
+      "trend": 780,
+      "forks": 4200,
+      "tags": [
         {
           "name": "RAG"
+        },
+        {
+          "name": "UI"
         }
       ],
+      "icon": "🌊",
       "date": "2026-08-24"
     },
     {
-      "name": "public-apis",
-      "author": "public-apis",
-      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
-      "link": "https://github.com/public-apis/public-apis",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
+      "name": "llama.cpp",
+      "author": "ggerganov",
+      "description": "C++实现的LLaMA推理引擎，支持CPU运行大模型，移动设备也可跑",
+      "link": "https://github.com/ggerganov/llama.cpp",
+      "stars": 72000,
+      "trend": 820,
+      "forks": 10500,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "CPU"
+        }
+      ],
+      "icon": "🦙",
+      "date": "2026-08-24"
+    },
+    {
+      "name": "openai-cookbook",
+      "author": "openai",
+      "description": "OpenAI官方示例和最佳实践，涵盖各类API用法和Prompt工程技巧",
+      "link": "https://github.com/openai/openai-cookbook",
+      "stars": 60000,
+      "trend": 400,
+      "forks": 9700,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Prompt"
+        }
+      ],
+      "icon": "📖",
+      "date": "2026-08-24"
+    },
+    {
+      "name": "haystack",
+      "author": "deepset-ai",
+      "description": "企业级RAG和搜索框架，支持多种向量数据库和LLM后端",
+      "link": "https://github.com/deepset-ai/haystack",
+      "stars": 17000,
+      "trend": 320,
+      "forks": 1900,
+      "tags": [
+        {
+          "name": "RAG"
+        },
+        {
+          "name": "Search"
+        }
+      ],
+      "icon": "🔍",
+      "date": "2026-08-24"
+    },
+    {
+      "name": "mem0",
+      "author": "mem0ai",
+      "description": "AI应用的记忆层，让LLM跨对话保持用户个性化记忆，构建更智能Agent",
+      "link": "https://github.com/mem0ai/mem0",
+      "stars": 23000,
+      "trend": 1500,
+      "forks": 2800,
       "tags": [
         {
           "name": "Agent"
         },
         {
+          "name": "Memory"
+        }
+      ],
+      "icon": "🧠",
+      "date": "2026-08-24"
+    },
+    {
+      "name": "instructor",
+      "author": "jxnl",
+      "description": "结构化LLM输出库，让AI返回符合Pydantic格式的数据，减少幻觉",
+      "link": "https://github.com/jxnl/instructor",
+      "stars": 9800,
+      "trend": 460,
+      "forks": 780,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Python"
+        }
+      ],
+      "icon": "📋",
+      "date": "2026-08-24"
+    },
+    {
+      "name": "agentops",
+      "author": "AgentOps-AI",
+      "description": "AI Agent可观测性平台，追踪LLM调用、成本和性能，调试Agent必备",
+      "link": "https://github.com/AgentOps-AI/agentops",
+      "stars": 3200,
+      "trend": 280,
+      "forks": 310,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Monitor"
+        }
+      ],
+      "icon": "📊",
+      "date": "2026-08-24"
+    },
+    {
+      "name": "chatbot-ui",
+      "author": "mckaywrigley",
+      "description": "开源ChatGPT UI，支持自定义API Key和模型切换，轻量易部署",
+      "link": "https://github.com/mckaywrigley/chatbot-ui",
+      "stars": 28000,
+      "trend": 350,
+      "forks": 7800,
+      "tags": [
+        {
+          "name": "UI"
+        },
+        {
           "name": "LLM"
         }
       ],
+      "icon": "💬",
       "date": "2026-08-24"
     },
     {
-      "name": "ai-memory",
-      "author": "akitaonrails",
-      "description": "Cursor plugin specification and official plugins",
-      "link": "https://github.com/akitaonrails/ai-memory",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
+      "name": "anything-llm",
+      "author": "Mintplex-Labs",
+      "description": "全功能私有AI助手，支持文档、网页、数据库作为知识库，一键自托管",
+      "link": "https://github.com/Mintplex-Labs/anything-llm",
+      "stars": 31000,
+      "trend": 880,
+      "forks": 3400,
       "tags": [
         {
-          "name": "AI"
+          "name": "RAG"
+        },
+        {
+          "name": "Private"
         }
       ],
+      "icon": "🔒",
       "date": "2026-08-24"
     },
     {
-      "name": "omlx",
-      "author": "jundot",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/jundot/omlx",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
+      "name": "FastGPT",
+      "author": "labring",
+      "description": "基于LLM的知识库问答系统，支持多轮对话和工作流编排，国产精品",
+      "link": "https://github.com/labring/FastGPT",
+      "stars": 21000,
+      "trend": 720,
+      "forks": 5600,
       "tags": [
         {
-          "name": "AI"
+          "name": "RAG"
+        },
+        {
+          "name": "Chinese"
         }
       ],
+      "icon": "⚡",
       "date": "2026-08-24"
     },
     {
-      "name": "vorssaint",
-      "author": "sponsors",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/sponsors/vorssaint",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
+      "name": "screenshot-to-code",
+      "author": "abi",
+      "description": "截图一键生成HTML/CSS代码，支持Tailwind和多种前端框架",
+      "link": "https://github.com/abi/screenshot-to-code",
+      "stars": 65000,
+      "trend": 1100,
+      "forks": 7900,
       "tags": [
         {
-          "name": "AI"
+          "name": "Code"
+        },
+        {
+          "name": "Vision"
         }
       ],
+      "icon": "📸",
       "date": "2026-08-24"
     },
     {
-      "name": "vorssaint-utils",
-      "author": "vorssaint",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/vorssaint/vorssaint-utils",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
+      "name": "CrewAI",
+      "author": "crewAIInc",
+      "description": "多Agent协作框架，定义角色和任务让多个AI Agent团队协作完成复杂工作",
+      "link": "https://github.com/crewAIInc/crewAI",
+      "stars": 26000,
+      "trend": 1800,
+      "forks": 3600,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        },
+        {
+          "name": "Multi"
         }
       ],
+      "icon": "👥",
       "date": "2026-08-24"
     },
     {
-      "name": "AI-Infra-Guard",
-      "author": "Tencent",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/Tencent/AI-Infra-Guard",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
+      "name": "graphrag",
+      "author": "microsoft",
+      "description": "Microsoft图检索增强生成框架，知识图谱+LLM实现更深层次文档理解",
+      "link": "https://github.com/microsoft/graphrag",
+      "stars": 22000,
+      "trend": 950,
+      "forks": 2100,
       "tags": [
         {
-          "name": "AI"
+          "name": "RAG"
+        },
+        {
+          "name": "Graph"
         }
       ],
+      "icon": "🕸️",
       "date": "2026-08-24"
     }
   ],
   "agents": [
-    {
-      "title": "开源项目: manifest.json",
-      "author": "@anonymous",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "link": "https://github.com/manifest.json",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 4324,
-      "date": "2026-08-24"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
-      "date": "2026-08-24"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub",
-        "LLM"
-      ],
-      "likes": 2526,
-      "date": "2026-08-24"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events a",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
-      "date": "2026-08-24"
-    },
     {
       "title": "独立开发者用AI搭建自动化内容工厂",
       "author": "@技术小白不白",
@@ -1216,6 +1438,58 @@
         "美团"
       ],
       "likes": 2650,
+      "date": "2026-08-24"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
+      "date": "2026-08-24"
+    },
+    {
+      "title": "程序员用AI重构遗留代码，工期缩短80%",
+      "author": "@代码清洁工",
+      "description": "10万行祖传Python代码用Cursor+Claude重构，3周完成原来预估3个月的工作，减少60%bug。",
+      "link": "https://cursor.com/",
+      "tools": [
+        "Cursor",
+        "Claude",
+        "GitHub"
+      ],
+      "likes": 21000,
+      "date": "2026-08-24"
+    },
+    {
+      "title": "出版社编辑AI选稿系统，效率提升7倍",
+      "author": "@纸书的坚守者",
+      "description": "构建AI辅助选稿系统，自动阅读投稿并生成评审报告，编辑精力集中于真正优秀的稿件。",
+      "link": "https://claude.ai/",
+      "tools": [
+        "Claude",
+        "Python",
+        "Notion"
+      ],
+      "likes": 4230,
+      "date": "2026-08-24"
+    },
+    {
+      "title": "HR总监AI面试助手：候选人评估更客观",
+      "author": "@人才猎手张",
+      "description": "搭建AI辅助面试系统，自动生成岗位专项题库、评分标准和面试报告，招聘效率提升3倍。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "Notion",
+        "Lark"
+      ],
+      "likes": 5580,
       "date": "2026-08-24"
     }
   ],
