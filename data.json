@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24 13:46:39",
+  "updatedAt": "2026-08-24 14:36:43",
   "news": [
     {
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
@@ -68,15 +68,6 @@
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take",
       "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
       "source": "TechCrunch-AI",
       "date": "2026-08-21",
       "tag": "trend",
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
       "source": "Wired-AI",
       "date": "2026-08-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "How to encourage smarter AI use in the classroom",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in yo",
+      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-24",
       "tag": "trend",
       "tagText": "资讯"
     },
