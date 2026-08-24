@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24 08:41:57",
+  "updatedAt": "2026-08-24 09:41:22",
   "news": [
     {
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+      "summary": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—",
+      "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+      "source": "Wired-AI",
+      "date": "2026-08-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The Unlikely Place at the Center of China’s AI Boom",
       "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
       "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
       "source": "Wired-AI",
       "date": "2026-08-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-      "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
-      "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-      "source": "Wired-AI",
-      "date": "2026-08-14",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "Stop guessing. Start knowing: why retailers need one pool of inventory.",
+      "content": "Stop siloing your inventory. See how one pool reveals true demand and increases margins.",
+      "link": "https://www.retaildive.com/spons/stop-guessing-start-knowing-why-retailers-need-one-pool-of-inventory/828228/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-24"
+    },
     {
       "title": "Roots to be acquired by Roberto Cavalli parent company",
       "content": "The outdoor retailer will go private in a deal led by Marquee Brands that is designed to ensure it &ldquo;remains anchored in Canadian culture.&rdquo;",
