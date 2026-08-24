@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24 21:23:42",
+  "updatedAt": "2026-08-24 22:20:35",
   "news": [
     {
       "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
@@ -52,15 +52,6 @@
       "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
       "source": "TechCrunch-AI",
       "date": "2026-08-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-22",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -158,6 +149,15 @@
       "title": "The Download: kids outlearning AI, and space travel agents",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the wor",
+      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
       "source": "MIT-Tech-Review",
       "date": "2026-08-24",
       "tag": "trend",
