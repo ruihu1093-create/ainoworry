@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-25 14:39:47",
+  "updatedAt": "2026-08-25 15:37:36",
   "news": [
     {
       "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "summary": "Tested on Semianalysis’s InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently avail",
+      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently availa",
       "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
       "source": "TechCrunch-AI",
       "date": "2026-08-25",
