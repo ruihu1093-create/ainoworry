@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25 09:30:38",
+  "updatedAt": "2026-08-25 10:26:09",
   "news": [
     {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -52,6 +52,15 @@
       "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
       "source": "TechCrunch-AI",
       "date": "2026-08-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "It Should Be Harder to Apply for a Job. No, Really",
+      "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a jo",
+      "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+      "source": "Wired-AI",
+      "date": "2026-08-25",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -122,15 +131,6 @@
       "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
       "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training ",
       "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
-      "source": "Wired-AI",
-      "date": "2026-08-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
-      "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
-      "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
       "source": "Wired-AI",
       "date": "2026-08-18",
       "tag": "trend",
@@ -855,26 +855,8 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Vision"
-        }
-      ],
-      "date": "2026-08-25"
-    },
-    {
-      "name": "cordis",
-      "author": "cordiverse",
       "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
-      "link": "https://github.com/cordiverse/cordis",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -889,10 +871,10 @@
       "date": "2026-08-25"
     },
     {
-      "name": "public-apis",
-      "author": "public-apis",
+      "name": "cordis",
+      "author": "cordiverse",
       "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
-      "link": "https://github.com/public-apis/public-apis",
+      "link": "https://github.com/cordiverse/cordis",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -909,7 +891,7 @@
     {
       "name": "ai-memory",
       "author": "akitaonrails",
-      "description": "Cursor plugin specification and official plugins",
+      "description": "GitHub热门AI项目，本周获得大量关注",
       "link": "https://github.com/akitaonrails/ai-memory",
       "stars": 0,
       "trend": 50,
@@ -1196,6 +1178,25 @@
         }
       ],
       "icon": "🦙",
+      "date": "2026-08-25"
+    },
+    {
+      "name": "openai-cookbook",
+      "author": "openai",
+      "description": "OpenAI官方示例和最佳实践，涵盖各类API用法和Prompt工程技巧",
+      "link": "https://github.com/openai/openai-cookbook",
+      "stars": 60000,
+      "trend": 400,
+      "forks": 9700,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Prompt"
+        }
+      ],
+      "icon": "📖",
       "date": "2026-08-25"
     }
   ],
