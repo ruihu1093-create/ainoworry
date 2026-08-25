@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25 08:36:22",
+  "updatedAt": "2026-08-25 09:30:38",
   "news": [
     {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -52,6 +52,15 @@
       "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
       "source": "TechCrunch-AI",
       "date": "2026-08-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+      "summary": "“It never crossed my mind that they would be so bold as to sell our private data for AI,” says one former Spirit Airlines flight attendant.",
+      "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+      "source": "Wired-AI",
+      "date": "2026-08-25",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -128,11 +137,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-      "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first pla",
-      "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-      "source": "Wired-AI",
-      "date": "2026-08-15",
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life",
+      "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-25",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "The Download: kids outlearning AI, and space travel agents",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-08-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the wor",
-      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
       "source": "MIT-Tech-Review",
       "date": "2026-08-24",
       "tag": "trend",
