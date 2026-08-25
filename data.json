@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25 10:26:09",
+  "updatedAt": "2026-08-25 11:22:32",
   "news": [
     {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -775,10 +775,10 @@
   ],
   "github": [
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "modular",
+      "author": "modular",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/modular/modular",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -790,58 +790,10 @@
       "date": "2026-08-25"
     },
     {
-      "name": "AprilNEA",
-      "author": "sponsors",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "link": "https://github.com/sponsors/AprilNEA",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "RAG"
-        }
-      ],
-      "date": "2026-08-25"
-    },
-    {
-      "name": "omarchy",
-      "author": "basecamp",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "link": "https://github.com/basecamp/omarchy",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-25"
-    },
-    {
-      "name": "OpenViking",
-      "author": "volcengine",
-      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "link": "https://github.com/volcengine/OpenViking",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-08-25"
-    },
-    {
-      "name": "claude-plugins-community",
-      "author": "anthropics",
+      "name": "aprilnea",
+      "author": "apps",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "link": "https://github.com/anthropics/claude-plugins-community",
+      "link": "https://github.com/apps/aprilnea",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -855,7 +807,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -871,10 +823,70 @@
       "date": "2026-08-25"
     },
     {
-      "name": "cordis",
-      "author": "cordiverse",
+      "name": "MoneyPrinterTurbo",
+      "author": "harry0703",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Vision"
+        }
+      ],
+      "date": "2026-08-25"
+    },
+    {
+      "name": "omarchy",
+      "author": "basecamp",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "link": "https://github.com/basecamp/omarchy",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-25"
+    },
+    {
+      "name": "claude-plugins-community",
+      "author": "anthropics",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "link": "https://github.com/anthropics/claude-plugins-community",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-25"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-08-25"
+    },
+    {
+      "name": "OpenViking",
+      "author": "volcengine",
       "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
-      "link": "https://github.com/cordiverse/cordis",
+      "link": "https://github.com/volcengine/OpenViking",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -884,6 +896,42 @@
         },
         {
           "name": "LLM"
+        }
+      ],
+      "date": "2026-08-25"
+    },
+    {
+      "name": "awesome-gpt-image-2",
+      "author": "freestylefly",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "link": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Vision"
+        }
+      ],
+      "date": "2026-08-25"
+    },
+    {
+      "name": "codex",
+      "author": "openai",
+      "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
+      "link": "https://github.com/openai/codex",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
         }
       ],
       "date": "2026-08-25"
@@ -917,305 +965,35 @@
         }
       ],
       "date": "2026-08-25"
-    },
-    {
-      "name": "AI-Infra-Guard",
-      "author": "Tencent",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/Tencent/AI-Infra-Guard",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-25"
-    },
-    {
-      "name": "open-webui",
-      "author": "open-webui",
-      "description": "用户友好的AI聊天界面，支持Ollama、OpenAI等多种大模型后端本地部署",
-      "link": "https://github.com/open-webui/open-webui",
-      "stars": 89000,
-      "trend": 1200,
-      "forks": 8900,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "UI"
-        }
-      ],
-      "icon": "🌐",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "ollama",
-      "author": "ollama",
-      "description": "本地运行Llama、Mistral、Gemma等大模型最简便方式，一行命令启动",
-      "link": "https://github.com/ollama/ollama",
-      "stars": 128000,
-      "trend": 2300,
-      "forks": 11200,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Local"
-        }
-      ],
-      "icon": "🦙",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "dify",
-      "author": "langgenius",
-      "description": "开源LLM应用开发平台，可视化AI工作流编排与RAG管道构建",
-      "link": "https://github.com/langgenius/dify",
-      "stars": 82000,
-      "trend": 980,
-      "forks": 12100,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "RAG"
-        }
-      ],
-      "icon": "⚡",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "ComfyUI",
-      "author": "comfyanonymous",
-      "description": "强大的节点式图像AI生成工作流工具，支持SD、Flux等各类模型",
-      "link": "https://github.com/comfyanonymous/ComfyUI",
-      "stars": 65000,
-      "trend": 750,
-      "forks": 7300,
-      "tags": [
-        {
-          "name": "Image"
-        },
-        {
-          "name": "AI"
-        }
-      ],
-      "icon": "🎨",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "langchain",
-      "author": "langchain-ai",
-      "description": "构建LLM应用程序的核心框架，提供链式调用与Agent工具集成",
-      "link": "https://github.com/langchain-ai/langchain",
-      "stars": 96000,
-      "trend": 600,
-      "forks": 16000,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Agent"
-        }
-      ],
-      "icon": "🔗",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "lobe-chat",
-      "author": "lobehub",
-      "description": "开源高性能AI聊天框架，支持多模型、插件系统与私有化部署",
-      "link": "https://github.com/lobehub/lobe-chat",
-      "stars": 51000,
-      "trend": 830,
-      "forks": 5600,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "UI"
-        }
-      ],
-      "icon": "💬",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "AutoGPT",
-      "author": "Significant-Gravitas",
-      "description": "自主AI代理平台，让GPT模型自动拆解任务并持续执行，Agent鼻祖项目",
-      "link": "https://github.com/Significant-Gravitas/AutoGPT",
-      "stars": 170000,
-      "trend": 500,
-      "forks": 44000,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Auto"
-        }
-      ],
-      "icon": "🤖",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "vllm",
-      "author": "vllm-project",
-      "description": "高吞吐量LLM推理引擎，PagedAttention大幅提升GPU利用率与并发能力",
-      "link": "https://github.com/vllm-project/vllm",
-      "stars": 40000,
-      "trend": 920,
-      "forks": 6100,
-      "tags": [
-        {
-          "name": "Inference"
-        },
-        {
-          "name": "GPU"
-        }
-      ],
-      "icon": "🚀",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "stable-diffusion-webui",
-      "author": "AUTOMATIC1111",
-      "description": "Stable Diffusion Web界面，图像生成神器，支持海量LoRA和插件",
-      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "stars": 145000,
-      "trend": 500,
-      "forks": 28000,
-      "tags": [
-        {
-          "name": "Image"
-        },
-        {
-          "name": "SD"
-        }
-      ],
-      "icon": "🌈",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "n8n",
-      "author": "n8n-io",
-      "description": "公平开源工作流自动化工具，支持AI集成，可自托管，支持500+应用",
-      "link": "https://github.com/n8n-io/n8n",
-      "stars": 48000,
-      "trend": 1100,
-      "forks": 7200,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Automation"
-        }
-      ],
-      "icon": "🔄",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "LocalAI",
-      "author": "mudler",
-      "description": "免费开源的OpenAI API替代方案，支持本地运行各类LLM、图像、音频",
-      "link": "https://github.com/mudler/LocalAI",
-      "stars": 27000,
-      "trend": 650,
-      "forks": 3100,
-      "tags": [
-        {
-          "name": "Local"
-        },
-        {
-          "name": "API"
-        }
-      ],
-      "icon": "🏠",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "Flowise",
-      "author": "FlowiseAI",
-      "description": "拖拽式LangChain可视化构建工具，快速搭建AI应用无需写代码",
-      "link": "https://github.com/FlowiseAI/Flowise",
-      "stars": 33000,
-      "trend": 780,
-      "forks": 4200,
-      "tags": [
-        {
-          "name": "RAG"
-        },
-        {
-          "name": "UI"
-        }
-      ],
-      "icon": "🌊",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "llama.cpp",
-      "author": "ggerganov",
-      "description": "C++实现的LLaMA推理引擎，支持CPU运行大模型，移动设备也可跑",
-      "link": "https://github.com/ggerganov/llama.cpp",
-      "stars": 72000,
-      "trend": 820,
-      "forks": 10500,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "CPU"
-        }
-      ],
-      "icon": "🦙",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "openai-cookbook",
-      "author": "openai",
-      "description": "OpenAI官方示例和最佳实践，涵盖各类API用法和Prompt工程技巧",
-      "link": "https://github.com/openai/openai-cookbook",
-      "stars": 60000,
-      "trend": 400,
-      "forks": 9700,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Prompt"
-        }
-      ],
-      "icon": "📖",
-      "date": "2026-08-25"
     }
   ],
   "agents": [
     {
-      "title": "开源项目: manifest.json",
+      "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "link": "https://github.com/manifest.json",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events a",
+      "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 4324,
+      "likes": 3045,
+      "date": "2026-08-25"
+    },
+    {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
       "date": "2026-08-25"
     },
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "description": "Lightweight coding agent that runs in your terminal",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1226,11 +1004,10 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "link": "https://github.com/events",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 2526,
       "date": "2026-08-25"
@@ -1238,10 +1015,11 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events a",
+      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
       "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 7510,
       "date": "2026-08-25"
@@ -1439,19 +1217,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-08-25"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
       "date": "2026-08-25"
     }
   ],
