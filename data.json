@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-25 13:44:43",
+  "updatedAt": "2026-08-25 14:39:47",
   "news": [
+    {
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "summary": "Tested on Semianalysis’s InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently avail",
+      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Accel-backed Keenable is indexing the web for AI agents",
       "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
@@ -52,15 +61,6 @@
       "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
       "source": "TechCrunch-AI",
       "date": "2026-08-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-23",
       "tag": "trend",
       "tagText": "资讯"
     },
