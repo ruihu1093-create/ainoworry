@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25 15:37:36",
+  "updatedAt": "2026-08-25 16:31:07",
   "news": [
     {
       "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
@@ -620,24 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "Stop guessing. Start knowing: why retailers need one pool of inventory.",
-      "content": "Stop siloing your inventory. See how one pool reveals true demand and increases margins.",
-      "link": "https://www.retaildive.com/spons/stop-guessing-start-knowing-why-retailers-need-one-pool-of-inventory/828228/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-08-24"
-    },
-    {
-      "title": "Roots to be acquired by Roberto Cavalli parent company",
-      "content": "The outdoor retailer will go private in a deal led by Marquee Brands that is designed to ensure it &ldquo;remains anchored in Canadian culture.&rdquo;",
-      "link": "https://www.retaildive.com/news/roots-acquired-marquee-brands/828478/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-08-21"
-    },
-    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -855,23 +837,8 @@
     {
       "name": "claude-plugins-community",
       "author": "anthropics",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "link": "https://github.com/anthropics/claude-plugins-community",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-25"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
       "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/anthropics/claude-plugins-community",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -883,10 +850,10 @@
       "date": "2026-08-25"
     },
     {
-      "name": "OpenViking",
-      "author": "volcengine",
+      "name": "maka",
+      "author": "apache",
       "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
-      "link": "https://github.com/volcengine/OpenViking",
+      "link": "https://github.com/apache/maka",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -901,9 +868,24 @@
       "date": "2026-08-25"
     },
     {
+      "name": "OpenViking",
+      "author": "volcengine",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "link": "https://github.com/volcengine/OpenViking",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-25"
+    },
+    {
       "name": "awesome-gpt-image-2",
       "author": "freestylefly",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
       "link": "https://github.com/freestylefly/awesome-gpt-image-2",
       "stars": 0,
       "trend": 50,
@@ -911,6 +893,9 @@
       "tags": [
         {
           "name": "Agent"
+        },
+        {
+          "name": "RAG"
         },
         {
           "name": "Vision"
@@ -921,26 +906,8 @@
     {
       "name": "codex",
       "author": "openai",
-      "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
-      "link": "https://github.com/openai/codex",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "RAG"
-        }
-      ],
-      "date": "2026-08-25"
-    },
-    {
-      "name": "ai-memory",
-      "author": "akitaonrails",
       "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/akitaonrails/ai-memory",
+      "link": "https://github.com/openai/codex",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -956,6 +923,21 @@
       "author": "jundot",
       "description": "GitHub热门AI项目，本周获得大量关注",
       "link": "https://github.com/jundot/omlx",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-08-25"
+    },
+    {
+      "name": "AI-Infra-Guard",
+      "author": "Tencent",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/Tencent/AI-Infra-Guard",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -1004,24 +986,13 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
-      "date": "2026-08-25"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
       "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "link": "https://github.com/sponsors/explore",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub",
         "LLM"
       ],
-      "likes": 7510,
+      "likes": 2526,
       "date": "2026-08-25"
     },
     {
@@ -1217,6 +1188,19 @@
         "剪映"
       ],
       "likes": 18500,
+      "date": "2026-08-25"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
       "date": "2026-08-25"
     }
   ],
