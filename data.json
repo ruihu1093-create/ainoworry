@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26 10:30:34",
+  "updatedAt": "2026-08-26 11:24:46",
   "news": [
     {
       "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "AI Slop Is Ruining Cute Animals on the Internet",
+      "summary": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to hou",
+      "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
+      "source": "Wired-AI",
+      "date": "2026-08-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "It Should Be Harder to Apply for a Job. No, Really",
       "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a jo",
       "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/flock-safety-os-investigate/",
       "source": "Wired-AI",
       "date": "2026-08-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
-      "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training ",
-      "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
-      "source": "Wired-AI",
-      "date": "2026-08-18",
       "tag": "trend",
       "tagText": "资讯"
     },
