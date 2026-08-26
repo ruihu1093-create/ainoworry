@@ -1,87 +1,6 @@
 {
-  "updatedAt": "2026-08-26 13:50:41",
+  "updatedAt": "2026-08-26 14:39:13",
   "news": [
-    {
-      "title": "QueryStory wants you to believe what AI is telling you",
-      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-      "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Arga Labs is building a better way to train enterprise AI agents",
-      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV An",
-      "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-      "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-      "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
-      "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
-      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
-      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-      "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale",
-      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "summary": "The company's new fundraising total now stands at $232 million.",
-      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and ot",
-      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
     {
       "title": "AI Slop Is Ruining Cute Animals on the Internet",
       "summary": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to hou",
@@ -160,6 +79,87 @@
       "link": "https://www.wired.com/story/flock-safety-os-investigate/",
       "source": "Wired-AI",
       "date": "2026-08-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Raised on AI",
+      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plas",
+      "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puz",
+      "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, an",
+      "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Addressing a sticking point in sustainable adhesives",
+      "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even s",
+      "link": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Amping up T cells to target cancer",
+      "summary": "Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain can",
+      "link": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "source": "ArsTechnica-AI",
+      "date": "2026-08-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+      "summary": "The mark flags anything Claude processed, even human writing it only edited.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "source": "ArsTechnica-AI",
+      "date": "2026-08-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "summary": "But will Gemini's surge survive slowing model releases?",
+      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "source": "ArsTechnica-AI",
+      "date": "2026-08-11",
       "tag": "trend",
       "tagText": "资讯"
     },
