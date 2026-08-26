@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-26 02:59:54",
+  "updatedAt": "2026-08-26 03:57:56",
   "news": [
+    {
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Robotics startup Generalist reaches $3B valuation, sources say",
       "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
       "source": "Wired-AI",
       "date": "2026-08-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Addressing a sticking point in sustainable adhesives",
-      "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even s",
-      "link": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-08-25",
       "tag": "trend",
       "tagText": "资讯"
     },
