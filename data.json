@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-26 18:54:11",
+  "updatedAt": "2026-08-26 21:36:31",
   "news": [
+    {
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "summary": "Was Greg Brockman the right executive all along?",
+      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Radar makes podcasts searchable — and usable by AI agents",
       "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and",
@@ -65,28 +92,10 @@
       "tagText": "资讯"
     },
     {
-      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-      "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-      "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
-      "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
-      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-      "source": "TechCrunch-AI",
+      "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
+      "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see ",
+      "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+      "source": "Wired-AI",
       "date": "2026-08-26",
       "tag": "trend",
       "tagText": "资讯"
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
       "source": "Wired-AI",
       "date": "2026-08-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Silicon Valley Doesn't Get Why You Hate AI",
-      "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
-      "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
-      "source": "Wired-AI",
-      "date": "2026-08-20",
       "tag": "trend",
       "tagText": "资讯"
     },
