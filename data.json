@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26 16:14:04",
+  "updatedAt": "2026-08-26 18:54:11",
   "news": [
     {
       "title": "Radar makes podcasts searchable — and usable by AI agents",
@@ -92,6 +92,24 @@
       "tagText": "资讯"
     },
     {
+      "title": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
+      "summary": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not i",
+      "link": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
+      "source": "Wired-AI",
+      "date": "2026-08-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
+      "summary": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,”",
+      "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
+      "source": "Wired-AI",
+      "date": "2026-08-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "AI Slop Is Ruining Cute Animals on the Internet",
       "summary": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to hou",
       "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
       "source": "Wired-AI",
       "date": "2026-08-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
-      "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
-      "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
-      "source": "Wired-AI",
-      "date": "2026-08-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-      "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were ",
-      "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-      "source": "Wired-AI",
-      "date": "2026-08-19",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -621,7 +621,7 @@
   "ecommerce": [
     {
       "title": "How Athleta is revamping its brand narrative with bolder purpose",
-      "content": "CMO Erika Everett details a fall campaign that aims to be more provocative and visually distinct than the activewear retailer&rsquo;s past marketing.",
+      "content": "Chief marketer Erika Everett details a fall campaign that aims to be more provocative and visually distinct than the activewear retailer&rsquo;s past marketing.",
       "link": "https://www.retaildive.com/news/how-athleta-is-revamping-its-brand-narrative-with-bolder-purpose/828750/",
       "source": "Retail-Dive",
       "impact": "medium",
