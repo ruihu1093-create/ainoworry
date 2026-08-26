@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-08-26 12:42:05",
+  "updatedAt": "2026-08-26 13:50:41",
   "news": [
+    {
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
+      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV An",
+      "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
       "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
@@ -59,24 +77,6 @@
       "title": "Claude Cowork finally remembers what you told the app in chat",
       "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and ot",
       "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently availa",
-      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
-      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
       "source": "TechCrunch-AI",
       "date": "2026-08-25",
       "tag": "trend",
