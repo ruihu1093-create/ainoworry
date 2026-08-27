@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-08-27 13:40:25",
+  "updatedAt": "2026-08-27 23:31:15",
   "news": [
+    {
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 ",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for",
+      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Googl",
+      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solut",
+      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find inform",
+      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI’s memory crunch is coming for Android apps",
+      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with l",
+      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the i",
+      "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person c",
+      "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
       "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
@@ -12,7 +84,7 @@
     },
     {
       "title": "Nvidia closes in on Hugging Face acquisition",
-      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its c",
+      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its c",
       "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
       "source": "TechCrunch-AI",
       "date": "2026-08-27",
@@ -20,65 +92,38 @@
       "tagText": "资讯"
     },
     {
-      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "source": "TechCrunch-AI",
+      "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+      "summary": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
+      "link": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+      "source": "Wired-AI",
       "date": "2026-08-27",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
+      "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
+      "summary": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up n",
+      "link": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
+      "source": "Wired-AI",
+      "date": "2026-08-27",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
-      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
+      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+      "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
+      "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+      "source": "Wired-AI",
+      "date": "2026-08-27",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "How do we explain OpenAI’s executive exodus?",
-      "summary": "Was Greg Brockman the right executive all along?",
-      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and",
-      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
+      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+      "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
+      "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+      "source": "Wired-AI",
+      "date": "2026-08-27",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -115,51 +160,6 @@
       "link": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
       "source": "Wired-AI",
       "date": "2026-08-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
-      "summary": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,”",
-      "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
-      "source": "Wired-AI",
-      "date": "2026-08-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Slop Is Ruining Cute Animals on the Internet",
-      "summary": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to hou",
-      "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
-      "source": "Wired-AI",
-      "date": "2026-08-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "It Should Be Harder to Apply for a Job. No, Really",
-      "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a jo",
-      "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
-      "source": "Wired-AI",
-      "date": "2026-08-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
-      "summary": "“It never crossed my mind that they would be so bold as to sell our private data for AI,” says one former Spirit Airlines flight attendant.",
-      "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
-      "source": "Wired-AI",
-      "date": "2026-08-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
-      "summary": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—",
-      "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
-      "source": "Wired-AI",
-      "date": "2026-08-24",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,13 +620,31 @@
   ],
   "ecommerce": [
     {
-      "title": "How Athleta is revamping its brand narrative with bolder purpose",
-      "content": "Chief marketer Erika Everett details a fall campaign that aims to be more provocative and visually distinct than the activewear retailer&rsquo;s past marketing.",
-      "link": "https://www.retaildive.com/news/how-athleta-is-revamping-its-brand-narrative-with-bolder-purpose/828750/",
+      "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+      "content": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
+      "link": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "The Backroom: A sit-down with Ron Johnson",
+      "content": "The retail veteran shares his journey with Apple, the infamous stint with J.C. Penney and more ahead of the release of his memoir, &ldquo;Shop Different.&rdquo;",
+      "link": "https://www.retaildive.com/news/podcast-the-backroom-ron-johnson-apple-jcpenney-target/828925/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-08-26"
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Sur La Table launches peer-to-peer marketplace",
+      "content": "<img src=\"https://imgproxy.divecdn.com/g1STDeBQ_CbLCnfjWTdjZfqSkHcB1C0sgCbzgy-NPyI/g:nowe:0:175/c:1280:723/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjY2Mi5qcGVn.",
+      "link": "https://www.retaildive.com/news/sur-la-table-launches-peer-to-peer-resale-marketplace/828800/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-27"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
