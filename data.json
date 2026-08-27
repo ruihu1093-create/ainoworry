@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-08-27 02:50:29",
+  "updatedAt": "2026-08-27 13:40:25",
   "news": [
     {
-      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its c",
+      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
       "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
       "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
       "source": "TechCrunch-AI",
@@ -65,20 +83,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
-      "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
+      "title": "Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead",
+      "summary": "The Relay Q, due next year, is the latest attempt to reposition voice as the most seamless method for human-computer interaction.",
+      "link": "https://www.wired.com/story/relay-q-voice-to-text-ai-app/",
+      "source": "Wired-AI",
+      "date": "2026-08-27",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-      "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
-      "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-26",
+      "title": "The UK Power Grid Has a Phantom Data Center Problem",
+      "summary": "The UK’s energy regulator is using a variety of tricks to keep speculative data center projects from plugging into the power grid. The country’s AI am",
+      "link": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
+      "source": "Wired-AI",
+      "date": "2026-08-27",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
       "source": "Wired-AI",
       "date": "2026-08-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Unlikely Place at the Center of China’s AI Boom",
-      "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
-      "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-      "source": "Wired-AI",
-      "date": "2026-08-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Silicon Valley Doesn't Get Why You Hate AI",
-      "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
-      "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
-      "source": "Wired-AI",
-      "date": "2026-08-20",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -766,10 +766,10 @@
   ],
   "github": [
     {
-      "name": "AprilNEA",
-      "author": "sponsors",
+      "name": "developers",
+      "author": "trending",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "link": "https://github.com/sponsors/AprilNEA",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -781,40 +781,43 @@
       "date": "2026-08-27"
     },
     {
+      "name": "awesome-gpt-image-2",
+      "author": "freestylefly",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "link": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Vision"
+        }
+      ],
+      "date": "2026-08-27"
+    },
+    {
+      "name": "omarchy",
+      "author": "basecamp",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "link": "https://github.com/basecamp/omarchy",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-27"
+    },
+    {
       "name": "OpenLogi",
       "author": "AprilNEA",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "link": "https://github.com/AprilNEA/OpenLogi",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-27"
-    },
-    {
-      "name": "aprilnea",
-      "author": "apps",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "link": "https://github.com/apps/aprilnea",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-27"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/AprilNEA/OpenLogi",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -826,25 +829,25 @@
       "date": "2026-08-27"
     },
     {
-      "name": "modular",
-      "author": "modular",
-      "description": "local multi-agent harness",
-      "link": "https://github.com/modular/modular",
+      "name": "aprilnea",
+      "author": "apps",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "link": "https://github.com/apps/aprilnea",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "LLM"
         }
       ],
       "date": "2026-08-27"
     },
     {
-      "name": "awesome-gpt-image-2",
-      "author": "freestylefly",
+      "name": "codex",
+      "author": "openai",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "link": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "link": "https://github.com/openai/codex",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -854,9 +857,6 @@
         },
         {
           "name": "RAG"
-        },
-        {
-          "name": "Vision"
         }
       ],
       "date": "2026-08-27"
@@ -864,7 +864,7 @@
     {
       "name": "maka",
       "author": "apache",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "description": "local multi-agent harness",
       "link": "https://github.com/apache/maka",
       "stars": 0,
       "trend": 50,
@@ -877,55 +877,10 @@
       "date": "2026-08-27"
     },
     {
-      "name": "codex",
-      "author": "openai",
-      "description": "A collective list of free APIs",
-      "link": "https://github.com/openai/codex",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-27"
-    },
-    {
-      "name": "MoneyPrinterTurbo",
-      "author": "harry0703",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-27"
-    },
-    {
-      "name": "munder-difflin",
-      "author": "chaitanyagiri",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "link": "https://github.com/chaitanyagiri/munder-difflin",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-08-27"
-    },
-    {
-      "name": "ai-memory",
-      "author": "akitaonrails",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/akitaonrails/ai-memory",
+      "name": "modular",
+      "author": "modular",
+      "description": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "link": "https://github.com/modular/modular",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -939,20 +894,80 @@
     {
       "name": "freellmapi",
       "author": "tashfeenahmed",
-      "description": "GitHub热门AI项目，本周获得大量关注",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "link": "https://github.com/tashfeenahmed/freellmapi",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
+          "name": "Agent"
+        },
+        {
           "name": "LLM"
+        }
+      ],
+      "date": "2026-08-27"
+    },
+    {
+      "name": "renovate",
+      "author": "apps",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "link": "https://github.com/apps/renovate",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-27"
+    },
+    {
+      "name": "munder-difflin",
+      "author": "chaitanyagiri",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/chaitanyagiri/munder-difflin",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-08-27"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-08-27"
     }
   ],
   "agents": [
+    {
+      "title": "开源项目: manifest.json",
+      "author": "@anonymous",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "link": "https://github.com/manifest.json",
+      "tools": [
+        "GitHub",
+        "GPT-4"
+      ],
+      "likes": 4324,
+      "date": "2026-08-27"
+    },
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
@@ -965,23 +980,14 @@
       "date": "2026-08-27"
     },
     {
-      "title": "开源项目: topics",
-      "author": "@anonymous",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 1697,
-      "date": "2026-08-27"
-    },
-    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "local multi-agent harness",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint",
       "link": "https://github.com/collections",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4",
+        "LLM"
       ],
       "likes": 2046,
       "date": "2026-08-27"
