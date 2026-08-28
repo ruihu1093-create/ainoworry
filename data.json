@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-08-28 08:47:08",
+  "updatedAt": "2026-08-28 20:39:02",
   "news": [
+    {
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring ",
+      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading ov",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "summary": "There's a lot of capital pouring into the business of giving models away.",
+      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentago",
+      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 ",
       "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for",
@@ -47,47 +92,29 @@
       "tagText": "资讯"
     },
     {
-      "title": "AI’s memory crunch is coming for Android apps",
-      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with l",
-      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-27",
+      "title": "AI Has Human Doctors Asking: What’s Left for Us?",
+      "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
+      "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+      "source": "Wired-AI",
+      "date": "2026-08-28",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the i",
-      "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-27",
+      "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
+      "summary": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publis",
+      "link": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
+      "source": "Wired-AI",
+      "date": "2026-08-28",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-      "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person c",
-      "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
-      "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its c",
-      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-27",
+      "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
+      "summary": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some worke",
+      "link": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
+      "source": "Wired-AI",
+      "date": "2026-08-28",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -133,33 +160,6 @@
       "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
       "source": "Wired-AI",
       "date": "2026-08-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead",
-      "summary": "The Relay Q, due next year, is the latest attempt to reposition voice as the most seamless method for human-computer interaction.",
-      "link": "https://www.wired.com/story/relay-q-voice-to-text-ai-app/",
-      "source": "Wired-AI",
-      "date": "2026-08-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The UK Power Grid Has a Phantom Data Center Problem",
-      "summary": "The UK’s energy regulator is using a variety of tricks to keep speculative data center projects from plugging into the power grid. The country’s AI am",
-      "link": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
-      "source": "Wired-AI",
-      "date": "2026-08-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
-      "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see ",
-      "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
-      "source": "Wired-AI",
-      "date": "2026-08-26",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,27 +620,9 @@
   ],
   "ecommerce": [
     {
-      "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
-      "content": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
-      "link": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-08-27"
-    },
-    {
       "title": "The Backroom: A sit-down with Ron Johnson",
       "content": "The retail veteran shares his journey with Apple, the infamous stint with J.C. Penney and more ahead of the release of his memoir, &ldquo;Shop Different.&rdquo;",
       "link": "https://www.retaildive.com/news/podcast-the-backroom-ron-johnson-apple-jcpenney-target/828925/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "Sur La Table launches peer-to-peer marketplace",
-      "content": "<img src=\"https://imgproxy.divecdn.com/g1STDeBQ_CbLCnfjWTdjZfqSkHcB1C0sgCbzgy-NPyI/g:nowe:0:175/c:1280:723/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjY2Mi5qcGVn.",
-      "link": "https://www.retaildive.com/news/sur-la-table-launches-peer-to-peer-resale-marketplace/828800/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
@@ -799,9 +781,24 @@
       "date": "2026-08-28"
     },
     {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-28"
+    },
+    {
       "name": "awesome-gpt-image-2",
       "author": "freestylefly",
-      "description": "Lightweight coding agent that runs in your terminal",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "link": "https://github.com/freestylefly/awesome-gpt-image-2",
       "stars": 0,
       "trend": 50,
@@ -817,10 +814,10 @@
       "date": "2026-08-28"
     },
     {
-      "name": "omarchy",
-      "author": "basecamp",
+      "name": "codex",
+      "author": "openai",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "link": "https://github.com/basecamp/omarchy",
+      "link": "https://github.com/openai/codex",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -832,25 +829,10 @@
       "date": "2026-08-28"
     },
     {
-      "name": "OpenLogi",
-      "author": "AprilNEA",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "link": "https://github.com/AprilNEA/OpenLogi",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-28"
-    },
-    {
-      "name": "aprilnea",
-      "author": "apps",
+      "name": "archify",
+      "author": "tt-a1i",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "link": "https://github.com/apps/aprilnea",
+      "link": "https://github.com/tt-a1i/archify",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -862,43 +844,10 @@
       "date": "2026-08-28"
     },
     {
-      "name": "codex",
-      "author": "openai",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "link": "https://github.com/openai/codex",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "RAG"
-        }
-      ],
-      "date": "2026-08-28"
-    },
-    {
-      "name": "maka",
-      "author": "apache",
-      "description": "local multi-agent harness",
-      "link": "https://github.com/apache/maka",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-28"
-    },
-    {
-      "name": "modular",
-      "author": "modular",
-      "description": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "link": "https://github.com/modular/modular",
+      "name": "aprilnea",
+      "author": "apps",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "link": "https://github.com/apps/aprilnea",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -910,9 +859,24 @@
       "date": "2026-08-28"
     },
     {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-28"
+    },
+    {
       "name": "freellmapi",
       "author": "tashfeenahmed",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "link": "https://github.com/tashfeenahmed/freellmapi",
       "stars": 0,
       "trend": 50,
@@ -928,10 +892,10 @@
       "date": "2026-08-28"
     },
     {
-      "name": "renovate",
-      "author": "apps",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "link": "https://github.com/apps/renovate",
+      "name": "modular",
+      "author": "modular",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "link": "https://github.com/modular/modular",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -943,10 +907,25 @@
       "date": "2026-08-28"
     },
     {
-      "name": "munder-difflin",
-      "author": "chaitanyagiri",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/chaitanyagiri/munder-difflin",
+      "name": "ai-job-search",
+      "author": "MadsLorentzen",
+      "description": "local multi-agent harness",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-28"
+    },
+    {
+      "name": "openhuman",
+      "author": "tinyhumansai",
+      "description": "BookOrbit: Your Reading Space",
+      "link": "https://github.com/tinyhumansai/openhuman",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -958,16 +937,16 @@
       "date": "2026-08-28"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
+      "name": "VoltAgent",
+      "author": "sponsors",
       "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/apps/dependabot",
+      "link": "https://github.com/sponsors/VoltAgent",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-08-28"
@@ -987,33 +966,20 @@
       "date": "2026-08-28"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: topics",
       "author": "@anonymous",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events a",
-      "link": "https://github.com/explore",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 3045,
-      "date": "2026-08-28"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub",
-        "GPT-4",
-        "LLM"
-      ],
-      "likes": 2046,
+      "likes": 1697,
       "date": "2026-08-28"
     },
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1227,6 +1193,19 @@
         "美团"
       ],
       "likes": 2650,
+      "date": "2026-08-28"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
       "date": "2026-08-28"
     }
   ],
