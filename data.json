@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-29 10:41:54",
+  "updatedAt": "2026-08-29 15:26:03",
   "news": [
+    {
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring ",
@@ -77,15 +86,6 @@
       "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
       "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find inform",
       "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
-      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
       "source": "TechCrunch-AI",
       "date": "2026-08-27",
       "tag": "trend",
