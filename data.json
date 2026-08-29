@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29 19:07:32",
+  "updatedAt": "2026-08-29 22:15:20",
   "news": [
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -766,31 +766,16 @@
   ],
   "github": [
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "explore",
+      "author": "sponsors",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Vision"
-        }
-      ],
-      "date": "2026-08-29"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-08-29"
@@ -798,15 +783,12 @@
     {
       "name": "awesome-gpt-image-2",
       "author": "freestylefly",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "description": "Beautiful, Modern &amp; Opinionated Linux",
       "link": "https://github.com/freestylefly/awesome-gpt-image-2",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        {
-          "name": "Agent"
-        },
         {
           "name": "Vision"
         }
@@ -814,10 +796,25 @@
       "date": "2026-08-29"
     },
     {
-      "name": "codex",
-      "author": "openai",
+      "name": "claude-plugins-community",
+      "author": "anthropics",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "link": "https://github.com/anthropics/claude-plugins-community",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-29"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "link": "https://github.com/openai/codex",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -831,23 +828,8 @@
     {
       "name": "archify",
       "author": "tt-a1i",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "link": "https://github.com/tt-a1i/archify",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-08-29"
-    },
-    {
-      "name": "aprilnea",
-      "author": "apps",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "link": "https://github.com/apps/aprilnea",
+      "link": "https://github.com/tt-a1i/archify",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -859,32 +841,14 @@
       "date": "2026-08-29"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "link": "https://github.com/apps/github-actions",
+      "name": "maka",
+      "author": "apache",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "link": "https://github.com/apache/maka",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-29"
-    },
-    {
-      "name": "freellmapi",
-      "author": "tashfeenahmed",
-      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-      "link": "https://github.com/tashfeenahmed/freellmapi",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
         {
           "name": "LLM"
         }
@@ -892,10 +856,25 @@
       "date": "2026-08-29"
     },
     {
-      "name": "modular",
-      "author": "modular",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "link": "https://github.com/modular/modular",
+      "name": "AprilNEA",
+      "author": "sponsors",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "link": "https://github.com/sponsors/AprilNEA",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-29"
+    },
+    {
+      "name": "MadsLorentzen",
+      "author": "sponsors",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "link": "https://github.com/sponsors/MadsLorentzen",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -909,23 +888,38 @@
     {
       "name": "ai-job-search",
       "author": "MadsLorentzen",
-      "description": "local multi-agent harness",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "link": "https://github.com/MadsLorentzen/ai-job-search",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "Vision"
         }
       ],
       "date": "2026-08-29"
     },
     {
-      "name": "openhuman",
-      "author": "tinyhumansai",
-      "description": "BookOrbit: Your Reading Space",
-      "link": "https://github.com/tinyhumansai/openhuman",
+      "name": "freellmapi",
+      "author": "tashfeenahmed",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "link": "https://github.com/tashfeenahmed/freellmapi",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-08-29"
+    },
+    {
+      "name": "codex",
+      "author": "openai",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "link": "https://github.com/openai/codex",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -937,10 +931,10 @@
       "date": "2026-08-29"
     },
     {
-      "name": "VoltAgent",
-      "author": "sponsors",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/sponsors/VoltAgent",
+      "name": "claude-plugins-official",
+      "author": "anthropics",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "link": "https://github.com/anthropics/claude-plugins-official",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -954,21 +948,21 @@
   ],
   "agents": [
     {
-      "title": "开源项目: manifest.json",
+      "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "link": "https://github.com/manifest.json",
+      "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub",
         "GPT-4"
       ],
-      "likes": 4324,
+      "likes": 2325,
       "date": "2026-08-29"
     },
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events a",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -977,14 +971,14 @@
       "date": "2026-08-29"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
-      "link": "https://github.com/sponsors/explore",
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
-      "likes": 7510,
+      "likes": 2046,
       "date": "2026-08-29"
     },
     {
