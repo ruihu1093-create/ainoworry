@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29 03:02:09",
+  "updatedAt": "2026-08-29 10:41:54",
   "news": [
     {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+      "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+      "source": "Wired-AI",
+      "date": "2026-08-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "AI Has Human Doctors Asking: What’s Left for Us?",
       "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
       "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
@@ -149,15 +158,6 @@
       "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
       "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
       "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
-      "source": "Wired-AI",
-      "date": "2026-08-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
-      "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
-      "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
       "source": "Wired-AI",
       "date": "2026-08-27",
       "tag": "trend",
