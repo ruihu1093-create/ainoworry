@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30 06:22:58",
+  "updatedAt": "2026-08-30 12:32:43",
   "news": [
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -783,29 +783,17 @@
     {
       "name": "awesome-gpt-image-2",
       "author": "freestylefly",
-      "description": "Beautiful, Modern &amp; Opinionated Linux",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "link": "https://github.com/freestylefly/awesome-gpt-image-2",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Vision"
-        }
-      ],
-      "date": "2026-08-30"
-    },
-    {
-      "name": "claude-plugins-community",
-      "author": "anthropics",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "link": "https://github.com/anthropics/claude-plugins-community",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
           "name": "Agent"
+        },
+        {
+          "name": "Vision"
         }
       ],
       "date": "2026-08-30"
@@ -828,23 +816,8 @@
     {
       "name": "archify",
       "author": "tt-a1i",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "link": "https://github.com/tt-a1i/archify",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-08-30"
-    },
-    {
-      "name": "maka",
-      "author": "apache",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "link": "https://github.com/apache/maka",
+      "link": "https://github.com/tt-a1i/archify",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -856,46 +829,16 @@
       "date": "2026-08-30"
     },
     {
-      "name": "AprilNEA",
-      "author": "sponsors",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "link": "https://github.com/sponsors/AprilNEA",
+      "name": "omarchy",
+      "author": "omacom",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "link": "https://github.com/omacom/omarchy",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-30"
-    },
-    {
-      "name": "MadsLorentzen",
-      "author": "sponsors",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "link": "https://github.com/sponsors/MadsLorentzen",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-30"
-    },
-    {
-      "name": "ai-job-search",
-      "author": "MadsLorentzen",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Vision"
+          "name": "AI"
         }
       ],
       "date": "2026-08-30"
@@ -903,7 +846,7 @@
     {
       "name": "freellmapi",
       "author": "tashfeenahmed",
-      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "link": "https://github.com/tashfeenahmed/freellmapi",
       "stars": 0,
       "trend": 50,
@@ -916,10 +859,10 @@
       "date": "2026-08-30"
     },
     {
-      "name": "codex",
-      "author": "openai",
-      "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-      "link": "https://github.com/openai/codex",
+      "name": "ai-job-search",
+      "author": "MadsLorentzen",
+      "description": "Cursor plugin specification and official plugins",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -933,8 +876,68 @@
     {
       "name": "claude-plugins-official",
       "author": "anthropics",
-      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "link": "https://github.com/anthropics/claude-plugins-official",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-30"
+    },
+    {
+      "name": "aprilnea",
+      "author": "apps",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "link": "https://github.com/apps/aprilnea",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-30"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-08-30"
+    },
+    {
+      "name": "rohitg00",
+      "author": "sponsors",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "link": "https://github.com/sponsors/rohitg00",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-30"
+    },
+    {
+      "name": "ai-engineering-from-scratch",
+      "author": "rohitg00",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -960,6 +963,19 @@
       "date": "2026-08-30"
     },
     {
+      "title": "开源项目: explore",
+      "author": "@anonymous",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint",
+      "link": "https://github.com/explore",
+      "tools": [
+        "GitHub",
+        "GPT-4",
+        "LLM"
+      ],
+      "likes": 3045,
+      "date": "2026-08-30"
+    },
+    {
       "title": "开源项目: topics",
       "author": "@anonymous",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
@@ -968,17 +984,6 @@
         "GitHub"
       ],
       "likes": 1697,
-      "date": "2026-08-30"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
       "date": "2026-08-30"
     },
     {
