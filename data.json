@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-30 12:32:43",
+  "updatedAt": "2026-08-30 17:09:35",
   "news": [
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
@@ -74,24 +83,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 ",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for",
-      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Googl",
-      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
       "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
       "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
       "source": "Wired-AI",
       "date": "2026-08-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-28",
       "tag": "trend",
       "tagText": "资讯"
     },
