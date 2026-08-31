@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-08-31 10:25:19",
+  "updatedAt": "2026-08-31 17:49:07",
   "news": [
     {
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begi",
+      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
       "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
       "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
       "source": "TechCrunch-AI",
@@ -20,7 +38,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
       "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
       "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "source": "TechCrunch-AI",
@@ -29,7 +47,16 @@
       "tagText": "资讯"
     },
     {
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over A",
+      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "source": "TechCrunch-AI",
+      "date": "2026-08-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
       "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is fin",
       "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
       "source": "TechCrunch-AI",
@@ -47,38 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring ",
-      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading ov",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "summary": "There's a lot of capital pouring into the business of giving models away.",
-      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentago",
-      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-28",
+      "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+      "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. ",
+      "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "source": "Wired-AI",
+      "date": "2026-08-31",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -146,20 +146,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
-      "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
-      "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
-      "source": "Wired-AI",
-      "date": "2026-08-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
       "source": "MIT-Tech-Review",
       "date": "2026-08-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "A startup claims it’s found a drug to make your blood young",
+      "summary": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write abou",
+      "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-08-27",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "Inside Bed Bath & Beyond’s ambitions to transcend retail",
+      "content": "<img src=\"https://imgproxy.divecdn.com/iE7u3uR_idOKNdUo0PGEb7cFYlLEBHqJoTeXMNOXq9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNV9NQVlfTUIzX1RDU19GVF9XT1JUSDc2MDIu",
+      "link": "https://www.retaildive.com/news/bed-bath-beyond-turnaround-ambitions-transcend-home-retail/828492/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-08-31"
+    },
+    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -759,8 +768,23 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "link": "https://github.com/sponsors/explore",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-31"
+    },
+    {
+      "name": "developers",
+      "author": "trending",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -774,15 +798,12 @@
     {
       "name": "awesome-gpt-image-2",
       "author": "freestylefly",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "description": "Beautiful, Modern &amp; Opinionated Linux",
       "link": "https://github.com/freestylefly/awesome-gpt-image-2",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        {
-          "name": "Agent"
-        },
         {
           "name": "Vision"
         }
@@ -790,10 +811,10 @@
       "date": "2026-08-31"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "link": "https://github.com/apps/github-actions",
+      "name": "claude-plugins-community",
+      "author": "anthropics",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "link": "https://github.com/anthropics/claude-plugins-community",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -805,25 +826,10 @@
       "date": "2026-08-31"
     },
     {
-      "name": "archify",
-      "author": "tt-a1i",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "link": "https://github.com/tt-a1i/archify",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-08-31"
-    },
-    {
-      "name": "omarchy",
-      "author": "omacom",
+      "name": "github-actions",
+      "author": "apps",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "link": "https://github.com/omacom/omarchy",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -835,10 +841,40 @@
       "date": "2026-08-31"
     },
     {
-      "name": "freellmapi",
-      "author": "tashfeenahmed",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "link": "https://github.com/tashfeenahmed/freellmapi",
+      "name": "omarchy",
+      "author": "omacom",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "link": "https://github.com/omacom/omarchy",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-31"
+    },
+    {
+      "name": "OpenMAIC",
+      "author": "THU-MAIC",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "link": "https://github.com/THU-MAIC/OpenMAIC",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-08-31"
+    },
+    {
+      "name": "MadsLorentzen",
+      "author": "sponsors",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "link": "https://github.com/sponsors/MadsLorentzen",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -852,7 +888,7 @@
     {
       "name": "ai-job-search",
       "author": "MadsLorentzen",
-      "description": "Cursor plugin specification and official plugins",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "link": "https://github.com/MadsLorentzen/ai-job-search",
       "stars": 0,
       "trend": 50,
@@ -865,10 +901,10 @@
       "date": "2026-08-31"
     },
     {
-      "name": "claude-plugins-official",
-      "author": "anthropics",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "link": "https://github.com/anthropics/claude-plugins-official",
+      "name": "scientific-agent-skills",
+      "author": "K-Dense-AI",
+      "description": "Your own search engine",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -880,16 +916,19 @@
       "date": "2026-08-31"
     },
     {
-      "name": "aprilnea",
-      "author": "apps",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "link": "https://github.com/apps/aprilnea",
+      "name": "freellmapi",
+      "author": "tashfeenahmed",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "link": "https://github.com/tashfeenahmed/freellmapi",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "LLM"
+        },
+        {
+          "name": "Vision"
         }
       ],
       "date": "2026-08-31"
@@ -908,60 +947,39 @@
         }
       ],
       "date": "2026-08-31"
-    },
-    {
-      "name": "rohitg00",
-      "author": "sponsors",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "link": "https://github.com/sponsors/rohitg00",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-31"
-    },
-    {
-      "name": "ai-engineering-from-scratch",
-      "author": "rohitg00",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-08-31"
     }
   ],
   "agents": [
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp ex",
       "link": "https://github.com/opensearch.xml",
       "tools": [
-        "GitHub",
-        "GPT-4"
+        "GitHub"
       ],
       "likes": 2325,
       "date": "2026-08-31"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint",
-      "link": "https://github.com/explore",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub",
-        "GPT-4",
-        "LLM"
+        "GPT-4"
+      ],
+      "likes": 4324,
+      "date": "2026-08-31"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@anonymous",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
+      "link": "https://github.com/explore",
+      "tools": [
+        "GitHub"
       ],
       "likes": 3045,
       "date": "2026-08-31"
@@ -969,12 +987,25 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events a",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
       "likes": 1697,
+      "date": "2026-08-31"
+    },
+    {
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub",
+        "GPT-4",
+        "LLM"
+      ],
+      "likes": 2046,
       "date": "2026-08-31"
     },
     {
@@ -1170,32 +1201,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-08-31"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
-      "date": "2026-08-31"
-    },
-    {
-      "title": "心理咨询师AI预约+回访系统",
-      "author": "@心理小林",
-      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
-      "link": "https://dify.ai/",
-      "tools": [
-        "Dify",
-        "Coze",
-        "微信"
-      ],
-      "likes": 3940,
       "date": "2026-08-31"
     }
   ],
