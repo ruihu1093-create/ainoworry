@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-01 13:00:42",
+  "updatedAt": "2026-09-01 17:32:22",
   "news": [
+    {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of rais",
+      "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
       "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
@@ -47,29 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begi",
-      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-31",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-31",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-30",
+      "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+      "summary": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
+      "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+      "source": "Wired-AI",
+      "date": "2026-09-01",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -137,11 +146,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
-      "summary": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up n",
-      "link": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
-      "source": "Wired-AI",
-      "date": "2026-08-27",
+      "title": "Making the AI-powered case for legacy modernization",
+      "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and",
+      "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-01",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
       "source": "MIT-Tech-Review",
       "date": "2026-09-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’v",
-      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-08-31",
       "tag": "trend",
       "tagText": "资讯"
     },
