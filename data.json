@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01 07:09:34",
+  "updatedAt": "2026-09-01 13:00:42",
   "news": [
     {
       "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
@@ -146,20 +146,20 @@
       "tagText": "资讯"
     },
     {
+      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’v",
       "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
       "source": "MIT-Tech-Review",
       "date": "2026-08-31",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-08-28",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -781,36 +781,6 @@
       "date": "2026-09-01"
     },
     {
-      "name": "developers",
-      "author": "trending",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "link": "https://github.com/trending/developers",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Vision"
-        }
-      ],
-      "date": "2026-09-01"
-    },
-    {
-      "name": "awesome-gpt-image-2",
-      "author": "freestylefly",
-      "description": "Beautiful, Modern &amp; Opinionated Linux",
-      "link": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Vision"
-        }
-      ],
-      "date": "2026-09-01"
-    },
-    {
       "name": "claude-plugins-community",
       "author": "anthropics",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
@@ -828,29 +798,14 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-01"
-    },
-    {
-      "name": "omarchy",
-      "author": "omacom",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "link": "https://github.com/omacom/omarchy",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
+          "name": "Vision"
         }
       ],
       "date": "2026-09-01"
@@ -858,23 +813,8 @@
     {
       "name": "OpenMAIC",
       "author": "THU-MAIC",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "link": "https://github.com/THU-MAIC/OpenMAIC",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-01"
-    },
-    {
-      "name": "MadsLorentzen",
-      "author": "sponsors",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "link": "https://github.com/sponsors/MadsLorentzen",
+      "link": "https://github.com/THU-MAIC/OpenMAIC",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -886,31 +826,19 @@
       "date": "2026-09-01"
     },
     {
-      "name": "ai-job-search",
-      "author": "MadsLorentzen",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-01"
-    },
-    {
-      "name": "scientific-agent-skills",
-      "author": "K-Dense-AI",
-      "description": "Your own search engine",
-      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "name": "awesome-gpt-image-2",
+      "author": "freestylefly",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "link": "https://github.com/freestylefly/awesome-gpt-image-2",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
+        },
+        {
+          "name": "Vision"
         }
       ],
       "date": "2026-09-01"
@@ -918,7 +846,7 @@
     {
       "name": "freellmapi",
       "author": "tashfeenahmed",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "description": "Open source alternative to Semrush and Ahrefs",
       "link": "https://github.com/tashfeenahmed/freellmapi",
       "stars": 0,
       "trend": 50,
@@ -926,9 +854,24 @@
       "tags": [
         {
           "name": "LLM"
+        }
+      ],
+      "date": "2026-09-01"
+    },
+    {
+      "name": "scientific-agent-skills",
+      "author": "K-Dense-AI",
+      "description": "Fully automatic censorship removal for language models",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         },
         {
-          "name": "Vision"
+          "name": "LLM"
         }
       ],
       "date": "2026-09-01"
@@ -947,6 +890,66 @@
         }
       ],
       "date": "2026-09-01"
+    },
+    {
+      "name": "ai-engineering-from-scratch",
+      "author": "rohitg00",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-09-01"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "A collection of MCP servers.",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-09-01"
+    },
+    {
+      "name": "abi",
+      "author": "sponsors",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "link": "https://github.com/sponsors/abi",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-01"
+    },
+    {
+      "name": "screenshot-to-code",
+      "author": "abi",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "link": "https://github.com/abi/screenshot-to-code",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-01"
     }
   ],
   "agents": [
@@ -962,50 +965,27 @@
       "date": "2026-09-01"
     },
     {
-      "title": "开源项目: manifest.json",
-      "author": "@anonymous",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "link": "https://github.com/manifest.json",
-      "tools": [
-        "GitHub",
-        "GPT-4"
-      ],
-      "likes": 4324,
-      "date": "2026-09-01"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@anonymous",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
-      "link": "https://github.com/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 3045,
-      "date": "2026-09-01"
-    },
-    {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events a",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 1697,
-      "date": "2026-09-01"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint",
-      "link": "https://github.com/collections",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub",
         "GPT-4",
         "LLM"
       ],
-      "likes": 2046,
+      "likes": 1697,
+      "date": "2026-09-01"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Fully automatic censorship removal for language models",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-09-01"
     },
     {
@@ -1201,6 +1181,32 @@
         "剪映"
       ],
       "likes": 18500,
+      "date": "2026-09-01"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
+      "date": "2026-09-01"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
       "date": "2026-09-01"
     }
   ],
