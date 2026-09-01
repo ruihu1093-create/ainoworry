@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-01 20:27:31",
+  "updatedAt": "2026-09-01 22:57:44",
   "news": [
+    {
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million S",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic’s new Fable release is cheaper, less restrictive",
       "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
@@ -43,33 +61,6 @@
       "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
       "source": "TechCrunch-AI",
       "date": "2026-09-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-31",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "source": "TechCrunch-AI",
-      "date": "2026-08-31",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -158,6 +149,15 @@
       "title": "Making the AI-powered case for legacy modernization",
       "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and",
       "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
       "source": "MIT-Tech-Review",
       "date": "2026-09-01",
       "tag": "trend",
