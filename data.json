@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-02 10:30:03",
+  "updatedAt": "2026-09-02 14:55:21",
   "news": [
+    {
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane,",
+      "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
       "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million S",
@@ -41,24 +59,6 @@
       "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
       "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
       "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Fambot introduces an ‘AI chief of staff’ for families",
-      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of rais",
-      "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
       "source": "TechCrunch-AI",
       "date": "2026-09-01",
       "tag": "trend",
@@ -137,27 +137,27 @@
       "tagText": "资讯"
     },
     {
+      "title": "Facilitating AI integration with simplicity at scale",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-spe",
+      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "How AI plotted an interstellar journey to Alpha Centauri",
       "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the en",
       "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Making the AI-powered case for legacy modernization",
-      "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and",
-      "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
       "source": "MIT-Tech-Review",
       "date": "2026-09-01",
       "tag": "trend",
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "J. Peterman appears to have folded",
+      "content": "The quirky catalog retailer, made famous by &ldquo;Seinfeld,&rdquo; has stopped taking orders and faces allegations of violating Ohio consumer laws.",
+      "link": "https://www.retaildive.com/news/j-peterman-appears-to-have-folded/829323/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-02"
+    },
+    {
       "title": "Inside Bed Bath & Beyond’s ambitions to transcend retail",
       "content": "<img src=\"https://imgproxy.divecdn.com/iE7u3uR_idOKNdUo0PGEb7cFYlLEBHqJoTeXMNOXq9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNV9NQVlfTUIzX1RDU19GVF9XT1JUSDc2MDIu",
       "link": "https://www.retaildive.com/news/bed-bath-beyond-turnaround-ambitions-transcend-home-retail/828492/",
@@ -766,10 +775,10 @@
   ],
   "github": [
     {
-      "name": "explore",
-      "author": "sponsors",
+      "name": "developers",
+      "author": "trending",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "link": "https://github.com/sponsors/explore",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -781,10 +790,10 @@
       "date": "2026-09-02"
     },
     {
-      "name": "claude-plugins-community",
-      "author": "anthropics",
+      "name": "archify",
+      "author": "tt-a1i",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "link": "https://github.com/anthropics/claude-plugins-community",
+      "link": "https://github.com/tt-a1i/archify",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -796,10 +805,10 @@
       "date": "2026-09-02"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
+      "name": "zedeus",
+      "author": "sponsors",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/sponsors/zedeus",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -813,14 +822,14 @@
     {
       "name": "OpenMAIC",
       "author": "THU-MAIC",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "link": "https://github.com/THU-MAIC/OpenMAIC",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "Agent"
         }
       ],
       "date": "2026-09-02"
@@ -828,15 +837,12 @@
     {
       "name": "awesome-gpt-image-2",
       "author": "freestylefly",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "description": "Open source alternative to Semrush and Ahrefs",
       "link": "https://github.com/freestylefly/awesome-gpt-image-2",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        {
-          "name": "Agent"
-        },
         {
           "name": "Vision"
         }
@@ -844,10 +850,10 @@
       "date": "2026-09-02"
     },
     {
-      "name": "freellmapi",
-      "author": "tashfeenahmed",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "link": "https://github.com/tashfeenahmed/freellmapi",
+      "name": "omarchy",
+      "author": "omacom",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "link": "https://github.com/omacom/omarchy",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -861,7 +867,7 @@
     {
       "name": "scientific-agent-skills",
       "author": "K-Dense-AI",
-      "description": "Fully automatic censorship removal for language models",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "stars": 0,
       "trend": 50,
@@ -869,7 +875,34 @@
       "tags": [
         {
           "name": "Agent"
-        },
+        }
+      ],
+      "date": "2026-09-02"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-09-02"
+    },
+    {
+      "name": "minimind",
+      "author": "jingyaogong",
+      "description": "Fully automatic censorship removal for language models",
+      "link": "https://github.com/jingyaogong/minimind",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
         {
           "name": "LLM"
         }
@@ -892,55 +925,25 @@
       "date": "2026-09-02"
     },
     {
-      "name": "ai-engineering-from-scratch",
-      "author": "rohitg00",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "name": "freellmapi",
+      "author": "tashfeenahmed",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "link": "https://github.com/tashfeenahmed/freellmapi",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "LLM"
         }
       ],
       "date": "2026-09-02"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "A collection of MCP servers.",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-02"
-    },
-    {
-      "name": "abi",
-      "author": "sponsors",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "link": "https://github.com/sponsors/abi",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-02"
-    },
-    {
-      "name": "screenshot-to-code",
-      "author": "abi",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "link": "https://github.com/abi/screenshot-to-code",
+      "name": "plugins",
+      "author": "cursor",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "link": "https://github.com/cursor/plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -954,36 +957,48 @@
   ],
   "agents": [
     {
-      "title": "开源项目: opensearch.xml",
+      "title": "开源项目: manifest.json",
       "author": "@anonymous",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp ex",
-      "link": "https://github.com/opensearch.xml",
+      "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
       ],
-      "likes": 2325,
+      "likes": 4324,
       "date": "2026-09-02"
     },
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated ski",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub",
-        "GPT-4",
-        "LLM"
+        "GitHub"
       ],
       "likes": 1697,
       "date": "2026-09-02"
     },
     {
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub",
+        "LLM"
+      ],
+      "likes": 2046,
+      "date": "2026-09-02"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Fully automatic censorship removal for language models",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint",
       "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4",
+        "LLM"
       ],
       "likes": 7510,
       "date": "2026-09-02"
@@ -1194,19 +1209,6 @@
         "美团"
       ],
       "likes": 2650,
-      "date": "2026-09-02"
-    },
-    {
-      "title": "心理咨询师AI预约+回访系统",
-      "author": "@心理小林",
-      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
-      "link": "https://dify.ai/",
-      "tools": [
-        "Dify",
-        "Coze",
-        "微信"
-      ],
-      "likes": 3940,
       "date": "2026-09-02"
     }
   ],
