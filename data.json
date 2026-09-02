@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-02 21:32:11",
+  "updatedAt": "2026-09-02 23:48:27",
   "news": [
+    {
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals ",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blend",
+      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI’s new reasoning technique alarms AI safety experts",
       "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterize",
@@ -59,33 +77,6 @@
       "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
       "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
       "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came fro",
-      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane,",
-      "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
       "source": "TechCrunch-AI",
       "date": "2026-09-02",
       "tag": "trend",
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
       "source": "Wired-AI",
       "date": "2026-08-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Facilitating AI integration with simplicity at scale",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-spe",
+      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-02",
       "tag": "trend",
       "tagText": "资讯"
     },
