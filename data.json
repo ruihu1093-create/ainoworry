@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-09-02 14:55:21",
+  "updatedAt": "2026-09-02 18:23:31",
   "news": [
+    {
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and image",
+      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+      "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and image",
+      "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for",
+      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came fro",
+      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Adobe acquires Indian market intelligence startup Rilo",
       "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
@@ -29,38 +92,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-01",
+      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+      "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+      "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+      "source": "Wired-AI",
+      "date": "2026-09-02",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -124,42 +160,6 @@
       "link": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
       "source": "Wired-AI",
       "date": "2026-08-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
-      "summary": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some worke",
-      "link": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
-      "source": "Wired-AI",
-      "date": "2026-08-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Facilitating AI integration with simplicity at scale",
-      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-spe",
-      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: AI puzzles and a path to our nearest star system",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the en",
-      "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-01",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,6 +620,33 @@
   ],
   "ecommerce": [
     {
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "content": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Ollie’s Bargain Outlets will plow $15M into lower prices",
+      "content": "The retailer aims to protect its low-price leadership, as Q2 comps fell in a highly competitive environment and tough consumer backdrop.",
+      "link": "https://www.retaildive.com/news/ollies-bargain-outlets-15-million-lower-prices/829429/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Sephora to pilot TikTok Shop experience",
+      "content": "<img src=\"https://imgproxy.divecdn.com/Z_cWciua0xa0oAlPqv-zJ0tVHqjJxf1VFpYiMMGZU0I/g:nowe:0:29/c:640:361/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tYWluZV9tYWxsXzIyamF",
+      "link": "https://www.retaildive.com/news/sephora-pilot-tiktok-shop-experience/829420/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-02"
+    },
+    {
       "title": "J. Peterman appears to have folded",
       "content": "The quirky catalog retailer, made famous by &ldquo;Seinfeld,&rdquo; has stopped taking orders and faces allegations of violating Ohio consumer laws.",
       "link": "https://www.retaildive.com/news/j-peterman-appears-to-have-folded/829323/",
@@ -627,15 +654,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-09-02"
-    },
-    {
-      "title": "Inside Bed Bath & Beyond’s ambitions to transcend retail",
-      "content": "<img src=\"https://imgproxy.divecdn.com/iE7u3uR_idOKNdUo0PGEb7cFYlLEBHqJoTeXMNOXq9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNV9NQVlfTUIzX1RDU19GVF9XT1JUSDc2MDIu",
-      "link": "https://www.retaildive.com/news/bed-bath-beyond-turnaround-ambitions-transcend-home-retail/828492/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-08-31"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
