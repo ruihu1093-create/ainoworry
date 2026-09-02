@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02 05:23:22",
+  "updatedAt": "2026-09-02 10:30:03",
   "news": [
     {
       "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
@@ -65,6 +65,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+      "summary": "Meet the AI police who can make or break careers—in publishing and beyond.",
+      "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+      "source": "Wired-AI",
+      "date": "2026-09-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
       "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
       "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
@@ -122,15 +131,6 @@
       "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
       "summary": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some worke",
       "link": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
-      "source": "Wired-AI",
-      "date": "2026-08-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
-      "summary": "A federal judge has called the Department of Defense’s designation of Anthropic as a national security supply-chain risk “illegal and baseless.”",
-      "link": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
       "source": "Wired-AI",
       "date": "2026-08-28",
       "tag": "trend",
