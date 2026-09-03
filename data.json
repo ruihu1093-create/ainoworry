@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-03 12:31:48",
+  "updatedAt": "2026-09-03 16:52:42",
   "news": [
+    {
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with",
+      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weathe",
+      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
       "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
@@ -56,29 +83,29 @@
       "tagText": "资讯"
     },
     {
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-02",
+      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+      "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon",
+      "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+      "source": "Wired-AI",
+      "date": "2026-09-03",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-      "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
-      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-02",
+      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+      "summary": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
+      "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+      "source": "Wired-AI",
+      "date": "2026-09-03",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-02",
+      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+      "summary": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
+      "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+      "source": "Wired-AI",
+      "date": "2026-09-03",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -133,33 +160,6 @@
       "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
       "source": "Wired-AI",
       "date": "2026-09-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-      "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
-      "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
-      "source": "Wired-AI",
-      "date": "2026-09-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
-      "summary": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
-      "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
-      "source": "Wired-AI",
-      "date": "2026-09-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
-      "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. ",
-      "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-      "source": "Wired-AI",
-      "date": "2026-08-31",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -632,15 +632,6 @@
       "title": "Sephora to pilot TikTok Shop experience",
       "content": "<img src=\"https://imgproxy.divecdn.com/Z_cWciua0xa0oAlPqv-zJ0tVHqjJxf1VFpYiMMGZU0I/g:nowe:0:29/c:640:361/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tYWluZV9tYWxsXzIyamF",
       "link": "https://www.retaildive.com/news/sephora-pilot-tiktok-shop-experience/829420/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "J. Peterman appears to have folded",
-      "content": "The quirky catalog retailer, made famous by &ldquo;Seinfeld,&rdquo; has stopped taking orders and faces allegations of violating Ohio consumer laws.",
-      "link": "https://www.retaildive.com/news/j-peterman-appears-to-have-folded/829323/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
