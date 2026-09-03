@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03 19:36:11",
+  "updatedAt": "2026-09-03 22:11:41",
   "news": [
     {
       "title": "Abliteration.ai is making a business out of removing AI guardrails",
@@ -74,11 +74,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterize",
-      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-02",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "source": "Wired-AI",
+      "date": "2026-09-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+      "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to",
+      "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+      "source": "Wired-AI",
+      "date": "2026-09-03",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
       "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
       "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-      "source": "Wired-AI",
-      "date": "2026-09-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
-      "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
-      "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
       "source": "Wired-AI",
       "date": "2026-09-02",
       "tag": "trend",
