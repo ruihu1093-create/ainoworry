@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-04 14:44:01",
+  "updatedAt": "2026-09-04 18:01:20",
   "news": [
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware ch",
+      "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for A",
+      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The sameness problem behind those unappetizing AI-generated menus",
       "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong wi",
@@ -38,38 +65,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safet",
-      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with",
-      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weathe",
-      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-03",
+      "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
+      "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
+      "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+      "source": "Wired-AI",
+      "date": "2026-09-04",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -155,11 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-      "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
-      "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-      "source": "Wired-AI",
-      "date": "2026-09-02",
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-04",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,24 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "Ollie’s Bargain Outlets will plow $15M into lower prices",
-      "content": "The retailer aims to protect its low-price leadership, as Q2 comps fell in a highly competitive environment and tough consumer backdrop.",
-      "link": "https://www.retaildive.com/news/ollies-bargain-outlets-15-million-lower-prices/829429/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Sephora to pilot TikTok Shop experience",
-      "content": "<img src=\"https://imgproxy.divecdn.com/Z_cWciua0xa0oAlPqv-zJ0tVHqjJxf1VFpYiMMGZU0I/g:nowe:0:29/c:640:361/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tYWluZV9tYWxsXzIyamF",
-      "link": "https://www.retaildive.com/news/sephora-pilot-tiktok-shop-experience/829420/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-02"
-    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
