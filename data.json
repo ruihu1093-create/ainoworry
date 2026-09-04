@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-04 21:11:26",
+  "updatedAt": "2026-09-04 23:41:36",
   "news": [
+    {
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
       "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
@@ -43,24 +70,6 @@
       "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
       "source": "TechCrunch-AI",
       "date": "2026-09-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ult",
-      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for use",
-      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-03",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
       "source": "Wired-AI",
       "date": "2026-09-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Architecting memory and storage in the AI era",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical rese",
-      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-04",
       "tag": "trend",
       "tagText": "资讯"
     },
