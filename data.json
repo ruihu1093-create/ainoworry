@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-04 00:41:07",
+  "updatedAt": "2026-09-04 05:24:50",
   "news": [
+    {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong wi",
+      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Abliteration.ai is making a business out of removing AI guardrails",
       "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ult",
@@ -52,24 +70,6 @@
       "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
       "source": "TechCrunch-AI",
       "date": "2026-09-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals ",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blend",
-      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-02",
       "tag": "trend",
       "tagText": "资讯"
     },
