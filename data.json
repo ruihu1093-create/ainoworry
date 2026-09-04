@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04 18:01:20",
+  "updatedAt": "2026-09-04 21:11:26",
   "news": [
     {
       "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
@@ -155,9 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "The Download: selling battlefield drone data and AI reshaping language",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "title": "Architecting memory and storage in the AI era",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical rese",
+      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
       "source": "MIT-Tech-Review",
       "date": "2026-09-04",
       "tag": "trend",
