@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04 05:24:50",
+  "updatedAt": "2026-09-04 10:28:06",
   "news": [
     {
       "title": "The sameness problem behind those unappetizing AI-generated menus",
@@ -70,6 +70,15 @@
       "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
       "source": "TechCrunch-AI",
       "date": "2026-09-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+      "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
+      "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+      "source": "Wired-AI",
+      "date": "2026-09-04",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
       "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
       "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-      "source": "Wired-AI",
-      "date": "2026-09-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-      "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
-      "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
       "source": "Wired-AI",
       "date": "2026-09-02",
       "tag": "trend",
