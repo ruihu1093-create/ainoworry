@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-05 21:52:07",
+  "updatedAt": "2026-09-05 23:30:27",
   "news": [
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Hikers rescued after using Google Gemini for planning",
       "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
@@ -149,15 +158,6 @@
       "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
       "summary": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
       "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-      "source": "Wired-AI",
-      "date": "2026-09-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "This Is Flock’s AI Search Tool for Cops",
-      "summary": "WIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for ",
-      "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
       "source": "Wired-AI",
       "date": "2026-09-03",
       "tag": "trend",
