@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-05 17:04:56",
+  "updatedAt": "2026-09-05 19:51:13",
   "news": [
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "summary": "The round is being raised just months after the robot data startup exited from stealth.",
@@ -50,24 +68,6 @@
       "title": "Google’s Gemini Spark can now manage your Google Photos library",
       "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for A",
       "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong wi",
-      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
       "source": "TechCrunch-AI",
       "date": "2026-09-04",
       "tag": "trend",
