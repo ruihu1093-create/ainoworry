@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05 07:20:25",
+  "updatedAt": "2026-09-05 11:34:02",
   "news": [
     {
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -70,6 +70,15 @@
       "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
       "source": "TechCrunch-AI",
       "date": "2026-09-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI Agents Hacked Another Website",
+      "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad",
+      "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "source": "Wired-AI",
+      "date": "2026-09-05",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "This Is Flock’s AI Search Tool for Cops",
       "summary": "WIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for ",
       "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
-      "source": "Wired-AI",
-      "date": "2026-09-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI",
-      "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
       "source": "Wired-AI",
       "date": "2026-09-03",
       "tag": "trend",
@@ -789,23 +789,8 @@
     {
       "name": "OpenMAIC",
       "author": "THU-MAIC",
-      "description": "runs anywhere. uses anything",
-      "link": "https://github.com/THU-MAIC/OpenMAIC",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-05"
-    },
-    {
-      "name": "gods-eye-view",
-      "author": "bilawalsidhu",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "link": "https://github.com/THU-MAIC/OpenMAIC",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -834,8 +819,23 @@
     {
       "name": "timesfm",
       "author": "google-research",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "link": "https://github.com/google-research/timesfm",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-09-05"
+    },
+    {
+      "name": "minimind",
+      "author": "jingyaogong",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "link": "https://github.com/jingyaogong/minimind",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -847,9 +847,24 @@
       "date": "2026-09-05"
     },
     {
+      "name": "tailcat",
+      "author": "tailscale",
+      "description": "A modern formatting library",
+      "link": "https://github.com/tailscale/tailcat",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-09-05"
+    },
+    {
       "name": "scientific-agent-skills",
       "author": "K-Dense-AI",
-      "description": "Open source alternative to Semrush and Ahrefs",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "stars": 0,
       "trend": 50,
@@ -862,16 +877,16 @@
       "date": "2026-09-05"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Fully automatic censorship removal for language models",
-      "link": "https://github.com/apps/github-actions",
+      "name": "Lakr233",
+      "author": "sponsors",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "link": "https://github.com/sponsors/Lakr233",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "Agent"
         }
       ],
       "date": "2026-09-05"
@@ -892,40 +907,25 @@
       "date": "2026-09-05"
     },
     {
-      "name": "open-seo",
-      "author": "every-app",
-      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
-      "link": "https://github.com/every-app/open-seo",
+      "name": "patent-disclosure-skill",
+      "author": "handsomestWei",
+      "description": "Fully automatic censorship removal for language models",
+      "link": "https://github.com/handsomestWei/patent-disclosure-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "LLM"
         }
       ],
       "date": "2026-09-05"
     },
     {
-      "name": "heretic",
-      "author": "p-e-w",
-      "description": "Chrome DevTools for coding agents",
-      "link": "https://github.com/p-e-w/heretic",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-05"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
+      "name": "VoiceStudio",
+      "author": "debpalash",
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
-      "link": "https://github.com/apps/dependabot",
+      "link": "https://github.com/debpalash/VoiceStudio",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -963,11 +963,10 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 3045,
       "date": "2026-09-05"
@@ -984,14 +983,14 @@
       "date": "2026-09-05"
     },
     {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Fully automatic censorship removal for language models",
-      "link": "https://github.com/events",
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Herme",
+      "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 2526,
+      "likes": 7510,
       "date": "2026-09-05"
     },
     {
