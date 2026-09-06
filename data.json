@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06 11:54:15",
+  "updatedAt": "2026-09-06 14:50:43",
   "news": [
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -783,7 +783,7 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
@@ -791,6 +791,36 @@
       "tags": [
         {
           "name": "Agent"
+        }
+      ],
+      "date": "2026-09-06"
+    },
+    {
+      "name": "archify",
+      "author": "tt-a1i",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "link": "https://github.com/tt-a1i/archify",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-06"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "RL training environments for Microduck (mjlab)",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-09-06"
@@ -826,40 +856,10 @@
       "date": "2026-09-06"
     },
     {
-      "name": "timesfm",
-      "author": "google-research",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "link": "https://github.com/google-research/timesfm",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-06"
-    },
-    {
-      "name": "minimind",
-      "author": "jingyaogong",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "link": "https://github.com/jingyaogong/minimind",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-06"
-    },
-    {
-      "name": "tailcat",
-      "author": "tailscale",
+      "name": "microduck_rl",
+      "author": "pollen-robotics",
       "description": "A modern formatting library",
-      "link": "https://github.com/tailscale/tailcat",
+      "link": "https://github.com/pollen-robotics/microduck_rl",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -871,25 +871,10 @@
       "date": "2026-09-06"
     },
     {
-      "name": "scientific-agent-skills",
-      "author": "K-Dense-AI",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-06"
-    },
-    {
-      "name": "Lakr233",
-      "author": "sponsors",
-      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "link": "https://github.com/sponsors/Lakr233",
+      "name": "fmt",
+      "author": "fmtlib",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "link": "https://github.com/fmtlib/fmt",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -903,7 +888,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "A collection of MCP servers.",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -918,29 +903,44 @@
     {
       "name": "patent-disclosure-skill",
       "author": "handsomestWei",
-      "description": "Fully automatic censorship removal for language models",
+      "description": "Chrome DevTools for coding agents",
       "link": "https://github.com/handsomestWei/patent-disclosure-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "Agent"
         }
       ],
       "date": "2026-09-06"
     },
     {
-      "name": "VoiceStudio",
-      "author": "debpalash",
-      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
-      "link": "https://github.com/debpalash/VoiceStudio",
+      "name": "scientific-agent-skills",
+      "author": "K-Dense-AI",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Vision"
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-06"
+    },
+    {
+      "name": "tailcat",
+      "author": "tailscale",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "link": "https://github.com/tailscale/tailcat",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-09-06"
@@ -961,7 +961,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Herme",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -972,7 +972,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -983,10 +983,11 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated ski",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 1697,
       "date": "2026-09-06"
@@ -994,7 +995,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Herme",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated ski",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
