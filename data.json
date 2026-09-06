@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-06 17:28:22",
+  "updatedAt": "2026-09-06 19:55:26",
   "news": [
+    {
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
@@ -68,15 +77,6 @@
       "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
       "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware ch",
       "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for A",
-      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
       "source": "TechCrunch-AI",
       "date": "2026-09-04",
       "tag": "trend",
