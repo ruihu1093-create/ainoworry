@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-06 19:55:26",
+  "updatedAt": "2026-09-06 21:55:41",
   "news": [
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
@@ -68,15 +77,6 @@
       "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
       "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
       "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware ch",
-      "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
       "source": "TechCrunch-AI",
       "date": "2026-09-04",
       "tag": "trend",
