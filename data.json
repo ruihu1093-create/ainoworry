@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-08 20:38:04",
+  "updatedAt": "2026-09-08 23:08:16",
   "news": [
+    {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
       "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer",
@@ -74,25 +92,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta Releases Muse, a Personal AI Agent With Privacy ‘Built Into It’",
+      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
       "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
       "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
       "source": "Wired-AI",
