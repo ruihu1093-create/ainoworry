@@ -1,6 +1,87 @@
 {
-  "updatedAt": "2026-09-09 12:40:33",
+  "updatedAt": "2026-09-09 16:59:19",
   "news": [
+    {
+      "title": "Superintelligence is coming. Should we let it?",
+      "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&",
+      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’ ",
+      "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&",
+      "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+      "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI ",
+      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+      "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart f",
+      "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+      "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "summary": "If you want to manufacture in space—and bring the products back again—there&#8217;s a limited set of options: Wait to go to the International Space St",
+      "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
       "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI mode",
@@ -11,83 +92,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer",
-      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottleneck",
-      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
-      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo",
-      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-06",
+      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+      "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surg",
+      "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+      "source": "Wired-AI",
+      "date": "2026-09-09",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
       "source": "Wired-AI",
       "date": "2026-09-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-      "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
-      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-      "source": "Wired-AI",
-      "date": "2026-09-03",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,9 +620,18 @@
   ],
   "ecommerce": [
     {
-      "title": "Five reasons your retail warehouse is losing money without knowing it",
+      "title": "Signet Jewelers delivers ‘quality’ quarter, raises full-year outlook",
+      "content": "The retailer swung to a profit in Q2, extended its credit agreement and expounded on the relaunch of its core brand websites.",
+      "link": "https://www.retaildive.com/news/signet-raises-guidance-kay-jared-zales/829896/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "5 reasons your retail warehouse is losing money without knowing it",
       "content": "Inventory inaccuracy costs retail warehouses more than they realize. Here&#39;s where to look.",
-      "link": "https://www.retaildive.com/spons/five-reasons-your-retail-warehouse-is-losing-money-without-knowing-it/828655/",
+      "link": "https://www.retaildive.com/spons/5-reasons-your-retail-warehouse-is-losing-money-without-knowing-it/828655/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
