@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-09 16:59:19",
+  "updatedAt": "2026-09-09 19:39:31",
   "news": [
+    {
+      "title": "The hinge for Apple’s new foldable phone was built with AI",
+      "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+      "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "summary": "The company also argued that its on-device models offer consumers more privacy.",
+      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Superintelligence is coming. Should we let it?",
       "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&",
@@ -48,7 +75,7 @@
     },
     {
       "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-      "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+      "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
       "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
       "source": "TechCrunch-AI",
       "date": "2026-09-09",
@@ -56,37 +83,10 @@
       "tagText": "资讯"
     },
     {
-      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
-      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
-      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "summary": "If you want to manufacture in space—and bring the products back again—there&#8217;s a limited set of options: Wait to go to the International Space St",
-      "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI mode",
-      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "source": "TechCrunch-AI",
+      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
+      "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it",
+      "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+      "source": "Wired-AI",
       "date": "2026-09-09",
       "tag": "trend",
       "tagText": "资讯"
