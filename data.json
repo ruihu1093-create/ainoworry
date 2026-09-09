@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-09 19:39:31",
+  "updatedAt": "2026-09-09 22:12:22",
   "news": [
+    {
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new question",
+      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+      "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The hinge for Apple’s new foldable phone was built with AI",
       "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
@@ -56,28 +74,10 @@
       "tagText": "资讯"
     },
     {
-      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI ",
-      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-      "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart f",
-      "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-      "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
-      "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
-      "source": "TechCrunch-AI",
+      "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+      "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not ",
+      "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+      "source": "Wired-AI",
       "date": "2026-09-09",
       "tag": "trend",
       "tagText": "资讯"
@@ -155,11 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-      "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
-      "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
-      "source": "Wired-AI",
-      "date": "2026-09-04",
+      "title": "The Download: OpenAI’s turning point for math and a battery record",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-09",
       "tag": "trend",
       "tagText": "资讯"
     },
