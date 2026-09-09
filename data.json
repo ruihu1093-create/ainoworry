@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-09 07:48:58",
+  "updatedAt": "2026-09-09 12:40:33",
   "news": [
+    {
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI mode",
+      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Hackers are stealing Claude tokens from subscribers",
       "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
@@ -77,15 +86,6 @@
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
       "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
       "source": "TechCrunch-AI",
       "date": "2026-09-06",
       "tag": "trend",
@@ -766,6 +766,21 @@
   ],
   "github": [
     {
+      "name": "explore",
+      "author": "sponsors",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "link": "https://github.com/sponsors/explore",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-09"
+    },
+    {
       "name": "developers",
       "author": "trending",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
@@ -781,9 +796,69 @@
       "date": "2026-09-09"
     },
     {
+      "name": "ponytail",
+      "author": "DietrichGebert",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-09"
+    },
+    {
+      "name": "affaan-m",
+      "author": "sponsors",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "link": "https://github.com/sponsors/affaan-m",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-09"
+    },
+    {
+      "name": "ECC",
+      "author": "affaan-m",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "link": "https://github.com/affaan-m/ECC",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-09"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "The agent that grows with you",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-09"
+    },
+    {
       "name": "fmt",
       "author": "fmtlib",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "description": "Chrome DevTools for coding agents",
       "link": "https://github.com/fmtlib/fmt",
       "stars": 0,
       "trend": 50,
@@ -798,68 +873,8 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "description": "Write HTML. Render video. Built for agents.",
       "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-09"
-    },
-    {
-      "name": "affaan-m",
-      "author": "sponsors",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "link": "https://github.com/sponsors/affaan-m",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-09"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-09"
-    },
-    {
-      "name": "DietrichGebert",
-      "author": "sponsors",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "link": "https://github.com/sponsors/DietrichGebert",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-09"
-    },
-    {
-      "name": "ponytail",
-      "author": "DietrichGebert",
-      "description": "Chrome DevTools for coding agents",
-      "link": "https://github.com/DietrichGebert/ponytail",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -873,38 +888,8 @@
     {
       "name": "archify",
       "author": "tt-a1i",
-      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "link": "https://github.com/tt-a1i/archify",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-09"
-    },
-    {
-      "name": "humanizer",
-      "author": "blader",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "link": "https://github.com/blader/humanizer",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-09"
-    },
-    {
-      "name": "academic-research-skills",
-      "author": "Imbad0202",
-      "description": "The agent that grows with you",
-      "link": "https://github.com/Imbad0202/academic-research-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -918,7 +903,7 @@
     {
       "name": "mattpocock",
       "author": "sponsors",
-      "description": "Write HTML. Render video. Built for agents.",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "link": "https://github.com/sponsors/mattpocock",
       "stars": 0,
       "trend": 50,
@@ -931,10 +916,25 @@
       "date": "2026-09-09"
     },
     {
-      "name": "coreyhaines31",
-      "author": "sponsors",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
-      "link": "https://github.com/sponsors/coreyhaines31",
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-09"
+    },
+    {
+      "name": "humanizer",
+      "author": "blader",
+      "description": "OpenAI Plugins",
+      "link": "https://github.com/blader/humanizer",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -948,6 +948,17 @@
   ],
   "agents": [
     {
+      "title": "开源项目: opensearch.xml",
+      "author": "@anonymous",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "link": "https://github.com/opensearch.xml",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2325,
+      "date": "2026-09-09"
+    },
+    {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
@@ -959,9 +970,20 @@
       "date": "2026-09-09"
     },
     {
+      "title": "开源项目: explore",
+      "author": "@anonymous",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "link": "https://github.com/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 3045,
+      "date": "2026-09-09"
+    },
+    {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "The agent that grows with you",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -972,7 +994,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Chrome DevTools for coding agents",
+      "description": "Write HTML. Render video. Built for agents.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -983,7 +1005,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1169,32 +1191,6 @@
         "Notion"
       ],
       "likes": 3780,
-      "date": "2026-09-09"
-    },
-    {
-      "title": "财务顾问搭建AI报表分析助手",
-      "author": "@CFO老李",
-      "description": "基于本地部署的开源大模型搭建财务分析Agent，能读取报表自动识别风险和异常项，数据不出企业。",
-      "link": "https://ollama.com/",
-      "tools": [
-        "Ollama",
-        "DeepSeek",
-        "Python"
-      ],
-      "likes": 6300,
-      "date": "2026-09-09"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-09-09"
     }
   ],
