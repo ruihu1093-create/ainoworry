@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10 05:31:34",
+  "updatedAt": "2026-09-10 10:29:22",
   "news": [
     {
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
@@ -70,6 +70,15 @@
       "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
       "source": "TechCrunch-AI",
       "date": "2026-09-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+      "summary": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information ab",
+      "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+      "source": "Wired-AI",
+      "date": "2026-09-10",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -146,20 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI Agents Hacked Another Website",
-      "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad",
-      "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
-      "source": "Wired-AI",
-      "date": "2026-09-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: OpenAI’s turning point for math and a battery record",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "title": "Healthcare AI’s next test is integration",
+      "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the ind",
+      "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
       "source": "MIT-Tech-Review",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "tag": "trend",
       "tagText": "资讯"
     },
