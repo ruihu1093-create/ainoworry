@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-10 10:29:22",
+  "updatedAt": "2026-09-10 14:45:18",
   "news": [
+    {
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
@@ -65,11 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Superintelligence is coming. Should we let it?",
-      "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&",
-      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-09",
+      "title": "Everything New You Can Do With Siri AI",
+      "summary": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
+      "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
+      "source": "Wired-AI",
+      "date": "2026-09-10",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
       "source": "Wired-AI",
       "date": "2026-09-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Healthcare AI’s next test is integration",
-      "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the ind",
-      "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-10",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -777,7 +777,7 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
@@ -792,23 +792,8 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "link": "https://github.com/trending/developers",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-10"
-    },
-    {
-      "name": "ponytail",
-      "author": "DietrichGebert",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "link": "https://github.com/DietrichGebert/ponytail",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -822,7 +807,7 @@
     {
       "name": "affaan-m",
       "author": "sponsors",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "link": "https://github.com/sponsors/affaan-m",
       "stars": 0,
       "trend": 50,
@@ -837,7 +822,7 @@
     {
       "name": "ECC",
       "author": "affaan-m",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "link": "https://github.com/affaan-m/ECC",
       "stars": 0,
       "trend": 50,
@@ -852,8 +837,23 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "The agent that grows with you",
+      "description": "A modern formatting library",
       "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-09-10"
+    },
+    {
+      "name": "i-have-adhd",
+      "author": "ayghri",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "link": "https://github.com/ayghri/i-have-adhd",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -865,10 +865,40 @@
       "date": "2026-09-10"
     },
     {
-      "name": "fmt",
-      "author": "fmtlib",
-      "description": "Chrome DevTools for coding agents",
-      "link": "https://github.com/fmtlib/fmt",
+      "name": "DietrichGebert",
+      "author": "sponsors",
+      "description": "OpenAI Plugins",
+      "link": "https://github.com/sponsors/DietrichGebert",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-09-10"
+    },
+    {
+      "name": "ponytail",
+      "author": "DietrichGebert",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-10"
+    },
+    {
+      "name": "archify",
+      "author": "tt-a1i",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "link": "https://github.com/tt-a1i/archify",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -895,24 +925,9 @@
       "date": "2026-09-10"
     },
     {
-      "name": "archify",
-      "author": "tt-a1i",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "link": "https://github.com/tt-a1i/archify",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-10"
-    },
-    {
       "name": "mattpocock",
       "author": "sponsors",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "description": "Chrome DevTools for coding agents",
       "link": "https://github.com/sponsors/mattpocock",
       "stars": 0,
       "trend": 50,
@@ -925,10 +940,10 @@
       "date": "2026-09-10"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "link": "https://github.com/apps/github-actions",
+      "name": "skills",
+      "author": "mattpocock",
+      "description": "The agent that grows with you",
+      "link": "https://github.com/mattpocock/skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -938,28 +953,13 @@
         }
       ],
       "date": "2026-09-10"
-    },
-    {
-      "name": "humanizer",
-      "author": "blader",
-      "description": "OpenAI Plugins",
-      "link": "https://github.com/blader/humanizer",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-10"
     }
   ],
   "agents": [
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -970,7 +970,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -981,7 +981,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -992,10 +992,11 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "The agent that grows with you",
+      "description": "OpenAI Plugins",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
       "likes": 1697,
       "date": "2026-09-10"
@@ -1003,7 +1004,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Write HTML. Render video. Built for agents.",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platf",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1012,20 +1013,9 @@
       "date": "2026-09-10"
     },
     {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
-      "date": "2026-09-10"
-    },
-    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platf",
+      "description": "Write HTML. Render video. Built for agents.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1200,6 +1190,19 @@
         "Notion"
       ],
       "likes": 3780,
+      "date": "2026-09-10"
+    },
+    {
+      "title": "财务顾问搭建AI报表分析助手",
+      "author": "@CFO老李",
+      "description": "基于本地部署的开源大模型搭建财务分析Agent，能读取报表自动识别风险和异常项，数据不出企业。",
+      "link": "https://ollama.com/",
+      "tools": [
+        "Ollama",
+        "DeepSeek",
+        "Python"
+      ],
+      "likes": 6300,
       "date": "2026-09-10"
     }
   ],
