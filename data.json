@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-10 21:21:08",
+  "updatedAt": "2026-09-10 23:39:08",
   "news": [
+    {
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
       "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
@@ -74,11 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-09",
+      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
+      "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "source": "Wired-AI",
+      "date": "2026-09-10",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
       "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
       "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
-      "source": "Wired-AI",
-      "date": "2026-09-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
-      "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
-      "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
       "source": "Wired-AI",
       "date": "2026-09-08",
       "tag": "trend",
