@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-10 14:45:18",
+  "updatedAt": "2026-09-10 18:01:10",
   "news": [
+    {
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI agents are flooding public services with new requests",
+      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Maven Robotics wants to steal your robot deployment deal",
       "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
@@ -50,24 +77,6 @@
       "title": "The hinge for Apple’s new foldable phone was built with AI",
       "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
       "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "summary": "The company also argued that its on-device models offer consumers more privacy.",
-      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
       "source": "TechCrunch-AI",
       "date": "2026-09-09",
       "tag": "trend",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
       "source": "Wired-AI",
       "date": "2026-09-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "My Brief Summer Fling With Siri AI",
-      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even e",
-      "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
-      "source": "Wired-AI",
-      "date": "2026-09-06",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -627,15 +627,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-09-09"
-    },
-    {
-      "title": "5 reasons your retail warehouse is losing money without knowing it",
-      "content": "Inventory inaccuracy costs retail warehouses more than they realize. Here&#39;s where to look.",
-      "link": "https://www.retaildive.com/spons/5-reasons-your-retail-warehouse-is-losing-money-without-knowing-it/828655/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-08"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
