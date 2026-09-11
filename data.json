@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-11 16:51:41",
+  "updatedAt": "2026-09-11 19:24:19",
   "news": [
+    {
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "summary": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence ",
+      "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
       "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
@@ -74,11 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Maven Robotics wants to steal your robot deployment deal",
-      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-10",
+      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+      "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build",
+      "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+      "source": "Wired-AI",
+      "date": "2026-09-11",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
       "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not ",
       "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
-      "source": "Wired-AI",
-      "date": "2026-09-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
-      "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it",
-      "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
       "source": "Wired-AI",
       "date": "2026-09-09",
       "tag": "trend",
