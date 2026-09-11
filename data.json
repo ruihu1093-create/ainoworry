@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-11 12:32:04",
+  "updatedAt": "2026-09-11 16:51:41",
   "news": [
+    {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
       "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
@@ -74,11 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-10",
+      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+      "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
+      "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
+      "source": "Wired-AI",
+      "date": "2026-09-11",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
       "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it",
       "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
-      "source": "Wired-AI",
-      "date": "2026-09-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-      "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surg",
-      "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
       "source": "Wired-AI",
       "date": "2026-09-09",
       "tag": "trend",
@@ -620,13 +620,13 @@
   ],
   "ecommerce": [
     {
-      "title": "Signet Jewelers delivers ‘quality’ quarter, raises full-year outlook",
-      "content": "The retailer swung to a profit in Q2, extended its credit agreement and expounded on the relaunch of its core brand websites.",
-      "link": "https://www.retaildive.com/news/signet-raises-guidance-kay-jared-zales/829896/",
+      "title": "The Weekly Closeout: Chewy’s sales jump and a retail exec turns politician",
+      "content": "The pet retailer scored more than 7% net sales growth in the most recent quarter. Meanwhile, former Hudson&rsquo;s Bay CEO Helena Foulkes could soon be Rhode Island&rsquo;s governor.",
+      "link": "https://www.retaildive.com/news/chewys-sales-jump-hudsons-bay-exec-rhode-island-governor/830127/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-09-09"
+      "date": "2026-09-11"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
