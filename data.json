@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11 07:43:12",
+  "updatedAt": "2026-09-11 12:32:04",
   "news": [
     {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
+      "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+      "source": "Wired-AI",
+      "date": "2026-09-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
       "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
       "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
       "source": "Wired-AI",
       "date": "2026-09-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
-      "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
-      "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
-      "source": "Wired-AI",
-      "date": "2026-09-08",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -768,7 +768,7 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
@@ -783,8 +783,23 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "link": "https://github.com/trending/developers",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-11"
+    },
+    {
+      "name": "i-have-adhd",
+      "author": "ayghri",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "link": "https://github.com/ayghri/i-have-adhd",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -798,14 +813,14 @@
     {
       "name": "affaan-m",
       "author": "sponsors",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "description": "OpenAI Plugins",
       "link": "https://github.com/sponsors/affaan-m",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-09-11"
@@ -828,23 +843,8 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "A modern formatting library",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-11"
-    },
-    {
-      "name": "i-have-adhd",
-      "author": "ayghri",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/ayghri/i-have-adhd",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -858,14 +858,14 @@
     {
       "name": "DietrichGebert",
       "author": "sponsors",
-      "description": "OpenAI Plugins",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/sponsors/DietrichGebert",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-09-11"
@@ -886,10 +886,10 @@
       "date": "2026-09-11"
     },
     {
-      "name": "archify",
-      "author": "tt-a1i",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "link": "https://github.com/tt-a1i/archify",
+      "name": "plugins",
+      "author": "openai",
+      "description": "Write HTML. Render video. Built for agents.",
+      "link": "https://github.com/openai/plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -901,10 +901,25 @@
       "date": "2026-09-11"
     },
     {
-      "name": "dependabot",
+      "name": "archify",
+      "author": "tt-a1i",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "link": "https://github.com/tt-a1i/archify",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-09-11"
+    },
+    {
+      "name": "github-actions",
       "author": "apps",
-      "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/apps/dependabot",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -929,28 +944,13 @@
         }
       ],
       "date": "2026-09-11"
-    },
-    {
-      "name": "skills",
-      "author": "mattpocock",
-      "description": "The agent that grows with you",
-      "link": "https://github.com/mattpocock/skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-11"
     }
   ],
   "agents": [
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -961,7 +961,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -972,7 +972,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platf",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -983,30 +983,29 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "OpenAI Plugins",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub",
-        "GPT-4"
+        "GitHub"
       ],
       "likes": 1697,
       "date": "2026-09-11"
     },
     {
-      "title": "开源项目: collections",
+      "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platf",
-      "link": "https://github.com/collections",
+      "description": "Write HTML. Render video. Built for agents.",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
-      "likes": 2046,
+      "likes": 2526,
       "date": "2026-09-11"
     },
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Write HTML. Render video. Built for agents.",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
