@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-12 13:29:15",
+  "updatedAt": "2026-09-12 16:41:50",
   "news": [
+    {
+      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "summary": "What would it actually look like to \"pace the frontier\"?",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
       "source": "Wired-AI",
       "date": "2026-09-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Roundtables: AI’s apocalypse crisis",
-      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or",
-      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-11",
       "tag": "trend",
       "tagText": "资讯"
     },
