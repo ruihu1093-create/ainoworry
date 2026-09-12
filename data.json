@@ -1,9 +1,18 @@
 {
-  "updatedAt": "2026-09-12 18:54:42",
+  "updatedAt": "2026-09-12 21:09:13",
   "news": [
     {
-      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-      "summary": "What would it actually look like to \"pace the frontier\"?",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
       "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
       "source": "TechCrunch-AI",
       "date": "2026-09-12",
@@ -61,15 +70,6 @@
       "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
       "source": "TechCrunch-AI",
       "date": "2026-09-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-10",
       "tag": "trend",
       "tagText": "资讯"
     },
