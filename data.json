@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12 09:59:02",
+  "updatedAt": "2026-09-12 13:29:15",
   "news": [
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -61,6 +61,15 @@
       "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
       "source": "TechCrunch-AI",
       "date": "2026-09-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+      "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child",
+      "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+      "source": "Wired-AI",
+      "date": "2026-09-12",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -140,15 +149,6 @@
       "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
       "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not ",
       "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
-      "source": "Wired-AI",
-      "date": "2026-09-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
-      "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it",
-      "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
       "source": "Wired-AI",
       "date": "2026-09-09",
       "tag": "trend",
@@ -798,23 +798,8 @@
     {
       "name": "i-have-adhd",
       "author": "ayghri",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "link": "https://github.com/ayghri/i-have-adhd",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-12"
-    },
-    {
-      "name": "affaan-m",
-      "author": "sponsors",
       "description": "OpenAI Plugins",
-      "link": "https://github.com/sponsors/affaan-m",
+      "link": "https://github.com/ayghri/i-have-adhd",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -826,9 +811,24 @@
       "date": "2026-09-12"
     },
     {
+      "name": "affaan-m",
+      "author": "sponsors",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "link": "https://github.com/sponsors/affaan-m",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-12"
+    },
+    {
       "name": "ECC",
       "author": "affaan-m",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "link": "https://github.com/affaan-m/ECC",
       "stars": 0,
       "trend": 50,
@@ -843,23 +843,23 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-09-12"
     },
     {
-      "name": "DietrichGebert",
-      "author": "sponsors",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/sponsors/DietrichGebert",
+      "name": "plugins",
+      "author": "openai",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "link": "https://github.com/openai/plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -873,7 +873,7 @@
     {
       "name": "ponytail",
       "author": "DietrichGebert",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "description": "Write HTML. Render video. Built for agents.",
       "link": "https://github.com/DietrichGebert/ponytail",
       "stars": 0,
       "trend": 50,
@@ -886,10 +886,40 @@
       "date": "2026-09-12"
     },
     {
-      "name": "plugins",
-      "author": "openai",
-      "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/openai/plugins",
+      "name": "mksglu",
+      "author": "sponsors",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "link": "https://github.com/sponsors/mksglu",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-09-12"
+    },
+    {
+      "name": "context-mode",
+      "author": "mksglu",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "link": "https://github.com/mksglu/context-mode",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-12"
+    },
+    {
+      "name": "gods-eye-view",
+      "author": "bilawalsidhu",
+      "description": "Chrome DevTools for coding agents",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -903,38 +933,8 @@
     {
       "name": "archify",
       "author": "tt-a1i",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/tt-a1i/archify",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-12"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-12"
-    },
-    {
-      "name": "mattpocock",
-      "author": "sponsors",
-      "description": "Chrome DevTools for coding agents",
-      "link": "https://github.com/sponsors/mattpocock",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -970,20 +970,9 @@
       "date": "2026-09-12"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@anonymous",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platf",
-      "link": "https://github.com/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 3045,
-      "date": "2026-09-12"
-    },
-    {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp ex",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -992,9 +981,20 @@
       "date": "2026-09-12"
     },
     {
-      "title": "开源项目: events",
+      "title": "开源项目: collections",
       "author": "@anonymous",
       "description": "Write HTML. Render video. Built for agents.",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2046,
+      "date": "2026-09-12"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1005,7 +1005,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
