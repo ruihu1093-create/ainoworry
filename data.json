@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14 05:42:36",
+  "updatedAt": "2026-09-14 11:37:52",
   "news": [
     {
       "title": "What’s behind the AI industry’s latest warnings of doom?",
@@ -74,6 +74,24 @@
       "tagText": "资讯"
     },
     {
+      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+      "summary": "Sam Altman and Elon Musk this weekend backed a call for restraint, after Dario Amodei called on Washington to slow AI development. Donald Trump, meanw",
+      "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+      "source": "Wired-AI",
+      "date": "2026-09-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+      "summary": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
+      "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+      "source": "Wired-AI",
+      "date": "2026-09-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "AI Agents Are Thirsty for Power",
       "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildo",
       "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
@@ -137,29 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Everything New You Can Do With Siri AI",
-      "summary": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
-      "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
-      "source": "Wired-AI",
-      "date": "2026-09-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-      "summary": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information ab",
-      "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
-      "source": "Wired-AI",
-      "date": "2026-09-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-      "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left",
-      "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
-      "source": "Wired-AI",
-      "date": "2026-09-09",
+      "title": "Roundtables: Could AI really kill us all?",
+      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or",
+      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-11",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "What separates top self-service performers from laggards?",
+      "content": "Discover the practices helping leading retailers improve self-service performance over time.",
+      "link": "https://www.retaildive.com/spons/what-separates-top-self-service-performers-from-laggards/829607/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-14"
+    },
+    {
       "title": "The Weekly Closeout: Chewy’s sales jump and a retail exec turns politician",
       "content": "The pet retailer scored more than 7% net sales growth in the most recent quarter. Meanwhile, former Hudson&rsquo;s Bay CEO Helena Foulkes could soon be Rhode Island&rsquo;s governor.",
       "link": "https://www.retaildive.com/news/chewys-sales-jump-hudsons-bay-exec-rhode-island-governor/830127/",
@@ -781,10 +790,10 @@
       "date": "2026-09-14"
     },
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "i-have-adhd",
+      "author": "ayghri",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/ayghri/i-have-adhd",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -796,16 +805,31 @@
       "date": "2026-09-14"
     },
     {
-      "name": "i-have-adhd",
-      "author": "ayghri",
+      "name": "gods-eye-view",
+      "author": "bilawalsidhu",
       "description": "OpenAI Plugins",
-      "link": "https://github.com/ayghri/i-have-adhd",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "AI"
+        }
+      ],
+      "date": "2026-09-14"
+    },
+    {
+      "name": "affaan-m",
+      "author": "sponsors",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "link": "https://github.com/sponsors/affaan-m",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-09-14"
@@ -828,7 +852,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "description": "Write HTML. Render video. Built for agents.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -856,10 +880,40 @@
       "date": "2026-09-14"
     },
     {
+      "name": "ponytail",
+      "author": "DietrichGebert",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-09-14"
+    },
+    {
       "name": "mksglu",
       "author": "sponsors",
-      "description": "Write HTML. Render video. Built for agents.",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
       "link": "https://github.com/sponsors/mksglu",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-14"
+    },
+    {
+      "name": "context-mode",
+      "author": "mksglu",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "link": "https://github.com/mksglu/context-mode",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -873,7 +927,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -886,55 +940,10 @@
       "date": "2026-09-14"
     },
     {
-      "name": "DietrichGebert",
-      "author": "sponsors",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "link": "https://github.com/sponsors/DietrichGebert",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-14"
-    },
-    {
-      "name": "ponytail",
-      "author": "DietrichGebert",
-      "description": "Chrome DevTools for coding agents",
-      "link": "https://github.com/DietrichGebert/ponytail",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-14"
-    },
-    {
-      "name": "archify",
-      "author": "tt-a1i",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "link": "https://github.com/tt-a1i/archify",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-14"
-    },
-    {
-      "name": "skills",
-      "author": "openai",
+      "name": "hyperframes",
+      "author": "heygen-com",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "link": "https://github.com/openai/skills",
+      "link": "https://github.com/heygen-com/hyperframes",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -959,20 +968,9 @@
       "date": "2026-09-14"
     },
     {
-      "title": "开源项目: manifest.json",
-      "author": "@anonymous",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "link": "https://github.com/manifest.json",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 4324,
-      "date": "2026-09-14"
-    },
-    {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platf",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -983,23 +981,12 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp ex",
+      "description": "Write HTML. Render video. Built for agents.",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
       "likes": 1697,
-      "date": "2026-09-14"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
       "date": "2026-09-14"
     },
     {
@@ -1193,6 +1180,32 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-09-14"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
+      "date": "2026-09-14"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
       "date": "2026-09-14"
     }
   ],
