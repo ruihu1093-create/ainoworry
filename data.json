@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-09-15 19:28:44",
+  "updatedAt": "2026-09-15 22:40:28",
   "news": [
     {
+      "title": "The AI data center boom is colliding with cities scarred by big industry ",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, ",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations.",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "source": "TechCrunch-AI",
       "date": "2026-09-15",
@@ -59,15 +77,6 @@
       "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
       "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
       "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participatio",
-      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
       "source": "TechCrunch-AI",
       "date": "2026-09-15",
       "tag": "trend",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
       "source": "Wired-AI",
       "date": "2026-09-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Roundtables: Could AI really kill us all?",
-      "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could",
-      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-15",
       "tag": "trend",
       "tagText": "资讯"
     },
