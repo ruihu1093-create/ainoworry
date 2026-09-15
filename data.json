@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-15 10:56:59",
+  "updatedAt": "2026-09-15 15:27:15",
   "news": [
+    {
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participatio",
+      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
       "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
@@ -23,42 +59,6 @@
       "title": "With iOS 27, I’m actually using Siri again",
       "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
       "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, a",
-      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creati",
-      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people hav",
-      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conv",
-      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch-AI",
       "date": "2026-09-14",
       "tag": "trend",
@@ -146,20 +146,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "What must happen for AI’s trillion-dollar gamble to pay off",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the nex",
-      "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
       "source": "MIT-Tech-Review",
       "date": "2026-09-15",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dari",
-      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed b",
+      "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
       "source": "MIT-Tech-Review",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,27 +620,18 @@
   ],
   "ecommerce": [
     {
+      "title": "Old Navy’s MrBeast deal boosts engagement amid bigger bet on creators",
+      "content": "A back-to-school campaign with the top YouTuber is showing early promise, including a traffic bump, as the Gap Inc. retailer rewires its marketing.",
+      "link": "https://www.retaildive.com/news/old-navys-mrbeast-marketing-deal-boosts-engagement/830255/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-15"
+    },
+    {
       "title": "FedEx launches Shopify app to combat surprise import charges",
       "content": "<img src=\"https://imgproxy.divecdn.com/7nAVQ8sb64ISJKy_Bavja5B12WM39G5uu4NvebyjcBY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk5MTY2MjM5XzEuanBn",
       "link": "https://www.retaildive.com/news/fedex-launches-shopify-app-to-combat-surprise-import-charges/830262/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Why SoHo is still a retail favorite",
-      "content": "</figu",
-      "link": "https://www.retaildive.com/news/soho-new-york-retail/826801/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "What separates top self-service performers from laggards?",
-      "content": "Discover the practices helping leading retailers improve self-service performance over time.",
-      "link": "https://www.retaildive.com/spons/what-separates-top-self-service-performers-from-laggards/829607/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
