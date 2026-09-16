@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-16 17:55:21",
+  "updatedAt": "2026-09-16 20:48:36",
   "news": [
+    {
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Your AI agents can now control your Google Home devices",
       "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices",
@@ -38,10 +56,10 @@
       "tagText": "资讯"
     },
     {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product mak",
-      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "source": "TechCrunch-AI",
+      "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
+      "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
+      "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
+      "source": "Wired-AI",
       "date": "2026-09-16",
       "tag": "trend",
       "tagText": "资讯"
@@ -119,15 +137,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
-      "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
-      "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
-      "source": "Wired-AI",
-      "date": "2026-09-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "Meet a mouse whose brain cortex is made up of human cells",
       "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor",
       "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
@@ -151,15 +160,6 @@
       "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
       "source": "MIT-Tech-Review",
       "date": "2026-09-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Roundtables: Could AI really kill us all?",
-      "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could",
-      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-15",
       "tag": "trend",
       "tagText": "资讯"
     },
