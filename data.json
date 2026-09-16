@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-16 20:48:36",
+  "updatedAt": "2026-09-16 23:30:10",
   "news": [
+    {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningf",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
       "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
@@ -47,10 +56,19 @@
       "tagText": "资讯"
     },
     {
-      "title": "Former Infosys chief’s AI startup nabs another $53M",
-      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "source": "TechCrunch-AI",
+      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the interne",
+      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "source": "Wired-AI",
+      "date": "2026-09-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Washington Won’t Be Regulating AI Anytime Soon",
+      "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+      "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+      "source": "Wired-AI",
       "date": "2026-09-16",
       "tag": "trend",
       "tagText": "资讯"
@@ -115,24 +133,6 @@
       "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
       "source": "Wired-AI",
       "date": "2026-09-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-      "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child",
-      "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-      "source": "Wired-AI",
-      "date": "2026-09-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-      "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build",
-      "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
-      "source": "Wired-AI",
-      "date": "2026-09-11",
       "tag": "trend",
       "tagText": "资讯"
     },
