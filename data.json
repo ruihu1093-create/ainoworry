@@ -1,9 +1,36 @@
 {
-  "updatedAt": "2026-09-17 09:07:55",
+  "updatedAt": "2026-09-17 14:37:16",
   "news": [
     {
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap w",
+      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
       "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
       "source": "TechCrunch-AI",
       "date": "2026-09-17",
@@ -56,43 +83,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Your AI agents can now control your Google Home devices",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices",
-      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt ",
-      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "title": "An OpenAI Agent Tried to Jailbreak Itself",
       "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the interne",
       "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
       "source": "Wired-AI",
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
       "source": "Wired-AI",
       "date": "2026-09-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI Agents Are Thirsty for Power",
+      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildo",
+      "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+      "source": "Wired-AI",
+      "date": "2026-09-13",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -786,23 +786,8 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "link": "https://github.com/sponsors/explore",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-17"
-    },
-    {
-      "name": "i-have-adhd",
-      "author": "ayghri",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "link": "https://github.com/ayghri/i-have-adhd",
+      "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -817,9 +802,39 @@
       "date": "2026-09-17"
     },
     {
+      "name": "developers",
+      "author": "trending",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "link": "https://github.com/trending/developers",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-17"
+    },
+    {
+      "name": "i-have-adhd",
+      "author": "ayghri",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-17"
+    },
+    {
       "name": "gods-eye-view",
       "author": "bilawalsidhu",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "link": "https://github.com/bilawalsidhu/gods-eye-view",
       "stars": 0,
       "trend": 50,
@@ -832,40 +847,10 @@
       "date": "2026-09-17"
     },
     {
-      "name": "open-code-review",
-      "author": "alibaba",
-      "description": "OpenAI Plugins",
-      "link": "https://github.com/alibaba/open-code-review",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-17"
-    },
-    {
       "name": "affaan-m",
       "author": "sponsors",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "link": "https://github.com/sponsors/affaan-m",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-17"
-    },
-    {
-      "name": "ECC",
-      "author": "affaan-m",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "link": "https://github.com/affaan-m/ECC",
+      "link": "https://github.com/sponsors/affaan-m",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -883,25 +868,25 @@
       "date": "2026-09-17"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "link": "https://github.com/apps/dependabot",
+      "name": "ECC",
+      "author": "affaan-m",
+      "description": "OpenAI Plugins",
+      "link": "https://github.com/affaan-m/ECC",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-09-17"
     },
     {
-      "name": "plugins",
-      "author": "openai",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "link": "https://github.com/openai/plugins",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -915,7 +900,7 @@
     {
       "name": "mksglu",
       "author": "sponsors",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "link": "https://github.com/sponsors/mksglu",
       "stars": 0,
       "trend": 50,
@@ -930,7 +915,7 @@
     {
       "name": "context-mode",
       "author": "mksglu",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "link": "https://github.com/mksglu/context-mode",
       "stars": 0,
       "trend": 50,
@@ -938,15 +923,18 @@
       "tags": [
         {
           "name": "Agent"
+        },
+        {
+          "name": "LLM"
         }
       ],
       "date": "2026-09-17"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Talk to one agent. Ship with a crew.",
-      "link": "https://github.com/apps/github-actions",
+      "name": "WeKnora",
+      "author": "Tencent",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "link": "https://github.com/Tencent/WeKnora",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -958,10 +946,25 @@
       "date": "2026-09-17"
     },
     {
-      "name": "WeKnora",
-      "author": "Tencent",
-      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
-      "link": "https://github.com/Tencent/WeKnora",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-17"
+    },
+    {
+      "name": "plugins",
+      "author": "openai",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "link": "https://github.com/openai/plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -977,21 +980,34 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comme",
       "link": "https://github.com/opensearch.xml",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 2325,
       "date": "2026-09-17"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platf",
-      "link": "https://github.com/explore",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
+      ],
+      "likes": 4324,
+      "date": "2026-09-17"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@anonymous",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "link": "https://github.com/explore",
+      "tools": [
+        "GitHub",
+        "LLM"
       ],
       "likes": 3045,
       "date": "2026-09-17"
@@ -999,11 +1015,11 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "description": "OpenAI Plugins",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub",
-        "LLM"
+        "GPT-4"
       ],
       "likes": 1697,
       "date": "2026-09-17"
@@ -1011,7 +1027,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1022,23 +1038,12 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, ex",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-09-17"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-09-17"
     },
     {
