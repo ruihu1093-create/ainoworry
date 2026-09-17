@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-09-17 18:45:47",
+  "updatedAt": "2026-09-17 21:52:43",
   "news": [
+    {
+      "title": "The fix for rogue AI agents could be more AI",
+      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at gr",
+      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge ",
+      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Is the AI safety debate about safety or control?",
+      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, bui",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Even the king of England has his hesitations about AI",
       "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
@@ -38,52 +83,16 @@
       "tagText": "资讯"
     },
     {
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
-      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-      "source": "TechCrunch-AI",
+      "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
+      "summary": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years",
+      "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
+      "source": "Wired-AI",
       "date": "2026-09-17",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
-      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do ",
-      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The AI Slowdown Debate Crashed Salesforce's Party",
+      "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
       "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow d",
       "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
       "source": "Wired-AI",
@@ -149,15 +158,6 @@
       "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
       "summary": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
       "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-      "source": "Wired-AI",
-      "date": "2026-09-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
-      "summary": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
-      "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
       "source": "Wired-AI",
       "date": "2026-09-14",
       "tag": "trend",
