@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-17 14:37:16",
+  "updatedAt": "2026-09-17 18:45:47",
   "news": [
+    {
+      "title": "Even the king of England has his hesitations about AI",
+      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — p",
+      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
       "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap w",
@@ -56,29 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own",
-      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningf",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-16",
+      "title": "The AI Slowdown Debate Crashed Salesforce's Party",
+      "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow d",
+      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+      "source": "Wired-AI",
+      "date": "2026-09-17",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
       "source": "Wired-AI",
       "date": "2026-09-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Agents Are Thirsty for Power",
-      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildo",
-      "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-      "source": "Wired-AI",
-      "date": "2026-09-13",
       "tag": "trend",
       "tagText": "资讯"
     },
