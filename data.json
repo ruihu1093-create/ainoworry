@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-17 03:08:54",
+  "updatedAt": "2026-09-17 09:07:55",
   "news": [
+    {
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do ",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Snap tries to make the case again for its $2,200 smart glasses",
       "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
@@ -11,7 +29,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+      "title": "Al Gore says the real AI risk isn’t data centers",
       "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own",
       "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
       "source": "TechCrunch-AI",
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
       "source": "Wired-AI",
       "date": "2026-09-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Agents Are Thirsty for Power",
-      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildo",
-      "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-      "source": "Wired-AI",
-      "date": "2026-09-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meet a mouse whose brain cortex is made up of human cells",
-      "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor",
-      "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-16",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "京东押注物理 AI，冲在前面的是一群 95 后",
+      "content": "去年，AI 行业最热闹的是模型榜单、推理能力和多模态生成。所有人都在问：这个模型有多强？\n但到了 2026 年，问题变了。人们开始追问：它到底能干什么？\n这个问题，京东在今年的 JDD 大会上，给出了自己的答案。\n京东把这届大会的主题定为「JoyAI &middot; 跃迁物理世界」。它想传达的是，AI 的下一站不只是能说会道、更聪",
+      "link": "http://www.geekpark.net/news/370519",
+      "source": "极客公园",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-17"
+    },
     {
       "title": "How the retail crime bill could bolster ICE",
       "content": "<img src=\"https://imgproxy.divecdn.com/bcHTzxzwCjG_vomT9Oc_962iLTrCHA4JPt3JruedCf8/g:nowe:0:76/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMj",
