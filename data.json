@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-17 21:52:43",
+  "updatedAt": "2026-09-17 23:52:00",
   "news": [
+    {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The fix for rogue AI agents could be more AI",
       "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at gr",
@@ -56,28 +83,10 @@
       "tagText": "资讯"
     },
     {
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — p",
-      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap w",
-      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "source": "TechCrunch-AI",
+      "title": "Here’s What the AI Apocalypse Could Look Like",
+      "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+      "source": "Wired-AI",
       "date": "2026-09-17",
       "tag": "trend",
       "tagText": "资讯"
@@ -149,15 +158,6 @@
       "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
       "summary": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively tar",
       "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
-      "source": "Wired-AI",
-      "date": "2026-09-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-      "summary": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
-      "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
       "source": "Wired-AI",
       "date": "2026-09-14",
       "tag": "trend",
