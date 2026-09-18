@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-18 12:48:46",
+  "updatedAt": "2026-09-18 16:55:14",
   "news": [
+    {
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+      "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+      "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+      "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an in",
+      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "summary": "The round values the data center giant at $30.9 billion.",
@@ -38,56 +74,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "The fix for rogue AI agents could be more AI",
-      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at gr",
-      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-17",
+      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+      "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent mor",
+      "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+      "source": "Wired-AI",
+      "date": "2026-09-18",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge ",
-      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Is the AI safety debate about safety or control?",
-      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, bui",
-      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Even the king of England has his hesitations about AI",
-      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
-      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-17",
+      "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+      "summary": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
+      "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+      "source": "Wired-AI",
+      "date": "2026-09-18",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -155,11 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Washington Won’t Be Regulating AI Anytime Soon",
-      "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
-      "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
-      "source": "Wired-AI",
-      "date": "2026-09-16",
+      "title": "The Download: AI’s extinction risk and bioweapons threat",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-18",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -629,22 +629,13 @@
       "date": "2026-09-17"
     },
     {
-      "title": "How the retail crime bill could bolster ICE",
-      "content": "<img src=\"https://imgproxy.divecdn.com/bcHTzxzwCjG_vomT9Oc_962iLTrCHA4JPt3JruedCf8/g:nowe:0:76/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMj",
-      "link": "https://www.retaildive.com/news/how-the-retail-crime-bill-could-bolster-ice/829731/",
+      "title": "Longtime Christmas decor retailer files for bankruptcy",
+      "content": "<img src=\"https://imgproxy.divecdn.com/6b2MnwcKoAI8imru8Ek26_F_u0EIj2TZt2pbudR2nzQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQzNDIyNDgwLmpwZw==",
+      "link": "https://www.retaildive.com/news/christmas-decor-retailer-gordon-companies-files-chapter-11-bankruptcy/830777/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Target debuts style-focused apparel for store associates",
-      "content": "In a move aimed at expanding its merchandising authority beyond customers, the new drop leveraged the retailer&#39;s renewed partnership with Isaac Mizrahi.",
-      "link": "https://www.retaildive.com/news/target-style-focused-apparel-store-associates-isaac-mizrahi/830436/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-16"
+      "date": "2026-09-18"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
