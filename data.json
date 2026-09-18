@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18 07:58:24",
+  "updatedAt": "2026-09-18 12:48:46",
   "news": [
     {
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
@@ -92,6 +92,33 @@
       "tagText": "资讯"
     },
     {
+      "title": "The Leftist Split Over AI Doom",
+      "summary": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
+      "link": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
+      "source": "Wired-AI",
+      "date": "2026-09-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+      "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
+      "link": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+      "source": "Wired-AI",
+      "date": "2026-09-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
+      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
+      "link": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+      "source": "Wired-AI",
+      "date": "2026-09-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Here’s What the AI Apocalypse Could Look Like",
       "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
@@ -133,33 +160,6 @@
       "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
       "source": "Wired-AI",
       "date": "2026-09-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
-      "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
-      "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
-      "source": "Wired-AI",
-      "date": "2026-09-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-      "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
-      "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
-      "source": "Wired-AI",
-      "date": "2026-09-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-      "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wear",
-      "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
-      "source": "Wired-AI",
-      "date": "2026-09-15",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -786,7 +786,7 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
@@ -834,23 +834,8 @@
     {
       "name": "gods-eye-view",
       "author": "bilawalsidhu",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "link": "https://github.com/bilawalsidhu/gods-eye-view",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-18"
-    },
-    {
-      "name": "affaan-m",
-      "author": "sponsors",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "link": "https://github.com/sponsors/affaan-m",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -868,55 +853,10 @@
       "date": "2026-09-18"
     },
     {
-      "name": "ECC",
-      "author": "affaan-m",
-      "description": "OpenAI Plugins",
-      "link": "https://github.com/affaan-m/ECC",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-18"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-18"
-    },
-    {
-      "name": "mksglu",
+      "name": "affaan-m",
       "author": "sponsors",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/sponsors/mksglu",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-18"
-    },
-    {
-      "name": "context-mode",
-      "author": "mksglu",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "link": "https://github.com/mksglu/context-mode",
+      "link": "https://github.com/sponsors/affaan-m",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -931,9 +871,39 @@
       "date": "2026-09-18"
     },
     {
+      "name": "ECC",
+      "author": "affaan-m",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "link": "https://github.com/affaan-m/ECC",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-18"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-18"
+    },
+    {
       "name": "WeKnora",
       "author": "Tencent",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "link": "https://github.com/Tencent/WeKnora",
       "stars": 0,
       "trend": 50,
@@ -948,8 +918,38 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-09-18"
+    },
+    {
+      "name": "claude-code",
+      "author": "anthropics",
+      "description": "OpenAI Plugins",
+      "link": "https://github.com/anthropics/claude-code",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-09-18"
+    },
+    {
+      "name": "mksglu",
+      "author": "sponsors",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "link": "https://github.com/sponsors/mksglu",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -961,16 +961,16 @@
       "date": "2026-09-18"
     },
     {
-      "name": "plugins",
-      "author": "openai",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "link": "https://github.com/openai/plugins",
+      "name": "context-mode",
+      "author": "mksglu",
+      "description": "Talk to one agent. Ship with a crew.",
+      "link": "https://github.com/mksglu/context-mode",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-09-18"
@@ -980,7 +980,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comme",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-lev",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub",
@@ -1003,11 +1003,10 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, ex",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 3045,
       "date": "2026-09-18"
@@ -1015,11 +1014,10 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "OpenAI Plugins",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platf",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub",
-        "GPT-4"
+        "GitHub"
       ],
       "likes": 1697,
       "date": "2026-09-18"
@@ -1027,7 +1025,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1036,14 +1034,15 @@
       "date": "2026-09-18"
     },
     {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, ex",
-      "link": "https://github.com/events",
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "OpenAI Plugins",
+      "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
-      "likes": 2526,
+      "likes": 7510,
       "date": "2026-09-18"
     },
     {
