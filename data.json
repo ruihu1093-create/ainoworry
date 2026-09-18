@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-09-18 16:55:14",
+  "updatedAt": "2026-09-18 19:25:00",
   "news": [
+    {
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology off",
+      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fi",
+      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to",
+      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+      "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to",
+      "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
       "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
@@ -38,38 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "summary": "The round values the data center giant at $30.9 billion.",
-      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will no",
-      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
-      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies",
-      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-17",
+      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+      "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+      "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+      "source": "Wired-AI",
+      "date": "2026-09-18",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
       "source": "Wired-AI",
       "date": "2026-09-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "An OpenAI Agent Tried to Jailbreak Itself",
-      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the interne",
-      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
-      "source": "Wired-AI",
-      "date": "2026-09-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: AI’s extinction risk and bioweapons threat",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-18",
       "tag": "trend",
       "tagText": "资讯"
     },
