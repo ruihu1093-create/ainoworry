@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-18 19:25:00",
+  "updatedAt": "2026-09-18 22:13:29",
   "news": [
+    {
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
       "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
@@ -68,15 +77,6 @@
       "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
       "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
       "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an in",
-      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
       "source": "TechCrunch-AI",
       "date": "2026-09-18",
       "tag": "trend",
