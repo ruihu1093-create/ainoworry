@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-19 19:57:52",
+  "updatedAt": "2026-09-19 22:13:21",
   "news": [
+    {
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google’s Gemini is the latest AI model to hack other companies",
       "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
@@ -50,24 +68,6 @@
       "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
       "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
       "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI hallucination nearly triggers US military operation",
-      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
       "source": "TechCrunch-AI",
       "date": "2026-09-18",
       "tag": "trend",
