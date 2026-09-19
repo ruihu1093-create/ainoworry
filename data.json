@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-09-19 00:55:18",
+  "updatedAt": "2026-09-19 05:27:40",
   "news": [
     {
-      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
       "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
       "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
       "source": "TechCrunch-AI",
@@ -59,24 +68,6 @@
       "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
       "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fi",
       "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to",
-      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-      "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to",
-      "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
       "source": "TechCrunch-AI",
       "date": "2026-09-18",
       "tag": "trend",
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
       "source": "Wired-AI",
       "date": "2026-09-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: AI’s extinction risk and bioweapons threat",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-18",
       "tag": "trend",
       "tagText": "资讯"
     },
