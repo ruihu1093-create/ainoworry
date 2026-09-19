@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19 05:27:40",
+  "updatedAt": "2026-09-19 10:13:28",
   "news": [
     {
       "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
@@ -74,6 +74,24 @@
       "tagText": "资讯"
     },
     {
+      "title": "Mathematicians Hate AI. They Can’t Quit It",
+      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+      "source": "Wired-AI",
+      "date": "2026-09-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Join the WIRED World Fair in Miami on November 4",
+      "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+      "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+      "source": "Wired-AI",
+      "date": "2026-09-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
       "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
       "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
@@ -131,24 +149,6 @@
       "title": "Here’s What the AI Apocalypse Could Look Like",
       "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
-      "source": "Wired-AI",
-      "date": "2026-09-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
-      "summary": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years",
-      "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
-      "source": "Wired-AI",
-      "date": "2026-09-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
-      "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow d",
-      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
       "source": "Wired-AI",
       "date": "2026-09-17",
       "tag": "trend",
