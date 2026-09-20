@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20 10:31:58",
+  "updatedAt": "2026-09-20 14:27:43",
   "news": [
     {
       "title": "Flock reportedly tries to shrink workforce with employee buyouts",
@@ -65,11 +65,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-18",
+      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and pa",
+      "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+      "source": "Wired-AI",
+      "date": "2026-09-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "It’s Donald Trump Versus MAGA on Data Centers",
+      "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+      "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+      "source": "Wired-AI",
+      "date": "2026-09-20",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -137,27 +146,18 @@
       "tagText": "资讯"
     },
     {
-      "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
-      "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
-      "link": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
-      "source": "Wired-AI",
-      "date": "2026-09-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
-      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
-      "link": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-      "source": "Wired-AI",
-      "date": "2026-09-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "The Download: AI’s extinction risk and bioweapons threat",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI real",
+      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
       "source": "MIT-Tech-Review",
       "date": "2026-09-18",
       "tag": "trend",
@@ -856,10 +856,10 @@
       "date": "2026-09-20"
     },
     {
-      "name": "ECC",
-      "author": "affaan-m",
+      "name": "affaan-m",
+      "author": "sponsors",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/affaan-m/ECC",
+      "link": "https://github.com/sponsors/affaan-m",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -873,7 +873,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -888,7 +888,7 @@
     {
       "name": "WeKnora",
       "author": "Tencent",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "link": "https://github.com/Tencent/WeKnora",
       "stars": 0,
       "trend": 50,
@@ -903,23 +903,8 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-20"
-    },
-    {
-      "name": "gods-eye-view",
-      "author": "bilawalsidhu",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -933,7 +918,7 @@
     {
       "name": "agent-skills",
       "author": "addyosmani",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
       "link": "https://github.com/addyosmani/agent-skills",
       "stars": 0,
       "trend": 50,
@@ -946,10 +931,10 @@
       "date": "2026-09-20"
     },
     {
-      "name": "i-have-adhd",
-      "author": "ayghri",
-      "description": "Talk to one agent. Ship with a crew.",
-      "link": "https://github.com/ayghri/i-have-adhd",
+      "name": "knowledge-work-plugins",
+      "author": "anthropics",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -961,10 +946,25 @@
       "date": "2026-09-20"
     },
     {
-      "name": "mksglu",
-      "author": "sponsors",
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-20"
+    },
+    {
+      "name": "gods-eye-view",
+      "author": "bilawalsidhu",
       "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "link": "https://github.com/sponsors/mksglu",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -1001,20 +1001,9 @@
       "date": "2026-09-20"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@anonymous",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 3045,
-      "date": "2026-09-20"
-    },
-    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platf",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1025,7 +1014,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1224,6 +1213,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-09-20"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-09-20"
     }
   ],
