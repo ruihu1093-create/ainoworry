@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-20 17:54:24",
+  "updatedAt": "2026-09-20 20:13:39",
   "news": [
+    {
+      "title": "Is the AI industry really ready to slow down?",
+      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Flock reportedly tries to shrink workforce with employee buyouts",
       "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
@@ -41,24 +50,6 @@
       "title": "AI safety conversations have gotten unbelievable",
       "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
       "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
       "source": "TechCrunch-AI",
       "date": "2026-09-19",
       "tag": "trend",
@@ -158,6 +149,15 @@
       "title": "Could AI really kill us all? Your questions, answered.",
       "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI real",
       "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic ",
+      "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
       "source": "MIT-Tech-Review",
       "date": "2026-09-18",
       "tag": "trend",
