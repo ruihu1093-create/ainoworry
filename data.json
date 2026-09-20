@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20 00:36:03",
+  "updatedAt": "2026-09-20 05:40:03",
   "news": [
     {
       "title": "Flock reportedly tries to shrink workforce with employee buyouts",
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "Meta 个人助手登顶美国 App Store；张雪机车发 5 款新车，最贵 13.8 万；淘宝闪购「制服」获法国设计最高奖，马云深度参与",
+      "content": "传 Anthropic 计划在 IPO 前夕推出新一代 AI 模型助力资本市场信心",
+      "link": "http://www.geekpark.net/news/370615",
+      "source": "极客公园",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-20"
+    },
     {
       "title": "京东押注物理 AI，冲在前面的是一群 95 后",
       "content": "去年，AI 行业最热闹的是模型榜单、推理能力和多模态生成。所有人都在问：这个模型有多强？\n但到了 2026 年，问题变了。人们开始追问：它到底能干什么？\n这个问题，京东在今年的 JDD 大会上，给出了自己的答案。\n京东把这届大会的主题定为「JoyAI &middot; 跃迁物理世界」。它想传达的是，AI 的下一站不只是能说会道、更聪",
