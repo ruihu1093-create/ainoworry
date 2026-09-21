@@ -1,57 +1,48 @@
 {
-  "updatedAt": "2026-09-21 11:51:00",
+  "updatedAt": "2026-09-21 17:45:47",
   "news": [
     {
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s prof",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 b",
+      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m.",
+      "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Is the AI industry really ready to slow down?",
-      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
       "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
       "source": "TechCrunch-AI",
       "date": "2026-09-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when",
-      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI safety conversations have gotten unbelievable",
-      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-19",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -137,29 +128,38 @@
       "tagText": "资讯"
     },
     {
-      "title": "The Download: AI’s extinction risk and bioweapons threat",
+      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
       "source": "MIT-Tech-Review",
-      "date": "2026-09-18",
+      "date": "2026-09-21",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI real",
-      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US gove",
+      "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
       "source": "MIT-Tech-Review",
-      "date": "2026-09-18",
+      "date": "2026-09-21",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic ",
-      "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chai",
+      "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
       "source": "MIT-Tech-Review",
-      "date": "2026-09-18",
+      "date": "2026-09-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "summary": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez H",
+      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-21",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -638,6 +638,24 @@
       "date": "2026-09-20"
     },
     {
+      "title": "J.C. Penney loses share, launches marketplace as sales continue to slide",
+      "content": "<img src=\"https://imgproxy.divecdn.com/yRtZuPw1KFsgNIWZPay2uKVztZbNN7pB5SMO28wsMiA/g:nowe:0:0/c:1280:723/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9qY3BfYmVhdXR5Xy1fMV8",
+      "link": "https://www.retaildive.com/news/jc-penney-q2-earnings-sales-decline-loses-share-launches-marketplace/830872/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Costco now offers nationwide delivery on Uber and DoorDash",
+      "content": "The retailer expanded its partnerships with both e-commerce providers at a time when same-day delivery is resonating with its shoppers.&nbsp;",
+      "link": "https://www.retaildive.com/news/costco-uber-doordash-nationwide-same-day-delivery-ecommerce/830874/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-21"
+    },
+    {
       "title": "Dairy milk’s demand remains strong across retail",
       "content": "Capture more trips and unlock incremental growth by making Dairy Milk an intentional part of the basket.",
       "link": "https://www.retaildive.com/spons/dairy-milks-demand-remains-strong-across-retail/829470/",
@@ -777,15 +795,6 @@
       "content": "买家上传照片即可获得AI鉴定报告，支持奢侈品、球鞋、手表等多品类，买卖双方信任度大幅提升。",
       "link": "https://techcrunch.com/",
       "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-21"
-    },
-    {
-      "title": "唯品会AI个性化专场：精准匹配打折商品与用户喜好",
-      "content": "通过分析用户历史购买和浏览记录，AI为每位用户生成专属特卖专场，点击率提升45%。",
-      "link": "https://36kr.com/",
-      "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-09-21"
