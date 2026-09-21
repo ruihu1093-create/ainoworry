@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-21 17:45:47",
+  "updatedAt": "2026-09-21 21:38:10",
   "news": [
+    {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mo",
+      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no le",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
       "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s prof",
@@ -21,7 +48,7 @@
     },
     {
       "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
       "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
       "source": "TechCrunch-AI",
       "date": "2026-09-21",
@@ -30,7 +57,7 @@
     },
     {
       "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m.",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:",
       "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch-AI",
       "date": "2026-09-21",
@@ -38,11 +65,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Is the AI industry really ready to slow down?",
-      "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
-      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-20",
+      "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+      "summary": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in ne",
+      "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
+      "source": "Wired-AI",
+      "date": "2026-09-21",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -119,15 +146,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-      "summary": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
-      "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
-      "source": "Wired-AI",
-      "date": "2026-09-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "The Download: investigating deaths at the US border’s “virtual wall”",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
@@ -140,24 +158,6 @@
       "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
       "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US gove",
       "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chai",
-      "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "summary": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez H",
-      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
       "source": "MIT-Tech-Review",
       "date": "2026-09-21",
       "tag": "trend",
