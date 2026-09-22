@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22 00:32:34",
+  "updatedAt": "2026-09-22 05:47:46",
   "news": [
     {
       "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
@@ -629,15 +629,6 @@
       "date": "2026-09-21"
     },
     {
-      "title": "Meta 个人助手登顶美国 App Store；张雪机车发 5 款新车，最贵 13.8 万；淘宝闪购「制服」获法国设计最高奖，马云深度参与",
-      "content": "传 Anthropic 计划在 IPO 前夕推出新一代 AI 模型助力资本市场信心",
-      "link": "http://www.geekpark.net/news/370615",
-      "source": "极客公园",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-20"
-    },
-    {
       "title": "J.C. Penney loses share, launches marketplace as sales continue to slide",
       "content": "<img src=\"https://imgproxy.divecdn.com/yRtZuPw1KFsgNIWZPay2uKVztZbNN7pB5SMO28wsMiA/g:nowe:0:0/c:1280:723/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9qY3BfYmVhdXR5Xy1fMV8",
       "link": "https://www.retaildive.com/news/jc-penney-q2-earnings-sales-decline-loses-share-launches-marketplace/830872/",
@@ -795,6 +786,15 @@
       "content": "买家上传照片即可获得AI鉴定报告，支持奢侈品、球鞋、手表等多品类，买卖双方信任度大幅提升。",
       "link": "https://techcrunch.com/",
       "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "唯品会AI个性化专场：精准匹配打折商品与用户喜好",
+      "content": "通过分析用户历史购买和浏览记录，AI为每位用户生成专属特卖专场，点击率提升45%。",
+      "link": "https://36kr.com/",
+      "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-09-22"
