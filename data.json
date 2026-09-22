@@ -1,10 +1,19 @@
 {
-  "updatedAt": "2026-09-22 15:22:56",
+  "updatedAt": "2026-09-22 19:31:11",
   "news": [
     {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, ",
-      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
       "source": "TechCrunch-AI",
       "date": "2026-09-22",
       "tag": "trend",
@@ -14,6 +23,15 @@
       "title": "AstroForge is putting AI in command of its next spacecraft",
       "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
       "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, ",
+      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
       "source": "TechCrunch-AI",
       "date": "2026-09-22",
       "tag": "trend",
@@ -56,11 +74,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-21",
+      "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+      "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a",
+      "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+      "source": "Wired-AI",
+      "date": "2026-09-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Rabbit Is Back, This Time With an AI Agent App",
+      "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens y",
+      "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+      "source": "Wired-AI",
+      "date": "2026-09-22",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -133,33 +160,6 @@
       "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
       "source": "Wired-AI",
       "date": "2026-09-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-      "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
-      "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-      "source": "Wired-AI",
-      "date": "2026-09-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help ",
-      "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-22",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -654,15 +654,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-09-21"
-    },
-    {
-      "title": "Longtime Christmas decor retailer files for bankruptcy",
-      "content": "<img src=\"https://imgproxy.divecdn.com/6b2MnwcKoAI8imru8Ek26_F_u0EIj2TZt2pbudR2nzQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQzNDIyNDgwLmpwZw==",
-      "link": "https://www.retaildive.com/news/christmas-decor-retailer-gordon-companies-files-chapter-11-bankruptcy/830777/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-18"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
