@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22 05:47:46",
+  "updatedAt": "2026-09-22 10:52:11",
   "news": [
     {
       "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
@@ -74,6 +74,51 @@
       "tagText": "资讯"
     },
     {
+      "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+      "summary": "Brian Bot loved talking about improv, while Sophie Bot wouldn’t stop calling me “big dog.” Welcome to the future of work.",
+      "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
+      "source": "Wired-AI",
+      "date": "2026-09-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
+      "summary": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics’ robot dogs.",
+      "link": "https://www.wired.com/story/big-interview-patti-harrison/",
+      "source": "Wired-AI",
+      "date": "2026-09-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
+      "summary": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something un",
+      "link": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+      "source": "Wired-AI",
+      "date": "2026-09-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+      "summary": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragment",
+      "link": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+      "source": "Wired-AI",
+      "date": "2026-09-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "How to Use AI With Your Privacy Intact",
+      "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
+      "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+      "source": "Wired-AI",
+      "date": "2026-09-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
       "summary": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in ne",
       "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
@@ -106,51 +151,6 @@
       "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
       "source": "Wired-AI",
       "date": "2026-09-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of",
-      "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
-      "source": "Wired-AI",
-      "date": "2026-09-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Mathematicians Hate AI. They Can’t Quit It",
-      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
-      "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-      "source": "Wired-AI",
-      "date": "2026-09-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Join the WIRED World Fair in Miami on November 4",
-      "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
-      "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
-      "source": "Wired-AI",
-      "date": "2026-09-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
-      "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
-      "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
-      "source": "Wired-AI",
-      "date": "2026-09-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-      "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent mor",
-      "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
-      "source": "Wired-AI",
-      "date": "2026-09-18",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -840,23 +840,8 @@
     {
       "name": "open-code-review",
       "author": "alibaba",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "link": "https://github.com/alibaba/open-code-review",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-22"
-    },
-    {
-      "name": "claude-code",
-      "author": "anthropics",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "link": "https://github.com/anthropics/claude-code",
+      "link": "https://github.com/alibaba/open-code-review",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -874,10 +859,10 @@
       "date": "2026-09-22"
     },
     {
-      "name": "colibri",
-      "author": "JustVugg",
+      "name": "claude-code",
+      "author": "anthropics",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "link": "https://github.com/JustVugg/colibri",
+      "link": "https://github.com/anthropics/claude-code",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -906,14 +891,14 @@
     {
       "name": "affaan-m",
       "author": "sponsors",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "link": "https://github.com/sponsors/affaan-m",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-09-22"
@@ -921,7 +906,7 @@
     {
       "name": "ECC",
       "author": "affaan-m",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "link": "https://github.com/affaan-m/ECC",
       "stars": 0,
       "trend": 50,
@@ -936,14 +921,14 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-09-22"
@@ -966,7 +951,7 @@
     {
       "name": "agent-skills",
       "author": "addyosmani",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "link": "https://github.com/addyosmani/agent-skills",
       "stars": 0,
       "trend": 50,
@@ -979,16 +964,31 @@
       "date": "2026-09-22"
     },
     {
-      "name": "orca",
-      "author": "stablyai",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "link": "https://github.com/stablyai/orca",
+      "name": "Octop",
+      "author": "TencentCloud",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "link": "https://github.com/TencentCloud/Octop",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
+        }
+      ],
+      "date": "2026-09-22"
+    },
+    {
+      "name": "financial-services",
+      "author": "anthropics",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "link": "https://github.com/anthropics/financial-services",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-09-22"
@@ -1019,20 +1019,20 @@
       "date": "2026-09-22"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: explore",
       "author": "@anonymous",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/topics",
+      "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
+      "likes": 3045,
       "date": "2026-09-22"
     },
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platf",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote ",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1043,10 +1043,11 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Ve",
       "link": "https://github.com/events",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "GPT-4"
       ],
       "likes": 2526,
       "date": "2026-09-22"
@@ -1054,11 +1055,10 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Ve",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub",
-        "GPT-4"
+        "GitHub"
       ],
       "likes": 7510,
       "date": "2026-09-22"
