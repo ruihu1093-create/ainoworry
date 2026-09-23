@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-09-23 13:17:42",
+  "updatedAt": "2026-09-23 18:12:44",
   "news": [
+    {
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Even Americans who use AI every day are worried about it",
+      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "YouTube Music gets more conversational with new AI features",
+      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individ",
+      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "YouTube will let you build your own algorithm with AI",
+      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the ",
+      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. S",
+      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Ema raises $77M as AI starts eating into enterprise software and services",
       "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
@@ -20,65 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a compa",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames ",
-      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AstroForge is putting AI in command of its next spacecraft",
-      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
-      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-22",
+      "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
+      "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to gov",
+      "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
+      "source": "Wired-AI",
+      "date": "2026-09-23",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -155,11 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
-      "summary": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragment",
-      "link": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
-      "source": "Wired-AI",
-      "date": "2026-09-22",
+      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-23",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -624,33 +624,6 @@
       "content": "作者｜Cynthia \n编辑｜ 郑玄</p",
       "link": "http://www.geekpark.net/news/370759",
       "source": "极客公园",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-21"
-    },
-    {
-      "title": "J.C. Penney loses share, launches marketplace as sales continue to slide",
-      "content": "<img src=\"https://imgproxy.divecdn.com/yRtZuPw1KFsgNIWZPay2uKVztZbNN7pB5SMO28wsMiA/g:nowe:0:0/c:1280:723/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9qY3BfYmVhdXR5Xy1fMV8",
-      "link": "https://www.retaildive.com/news/jc-penney-q2-earnings-sales-decline-loses-share-launches-marketplace/830872/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-21"
-    },
-    {
-      "title": "Costco now offers nationwide delivery on Uber and DoorDash",
-      "content": "The retailer expanded its partnerships with both e-commerce providers at a time when same-day delivery is resonating with its shoppers.&nbsp;",
-      "link": "https://www.retaildive.com/news/costco-uber-doordash-nationwide-same-day-delivery-ecommerce/830874/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-21"
-    },
-    {
-      "title": "Dairy milk’s demand remains strong across retail",
-      "content": "Capture more trips and unlock incremental growth by making Dairy Milk an intentional part of the basket.",
-      "link": "https://www.retaildive.com/spons/dairy-milks-demand-remains-strong-across-retail/829470/",
-      "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-09-21"
