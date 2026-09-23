@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-23 01:11:45",
+  "updatedAt": "2026-09-23 07:14:51",
   "news": [
+    {
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that n",
+      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
       "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a compa",
@@ -149,15 +158,6 @@
       "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
       "summary": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragment",
       "link": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
-      "source": "Wired-AI",
-      "date": "2026-09-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How to Use AI With Your Privacy Intact",
-      "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
-      "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
       "source": "Wired-AI",
       "date": "2026-09-22",
       "tag": "trend",
