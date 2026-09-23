@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-23 07:14:51",
+  "updatedAt": "2026-09-23 13:17:42",
   "news": [
+    {
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+      "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
       "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that n",
@@ -74,20 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, ",
-      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register bef",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-22",
+      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+      "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting ",
+      "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+      "source": "Wired-AI",
+      "date": "2026-09-23",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -865,10 +865,10 @@
       "date": "2026-09-23"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
+      "name": "financial-services",
+      "author": "anthropics",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/apps/dependabot",
+      "link": "https://github.com/anthropics/financial-services",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -880,10 +880,10 @@
       "date": "2026-09-23"
     },
     {
-      "name": "affaan-m",
-      "author": "sponsors",
+      "name": "dependabot",
+      "author": "apps",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "link": "https://github.com/sponsors/affaan-m",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -895,9 +895,24 @@
       "date": "2026-09-23"
     },
     {
+      "name": "affaan-m",
+      "author": "sponsors",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "link": "https://github.com/sponsors/affaan-m",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-23"
+    },
+    {
       "name": "ECC",
       "author": "affaan-m",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "link": "https://github.com/affaan-m/ECC",
       "stars": 0,
       "trend": 50,
@@ -912,8 +927,23 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "description": "CLI tool for configuring and monitoring Claude Code",
       "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-09-23"
+    },
+    {
+      "name": "agent-skills",
+      "author": "addyosmani",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "link": "https://github.com/addyosmani/agent-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -940,46 +970,16 @@
       "date": "2026-09-23"
     },
     {
-      "name": "agent-skills",
-      "author": "addyosmani",
+      "name": "github-actions",
+      "author": "apps",
       "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-      "link": "https://github.com/addyosmani/agent-skills",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        }
-      ],
-      "date": "2026-09-23"
-    },
-    {
-      "name": "Octop",
-      "author": "TencentCloud",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "link": "https://github.com/TencentCloud/Octop",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-23"
-    },
-    {
-      "name": "financial-services",
-      "author": "anthropics",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "link": "https://github.com/anthropics/financial-services",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
         }
       ],
       "date": "2026-09-23"
@@ -1010,17 +1010,6 @@
       "date": "2026-09-23"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@anonymous",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 3045,
-      "date": "2026-09-23"
-    },
-    {
       "title": "开源项目: collections",
       "author": "@anonymous",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote ",
@@ -1029,29 +1018,6 @@
         "GitHub"
       ],
       "likes": 2046,
-      "date": "2026-09-23"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Ve",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub",
-        "GPT-4"
-      ],
-      "likes": 2526,
-      "date": "2026-09-23"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-09-23"
     },
     {
@@ -1234,6 +1200,45 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-09-23"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
+      "date": "2026-09-23"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
+      "date": "2026-09-23"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
       "date": "2026-09-23"
     }
   ],
