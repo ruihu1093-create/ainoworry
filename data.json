@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-24 00:22:12",
+  "updatedAt": "2026-09-24 05:48:36",
   "news": [
+    {
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going a",
+      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meta introduces camera-free AI glasses",
       "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
@@ -68,15 +86,6 @@
       "title": "YouTube releases new AI features for creators within its Studio app",
       "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
       "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. S",
-      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
       "source": "TechCrunch-AI",
       "date": "2026-09-23",
       "tag": "trend",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
       "source": "Wired-AI",
       "date": "2026-09-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-23",
       "tag": "trend",
       "tagText": "资讯"
     },
