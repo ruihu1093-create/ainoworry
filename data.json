@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24 05:48:36",
+  "updatedAt": "2026-09-24 11:01:02",
   "news": [
     {
       "title": "Everything new coming to Meta’s AI agent Muse",
@@ -83,9 +83,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. S",
+      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
       "source": "TechCrunch-AI",
       "date": "2026-09-23",
       "tag": "trend",
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "把未来做成基础设施｜亚马逊 CTO Dr.Werner Vogels 与云计算 20 年",
-      "content": "作者｜Cynthia \n编辑｜ 郑玄</p",
-      "link": "http://www.geekpark.net/news/370759",
-      "source": "极客公园",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-21"
-    },
-    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -802,6 +793,21 @@
       "date": "2026-09-24"
     },
     {
+      "name": "financial-services",
+      "author": "anthropics",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "link": "https://github.com/anthropics/financial-services",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-24"
+    },
+    {
       "name": "open-code-review",
       "author": "alibaba",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
@@ -825,53 +831,8 @@
     {
       "name": "claude-code",
       "author": "anthropics",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "link": "https://github.com/anthropics/claude-code",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-24"
-    },
-    {
-      "name": "financial-services",
-      "author": "anthropics",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/anthropics/financial-services",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-24"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-24"
-    },
-    {
-      "name": "affaan-m",
-      "author": "sponsors",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "link": "https://github.com/sponsors/affaan-m",
+      "link": "https://github.com/anthropics/claude-code",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -900,7 +861,22 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "CLI tool for configuring and monitoring Claude Code",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-24"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -915,23 +891,8 @@
     {
       "name": "agent-skills",
       "author": "addyosmani",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "description": "Hindsight: Agent Memory That Learns",
       "link": "https://github.com/addyosmani/agent-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-24"
-    },
-    {
-      "name": "knowledge-work-plugins",
-      "author": "anthropics",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "link": "https://github.com/anthropics/knowledge-work-plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -945,14 +906,44 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-09-24"
+    },
+    {
+      "name": "orca",
+      "author": "stablyai",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "link": "https://github.com/stablyai/orca",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
           "name": "Agent"
+        }
+      ],
+      "date": "2026-09-24"
+    },
+    {
+      "name": "Octop",
+      "author": "TencentCloud",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "link": "https://github.com/TencentCloud/Octop",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-09-24"
@@ -983,14 +974,25 @@
       "date": "2026-09-24"
     },
     {
-      "title": "开源项目: collections",
+      "title": "开源项目: topics",
       "author": "@anonymous",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote ",
-      "link": "https://github.com/collections",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 2046,
+      "likes": 1697,
+      "date": "2026-09-24"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Hindsight: Agent Memory That Learns",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-09-24"
     },
     {
@@ -1199,19 +1201,6 @@
         "美团"
       ],
       "likes": 2650,
-      "date": "2026-09-24"
-    },
-    {
-      "title": "心理咨询师AI预约+回访系统",
-      "author": "@心理小林",
-      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
-      "link": "https://dify.ai/",
-      "tools": [
-        "Dify",
-        "Coze",
-        "微信"
-      ],
-      "likes": 3940,
       "date": "2026-09-24"
     }
   ],
