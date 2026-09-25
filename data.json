@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25 09:19:00",
+  "updatedAt": "2026-09-25 14:57:05",
   "news": [
     {
       "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
@@ -41,24 +41,6 @@
       "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
       "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell",
       "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:",
-      "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google tests letting Gemini call businesses for you",
-      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
-      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
       "source": "TechCrunch-AI",
       "date": "2026-09-24",
       "tag": "trend",
@@ -133,6 +115,24 @@
       "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
       "source": "Wired-AI",
       "date": "2026-09-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budg",
+      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-25",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -777,8 +777,23 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "link": "https://github.com/sponsors/explore",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-25"
+    },
+    {
+      "name": "developers",
+      "author": "trending",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -793,10 +808,10 @@
       "date": "2026-09-25"
     },
     {
-      "name": "developers",
-      "author": "trending",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "link": "https://github.com/trending/developers",
+      "name": "security-audit-skill",
+      "author": "cloudflare",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "link": "https://github.com/cloudflare/security-audit-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -826,10 +841,10 @@
       "date": "2026-09-25"
     },
     {
-      "name": "open-code-review",
-      "author": "alibaba",
+      "name": "claude-code",
+      "author": "anthropics",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "link": "https://github.com/alibaba/open-code-review",
+      "link": "https://github.com/anthropics/claude-code",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -847,10 +862,25 @@
       "date": "2026-09-25"
     },
     {
-      "name": "claude-code",
-      "author": "anthropics",
+      "name": "open-code-review",
+      "author": "alibaba",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/anthropics/claude-code",
+      "link": "https://github.com/alibaba/open-code-review",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-25"
+    },
+    {
+      "name": "affaan-m",
+      "author": "sponsors",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "link": "https://github.com/sponsors/affaan-m",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -864,7 +894,7 @@
     {
       "name": "ECC",
       "author": "affaan-m",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "description": "Hindsight: Agent Memory That Learns",
       "link": "https://github.com/affaan-m/ECC",
       "stars": 0,
       "trend": 50,
@@ -879,22 +909,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-25"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -907,9 +922,24 @@
       "date": "2026-09-25"
     },
     {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-25"
+    },
+    {
       "name": "agent-skills",
       "author": "addyosmani",
-      "description": "Hindsight: Agent Memory That Learns",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "link": "https://github.com/addyosmani/agent-skills",
       "stars": 0,
       "trend": 50,
@@ -922,24 +952,9 @@
       "date": "2026-09-25"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Spec-driven development (SDD) for AI coding assistants.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-25"
-    },
-    {
       "name": "orca",
       "author": "stablyai",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "link": "https://github.com/stablyai/orca",
       "stars": 0,
       "trend": 50,
@@ -950,32 +965,16 @@
         }
       ],
       "date": "2026-09-25"
-    },
-    {
-      "name": "Octop",
-      "author": "TencentCloud",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "link": "https://github.com/TencentCloud/Octop",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-25"
     }
   ],
   "agents": [
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-lev",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "link": "https://github.com/opensearch.xml",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 2325,
       "date": "2026-09-25"
@@ -992,6 +991,17 @@
       "date": "2026-09-25"
     },
     {
+      "title": "开源项目: explore",
+      "author": "@anonymous",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "link": "https://github.com/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 3045,
+      "date": "2026-09-25"
+    },
+    {
       "title": "开源项目: topics",
       "author": "@anonymous",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote ",
@@ -1005,7 +1015,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Hindsight: Agent Memory That Learns",
+      "description": "The open-source app everyone uses to manage agents at work",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1206,19 +1216,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-09-25"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
       "date": "2026-09-25"
     }
   ],
