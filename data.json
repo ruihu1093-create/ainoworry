@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-26 09:01:35",
+  "updatedAt": "2026-09-26 14:01:41",
   "news": [
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
       "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
@@ -56,11 +65,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Astra and Opus just passed Turing’s other test",
-      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-25",
+      "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+      "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all age",
+      "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+      "source": "Wired-AI",
+      "date": "2026-09-26",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -131,15 +140,6 @@
       "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
       "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to gov",
       "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
-      "source": "Wired-AI",
-      "date": "2026-09-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
-      "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting ",
-      "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
       "source": "Wired-AI",
       "date": "2026-09-23",
       "tag": "trend",
@@ -817,28 +817,25 @@
       "date": "2026-09-26"
     },
     {
-      "name": "security-audit-skill",
-      "author": "cloudflare",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "link": "https://github.com/cloudflare/security-audit-skill",
+      "name": "financial-services",
+      "author": "anthropics",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "link": "https://github.com/anthropics/financial-services",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "LLM"
         }
       ],
       "date": "2026-09-26"
     },
     {
-      "name": "financial-services",
-      "author": "anthropics",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "link": "https://github.com/anthropics/financial-services",
+      "name": "security-audit-skill",
+      "author": "cloudflare",
+      "description": "Hindsight: Agent Memory That Learns",
+      "link": "https://github.com/cloudflare/security-audit-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -871,10 +868,10 @@
       "date": "2026-09-26"
     },
     {
-      "name": "open-code-review",
-      "author": "alibaba",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/alibaba/open-code-review",
+      "name": "paperclip",
+      "author": "paperclipai",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "link": "https://github.com/paperclipai/paperclip",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -886,16 +883,37 @@
       "date": "2026-09-26"
     },
     {
-      "name": "affaan-m",
-      "author": "sponsors",
+      "name": "hindsight",
+      "author": "vectorize-io",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "link": "https://github.com/sponsors/affaan-m",
+      "link": "https://github.com/vectorize-io/hindsight",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-09-26"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
         }
       ],
       "date": "2026-09-26"
@@ -903,7 +921,7 @@
     {
       "name": "ECC",
       "author": "affaan-m",
-      "description": "Hindsight: Agent Memory That Learns",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "link": "https://github.com/affaan-m/ECC",
       "stars": 0,
       "trend": 50,
@@ -918,7 +936,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -931,40 +949,25 @@
       "date": "2026-09-26"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-26"
-    },
-    {
-      "name": "agent-skills",
-      "author": "addyosmani",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "link": "https://github.com/addyosmani/agent-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-26"
-    },
-    {
       "name": "orca",
       "author": "stablyai",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "link": "https://github.com/stablyai/orca",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-26"
+    },
+    {
+      "name": "claude-code-templates",
+      "author": "davila7",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "link": "https://github.com/davila7/claude-code-templates",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -1002,7 +1005,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -1022,9 +1025,21 @@
       "date": "2026-09-26"
     },
     {
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-lev",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub",
+        "LLM"
+      ],
+      "likes": 2046,
+      "date": "2026-09-26"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "The open-source app everyone uses to manage agents at work",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1212,19 +1227,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-09-26"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-09-26"
     }
   ],
