@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-26 18:15:19",
+  "updatedAt": "2026-09-26 21:46:45",
   "news": [
+    {
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "I created an interactive digital avatar of myself — and you can talk to it",
       "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
@@ -50,15 +59,6 @@
       "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
       "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#1",
       "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
       "source": "TechCrunch-AI",
       "date": "2026-09-25",
       "tag": "trend",
