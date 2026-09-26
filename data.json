@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-26 03:14:51",
+  "updatedAt": "2026-09-26 09:01:35",
   "news": [
     {
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
       "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
       "source": "TechCrunch-AI",
       "date": "2026-09-25",
@@ -59,15 +59,6 @@
       "title": "Astra and Opus just passed Turing’s other test",
       "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
       "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and b",
-      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
       "source": "TechCrunch-AI",
       "date": "2026-09-25",
       "tag": "trend",
@@ -158,6 +149,15 @@
       "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budg",
+      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
       "source": "MIT-Tech-Review",
       "date": "2026-09-25",
       "tag": "trend",
