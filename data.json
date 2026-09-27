@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27 12:40:35",
+  "updatedAt": "2026-09-27 17:25:21",
   "news": [
     {
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -786,7 +786,7 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "description": "The open-source app everyone uses to manage agents at work",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
@@ -801,7 +801,7 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "description": "Hindsight: Agent Memory That Learns",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
@@ -809,9 +809,6 @@
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "LLM"
         }
       ],
       "date": "2026-09-27"
@@ -819,7 +816,7 @@
     {
       "name": "financial-services",
       "author": "anthropics",
-      "description": "The open-source app everyone uses to manage agents at work",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "link": "https://github.com/anthropics/financial-services",
       "stars": 0,
       "trend": 50,
@@ -832,25 +829,10 @@
       "date": "2026-09-27"
     },
     {
-      "name": "security-audit-skill",
-      "author": "cloudflare",
-      "description": "Hindsight: Agent Memory That Learns",
-      "link": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-27"
-    },
-    {
-      "name": "claude-code",
-      "author": "anthropics",
+      "name": "paperclip",
+      "author": "paperclipai",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "link": "https://github.com/anthropics/claude-code",
+      "link": "https://github.com/paperclipai/paperclip",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -868,10 +850,25 @@
       "date": "2026-09-27"
     },
     {
-      "name": "paperclip",
-      "author": "paperclipai",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "link": "https://github.com/paperclipai/paperclip",
+      "name": "hindsight",
+      "author": "vectorize-io",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "link": "https://github.com/vectorize-io/hindsight",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-09-27"
+    },
+    {
+      "name": "security-audit-skill",
+      "author": "cloudflare",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "link": "https://github.com/cloudflare/security-audit-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -883,10 +880,40 @@
       "date": "2026-09-27"
     },
     {
-      "name": "hindsight",
-      "author": "vectorize-io",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "link": "https://github.com/vectorize-io/hindsight",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-27"
+    },
+    {
+      "name": "davila7",
+      "author": "sponsors",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "link": "https://github.com/sponsors/davila7",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-09-27"
+    },
+    {
+      "name": "claude-code-templates",
+      "author": "davila7",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "link": "https://github.com/davila7/claude-code-templates",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -895,7 +922,22 @@
           "name": "Agent"
         },
         {
-          "name": "RAG"
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-09-27"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-09-27"
@@ -919,25 +961,10 @@
       "date": "2026-09-27"
     },
     {
-      "name": "ECC",
-      "author": "affaan-m",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/affaan-m/ECC",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-27"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "link": "https://github.com/apps/dependabot",
+      "name": "orca",
+      "author": "stablyai",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "link": "https://github.com/stablyai/orca",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -947,43 +974,13 @@
         }
       ],
       "date": "2026-09-27"
-    },
-    {
-      "name": "orca",
-      "author": "stablyai",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "link": "https://github.com/stablyai/orca",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-27"
-    },
-    {
-      "name": "claude-code-templates",
-      "author": "davila7",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "link": "https://github.com/davila7/claude-code-templates",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-27"
     }
   ],
   "agents": [
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "description": "The open-source app everyone uses to manage agents at work",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -994,7 +991,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, ex",
+      "description": "Hindsight: Agent Memory That Learns",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -1005,7 +1002,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote ",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -1014,32 +1011,20 @@
       "date": "2026-09-27"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote ",
-      "link": "https://github.com/topics",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, ex",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
-      "date": "2026-09-27"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-lev",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub",
-        "LLM"
-      ],
-      "likes": 2046,
+      "likes": 2526,
       "date": "2026-09-27"
     },
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1227,6 +1212,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-09-27"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-09-27"
     }
   ],
