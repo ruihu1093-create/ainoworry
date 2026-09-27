@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-27 17:25:21",
+  "updatedAt": "2026-09-27 20:46:52",
   "news": [
+    {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
       "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
@@ -41,24 +68,6 @@
       "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
       "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
       "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an",
-      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
-      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
       "source": "TechCrunch-AI",
       "date": "2026-09-25",
       "tag": "trend",
@@ -149,15 +158,6 @@
       "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budg",
-      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
       "source": "MIT-Tech-Review",
       "date": "2026-09-25",
       "tag": "trend",
