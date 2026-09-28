@@ -1,75 +1,84 @@
 {
-  "updatedAt": "2026-09-28 10:27:39",
+  "updatedAt": "2026-09-28 18:22:57",
   "news": [
     {
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
       "source": "TechCrunch-AI",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
       "source": "TechCrunch-AI",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "summary": "\"AI is the devil and I its maker.\"",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
       "source": "TechCrunch-AI",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and de",
+      "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
       "source": "TechCrunch-AI",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and ge",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch-AI",
-      "date": "2026-09-26",
+      "date": "2026-09-28",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI mo",
+      "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
       "source": "TechCrunch-AI",
-      "date": "2026-09-26",
+      "date": "2026-09-28",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "title": "Modulate raises $25M for its voice models and analysis suite",
+      "summary": "Modulate deploys its models to detect deepfake, fraud and scam",
+      "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
       "source": "TechCrunch-AI",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+      "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+      "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
       "source": "TechCrunch-AI",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the",
+      "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+      "source": "Wired-AI",
+      "date": "2026-09-28",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
       "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
       "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
-      "source": "Wired-AI",
-      "date": "2026-09-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
-      "summary": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI brok",
-      "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
       "source": "Wired-AI",
       "date": "2026-09-24",
       "tag": "trend",
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "Black Friday 2026 ready: The infrastructure and compliance checklist retailers can’t afford to skip",
-      "content": "Large databases are vulnerable to tough new barriers targeting high numbers of consumer complaints and large unsubscribe rates.",
-      "link": "https://www.retaildive.com/spons/black-friday-2026-ready-the-infrastructure-and-compliance-checklist-retail/831107/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-28"
-    },
-    {
       "title": "Surf, don’t drown: How retailers can ride the AI wave successfully",
       "content": "The AI revolution in retail is transforming opportunity into profit and sustainable growth.",
       "link": "https://www.retaildive.com/spons/surf-dont-drown-how-retailers-can-ride-the-ai-wave-successfully/831274/",
@@ -647,6 +638,15 @@
       "date": "2026-09-28"
     },
     {
+      "title": "Black Friday 2026 ready: The infrastructure and compliance checklist retailers can’t afford to skip",
+      "content": "Large databases are vulnerable to tough new barriers targeting high numbers of consumer complaints and large unsubscribe rates.",
+      "link": "https://www.retaildive.com/spons/black-friday-2026-ready-the-infrastructure-and-compliance-checklist-retail/831107/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-28"
+    },
+    {
       "title": "Target is opening a store in the Hamptons. It’s not red.",
       "content": "The retailer&rsquo;s signature color is not part of the external facade of the building at its new location in Bridgehampton, New York.",
       "link": "https://www.retaildive.com/news/target-store-hamptons-bridgehampton-gray/831356/",
@@ -654,15 +654,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-09-25"
-    },
-    {
-      "title": "Stitch Fix keeps sales expectations in check as it loses active clients",
-      "content": "The apparel-box retailer is gaining market share, but the tough consumer backdrop took a toll at the end of its fiscal year, executives said Wednesday.",
-      "link": "https://www.retaildive.com/news/stitch-fix-q4-sales-expectations-in-check-loses-active-clients/831210/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-24"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -849,20 +840,14 @@
     {
       "name": "paperclip",
       "author": "paperclipai",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "description": "CLI tool for configuring and monitoring Claude Code",
       "link": "https://github.com/paperclipai/paperclip",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
-        },
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "RAG"
+          "name": "AI"
         }
       ],
       "date": "2026-09-28"
@@ -870,12 +855,18 @@
     {
       "name": "hindsight",
       "author": "vectorize-io",
-      "description": "CLI tool for configuring and monitoring Claude Code",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "link": "https://github.com/vectorize-io/hindsight",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        },
         {
           "name": "RAG"
         }
@@ -883,46 +874,16 @@
       "date": "2026-09-28"
     },
     {
-      "name": "security-audit-skill",
-      "author": "cloudflare",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "link": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
       "name": "davila7",
       "author": "sponsors",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "link": "https://github.com/sponsors/davila7",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-09-28"
@@ -930,7 +891,7 @@
     {
       "name": "claude-code-templates",
       "author": "davila7",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "link": "https://github.com/davila7/claude-code-templates",
       "stars": 0,
       "trend": 50,
@@ -938,9 +899,6 @@
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "LLM"
         }
       ],
       "date": "2026-09-28"
@@ -948,14 +906,14 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-09-28"
@@ -963,7 +921,37 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "description": "Learn it. Build it. Ship it for others.",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-09-28"
+    },
+    {
+      "name": "WeKnora",
+      "author": "Tencent",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "link": "https://github.com/Tencent/WeKnora",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-09-28"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -971,24 +959,21 @@
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "LLM"
         }
       ],
       "date": "2026-09-28"
     },
     {
-      "name": "orca",
-      "author": "stablyai",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "link": "https://github.com/stablyai/orca",
+      "name": "next.js",
+      "author": "vercel",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "link": "https://github.com/vercel/next.js",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Vision"
         }
       ],
       "date": "2026-09-28"
@@ -1018,36 +1003,14 @@
       "date": "2026-09-28"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: topics",
       "author": "@anonymous",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote ",
-      "link": "https://github.com/explore",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 3045,
-      "date": "2026-09-28"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, ex",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
-      "date": "2026-09-28"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
+      "likes": 1697,
       "date": "2026-09-28"
     },
     {
@@ -1243,6 +1206,32 @@
         "剪映"
       ],
       "likes": 18500,
+      "date": "2026-09-28"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
+      "date": "2026-09-28"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
       "date": "2026-09-28"
     }
   ],
