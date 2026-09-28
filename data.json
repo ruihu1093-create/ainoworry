@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-28 18:22:57",
+  "updatedAt": "2026-09-28 23:38:45",
   "news": [
+    {
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s author",
+      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offeri",
+      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
       "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
@@ -50,24 +77,6 @@
       "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
       "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI mo",
       "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Modulate raises $25M for its voice models and analysis suite",
-      "summary": "Modulate deploys its models to detect deepfake, fraud and scam",
-      "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-      "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-      "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
       "source": "TechCrunch-AI",
       "date": "2026-09-28",
       "tag": "trend",
@@ -149,15 +158,6 @@
       "title": "I Think I Found an AI Agent Worth the Risk",
       "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
       "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
-      "source": "Wired-AI",
-      "date": "2026-09-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-      "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
-      "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
       "source": "Wired-AI",
       "date": "2026-09-24",
       "tag": "trend",
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "content": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-28"
+    },
     {
       "title": "Surf, don’t drown: How retailers can ride the AI wave successfully",
       "content": "The AI revolution in retail is transforming opportunity into profit and sustainable growth.",
