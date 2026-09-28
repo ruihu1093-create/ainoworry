@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28 03:20:00",
+  "updatedAt": "2026-09-28 10:27:39",
   "news": [
     {
       "title": "Anthropic’s CEO is about to have dinner with President Trump",
@@ -74,6 +74,42 @@
       "tagText": "资讯"
     },
     {
+      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+      "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
+      "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+      "source": "Wired-AI",
+      "date": "2026-09-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+      "summary": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute ",
+      "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+      "source": "Wired-AI",
+      "date": "2026-09-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+      "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
+      "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
+      "source": "Wired-AI",
+      "date": "2026-09-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
+      "summary": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containmen",
+      "link": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
+      "source": "Wired-AI",
+      "date": "2026-09-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
       "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all age",
       "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
@@ -124,42 +160,6 @@
       "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
       "source": "Wired-AI",
       "date": "2026-09-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A US-China AI Hotline Won’t Be Ready for a While",
-      "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national",
-      "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
-      "source": "Wired-AI",
-      "date": "2026-09-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-      "summary": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
-      "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
-      "source": "Wired-AI",
-      "date": "2026-09-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
-      "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to gov",
-      "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
-      "source": "Wired-AI",
-      "date": "2026-09-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-09-25",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,6 +620,33 @@
   ],
   "ecommerce": [
     {
+      "title": "Black Friday 2026 ready: The infrastructure and compliance checklist retailers can’t afford to skip",
+      "content": "Large databases are vulnerable to tough new barriers targeting high numbers of consumer complaints and large unsubscribe rates.",
+      "link": "https://www.retaildive.com/spons/black-friday-2026-ready-the-infrastructure-and-compliance-checklist-retail/831107/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Surf, don’t drown: How retailers can ride the AI wave successfully",
+      "content": "The AI revolution in retail is transforming opportunity into profit and sustainable growth.",
+      "link": "https://www.retaildive.com/spons/surf-dont-drown-how-retailers-can-ride-the-ai-wave-successfully/831274/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "AI in grocery retail: 5 tips for better customer experiences",
+      "content": "Discover five tips to help you make AI work more effectively across your grocery operations.",
+      "link": "https://www.retaildive.com/spons/ai-in-grocery-retail-5-tips-for-better-customer-experiences/830745/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-28"
+    },
+    {
       "title": "Target is opening a store in the Hamptons. It’s not red.",
       "content": "The retailer&rsquo;s signature color is not part of the external facade of the building at its new location in Bridgehampton, New York.",
       "link": "https://www.retaildive.com/news/target-store-hamptons-bridgehampton-gray/831356/",
@@ -632,15 +659,6 @@
       "title": "Stitch Fix keeps sales expectations in check as it loses active clients",
       "content": "The apparel-box retailer is gaining market share, but the tough consumer backdrop took a toll at the end of its fiscal year, executives said Wednesday.",
       "link": "https://www.retaildive.com/news/stitch-fix-q4-sales-expectations-in-check-loses-active-clients/831210/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-24"
-    },
-    {
-      "title": "The Backroom: A status check on Target’s turnaround",
-      "content": "Since naming Michael Fiddelke CEO, the retailer has made headway on its recovery with sales and traffic growth despite the bumps along the way.",
-      "link": "https://www.retaildive.com/news/podcast-the-backroom-target-turnaround-progress/831241/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
