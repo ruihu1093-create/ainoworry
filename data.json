@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-29 03:56:56",
+  "updatedAt": "2026-09-29 10:26:28",
   "news": [
+    {
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own ",
+      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI reportedly ditches model over safety concerns",
       "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
@@ -59,15 +68,6 @@
       "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
       "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
       "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-      "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
       "source": "TechCrunch-AI",
       "date": "2026-09-28",
       "tag": "trend",
@@ -629,9 +629,9 @@
       "date": "2026-09-28"
     },
     {
-      "title": "没有李佳琦，东南亚消费电商如何做？",
-      "content": "本文首发于 Founder Park 公众号 · 2023 年 3 月 28 日在电商和社交媒体的双重红利下，内容营销对于打开东南亚市场的作用不可忽视。近年来，越来越多的中国品牌在东南亚市场取得了显著的成绩，例如Y.O.U、创维、Skintific、Me Too 等等。这些品牌的",
-      "link": "http://www.geekpark.net/news/371465",
+      "title": "三个月，5000 人：拼多多在这里搭起一座新业务基地",
+      "content": "互联网大厂很久没有如此密集地在线下招人了。\n今年 5 月底，拼多多正式进入雄安。三个多月后，这家公司的雄安团队已经超过 5000 人。\n速度甚至比原来的计划更快。按照拼多多披露的信息，其雄安公司已经提前完成年度专项招聘计划，新办公楼和员工食堂也陆续投入使用。\n5000 人是什么概念？\n在今天的互联网大厂，这已经不是一个",
+      "link": "http://www.geekpark.net/news/371850",
       "source": "极客公园",
       "impact": "medium",
       "impactText": "中",
