@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-29 10:26:28",
+  "updatedAt": "2026-09-29 16:45:44",
   "news": [
+    {
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+      "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "summary": "The tech giant says the agent can help owners run their business and find new customers.",
+      "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+      "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
       "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own ",
@@ -29,47 +65,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s author",
-      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-28",
+      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+      "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of ",
+      "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+      "source": "Wired-AI",
+      "date": "2026-09-29",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "The AI boom took over Climate Week and not everyone is happy about it",
-      "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
-      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensu",
-      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
-      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-28",
+      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+      "summary": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+      "source": "Wired-AI",
+      "date": "2026-09-29",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -146,20 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "I Think I Found an AI Agent Worth the Risk",
-      "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
-      "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
-      "source": "Wired-AI",
-      "date": "2026-09-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-      "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
-      "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
-      "source": "Wired-AI",
-      "date": "2026-09-24",
+      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-09-29",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "content": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-28"
-    },
-    {
       "title": "三个月，5000 人：拼多多在这里搭起一座新业务基地",
       "content": "互联网大厂很久没有如此密集地在线下招人了。\n今年 5 月底，拼多多正式进入雄安。三个多月后，这家公司的雄安团队已经超过 5000 人。\n速度甚至比原来的计划更快。按照拼多多披露的信息，其雄安公司已经提前完成年度专项招聘计划，新办公楼和员工食堂也陆续投入使用。\n5000 人是什么概念？\n在今天的互联网大厂，这已经不是一个",
       "link": "http://www.geekpark.net/news/371850",
@@ -638,40 +629,22 @@
       "date": "2026-09-29"
     },
     {
-      "title": "Surf, don’t drown: How retailers can ride the AI wave successfully",
-      "content": "The AI revolution in retail is transforming opportunity into profit and sustainable growth.",
-      "link": "https://www.retaildive.com/spons/surf-dont-drown-how-retailers-can-ride-the-ai-wave-successfully/831274/",
+      "title": "Target cuts prices as consumer sentiment sours",
+      "content": "With the holiday season ramping up, the mass retailer reduced pricing on nearly 2,000 home and apparel products.",
+      "link": "https://www.retaildive.com/news/target-cuts-prices-consumer-sentiment-sours/831627/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-09-28"
+      "date": "2026-09-29"
     },
     {
-      "title": "AI in grocery retail: 5 tips for better customer experiences",
-      "content": "Discover five tips to help you make AI work more effectively across your grocery operations.",
-      "link": "https://www.retaildive.com/spons/ai-in-grocery-retail-5-tips-for-better-customer-experiences/830745/",
+      "title": "Best Buy to launch on TikTok Shop",
+      "content": "<img src=\"https://imgproxy.divecdn.com/yUucHuGCiMg1zM9Zwk7T0eO6kB5WB7ffh0y3QqoNNKY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CQlktVGlrVG9rLVNob3AtMS0xLXRoZWdlbS1i",
+      "link": "https://www.retaildive.com/news/best-buy-tiktok-shop-launch/831527/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "Black Friday 2026 ready: The infrastructure and compliance checklist retailers can’t afford to skip",
-      "content": "Large databases are vulnerable to tough new barriers targeting high numbers of consumer complaints and large unsubscribe rates.",
-      "link": "https://www.retaildive.com/spons/black-friday-2026-ready-the-infrastructure-and-compliance-checklist-retail/831107/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "Target is opening a store in the Hamptons. It’s not red.",
-      "content": "The retailer&rsquo;s signature color is not part of the external facade of the building at its new location in Bridgehampton, New York.",
-      "link": "https://www.retaildive.com/news/target-store-hamptons-bridgehampton-gray/831356/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-25"
+      "date": "2026-09-29"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -798,6 +771,15 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-09-29"
+    },
+    {
+      "title": "唯品会AI个性化专场：精准匹配打折商品与用户喜好",
+      "content": "通过分析用户历史购买和浏览记录，AI为每位用户生成专属特卖专场，点击率提升45%。",
+      "link": "https://36kr.com/",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-29"
     }
   ],
   "github": [
@@ -832,31 +814,19 @@
       "date": "2026-09-29"
     },
     {
-      "name": "financial-services",
-      "author": "anthropics",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "link": "https://github.com/anthropics/financial-services",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-29"
-    },
-    {
       "name": "paperclip",
       "author": "paperclipai",
-      "description": "CLI tool for configuring and monitoring Claude Code",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "link": "https://github.com/paperclipai/paperclip",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "LLM"
+        },
+        {
+          "name": "Audio"
         }
       ],
       "date": "2026-09-29"
@@ -864,18 +834,12 @@
     {
       "name": "hindsight",
       "author": "vectorize-io",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "description": "The React Framework",
       "link": "https://github.com/vectorize-io/hindsight",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "LLM"
-        },
         {
           "name": "RAG"
         }
@@ -883,10 +847,10 @@
       "date": "2026-09-29"
     },
     {
-      "name": "davila7",
-      "author": "sponsors",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "link": "https://github.com/sponsors/davila7",
+      "name": "VoiceStudio",
+      "author": "debpalash",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "link": "https://github.com/debpalash/VoiceStudio",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -898,10 +862,10 @@
       "date": "2026-09-29"
     },
     {
-      "name": "claude-code-templates",
-      "author": "davila7",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "link": "https://github.com/davila7/claude-code-templates",
+      "name": "ai-engineering-from-scratch",
+      "author": "rohitg00",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -928,40 +892,31 @@
       "date": "2026-09-29"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Learn it. Build it. Ship it for others.",
-      "link": "https://github.com/apps/dependabot",
+      "name": "next.js",
+      "author": "vercel",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "link": "https://github.com/vercel/next.js",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-09-29"
-    },
-    {
-      "name": "WeKnora",
-      "author": "Tencent",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "link": "https://github.com/Tencent/WeKnora",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
+          "name": "Agent"
+        },
         {
-          "name": "AI"
+          "name": "LLM"
+        },
+        {
+          "name": "RAG"
         }
       ],
       "date": "2026-09-29"
     },
     {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "link": "https://github.com/apps/dependabot",
+      "name": "CLI-Anything",
+      "author": "HKUDS",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "link": "https://github.com/HKUDS/CLI-Anything",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -973,16 +928,46 @@
       "date": "2026-09-29"
     },
     {
-      "name": "next.js",
-      "author": "vercel",
-      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-      "link": "https://github.com/vercel/next.js",
+      "name": "davila7",
+      "author": "sponsors",
+      "description": "The design language that makes your AI harness better at design.",
+      "link": "https://github.com/sponsors/davila7",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Vision"
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-09-29"
+    },
+    {
+      "name": "claude-code-templates",
+      "author": "davila7",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "link": "https://github.com/davila7/claude-code-templates",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-29"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-09-29"
@@ -1012,14 +997,37 @@
       "date": "2026-09-29"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote ",
-      "link": "https://github.com/topics",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
+      "likes": 3045,
+      "date": "2026-09-29"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub",
+        "LLM"
+      ],
+      "likes": 2526,
+      "date": "2026-09-29"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-09-29"
     },
     {
@@ -1215,32 +1223,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-09-29"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
-      "date": "2026-09-29"
-    },
-    {
-      "title": "心理咨询师AI预约+回访系统",
-      "author": "@心理小林",
-      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
-      "link": "https://dify.ai/",
-      "tools": [
-        "Dify",
-        "Coze",
-        "微信"
-      ],
-      "likes": 3940,
       "date": "2026-09-29"
     }
   ],
