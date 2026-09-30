@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-30 06:33:23",
+  "updatedAt": "2026-09-30 13:17:37",
   "news": [
+    {
+      "title": "Airbnb adds AI search, more social features",
+      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
       "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the ",
@@ -68,15 +77,6 @@
       "title": "OpenAI gives Codex reusable cloud environments that work across devices",
       "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focu",
       "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
-      "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
       "source": "TechCrunch-AI",
       "date": "2026-09-29",
       "tag": "trend",
@@ -834,7 +834,7 @@
     {
       "name": "hindsight",
       "author": "vectorize-io",
-      "description": "The React Framework",
+      "description": "Learn it. Build it. Ship it for others.",
       "link": "https://github.com/vectorize-io/hindsight",
       "stars": 0,
       "trend": 50,
@@ -864,23 +864,8 @@
     {
       "name": "ai-engineering-from-scratch",
       "author": "rohitg00",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-30"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -892,10 +877,55 @@
       "date": "2026-09-30"
     },
     {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "The design language that makes your AI harness better at design.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-09-30"
+    },
+    {
       "name": "next.js",
       "author": "vercel",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "link": "https://github.com/vercel/next.js",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-30"
+    },
+    {
+      "name": "CLI-Anything",
+      "author": "HKUDS",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-09-30"
+    },
+    {
+      "name": "claude-code-templates",
+      "author": "davila7",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "link": "https://github.com/davila7/claude-code-templates",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -913,61 +943,31 @@
       "date": "2026-09-30"
     },
     {
-      "name": "CLI-Anything",
-      "author": "HKUDS",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "link": "https://github.com/HKUDS/CLI-Anything",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-30"
-    },
-    {
-      "name": "davila7",
-      "author": "sponsors",
-      "description": "The design language that makes your AI harness better at design.",
-      "link": "https://github.com/sponsors/davila7",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-09-30"
-    },
-    {
-      "name": "claude-code-templates",
-      "author": "davila7",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "link": "https://github.com/davila7/claude-code-templates",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-09-30"
-    },
-    {
       "name": "github-actions",
       "author": "apps",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Vision"
+        }
+      ],
+      "date": "2026-09-30"
+    },
+    {
+      "name": "claude",
+      "author": "apps",
+      "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+      "link": "https://github.com/apps/claude",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-09-30"
@@ -1008,13 +1008,23 @@
       "date": "2026-09-30"
     },
     {
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "The design language that makes your AI harness better at design.",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2046,
+      "date": "2026-09-30"
+    },
+    {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "link": "https://github.com/events",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 2526,
       "date": "2026-09-30"
@@ -1022,7 +1032,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote ",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1210,19 +1220,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-09-30"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-09-30"
     }
   ],
