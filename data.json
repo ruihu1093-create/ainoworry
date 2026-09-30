@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-30 18:47:39",
+  "updatedAt": "2026-09-30 22:47:34",
   "news": [
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-09-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "AI voice startup ElevenLabs doubles valuation to $22B",
       "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
@@ -65,10 +83,28 @@
       "tagText": "资讯"
     },
     {
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy la",
-      "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-      "source": "TechCrunch-AI",
+      "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+      "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
+      "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+      "source": "Wired-AI",
+      "date": "2026-09-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Battle to Be Your Personal AI Agent Is Here",
+      "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
+      "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+      "source": "Wired-AI",
+      "date": "2026-09-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+      "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-le",
+      "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+      "source": "Wired-AI",
       "date": "2026-09-30",
       "tag": "trend",
       "tagText": "资讯"
@@ -122,42 +158,6 @@
       "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
       "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the",
       "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-      "source": "Wired-AI",
-      "date": "2026-09-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-      "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
-      "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-      "source": "Wired-AI",
-      "date": "2026-09-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-      "summary": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute ",
-      "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-      "source": "Wired-AI",
-      "date": "2026-09-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-      "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
-      "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-      "source": "Wired-AI",
-      "date": "2026-09-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
-      "summary": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containmen",
-      "link": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
       "source": "Wired-AI",
       "date": "2026-09-28",
       "tag": "trend",
