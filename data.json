@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-01 08:14:00",
+  "updatedAt": "2026-10-01 15:57:30",
   "news": [
+    {
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will in",
+      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditiona",
+      "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-o",
+      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
       "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
@@ -50,33 +86,6 @@
       "title": "The ugly economics of consumer AI",
       "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
       "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his priv",
-      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-      "source": "TechCrunch-AI",
-      "date": "2026-09-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
-      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
       "source": "TechCrunch-AI",
       "date": "2026-09-30",
       "tag": "trend",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
       "source": "Wired-AI",
       "date": "2026-09-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-      "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the",
-      "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-      "source": "Wired-AI",
-      "date": "2026-09-28",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -629,24 +629,6 @@
       "date": "2026-09-29"
     },
     {
-      "title": "Target cuts prices as consumer sentiment sours",
-      "content": "With the holiday season ramping up, the mass retailer reduced pricing on nearly 2,000 home and apparel products.",
-      "link": "https://www.retaildive.com/news/target-cuts-prices-consumer-sentiment-sours/831627/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Best Buy to launch on TikTok Shop",
-      "content": "<img src=\"https://imgproxy.divecdn.com/yUucHuGCiMg1zM9Zwk7T0eO6kB5WB7ffh0y3QqoNNKY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CQlktVGlrVG9rLVNob3AtMS0xLXRoZWdlbS1i",
-      "link": "https://www.retaildive.com/news/best-buy-tiktok-shop-launch/831527/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-29"
-    },
-    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -847,10 +829,25 @@
       "date": "2026-10-01"
     },
     {
-      "name": "VoiceStudio",
-      "author": "debpalash",
+      "name": "rohitg00",
+      "author": "sponsors",
+      "description": "The design language that makes your AI harness better at design.",
+      "link": "https://github.com/sponsors/rohitg00",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-10-01"
+    },
+    {
+      "name": "ai-engineering-from-scratch",
+      "author": "rohitg00",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "link": "https://github.com/debpalash/VoiceStudio",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -862,31 +859,16 @@
       "date": "2026-10-01"
     },
     {
-      "name": "ai-engineering-from-scratch",
-      "author": "rohitg00",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-10-01"
-    },
-    {
       "name": "github-actions",
       "author": "apps",
-      "description": "The design language that makes your AI harness better at design.",
+      "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "Agent"
         }
       ],
       "date": "2026-10-01"
@@ -907,9 +889,39 @@
       "date": "2026-10-01"
     },
     {
+      "name": "impeccable",
+      "author": "pbakaus",
+      "description": "Agent Substrate: the core system",
+      "link": "https://github.com/pbakaus/impeccable",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-01"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-10-01"
+    },
+    {
       "name": "CLI-Anything",
       "author": "HKUDS",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "link": "https://github.com/HKUDS/CLI-Anything",
       "stars": 0,
       "trend": 50,
@@ -922,52 +934,16 @@
       "date": "2026-10-01"
     },
     {
-      "name": "claude-code-templates",
-      "author": "davila7",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "link": "https://github.com/davila7/claude-code-templates",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "RAG"
-        }
-      ],
-      "date": "2026-10-01"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
+      "name": "claude-skills",
+      "author": "alirezarezvani",
       "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/alirezarezvani/claude-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Vision"
-        }
-      ],
-      "date": "2026-10-01"
-    },
-    {
-      "name": "claude",
-      "author": "apps",
-      "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
-      "link": "https://github.com/apps/claude",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-10-01"
@@ -999,7 +975,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "description": "The design language that makes your AI harness better at design.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -1008,14 +984,14 @@
       "date": "2026-10-01"
     },
     {
-      "title": "开源项目: collections",
+      "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "The design language that makes your AI harness better at design.",
-      "link": "https://github.com/collections",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 2046,
+      "likes": 1697,
       "date": "2026-10-01"
     },
     {
@@ -1032,7 +1008,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote ",
+      "description": "Agent Substrate: the core system",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
