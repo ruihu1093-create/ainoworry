@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02 06:37:37",
+  "updatedAt": "2026-10-02 13:30:59",
   "news": [
     {
       "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
@@ -70,6 +70,15 @@
       "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
       "source": "TechCrunch-AI",
       "date": "2026-10-01",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inv",
+      "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "source": "Wired-AI",
+      "date": "2026-10-02",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -146,20 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-      "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of ",
-      "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
-      "source": "Wired-AI",
-      "date": "2026-09-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-      "summary": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
-      "source": "Wired-AI",
-      "date": "2026-09-29",
+      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-10-02",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -846,14 +846,14 @@
     {
       "name": "ai-engineering-from-scratch",
       "author": "rohitg00",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "description": "The React Framework",
       "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-10-02"
@@ -874,10 +874,10 @@
       "date": "2026-10-02"
     },
     {
-      "name": "next.js",
-      "author": "vercel",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "link": "https://github.com/vercel/next.js",
+      "name": "flutter",
+      "author": "flutter",
+      "description": "Write HTML. Render video. Built for agents.",
+      "link": "https://github.com/flutter/flutter",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -891,7 +891,7 @@
     {
       "name": "impeccable",
       "author": "pbakaus",
-      "description": "Agent Substrate: the core system",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "link": "https://github.com/pbakaus/impeccable",
       "stars": 0,
       "trend": 50,
@@ -906,23 +906,8 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "description": "Google's open agentic orchestration runtime",
       "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-10-02"
-    },
-    {
-      "name": "CLI-Anything",
-      "author": "HKUDS",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "link": "https://github.com/HKUDS/CLI-Anything",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -934,16 +919,31 @@
       "date": "2026-10-02"
     },
     {
+      "name": "next.js",
+      "author": "vercel",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "link": "https://github.com/vercel/next.js",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
       "name": "claude-skills",
       "author": "alirezarezvani",
-      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "link": "https://github.com/alirezarezvani/claude-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Vision"
+          "name": "AI"
         }
       ],
       "date": "2026-10-02"
@@ -984,14 +984,14 @@
       "date": "2026-10-02"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "link": "https://github.com/topics",
+      "description": "Write HTML. Render video. Built for agents.",
+      "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
+      "likes": 2046,
       "date": "2026-10-02"
     },
     {
@@ -1008,7 +1008,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Agent Substrate: the core system",
+      "description": "Google's open agentic orchestration runtime",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
