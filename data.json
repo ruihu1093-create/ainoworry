@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-10-02 13:30:59",
+  "updatedAt": "2026-10-02 18:56:13",
   "news": [
+    {
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users",
+      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&",
+      "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&",
+      "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a seco",
+      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker ",
+      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based o",
+      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and ge",
+      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
       "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
@@ -20,56 +83,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-01",
+      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+      "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavio",
+      "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+      "source": "Wired-AI",
+      "date": "2026-10-02",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-      "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
-      "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the c",
-      "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will in",
-      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hearing tech startup Legato launches its AI hearing glasses",
-      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditiona",
-      "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-01",
+      "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+      "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term.",
+      "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+      "source": "Wired-AI",
+      "date": "2026-10-02",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -77,6 +104,15 @@
       "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
       "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inv",
       "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "source": "Wired-AI",
+      "date": "2026-10-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
+      "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors,",
+      "link": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
       "source": "Wired-AI",
       "date": "2026-10-02",
       "tag": "trend",
@@ -124,42 +160,6 @@
       "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
       "source": "Wired-AI",
       "date": "2026-09-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
-      "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
-      "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-      "source": "Wired-AI",
-      "date": "2026-09-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
-      "summary": "“The experiments are still in the queue. The PR is already live,” says one expert.",
-      "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
-      "source": "Wired-AI",
-      "date": "2026-09-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-      "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
-      "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
-      "source": "Wired-AI",
-      "date": "2026-09-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-10-02",
       "tag": "trend",
       "tagText": "资讯"
     },
