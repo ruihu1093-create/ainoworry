@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-03 17:09:02",
+  "updatedAt": "2026-10-03 20:32:10",
   "news": [
+    {
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
       "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from th",
@@ -65,11 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker ",
-      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-02",
+      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+      "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "source": "Wired-AI",
+      "date": "2026-10-03",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "The Battle to Be Your Personal AI Agent Is Here",
       "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
       "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
-      "source": "Wired-AI",
-      "date": "2026-09-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
-      "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-le",
-      "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
       "source": "Wired-AI",
       "date": "2026-09-30",
       "tag": "trend",
