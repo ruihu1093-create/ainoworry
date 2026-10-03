@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03 07:30:42",
+  "updatedAt": "2026-10-03 12:59:30",
   "news": [
     {
       "title": "Sean Parker is rebuilding Stability AI around music",
@@ -70,6 +70,15 @@
       "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
       "source": "TechCrunch-AI",
       "date": "2026-10-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "source": "Wired-AI",
+      "date": "2026-10-03",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
       "source": "Wired-AI",
       "date": "2026-09-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
-      "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
-      "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-      "source": "Wired-AI",
-      "date": "2026-09-29",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "三个月，5000 人：拼多多在这里搭起一座新业务基地",
+      "content": "互联网大厂很久没有如此密集地在线下招人了。\n今年 5 月底，拼多多正式进入雄安。三个多月后，这家公司的雄安团队已经超过 5000 人。\n速度甚至比原来的计划更快。按照拼多多披露的信息，其雄安公司已经提前完成年度专项招聘计划，新办公楼和员工食堂也陆续投入使用。\n5000 人是什么概念？\n在今天的互联网大厂，这已经不是一个",
+      "link": "http://www.geekpark.net/news/371850",
+      "source": "极客公园",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-09-29"
+    },
+    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -807,12 +816,15 @@
     {
       "name": "hindsight",
       "author": "vectorize-io",
-      "description": "Learn it. Build it. Ship it for others.",
+      "description": "The design language that makes your AI harness better at design.",
       "link": "https://github.com/vectorize-io/hindsight",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
+        {
+          "name": "LLM"
+        },
         {
           "name": "RAG"
         }
@@ -820,69 +832,9 @@
       "date": "2026-10-03"
     },
     {
-      "name": "rohitg00",
-      "author": "sponsors",
-      "description": "The design language that makes your AI harness better at design.",
-      "link": "https://github.com/sponsors/rohitg00",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-10-03"
-    },
-    {
-      "name": "ai-engineering-from-scratch",
-      "author": "rohitg00",
-      "description": "The React Framework",
-      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-10-03"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-03"
-    },
-    {
-      "name": "flutter",
-      "author": "flutter",
-      "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/flutter/flutter",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-03"
-    },
-    {
       "name": "impeccable",
       "author": "pbakaus",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "description": "Write HTML. Render video. Built for agents.",
       "link": "https://github.com/pbakaus/impeccable",
       "stars": 0,
       "trend": 50,
@@ -895,10 +847,25 @@
       "date": "2026-10-03"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Google's open agentic orchestration runtime",
-      "link": "https://github.com/apps/github-actions",
+      "name": "ai-engineering-from-scratch",
+      "author": "rohitg00",
+      "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-03"
+    },
+    {
+      "name": "hyperframes",
+      "author": "heygen-com",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "link": "https://github.com/heygen-com/hyperframes",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -912,8 +879,23 @@
     {
       "name": "next.js",
       "author": "vercel",
-      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "link": "https://github.com/vercel/next.js",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-03"
+    },
+    {
+      "name": "effect",
+      "author": "Effect-TS",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "link": "https://github.com/Effect-TS/effect",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -935,6 +917,36 @@
       "tags": [
         {
           "name": "AI"
+        }
+      ],
+      "date": "2026-10-03"
+    },
+    {
+      "name": "flutter",
+      "author": "flutter",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "link": "https://github.com/flutter/flutter",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-10-03"
+    },
+    {
+      "name": "Agent-Reach",
+      "author": "Panniantong",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-10-03"
@@ -966,7 +978,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "The design language that makes your AI harness better at design.",
+      "description": "Write HTML. Render video. Built for agents.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -977,7 +989,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Write HTML. Render video. Built for agents.",
+      "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Cod",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -986,20 +998,9 @@
       "date": "2026-10-03"
     },
     {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
-      "date": "2026-10-03"
-    },
-    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Google's open agentic orchestration runtime",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1187,6 +1188,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-10-03"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-10-03"
     }
   ],
