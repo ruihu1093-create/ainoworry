@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-03 12:59:30",
+  "updatedAt": "2026-10-03 17:09:02",
   "news": [
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from th",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "All the AI agents that can live in your text messages ",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, ",
+      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-03",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Sean Parker is rebuilding Stability AI around music",
       "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
@@ -50,24 +68,6 @@
       "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
       "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker ",
       "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based o",
-      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and ge",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
       "source": "TechCrunch-AI",
       "date": "2026-10-02",
       "tag": "trend",
