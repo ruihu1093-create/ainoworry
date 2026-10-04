@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-04 10:51:54",
+  "updatedAt": "2026-10-04 15:37:50",
   "news": [
+    {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
       "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
@@ -59,15 +68,6 @@
       "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
       "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&",
       "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a seco",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
       "source": "TechCrunch-AI",
       "date": "2026-10-02",
       "tag": "trend",
@@ -789,7 +789,7 @@
     {
       "name": "paperclip",
       "author": "paperclipai",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "description": "The design language that makes your AI harness better at design.",
       "link": "https://github.com/paperclipai/paperclip",
       "stars": 0,
       "trend": 50,
@@ -797,9 +797,6 @@
       "tags": [
         {
           "name": "LLM"
-        },
-        {
-          "name": "Audio"
         }
       ],
       "date": "2026-10-04"
@@ -807,7 +804,7 @@
     {
       "name": "hindsight",
       "author": "vectorize-io",
-      "description": "The design language that makes your AI harness better at design.",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "link": "https://github.com/vectorize-io/hindsight",
       "stars": 0,
       "trend": 50,
@@ -818,6 +815,9 @@
         },
         {
           "name": "RAG"
+        },
+        {
+          "name": "Audio"
         }
       ],
       "date": "2026-10-04"
@@ -827,21 +827,6 @@
       "author": "pbakaus",
       "description": "Write HTML. Render video. Built for agents.",
       "link": "https://github.com/pbakaus/impeccable",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-04"
-    },
-    {
-      "name": "ai-engineering-from-scratch",
-      "author": "rohitg00",
-      "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
-      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -868,10 +853,10 @@
       "date": "2026-10-04"
     },
     {
-      "name": "next.js",
-      "author": "vercel",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "link": "https://github.com/vercel/next.js",
+      "name": "effect",
+      "author": "Effect-TS",
+      "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+      "link": "https://github.com/Effect-TS/effect",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -883,10 +868,25 @@
       "date": "2026-10-04"
     },
     {
-      "name": "effect",
-      "author": "Effect-TS",
+      "name": "github-actions",
+      "author": "apps",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-04"
+    },
+    {
+      "name": "rohitg00",
+      "author": "sponsors",
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "link": "https://github.com/Effect-TS/effect",
+      "link": "https://github.com/sponsors/rohitg00",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -898,25 +898,10 @@
       "date": "2026-10-04"
     },
     {
-      "name": "claude-skills",
-      "author": "alirezarezvani",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "link": "https://github.com/alirezarezvani/claude-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-10-04"
-    },
-    {
-      "name": "flutter",
-      "author": "flutter",
+      "name": "ai-engineering-from-scratch",
+      "author": "rohitg00",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "link": "https://github.com/flutter/flutter",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -930,8 +915,23 @@
     {
       "name": "Agent-Reach",
       "author": "Panniantong",
-      "description": "yoink any video from your terminal. no shady ads.",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
       "link": "https://github.com/Panniantong/Agent-Reach",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-04"
+    },
+    {
+      "name": "claude-skills",
+      "author": "alirezarezvani",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "link": "https://github.com/alirezarezvani/claude-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -967,17 +967,6 @@
       "date": "2026-10-04"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@anonymous",
-      "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 3045,
-      "date": "2026-10-04"
-    },
-    {
       "title": "开源项目: collections",
       "author": "@anonymous",
       "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Cod",
@@ -989,9 +978,20 @@
       "date": "2026-10-04"
     },
     {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
+      "date": "2026-10-04"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
