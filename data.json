@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04 04:02:35",
+  "updatedAt": "2026-10-04 10:51:54",
   "news": [
     {
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
@@ -155,11 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "The Battle to Be Your Personal AI Agent Is Here",
-      "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
-      "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
-      "source": "Wired-AI",
-      "date": "2026-09-30",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can ab",
+      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-10-02",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,15 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "三个月，5000 人：拼多多在这里搭起一座新业务基地",
-      "content": "互联网大厂很久没有如此密集地在线下招人了。\n今年 5 月底，拼多多正式进入雄安。三个多月后，这家公司的雄安团队已经超过 5000 人。\n速度甚至比原来的计划更快。按照拼多多披露的信息，其雄安公司已经提前完成年度专项招聘计划，新办公楼和员工食堂也陆续投入使用。\n5000 人是什么概念？\n在今天的互联网大厂，这已经不是一个",
-      "link": "http://www.geekpark.net/news/371850",
-      "source": "极客公园",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-09-29"
-    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
