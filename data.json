@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-10-05 08:12:11",
+  "updatedAt": "2026-10-05 17:47:04",
   "news": [
+    {
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoid",
+      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pas",
+      "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+      "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
       "summary": "AI slop seems to be overwhelming bug bounty programs.",
@@ -16,60 +70,6 @@
       "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
       "source": "TechCrunch-AI",
       "date": "2026-10-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Trump unveils his new Super Intelligence Force",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from th",
-      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "All the AI agents that can live in your text messages ",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, ",
-      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users",
-      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-02",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -155,9 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and scienc",
-      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. Mor",
+      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
       "source": "MIT-Tech-Review",
       "date": "2026-10-05",
       "tag": "trend",
@@ -620,6 +620,24 @@
   ],
   "ecommerce": [
     {
+      "title": "How GLP-1 users are forcing retailers to rethink everything",
+      "content": "<img src=\"https://imgproxy.divecdn.com/fZGYBoqvNLK_ySb6GwPKgdEIhrmAMnwjJqcjGtNVPr8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzk3NTc0Nzg5LmpwZ19y",
+      "link": "https://www.retaildive.com/news/glp1-users-apparel-retailers-rethink-everything-returns-davids-bridal/831835/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Keeping the lines open: How to power retail’s busiest moments",
+      "content": "Consumers are tired of nonstop spam calls, suspicious of unknown numbers and frustrated by poor connections and dropped calls during important service discussions.",
+      "link": "https://www.retaildive.com/spons/keeping-the-lines-open-how-to-power-retails-busiest-moments/831722/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-05"
+    },
+    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -759,8 +777,23 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "The open-source app everyone uses to manage agents at work",
+      "description": "The design language that makes your AI harness better at design.",
       "link": "https://github.com/sponsors/explore",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-10-05"
+    },
+    {
+      "name": "developers",
+      "author": "trending",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -772,10 +805,25 @@
       "date": "2026-10-05"
     },
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "impeccable",
+      "author": "pbakaus",
       "description": "Hindsight: Agent Memory That Learns",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/pbakaus/impeccable",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-05"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Write HTML. Render video. Built for agents.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -789,7 +837,7 @@
     {
       "name": "paperclip",
       "author": "paperclipai",
-      "description": "The design language that makes your AI harness better at design.",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "link": "https://github.com/paperclipai/paperclip",
       "stars": 0,
       "trend": 50,
@@ -797,24 +845,6 @@
       "tags": [
         {
           "name": "LLM"
-        }
-      ],
-      "date": "2026-10-05"
-    },
-    {
-      "name": "hindsight",
-      "author": "vectorize-io",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "link": "https://github.com/vectorize-io/hindsight",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "RAG"
         },
         {
           "name": "Audio"
@@ -823,10 +853,28 @@
       "date": "2026-10-05"
     },
     {
-      "name": "impeccable",
-      "author": "pbakaus",
-      "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/pbakaus/impeccable",
+      "name": "hindsight",
+      "author": "vectorize-io",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "link": "https://github.com/vectorize-io/hindsight",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-10-05"
+    },
+    {
+      "name": "VoiceStudio",
+      "author": "debpalash",
+      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
+      "link": "https://github.com/debpalash/VoiceStudio",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -838,10 +886,10 @@
       "date": "2026-10-05"
     },
     {
-      "name": "hyperframes",
-      "author": "heygen-com",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "link": "https://github.com/heygen-com/hyperframes",
+      "name": "Agent-Reach",
+      "author": "Panniantong",
+      "description": "Learn it. Build it. Ship it for others.",
+      "link": "https://github.com/Panniantong/Agent-Reach",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -870,7 +918,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -883,10 +931,10 @@
       "date": "2026-10-05"
     },
     {
-      "name": "rohitg00",
-      "author": "sponsors",
+      "name": "tuios",
+      "author": "Gaurav-Gosain",
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "link": "https://github.com/sponsors/rohitg00",
+      "link": "https://github.com/Gaurav-Gosain/tuios",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -898,40 +946,10 @@
       "date": "2026-10-05"
     },
     {
-      "name": "ai-engineering-from-scratch",
-      "author": "rohitg00",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-10-05"
-    },
-    {
-      "name": "Agent-Reach",
-      "author": "Panniantong",
-      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-      "link": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-05"
-    },
-    {
-      "name": "claude-skills",
-      "author": "alirezarezvani",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "link": "https://github.com/alirezarezvani/claude-skills",
+      "name": "t3code",
+      "author": "pingdotgg",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "link": "https://github.com/pingdotgg/t3code",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -947,7 +965,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "The open-source app everyone uses to manage agents at work",
+      "description": "The design language that makes your AI harness better at design.",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -958,7 +976,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Hindsight: Agent Memory That Learns",
+      "description": "The open-source app everyone uses to manage agents at work",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -967,20 +985,20 @@
       "date": "2026-10-05"
     },
     {
-      "title": "开源项目: collections",
+      "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Cod",
-      "link": "https://github.com/collections",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees",
+      "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 2046,
+      "likes": 3045,
       "date": "2026-10-05"
     },
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Cod",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -991,7 +1009,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
