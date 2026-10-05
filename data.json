@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-05 17:47:04",
+  "updatedAt": "2026-10-05 23:39:09",
   "news": [
+    {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let insti",
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating even",
+      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
       "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoid",
@@ -21,7 +57,7 @@
     },
     {
       "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of adver",
       "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
       "source": "TechCrunch-AI",
       "date": "2026-10-05",
@@ -43,33 +79,6 @@
       "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
       "source": "TechCrunch-AI",
       "date": "2026-10-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-      "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-04",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
       "source": "Wired-AI",
       "date": "2026-09-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Connecting AI agents to enterprise knowledge",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. Mor",
-      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-10-05",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -623,6 +623,15 @@
       "title": "How GLP-1 users are forcing retailers to rethink everything",
       "content": "<img src=\"https://imgproxy.divecdn.com/fZGYBoqvNLK_ySb6GwPKgdEIhrmAMnwjJqcjGtNVPr8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzk3NTc0Nzg5LmpwZ19y",
       "link": "https://www.retaildive.com/news/glp1-users-apparel-retailers-rethink-everything-returns-davids-bridal/831835/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "How retailers can make the most of the joy of holiday checkout",
+      "content": "Smart retailers turn checkout satisfaction into lasting value. Here&#39;s how.",
+      "link": "https://www.retaildive.com/spons/how-retailers-can-make-the-most-of-the-joy-of-holiday-checkout/832081/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
