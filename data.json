@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-06 11:43:19",
+  "updatedAt": "2026-10-06 17:49:51",
   "news": [
+    {
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than t",
+      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance",
+      "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
       "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
@@ -38,47 +74,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoid",
-      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-05",
+      "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+      "summary": "“There's a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new so",
+      "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+      "source": "Wired-AI",
+      "date": "2026-10-06",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of adver",
-      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-      "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pas",
-      "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-05",
+      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial int",
+      "link": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+      "source": "Wired-AI",
+      "date": "2026-10-06",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -146,20 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Whatever AI Safety Is, It’s Not This",
-      "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
-      "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
-      "source": "Wired-AI",
-      "date": "2026-10-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates ru",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-      "source": "Wired-AI",
-      "date": "2026-10-01",
+      "title": "The Download: 10 climate tech companies to watch",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-10-06",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -629,31 +629,13 @@
       "date": "2026-10-06"
     },
     {
-      "title": "How GLP-1 users are forcing retailers to rethink everything",
-      "content": "<img src=\"https://imgproxy.divecdn.com/fZGYBoqvNLK_ySb6GwPKgdEIhrmAMnwjJqcjGtNVPr8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzk3NTc0Nzg5LmpwZ19y",
-      "link": "https://www.retaildive.com/news/glp1-users-apparel-retailers-rethink-everything-returns-davids-bridal/831835/",
+      "title": "What the Super El Niño means for retail",
+      "content": "<img src=\"https://imgproxy.divecdn.com/Kqrvdogu7nWb7Nzu6mpzWPDwj58FwtFZhdnIP7zNpGU/g:nowe:0:215/c:2121:1198/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0y",
+      "link": "https://www.retaildive.com/news/what-the-super-el-nino-means-for-retail/831188/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "How retailers can make the most of the joy of holiday checkout",
-      "content": "Smart retailers turn checkout satisfaction into lasting value. Here&#39;s how.",
-      "link": "https://www.retaildive.com/spons/how-retailers-can-make-the-most-of-the-joy-of-holiday-checkout/832081/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Keeping the lines open: How to power retail’s busiest moments",
-      "content": "Consumers are tired of nonstop spam calls, suspicious of unknown numbers and frustrated by poor connections and dropped calls during important service discussions.",
-      "link": "https://www.retaildive.com/spons/keeping-the-lines-open-how-to-power-retails-busiest-moments/831722/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-10-05"
+      "date": "2026-10-06"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -930,7 +912,7 @@
     {
       "name": "GhostTrack",
       "author": "HunxByts",
-      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "description": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
       "link": "https://github.com/HunxByts/GhostTrack",
       "stars": 0,
       "trend": 50,
