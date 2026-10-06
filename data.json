@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-06 17:49:51",
+  "updatedAt": "2026-10-06 22:13:58",
   "news": [
+    {
+      "title": "How AI decision models could change content moderation",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, l",
+      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
       "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than t",
@@ -38,44 +74,17 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let insti",
-      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating even",
-      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-05",
+      "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+      "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their r",
+      "link": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+      "source": "Wired-AI",
+      "date": "2026-10-06",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
       "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
-      "summary": "“There's a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new so",
+      "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new so",
       "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
       "source": "Wired-AI",
       "date": "2026-10-06",
@@ -140,15 +149,6 @@
       "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
       "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inv",
       "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-      "source": "Wired-AI",
-      "date": "2026-10-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
-      "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors,",
-      "link": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
       "source": "Wired-AI",
       "date": "2026-10-02",
       "tag": "trend",
@@ -624,6 +624,15 @@
       "content": "2026 诺贝尔奖生理学或医学奖揭晓：三学者凭借「光控离子通道和光遗传学」领域发现获表彰",
       "link": "http://www.geekpark.net/news/372086",
       "source": "极客公园",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Top retail conferences in 2027",
+      "content": "<img src=\"https://imgproxy.divecdn.com/90hJ4wA-tIjPQ0Oyk4gnCyq5G-_HyI8KNCokiPpHoVo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OUkZfQmlnX1Nob3dfMjAyNl8tX0phc29uX0Rp",
+      "link": "https://www.retaildive.com/news/top-retail-conferences-in-2027/832294/",
+      "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-10-06"
