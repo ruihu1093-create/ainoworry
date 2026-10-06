@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06 04:35:20",
+  "updatedAt": "2026-10-06 11:43:19",
   "news": [
     {
       "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+      "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+      "source": "Wired-AI",
+      "date": "2026-10-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
       "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
       "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
       "source": "Wired-AI",
       "date": "2026-10-01",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-      "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
-      "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
-      "source": "Wired-AI",
-      "date": "2026-09-30",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -638,6 +638,15 @@
       "date": "2026-10-05"
     },
     {
+      "title": "How retailers can make the most of the joy of holiday checkout",
+      "content": "Smart retailers turn checkout satisfaction into lasting value. Here&#39;s how.",
+      "link": "https://www.retaildive.com/spons/how-retailers-can-make-the-most-of-the-joy-of-holiday-checkout/832081/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-05"
+    },
+    {
       "title": "Keeping the lines open: How to power retail’s busiest moments",
       "content": "Consumers are tired of nonstop spam calls, suspicious of unknown numbers and frustrated by poor connections and dropped calls during important service discussions.",
       "link": "https://www.retaildive.com/spons/keeping-the-lines-open-how-to-power-retails-busiest-moments/831722/",
@@ -786,14 +795,14 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "The design language that makes your AI harness better at design.",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "Agent"
         }
       ],
       "date": "2026-10-06"
@@ -801,7 +810,7 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "The open-source app everyone uses to manage agents at work",
+      "description": "Write HTML. Render video. Built for agents.",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
@@ -814,10 +823,10 @@
       "date": "2026-10-06"
     },
     {
-      "name": "impeccable",
-      "author": "pbakaus",
-      "description": "Hindsight: Agent Memory That Learns",
-      "link": "https://github.com/pbakaus/impeccable",
+      "name": "hyperframes",
+      "author": "heygen-com",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "link": "https://github.com/heygen-com/hyperframes",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -829,50 +838,14 @@
       "date": "2026-10-06"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/apps/github-actions",
+      "name": "plugins",
+      "author": "cursor",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "link": "https://github.com/cursor/plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-06"
-    },
-    {
-      "name": "paperclip",
-      "author": "paperclipai",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "link": "https://github.com/paperclipai/paperclip",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Audio"
-        }
-      ],
-      "date": "2026-10-06"
-    },
-    {
-      "name": "hindsight",
-      "author": "vectorize-io",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "link": "https://github.com/vectorize-io/hindsight",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
         {
           "name": "RAG"
         }
@@ -880,10 +853,10 @@
       "date": "2026-10-06"
     },
     {
-      "name": "VoiceStudio",
-      "author": "debpalash",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "link": "https://github.com/debpalash/VoiceStudio",
+      "name": "OpenShell",
+      "author": "NVIDIA",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "link": "https://github.com/NVIDIA/OpenShell",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -895,9 +868,84 @@
       "date": "2026-10-06"
     },
     {
+      "name": "VectifyAI",
+      "author": "sponsors",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "link": "https://github.com/sponsors/VectifyAI",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-10-06"
+    },
+    {
+      "name": "PageIndex",
+      "author": "VectifyAI",
+      "description": "Useful tool to track location or mobile number",
+      "link": "https://github.com/VectifyAI/PageIndex",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-10-06"
+    },
+    {
+      "name": "thedotmack",
+      "author": "sponsors",
+      "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "link": "https://github.com/sponsors/thedotmack",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-10-06"
+    },
+    {
+      "name": "yoinks",
+      "author": "pablostanley",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "link": "https://github.com/pablostanley/yoinks",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-06"
+    },
+    {
+      "name": "GhostTrack",
+      "author": "HunxByts",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "link": "https://github.com/HunxByts/GhostTrack",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-10-06"
+    },
+    {
       "name": "Agent-Reach",
       "author": "Panniantong",
-      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
+      "description": "GitHub热门AI项目，本周获得大量关注",
       "link": "https://github.com/Panniantong/Agent-Reach",
       "stars": 0,
       "trend": 50,
@@ -910,63 +958,250 @@
       "date": "2026-10-06"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-06"
-    },
-    {
-      "name": "DietrichGebert",
-      "author": "sponsors",
-      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-      "link": "https://github.com/sponsors/DietrichGebert",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-06"
-    },
-    {
-      "name": "ponytail",
-      "author": "DietrichGebert",
-      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "link": "https://github.com/DietrichGebert/ponytail",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
+      "name": "open-webui",
+      "author": "open-webui",
+      "description": "用户友好的AI聊天界面，支持Ollama、OpenAI等多种大模型后端本地部署",
+      "link": "https://github.com/open-webui/open-webui",
+      "stars": 89000,
+      "trend": 1200,
+      "forks": 8900,
       "tags": [
         {
           "name": "LLM"
+        },
+        {
+          "name": "UI"
         }
       ],
+      "icon": "🌐",
       "date": "2026-10-06"
     },
     {
-      "name": "tuios",
-      "author": "Gaurav-Gosain",
-      "description": "Cursor plugin specification and official plugins",
-      "link": "https://github.com/Gaurav-Gosain/tuios",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
+      "name": "ollama",
+      "author": "ollama",
+      "description": "本地运行Llama、Mistral、Gemma等大模型最简便方式，一行命令启动",
+      "link": "https://github.com/ollama/ollama",
+      "stars": 128000,
+      "trend": 2300,
+      "forks": 11200,
       "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Local"
+        }
+      ],
+      "icon": "🦙",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "dify",
+      "author": "langgenius",
+      "description": "开源LLM应用开发平台，可视化AI工作流编排与RAG管道构建",
+      "link": "https://github.com/langgenius/dify",
+      "stars": 82000,
+      "trend": 980,
+      "forks": 12100,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "icon": "⚡",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "ComfyUI",
+      "author": "comfyanonymous",
+      "description": "强大的节点式图像AI生成工作流工具，支持SD、Flux等各类模型",
+      "link": "https://github.com/comfyanonymous/ComfyUI",
+      "stars": 65000,
+      "trend": 750,
+      "forks": 7300,
+      "tags": [
+        {
+          "name": "Image"
+        },
         {
           "name": "AI"
         }
       ],
+      "icon": "🎨",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "langchain",
+      "author": "langchain-ai",
+      "description": "构建LLM应用程序的核心框架，提供链式调用与Agent工具集成",
+      "link": "https://github.com/langchain-ai/langchain",
+      "stars": 96000,
+      "trend": 600,
+      "forks": 16000,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Agent"
+        }
+      ],
+      "icon": "🔗",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "lobe-chat",
+      "author": "lobehub",
+      "description": "开源高性能AI聊天框架，支持多模型、插件系统与私有化部署",
+      "link": "https://github.com/lobehub/lobe-chat",
+      "stars": 51000,
+      "trend": 830,
+      "forks": 5600,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "UI"
+        }
+      ],
+      "icon": "💬",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "AutoGPT",
+      "author": "Significant-Gravitas",
+      "description": "自主AI代理平台，让GPT模型自动拆解任务并持续执行，Agent鼻祖项目",
+      "link": "https://github.com/Significant-Gravitas/AutoGPT",
+      "stars": 170000,
+      "trend": 500,
+      "forks": 44000,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Auto"
+        }
+      ],
+      "icon": "🤖",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "vllm",
+      "author": "vllm-project",
+      "description": "高吞吐量LLM推理引擎，PagedAttention大幅提升GPU利用率与并发能力",
+      "link": "https://github.com/vllm-project/vllm",
+      "stars": 40000,
+      "trend": 920,
+      "forks": 6100,
+      "tags": [
+        {
+          "name": "Inference"
+        },
+        {
+          "name": "GPU"
+        }
+      ],
+      "icon": "🚀",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "stable-diffusion-webui",
+      "author": "AUTOMATIC1111",
+      "description": "Stable Diffusion Web界面，图像生成神器，支持海量LoRA和插件",
+      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "stars": 145000,
+      "trend": 500,
+      "forks": 28000,
+      "tags": [
+        {
+          "name": "Image"
+        },
+        {
+          "name": "SD"
+        }
+      ],
+      "icon": "🌈",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "n8n",
+      "author": "n8n-io",
+      "description": "公平开源工作流自动化工具，支持AI集成，可自托管，支持500+应用",
+      "link": "https://github.com/n8n-io/n8n",
+      "stars": 48000,
+      "trend": 1100,
+      "forks": 7200,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Automation"
+        }
+      ],
+      "icon": "🔄",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "LocalAI",
+      "author": "mudler",
+      "description": "免费开源的OpenAI API替代方案，支持本地运行各类LLM、图像、音频",
+      "link": "https://github.com/mudler/LocalAI",
+      "stars": 27000,
+      "trend": 650,
+      "forks": 3100,
+      "tags": [
+        {
+          "name": "Local"
+        },
+        {
+          "name": "API"
+        }
+      ],
+      "icon": "🏠",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "Flowise",
+      "author": "FlowiseAI",
+      "description": "拖拽式LangChain可视化构建工具，快速搭建AI应用无需写代码",
+      "link": "https://github.com/FlowiseAI/Flowise",
+      "stars": 33000,
+      "trend": 780,
+      "forks": 4200,
+      "tags": [
+        {
+          "name": "RAG"
+        },
+        {
+          "name": "UI"
+        }
+      ],
+      "icon": "🌊",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "llama.cpp",
+      "author": "ggerganov",
+      "description": "C++实现的LLaMA推理引擎，支持CPU运行大模型，移动设备也可跑",
+      "link": "https://github.com/ggerganov/llama.cpp",
+      "stars": 72000,
+      "trend": 820,
+      "forks": 10500,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "CPU"
+        }
+      ],
+      "icon": "🦙",
       "date": "2026-10-06"
     }
   ],
@@ -974,7 +1209,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "The design language that makes your AI harness better at design.",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -985,7 +1220,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "The open-source app everyone uses to manage agents at work",
+      "description": "Write HTML. Render video. Built for agents.",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -996,7 +1231,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant ",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -1007,7 +1242,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every cod",
+      "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detr",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1016,9 +1251,20 @@
       "date": "2026-10-06"
     },
     {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
+      "date": "2026-10-06"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Cod",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1206,19 +1452,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-10-06"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-10-06"
     }
   ],
