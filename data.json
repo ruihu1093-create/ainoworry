@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07 02:01:03",
+  "updatedAt": "2026-10-07 09:42:17",
   "news": [
     {
       "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Your Next Great Read Might Be Certified ‘Organic’",
+      "summary": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
+      "link": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+      "source": "Wired-AI",
+      "date": "2026-10-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
       "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their r",
       "link": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
@@ -149,15 +158,6 @@
       "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
       "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
       "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-      "source": "Wired-AI",
-      "date": "2026-10-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inv",
-      "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
       "source": "Wired-AI",
       "date": "2026-10-02",
       "tag": "trend",
