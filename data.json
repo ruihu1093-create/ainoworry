@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-10-07 17:10:53",
+  "updatedAt": "2026-10-07 22:35:41",
   "news": [
+    {
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrati",
+      "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and ",
+      "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+      "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
       "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
@@ -47,38 +92,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-      "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $",
-      "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch-AI",
+      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+      "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+      "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+      "source": "Wired-AI",
       "date": "2026-10-07",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Google’s new SynthID website can identify AI-generated media",
-      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using ",
-      "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-      "source": "TechCrunch-AI",
+      "title": "The New ChatGPT Is More Show Than Tell",
+      "summary": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
+      "link": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+      "source": "Wired-AI",
       "date": "2026-10-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaig",
-      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How AI decision models could change content moderation",
-      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-06",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -133,33 +160,6 @@
       "link": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
       "source": "Wired-AI",
       "date": "2026-10-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-      "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-      "source": "Wired-AI",
-      "date": "2026-10-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
-      "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-      "source": "Wired-AI",
-      "date": "2026-10-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
-      "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-      "source": "Wired-AI",
-      "date": "2026-10-03",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -632,15 +632,6 @@
       "title": "Top retail trade shows in 2027",
       "content": "<img src=\"https://imgproxy.divecdn.com/90hJ4wA-tIjPQ0Oyk4gnCyq5G-_HyI8KNCokiPpHoVo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OUkZfQmlnX1Nob3dfMjAyNl8tX0phc29uX0Rp",
       "link": "https://www.retaildive.com/news/top-retail-trade-shows-in-2027/832294/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "What the Super El Niño means for retail",
-      "content": "<img src=\"https://imgproxy.divecdn.com/Kqrvdogu7nWb7Nzu6mpzWPDwj58FwtFZhdnIP7zNpGU/g:nowe:0:215/c:2121:1198/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0y",
-      "link": "https://www.retaildive.com/news/what-the-super-el-nino-means-for-retail/831188/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
