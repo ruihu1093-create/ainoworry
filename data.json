@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-10-07 09:42:17",
+  "updatedAt": "2026-10-07 17:10:53",
   "news": [
+    {
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+      "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+      "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google experiments with an AI-powered gaming platform",
+      "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+      "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by regis",
+      "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $",
+      "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using ",
+      "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
       "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaig",
@@ -20,65 +83,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-06",
+      "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+      "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, A",
+      "link": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+      "source": "Wired-AI",
+      "date": "2026-10-07",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, l",
-      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than t",
-      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "LibreOffice says ‘no AI’ is now a software feature",
-      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
-      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
-      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Pinterest’s AI now turns beauty Pins into action plans",
-      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance",
-      "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-06",
+      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+      "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete",
+      "link": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+      "source": "Wired-AI",
+      "date": "2026-10-07",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
       "source": "Wired-AI",
       "date": "2026-10-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
-      "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavio",
-      "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
-      "source": "Wired-AI",
-      "date": "2026-10-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-      "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
-      "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-      "source": "Wired-AI",
-      "date": "2026-10-02",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -629,9 +629,9 @@
       "date": "2026-10-06"
     },
     {
-      "title": "Top retail conferences in 2027",
+      "title": "Top retail trade shows in 2027",
       "content": "<img src=\"https://imgproxy.divecdn.com/90hJ4wA-tIjPQ0Oyk4gnCyq5G-_HyI8KNCokiPpHoVo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OUkZfQmlnX1Nob3dfMjAyNl8tX0phc29uX0Rp",
-      "link": "https://www.retaildive.com/news/top-retail-conferences-in-2027/832294/",
+      "link": "https://www.retaildive.com/news/top-retail-trade-shows-in-2027/832294/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
@@ -799,10 +799,10 @@
       "date": "2026-10-07"
     },
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "openrig",
+      "author": "mvschwarz",
       "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/mvschwarz/openrig",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -831,14 +831,14 @@
     {
       "name": "plugins",
       "author": "cursor",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "link": "https://github.com/cursor/plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "RAG"
+          "name": "Agent"
         }
       ],
       "date": "2026-10-07"
@@ -859,31 +859,16 @@
       "date": "2026-10-07"
     },
     {
-      "name": "VectifyAI",
-      "author": "sponsors",
+      "name": "Agent-Reach",
+      "author": "Panniantong",
       "description": "yoink any video from your terminal. no shady ads.",
-      "link": "https://github.com/sponsors/VectifyAI",
+      "link": "https://github.com/Panniantong/Agent-Reach",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "name": "PageIndex",
-      "author": "VectifyAI",
-      "description": "Useful tool to track location or mobile number",
-      "link": "https://github.com/VectifyAI/PageIndex",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-10-07"
@@ -904,46 +889,31 @@
       "date": "2026-10-07"
     },
     {
-      "name": "yoinks",
-      "author": "pablostanley",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "link": "https://github.com/pablostanley/yoinks",
+      "name": "claude-mem",
+      "author": "thedotmack",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "link": "https://github.com/thedotmack/claude-mem",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "LLM"
         }
       ],
       "date": "2026-10-07"
     },
     {
-      "name": "GhostTrack",
-      "author": "HunxByts",
-      "description": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
-      "link": "https://github.com/HunxByts/GhostTrack",
+      "name": "tilelang",
+      "author": "tile-ai",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/tile-ai/tilelang",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "AI"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "name": "Agent-Reach",
-      "author": "Panniantong",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-10-07"
@@ -1194,6 +1164,44 @@
       ],
       "icon": "🦙",
       "date": "2026-10-07"
+    },
+    {
+      "name": "openai-cookbook",
+      "author": "openai",
+      "description": "OpenAI官方示例和最佳实践，涵盖各类API用法和Prompt工程技巧",
+      "link": "https://github.com/openai/openai-cookbook",
+      "stars": 60000,
+      "trend": 400,
+      "forks": 9700,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Prompt"
+        }
+      ],
+      "icon": "📖",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "haystack",
+      "author": "deepset-ai",
+      "description": "企业级RAG和搜索框架，支持多种向量数据库和LLM后端",
+      "link": "https://github.com/deepset-ai/haystack",
+      "stars": 17000,
+      "trend": 320,
+      "forks": 1900,
+      "tags": [
+        {
+          "name": "RAG"
+        },
+        {
+          "name": "Search"
+        }
+      ],
+      "icon": "🔍",
+      "date": "2026-10-07"
     }
   ],
   "agents": [
@@ -1211,7 +1219,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Write HTML. Render video. Built for agents.",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -1222,12 +1230,23 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant ",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
       "likes": 3045,
+      "date": "2026-10-07"
+    },
+    {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant ",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
       "date": "2026-10-07"
     },
     {
@@ -1244,23 +1263,12 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-10-07"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-10-07"
     },
     {
