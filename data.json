@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08 02:25:35",
+  "updatedAt": "2026-10-08 09:52:40",
   "news": [
     {
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+      "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have sim",
+      "link": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
+      "source": "Wired-AI",
+      "date": "2026-10-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
       "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
       "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
@@ -149,15 +158,6 @@
       "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
       "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new so",
       "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
-      "source": "Wired-AI",
-      "date": "2026-10-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
-      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial int",
-      "link": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
       "source": "Wired-AI",
       "date": "2026-10-06",
       "tag": "trend",
@@ -895,21 +895,6 @@
       "date": "2026-10-08"
     },
     {
-      "name": "DuarteSantos8",
-      "author": "sponsors",
-      "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
-      "link": "https://github.com/sponsors/DuarteSantos8",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-10-08"
-    },
-    {
       "name": "tilelang",
       "author": "tile-ai",
       "description": "GitHub热门AI项目，本周获得大量关注",
@@ -1188,6 +1173,25 @@
         }
       ],
       "icon": "📖",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "haystack",
+      "author": "deepset-ai",
+      "description": "企业级RAG和搜索框架，支持多种向量数据库和LLM后端",
+      "link": "https://github.com/deepset-ai/haystack",
+      "stars": 17000,
+      "trend": 320,
+      "forks": 1900,
+      "tags": [
+        {
+          "name": "RAG"
+        },
+        {
+          "name": "Search"
+        }
+      ],
+      "icon": "🔍",
       "date": "2026-10-08"
     }
   ],
