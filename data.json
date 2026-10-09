@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-10-09 16:49:29",
+  "updatedAt": "2026-10-09 21:26:09",
   "news": [
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Micro",
+      "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-09",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "We can’t help treating AI like it’s human. But should we?",
       "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we a",
@@ -47,38 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment i",
-      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to suba",
-      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism",
-      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-08",
+      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+      "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push",
+      "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+      "source": "Wired-AI",
+      "date": "2026-10-09",
       "tag": "trend",
       "tagText": "资讯"
     },
