@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10 01:27:58",
+  "updatedAt": "2026-10-10 08:01:27",
   "news": [
     {
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
@@ -619,15 +619,6 @@
     }
   ],
   "ecommerce": [
-    {
-      "title": "OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」",
-      "content": "2026 诺贝尔奖生理学或医学奖揭晓：三学者凭借「光控离子通道和光遗传学」领域发现获表彰",
-      "link": "http://www.geekpark.net/news/372086",
-      "source": "极客公园",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-10-06"
-    },
     {
       "title": "Amazon retail division hit by job cuts",
       "content": "<img src=\"https://imgproxy.divecdn.com/XoOTFOqh-obaDkFt81Hp0E-3u-PSCpJH_O39C__bhDc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTIzNzIxMDY1LmpwZw==",
