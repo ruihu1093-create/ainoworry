@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-10 08:01:27",
+  "updatedAt": "2026-10-10 14:59:18",
   "news": [
+    {
+      "title": "Here are the top AI agents that can live in your text messages ",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, ",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-10",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
       "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
@@ -65,11 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website t",
-      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-08",
+      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real vic",
+      "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "source": "Wired-AI",
+      "date": "2026-10-10",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
       "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete",
       "link": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
-      "source": "Wired-AI",
-      "date": "2026-10-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Your Next Great Read Might Be Certified ‘Organic’",
-      "summary": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
-      "link": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
       "source": "Wired-AI",
       "date": "2026-10-07",
       "tag": "trend",
@@ -768,7 +768,7 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
@@ -781,10 +781,10 @@
       "date": "2026-10-10"
     },
     {
-      "name": "AnyPS5",
-      "author": "boykopovar",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/boykopovar/AnyPS5",
+      "name": "mattpocock",
+      "author": "sponsors",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "link": "https://github.com/sponsors/mattpocock",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -796,10 +796,10 @@
       "date": "2026-10-10"
     },
     {
-      "name": "openrig",
-      "author": "mvschwarz",
+      "name": "skills",
+      "author": "mattpocock",
       "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/mvschwarz/openrig",
+      "link": "https://github.com/mattpocock/skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -813,7 +813,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -826,10 +826,10 @@
       "date": "2026-10-10"
     },
     {
-      "name": "hyperframes",
-      "author": "heygen-com",
+      "name": "thedotmack",
+      "author": "sponsors",
       "description": "Give your agent CAD superpowers.",
-      "link": "https://github.com/heygen-com/hyperframes",
+      "link": "https://github.com/sponsors/thedotmack",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -841,25 +841,10 @@
       "date": "2026-10-10"
     },
     {
-      "name": "plugins",
-      "author": "cursor",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "link": "https://github.com/cursor/plugins",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-10"
-    },
-    {
-      "name": "raddebugger",
-      "author": "EpicGames",
+      "name": "openrig",
+      "author": "mvschwarz",
       "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "link": "https://github.com/EpicGames/raddebugger",
+      "link": "https://github.com/mvschwarz/openrig",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -881,21 +866,6 @@
       "tags": [
         {
           "name": "AI"
-        }
-      ],
-      "date": "2026-10-10"
-    },
-    {
-      "name": "Agent-Reach",
-      "author": "Panniantong",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-10-10"
@@ -1184,6 +1154,44 @@
       ],
       "icon": "🔍",
       "date": "2026-10-10"
+    },
+    {
+      "name": "mem0",
+      "author": "mem0ai",
+      "description": "AI应用的记忆层，让LLM跨对话保持用户个性化记忆，构建更智能Agent",
+      "link": "https://github.com/mem0ai/mem0",
+      "stars": 23000,
+      "trend": 1500,
+      "forks": 2800,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Memory"
+        }
+      ],
+      "icon": "🧠",
+      "date": "2026-10-10"
+    },
+    {
+      "name": "instructor",
+      "author": "jxnl",
+      "description": "结构化LLM输出库，让AI返回符合Pydantic格式的数据，减少幻觉",
+      "link": "https://github.com/jxnl/instructor",
+      "stars": 9800,
+      "trend": 460,
+      "forks": 780,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Python"
+        }
+      ],
+      "icon": "📋",
+      "date": "2026-10-10"
     }
   ],
   "agents": [
@@ -1201,7 +1209,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -1210,36 +1218,25 @@
       "date": "2026-10-10"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant ",
-      "link": "https://github.com/topics",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
+      "likes": 3045,
       "date": "2026-10-10"
     },
     {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
-      "date": "2026-10-10"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
+      "title": "开源项目: explore",
+      "author": "@sponsors",
       "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detr",
-      "link": "https://github.com/events",
+      "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 2526,
+      "likes": 7510,
       "date": "2026-10-10"
     },
     {
@@ -1435,6 +1432,19 @@
         "剪映"
       ],
       "likes": 18500,
+      "date": "2026-10-10"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
       "date": "2026-10-10"
     }
   ],
