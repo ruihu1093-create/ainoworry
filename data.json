@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-11 16:30:04",
+  "updatedAt": "2026-10-11 20:44:55",
   "news": [
+    {
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
       "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
@@ -68,15 +77,6 @@
       "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
       "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
       "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Micro",
-      "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
       "source": "TechCrunch-AI",
       "date": "2026-10-09",
       "tag": "trend",
