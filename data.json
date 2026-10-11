@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-11 10:32:09",
+  "updatedAt": "2026-10-11 16:30:04",
   "news": [
+    {
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
       "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
@@ -74,11 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Danu Robotics’ fight to build a better recycling robot",
-      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-09",
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "summary": "A long day’s haul in the video game slop mines.",
+      "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "source": "Wired-AI",
+      "date": "2026-10-11",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "The New ChatGPT Is More Show Than Tell",
       "summary": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
       "link": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
-      "source": "Wired-AI",
-      "date": "2026-10-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
-      "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, A",
-      "link": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
       "source": "Wired-AI",
       "date": "2026-10-07",
       "tag": "trend",
@@ -766,10 +766,10 @@
   ],
   "github": [
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "AnyPS5",
+      "author": "boykopovar",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/boykopovar/AnyPS5",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -781,10 +781,10 @@
       "date": "2026-10-11"
     },
     {
-      "name": "mattpocock",
-      "author": "sponsors",
+      "name": "e2e",
+      "author": "tester-army",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "link": "https://github.com/sponsors/mattpocock",
+      "link": "https://github.com/tester-army/e2e",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -811,25 +811,10 @@
       "date": "2026-10-11"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-11"
-    },
-    {
-      "name": "thedotmack",
-      "author": "sponsors",
+      "name": "claude-mem",
+      "author": "thedotmack",
       "description": "Give your agent CAD superpowers.",
-      "link": "https://github.com/sponsors/thedotmack",
+      "link": "https://github.com/thedotmack/claude-mem",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -841,16 +826,31 @@
       "date": "2026-10-11"
     },
     {
-      "name": "openrig",
-      "author": "mvschwarz",
-      "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "link": "https://github.com/mvschwarz/openrig",
+      "name": "raddebugger",
+      "author": "EpicGames",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "link": "https://github.com/EpicGames/raddebugger",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-11"
+    },
+    {
+      "name": "hyperframes",
+      "author": "heygen-com",
+      "description": "ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-10-11"
@@ -1207,20 +1207,9 @@
       "date": "2026-10-11"
     },
     {
-      "title": "开源项目: manifest.json",
-      "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/manifest.json",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 4324,
-      "date": "2026-10-11"
-    },
-    {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "description": "Write HTML. Render video. Built for agents.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -1229,9 +1218,31 @@
       "date": "2026-10-11"
     },
     {
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "Give your agent CAD superpowers.",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2046,
+      "date": "2026-10-11"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
+      "date": "2026-10-11"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detr",
+      "description": "ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1432,19 +1443,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-10-11"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
       "date": "2026-10-11"
     }
   ],
