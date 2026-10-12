@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-10-12 06:53:36",
+  "updatedAt": "2026-10-12 16:25:50",
   "news": [
+    {
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "summary": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF",
+      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
       "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
@@ -12,7 +39,7 @@
     },
     {
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
       "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
       "source": "TechCrunch-AI",
       "date": "2026-10-11",
@@ -34,42 +61,6 @@
       "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
       "source": "TechCrunch-AI",
       "date": "2026-10-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ ",
-      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages ",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, ",
-      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-09",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
       "source": "Wired-AI",
       "date": "2026-10-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: moon city problems and drone traffic controllers",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-10-12",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,13 +620,22 @@
   ],
   "ecommerce": [
     {
-      "title": "Amazon retail division hit by job cuts",
-      "content": "<img src=\"https://imgproxy.divecdn.com/XoOTFOqh-obaDkFt81Hp0E-3u-PSCpJH_O39C__bhDc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTIzNzIxMDY1LmpwZw==",
-      "link": "https://www.retaildive.com/news/amazon-retail-stores-division-layoffs/832501/",
+      "title": "Why Free People prioritizes cultural co-authorship in celeb tie-ups",
+      "content": "At Advertising Week, chief marketer Jack Reynolds explained why the Urban Outfitters-owned retailer ceded control when working with musician Willow.",
+      "link": "https://www.retaildive.com/news/free-people-willow-smith-marketing-cultural-co-authorship/832707/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-08"
+      "date": "2026-10-12"
+    },
+    {
+      "title": "The next era of retail tech — with AI at the core",
+      "content": "Retail is changing fast. Discover how AI and mobility are redefining the store of tomorrow.",
+      "link": "https://www.retaildive.com/spons/the-next-era-of-retail-tech-with-ai-at-the-core/832339/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-12"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -783,7 +792,7 @@
     {
       "name": "e2e",
       "author": "tester-army",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "description": "Write HTML. Render video. Built for agents.",
       "link": "https://github.com/tester-army/e2e",
       "stars": 0,
       "trend": 50,
@@ -796,40 +805,10 @@
       "date": "2026-10-12"
     },
     {
-      "name": "skills",
-      "author": "mattpocock",
-      "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/mattpocock/skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-12"
-    },
-    {
-      "name": "claude-mem",
-      "author": "thedotmack",
-      "description": "Give your agent CAD superpowers.",
-      "link": "https://github.com/thedotmack/claude-mem",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-12"
-    },
-    {
-      "name": "raddebugger",
-      "author": "EpicGames",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "link": "https://github.com/EpicGames/raddebugger",
+      "name": "mattpocock",
+      "author": "sponsors",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "link": "https://github.com/sponsors/mattpocock",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -843,7 +822,7 @@
     {
       "name": "hyperframes",
       "author": "heygen-com",
-      "description": "ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.",
+      "description": "Give your agent CAD superpowers.",
       "link": "https://github.com/heygen-com/hyperframes",
       "stars": 0,
       "trend": 50,
@@ -851,6 +830,51 @@
       "tags": [
         {
           "name": "Agent"
+        }
+      ],
+      "date": "2026-10-12"
+    },
+    {
+      "name": "thedotmack",
+      "author": "sponsors",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "link": "https://github.com/sponsors/thedotmack",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-12"
+    },
+    {
+      "name": "claude-mem",
+      "author": "thedotmack",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-12"
+    },
+    {
+      "name": "flutter",
+      "author": "flutter",
+      "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "link": "https://github.com/flutter/flutter",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-10-12"
@@ -1173,25 +1197,6 @@
       ],
       "icon": "🧠",
       "date": "2026-10-12"
-    },
-    {
-      "name": "instructor",
-      "author": "jxnl",
-      "description": "结构化LLM输出库，让AI返回符合Pydantic格式的数据，减少幻觉",
-      "link": "https://github.com/jxnl/instructor",
-      "stars": 9800,
-      "trend": 460,
-      "forks": 780,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Python"
-        }
-      ],
-      "icon": "📋",
-      "date": "2026-10-12"
     }
   ],
   "agents": [
@@ -1207,20 +1212,9 @@
       "date": "2026-10-12"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@anonymous",
-      "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 3045,
-      "date": "2026-10-12"
-    },
-    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Give your agent CAD superpowers.",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1231,7 +1225,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1242,7 +1236,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.",
+      "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detr",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1443,6 +1437,19 @@
         "剪映"
       ],
       "likes": 18500,
+      "date": "2026-10-12"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
       "date": "2026-10-12"
     }
   ],
