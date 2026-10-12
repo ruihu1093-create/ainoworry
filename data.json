@@ -1,9 +1,36 @@
 {
-  "updatedAt": "2026-10-12 16:25:50",
+  "updatedAt": "2026-10-12 23:25:59",
   "news": [
     {
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with hig",
+      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make thing",
+      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "summary": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
       "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
       "source": "TechCrunch-AI",
       "date": "2026-10-12",
@@ -21,7 +48,7 @@
     },
     {
       "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate sug",
       "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
       "source": "TechCrunch-AI",
       "date": "2026-10-12",
@@ -38,29 +65,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
-      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-10",
+      "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+      "summary": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
+      "link": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+      "source": "Wired-AI",
+      "date": "2026-10-12",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -137,27 +146,18 @@
       "tagText": "资讯"
     },
     {
-      "title": "The New ChatGPT Is More Show Than Tell",
-      "summary": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
-      "link": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
-      "source": "Wired-AI",
-      "date": "2026-10-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
-      "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, A",
-      "link": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
-      "source": "Wired-AI",
-      "date": "2026-10-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "The Download: moon city problems and drone traffic controllers",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-10-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The ecologist revealing the invisible networks that revive rainforests",
+      "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedr",
+      "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
       "source": "MIT-Tech-Review",
       "date": "2026-10-12",
       "tag": "trend",
