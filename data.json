@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-10-13 13:26:17",
+  "updatedAt": "2026-10-13 20:01:53",
   "news": [
+    {
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+      "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Facebook is giving users more control over their algorithm",
+      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+      "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before d",
+      "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fe",
+      "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store",
+      "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-o",
+      "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+      "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+      "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
       "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing c",
@@ -11,65 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "summary": "The startup will sell some of its assets to Disney for $20 million.",
-      "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "source": "TechCrunch-AI",
+      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned ",
+      "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "source": "Wired-AI",
       "date": "2026-10-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with hig",
-      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make thing",
-      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF",
-      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate sug",
-      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-12",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -140,15 +149,6 @@
       "title": "Inside Elon Musk’s Midterm Spending Spree",
       "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash ",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
-      "source": "Wired-AI",
-      "date": "2026-10-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
-      "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
-      "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
       "source": "Wired-AI",
       "date": "2026-10-08",
       "tag": "trend",
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "India delays digital payments fee rollout amid retailer pushback",
-      "content": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
-      "link": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-10-13"
-    },
-    {
       "title": "Gen Z, Gen Alpha and the AI-ificiation of retail this holiday season",
       "content": "<img src=\"https://imgproxy.divecdn.com/BsLBP3miO4F-DhcBV7LOHURfwCcc44VSTi5CrjokrcI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9uaWtlLXN0dWRpby1mbGVlY2UtYWx5c2EtbGl1",
       "link": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
@@ -641,15 +632,6 @@
       "title": "Why Free People prioritizes cultural co-authorship in celeb tie-ups",
       "content": "At Advertising Week, chief marketer Jack Reynolds explained why the Urban Outfitters-owned retailer ceded control when working with musician Willow.",
       "link": "https://www.retaildive.com/news/free-people-willow-smith-marketing-cultural-co-authorship/832707/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "The next era of retail tech — with AI at the core",
-      "content": "Retail is changing fast. Discover how AI and mobility are redefining the store of tomorrow.",
-      "link": "https://www.retaildive.com/spons/the-next-era-of-retail-tech-with-ai-at-the-core/832339/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
