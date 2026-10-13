@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-13 05:12:54",
+  "updatedAt": "2026-10-13 13:26:17",
   "news": [
+    {
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing c",
+      "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "summary": "The startup will sell some of its assets to Disney for $20 million.",
+      "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meta releases its first frontier model, Muse Wonder",
       "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with hig",
@@ -56,11 +74,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-11",
+      "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+      "summary": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
+      "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+      "source": "Wired-AI",
+      "date": "2026-10-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+      "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
+      "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+      "source": "Wired-AI",
+      "date": "2026-10-13",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -128,38 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
-      "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have sim",
-      "link": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
-      "source": "Wired-AI",
-      "date": "2026-10-08",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-      "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
-      "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
-      "source": "Wired-AI",
-      "date": "2026-10-07",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: moon city problems and drone traffic controllers",
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
       "source": "MIT-Tech-Review",
-      "date": "2026-10-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The ecologist revealing the invisible networks that revive rainforests",
-      "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedr",
-      "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,6 +620,24 @@
   ],
   "ecommerce": [
     {
+      "title": "India delays digital payments fee rollout amid retailer pushback",
+      "content": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
+      "link": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Gen Z, Gen Alpha and the AI-ificiation of retail this holiday season",
+      "content": "<img src=\"https://imgproxy.divecdn.com/BsLBP3miO4F-DhcBV7LOHURfwCcc44VSTi5CrjokrcI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9uaWtlLXN0dWRpby1mbGVlY2UtYWx5c2EtbGl1",
+      "link": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-13"
+    },
+    {
       "title": "Why Free People prioritizes cultural co-authorship in celeb tie-ups",
       "content": "At Advertising Week, chief marketer Jack Reynolds explained why the Urban Outfitters-owned retailer ceded control when working with musician Willow.",
       "link": "https://www.retaildive.com/news/free-people-willow-smith-marketing-cultural-co-authorship/832707/",
@@ -775,10 +793,10 @@
   ],
   "github": [
     {
-      "name": "AnyPS5",
-      "author": "boykopovar",
+      "name": "developers",
+      "author": "trending",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/boykopovar/AnyPS5",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -790,10 +808,10 @@
       "date": "2026-10-13"
     },
     {
-      "name": "e2e",
-      "author": "tester-army",
+      "name": "skills",
+      "author": "mattpocock",
       "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/tester-army/e2e",
+      "link": "https://github.com/mattpocock/skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -805,10 +823,10 @@
       "date": "2026-10-13"
     },
     {
-      "name": "mattpocock",
-      "author": "sponsors",
+      "name": "github-actions",
+      "author": "apps",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "link": "https://github.com/sponsors/mattpocock",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -820,10 +838,10 @@
       "date": "2026-10-13"
     },
     {
-      "name": "hyperframes",
-      "author": "heygen-com",
+      "name": "raddebugger",
+      "author": "EpicGames",
       "description": "Give your agent CAD superpowers.",
-      "link": "https://github.com/heygen-com/hyperframes",
+      "link": "https://github.com/EpicGames/raddebugger",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -837,38 +855,8 @@
     {
       "name": "thedotmack",
       "author": "sponsors",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "link": "https://github.com/sponsors/thedotmack",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-13"
-    },
-    {
-      "name": "claude-mem",
-      "author": "thedotmack",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "link": "https://github.com/thedotmack/claude-mem",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-13"
-    },
-    {
-      "name": "flutter",
-      "author": "flutter",
-      "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "link": "https://github.com/flutter/flutter",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -1197,6 +1185,44 @@
       ],
       "icon": "🧠",
       "date": "2026-10-13"
+    },
+    {
+      "name": "instructor",
+      "author": "jxnl",
+      "description": "结构化LLM输出库，让AI返回符合Pydantic格式的数据，减少幻觉",
+      "link": "https://github.com/jxnl/instructor",
+      "stars": 9800,
+      "trend": 460,
+      "forks": 780,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Python"
+        }
+      ],
+      "icon": "📋",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "agentops",
+      "author": "AgentOps-AI",
+      "description": "AI Agent可观测性平台，追踪LLM调用、成本和性能，调试Agent必备",
+      "link": "https://github.com/AgentOps-AI/agentops",
+      "stars": 3200,
+      "trend": 280,
+      "forks": 310,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Monitor"
+        }
+      ],
+      "icon": "📊",
+      "date": "2026-10-13"
     }
   ],
   "agents": [
@@ -1212,36 +1238,36 @@
       "date": "2026-10-13"
     },
     {
-      "title": "开源项目: collections",
+      "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "link": "https://github.com/collections",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
       ],
-      "likes": 2046,
+      "likes": 4324,
+      "date": "2026-10-13"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@anonymous",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant ",
+      "link": "https://github.com/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 3045,
       "date": "2026-10-13"
     },
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadow",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-10-13"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detr",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-10-13"
     },
     {
