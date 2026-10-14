@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-14 05:44:21",
+  "updatedAt": "2026-10-14 11:04:08",
   "news": [
     {
       "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its ",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its p",
       "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
       "source": "TechCrunch-AI",
       "date": "2026-10-13",
@@ -92,6 +92,33 @@
       "tagText": "资讯"
     },
     {
+      "title": "My Friend Has No Soul",
+      "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
+      "link": "https://www.wired.com/story/my-friend-has-no-soul/",
+      "source": "Wired-AI",
+      "date": "2026-10-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Men Can’t Stop Faking How Much They Know About AI",
+      "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
+      "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+      "source": "Wired-AI",
+      "date": "2026-10-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+      "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instruct",
+      "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "source": "Wired-AI",
+      "date": "2026-10-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
       "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-lev",
       "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
@@ -133,33 +160,6 @@
       "link": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
       "source": "Wired-AI",
       "date": "2026-10-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I Made Terrible Games With Google’s AI Playground",
-      "summary": "A long day’s haul in the video game slop mines.",
-      "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-      "source": "Wired-AI",
-      "date": "2026-10-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real vic",
-      "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-      "source": "Wired-AI",
-      "date": "2026-10-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-      "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push",
-      "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-      "source": "Wired-AI",
-      "date": "2026-10-09",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -775,10 +775,10 @@
   ],
   "github": [
     {
-      "name": "developers",
-      "author": "trending",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/trending/developers",
+      "name": "explore",
+      "author": "sponsors",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -790,10 +790,25 @@
       "date": "2026-10-14"
     },
     {
-      "name": "skills",
-      "author": "mattpocock",
+      "name": "rea",
+      "author": "morluto",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "link": "https://github.com/morluto/rea",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-14"
+    },
+    {
+      "name": "AnyPS5",
+      "author": "boykopovar",
       "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/mattpocock/skills",
+      "link": "https://github.com/boykopovar/AnyPS5",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -820,9 +835,24 @@
       "date": "2026-10-14"
     },
     {
+      "name": "hyperframes",
+      "author": "heygen-com",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-10-14"
+    },
+    {
       "name": "raddebugger",
       "author": "EpicGames",
-      "description": "Give your agent CAD superpowers.",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
       "link": "https://github.com/EpicGames/raddebugger",
       "stars": 0,
       "trend": 50,
@@ -835,16 +865,31 @@
       "date": "2026-10-14"
     },
     {
-      "name": "thedotmack",
-      "author": "sponsors",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "link": "https://github.com/sponsors/thedotmack",
+      "name": "e2e",
+      "author": "tester-army",
+      "description": "Give your agent CAD superpowers.",
+      "link": "https://github.com/tester-army/e2e",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-14"
+    },
+    {
+      "name": "SwiftUI-Agent-Skill",
+      "author": "twostraws",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-10-14"
@@ -1148,70 +1193,13 @@
       ],
       "icon": "🔍",
       "date": "2026-10-14"
-    },
-    {
-      "name": "mem0",
-      "author": "mem0ai",
-      "description": "AI应用的记忆层，让LLM跨对话保持用户个性化记忆，构建更智能Agent",
-      "link": "https://github.com/mem0ai/mem0",
-      "stars": 23000,
-      "trend": 1500,
-      "forks": 2800,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Memory"
-        }
-      ],
-      "icon": "🧠",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "instructor",
-      "author": "jxnl",
-      "description": "结构化LLM输出库，让AI返回符合Pydantic格式的数据，减少幻觉",
-      "link": "https://github.com/jxnl/instructor",
-      "stars": 9800,
-      "trend": 460,
-      "forks": 780,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Python"
-        }
-      ],
-      "icon": "📋",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "agentops",
-      "author": "AgentOps-AI",
-      "description": "AI Agent可观测性平台，追踪LLM调用、成本和性能，调试Agent必备",
-      "link": "https://github.com/AgentOps-AI/agentops",
-      "stars": 3200,
-      "trend": 280,
-      "forks": 310,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Monitor"
-        }
-      ],
-      "icon": "📊",
-      "date": "2026-10-14"
     }
   ],
   "agents": [
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -1222,7 +1210,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -1231,20 +1219,31 @@
       "date": "2026-10-14"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: topics",
       "author": "@anonymous",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant ",
-      "link": "https://github.com/explore",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 3045,
+      "likes": 1697,
+      "date": "2026-10-14"
+    },
+    {
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2046,
       "date": "2026-10-14"
     },
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadow",
+      "description": "Give your agent CAD superpowers.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1445,19 +1444,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-10-14"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
       "date": "2026-10-14"
     }
   ],
