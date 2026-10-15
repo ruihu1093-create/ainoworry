@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-15 13:52:15",
+  "updatedAt": "2026-10-15 17:58:11",
   "news": [
+    {
+      "title": "AI agents are coming to Rivian’s cars",
+      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
+      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-15",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
       "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that atta",
@@ -21,7 +39,7 @@
     },
     {
       "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated mis",
+      "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help o",
       "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
       "source": "TechCrunch-AI",
       "date": "2026-10-15",
@@ -41,24 +59,6 @@
       "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
       "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
       "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
-      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
       "source": "TechCrunch-AI",
       "date": "2026-10-14",
       "tag": "trend",
@@ -636,15 +636,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-10-14"
-    },
-    {
-      "title": "Gen Z, Gen Alpha and the AI-ificiation of retail this holiday season",
-      "content": "<img src=\"https://imgproxy.divecdn.com/BsLBP3miO4F-DhcBV7LOHURfwCcc44VSTi5CrjokrcI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9uaWtlLXN0dWRpby1mbGVlY2UtYWx5c2EtbGl1",
-      "link": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-10-13"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
