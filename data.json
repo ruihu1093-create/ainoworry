@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-16 19:14:22",
+  "updatedAt": "2026-10-16 22:26:49",
   "news": [
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there wa",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
       "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive clou",
@@ -74,11 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-15",
+      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company ",
+      "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+      "source": "Wired-AI",
+      "date": "2026-10-16",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
       "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-lev",
       "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-      "source": "Wired-AI",
-      "date": "2026-10-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-      "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned ",
-      "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
       "source": "Wired-AI",
       "date": "2026-10-13",
       "tag": "trend",
