@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-10-16 15:08:49",
+  "updatedAt": "2026-10-16 19:14:22",
   "news": [
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive clou",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with",
+      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competiti",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
       "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
@@ -32,42 +77,6 @@
       "title": "Meta launches an open-weight AI model that runs on Macs",
       "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
       "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating user",
-      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block ",
-      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and",
-      "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI agents are coming to Rivian’s cars",
-      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
-      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
       "source": "TechCrunch-AI",
       "date": "2026-10-15",
       "tag": "trend",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
       "source": "Wired-AI",
       "date": "2026-10-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: failed social media bans, and extending pets’ lives",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-10-16",
       "tag": "trend",
       "tagText": "资讯"
     },
