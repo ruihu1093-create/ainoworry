@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-16 10:34:46",
+  "updatedAt": "2026-10-16 15:08:49",
   "news": [
+    {
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisi",
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
       "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
@@ -56,20 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that atta",
-      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-15",
+      "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+      "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do",
+      "link": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+      "source": "Wired-AI",
+      "date": "2026-10-16",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -146,20 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
-      "summary": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
-      "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
-      "source": "Wired-AI",
-      "date": "2026-10-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
-      "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
-      "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
-      "source": "Wired-AI",
-      "date": "2026-10-13",
+      "title": "The Download: failed social media bans, and extending pets’ lives",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-10-16",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -790,16 +790,16 @@
       "date": "2026-10-16"
     },
     {
-      "name": "rea",
-      "author": "morluto",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/morluto/rea",
+      "name": "artcraft",
+      "author": "storytold",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "link": "https://github.com/storytold/artcraft",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-10-16"
@@ -820,39 +820,9 @@
       "date": "2026-10-16"
     },
     {
-      "name": "mattpocock",
-      "author": "sponsors",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "link": "https://github.com/sponsors/mattpocock",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-10-16"
-    },
-    {
-      "name": "hyperframes",
-      "author": "heygen-com",
-      "description": "Give your agent CAD superpowers.",
-      "link": "https://github.com/heygen-com/hyperframes",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-16"
-    },
-    {
       "name": "cathrynlavery",
       "author": "sponsors",
-      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "link": "https://github.com/sponsors/cathrynlavery",
       "stars": 0,
       "trend": 50,
@@ -865,16 +835,31 @@
       "date": "2026-10-16"
     },
     {
-      "name": "diagram-design",
-      "author": "cathrynlavery",
-      "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "link": "https://github.com/cathrynlavery/diagram-design",
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-16"
+    },
+    {
+      "name": "skills",
+      "author": "mattpocock",
+      "description": "Give your agent CAD superpowers.",
+      "link": "https://github.com/mattpocock/skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-10-16"
@@ -890,21 +875,6 @@
       "tags": [
         {
           "name": "AI"
-        }
-      ],
-      "date": "2026-10-16"
-    },
-    {
-      "name": "SwiftUI-Agent-Skill",
-      "author": "twostraws",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-10-16"
@@ -1193,6 +1163,44 @@
       ],
       "icon": "🔍",
       "date": "2026-10-16"
+    },
+    {
+      "name": "mem0",
+      "author": "mem0ai",
+      "description": "AI应用的记忆层，让LLM跨对话保持用户个性化记忆，构建更智能Agent",
+      "link": "https://github.com/mem0ai/mem0",
+      "stars": 23000,
+      "trend": 1500,
+      "forks": 2800,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Memory"
+        }
+      ],
+      "icon": "🧠",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "instructor",
+      "author": "jxnl",
+      "description": "结构化LLM输出库，让AI返回符合Pydantic格式的数据，减少幻觉",
+      "link": "https://github.com/jxnl/instructor",
+      "stars": 9800,
+      "trend": 460,
+      "forks": 780,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Python"
+        }
+      ],
+      "icon": "📋",
+      "date": "2026-10-16"
     }
   ],
   "agents": [
@@ -1208,36 +1216,25 @@
       "date": "2026-10-16"
     },
     {
-      "title": "开源项目: manifest.json",
+      "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "link": "https://github.com/manifest.json",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "link": "https://github.com/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 4324,
+      "likes": 3045,
       "date": "2026-10-16"
     },
     {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "link": "https://github.com/collections",
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "Give your agent CAD superpowers.",
+      "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 2046,
-      "date": "2026-10-16"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detr",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
+      "likes": 7510,
       "date": "2026-10-16"
     },
     {
@@ -1446,6 +1443,19 @@
         "美团"
       ],
       "likes": 2650,
+      "date": "2026-10-16"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
       "date": "2026-10-16"
     }
   ],
