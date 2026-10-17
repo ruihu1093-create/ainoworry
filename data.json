@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-10-17 20:00:59",
+  "updatedAt": "2026-10-17 22:50:25",
   "news": [
     {
-      "title": "Replit is no longer working with Anthropic, CEO says",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on th",
       "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch-AI",
@@ -61,24 +79,6 @@
       "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
       "source": "TechCrunch-AI",
       "date": "2026-10-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisi",
-      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-15",
       "tag": "trend",
       "tagText": "资讯"
     },
