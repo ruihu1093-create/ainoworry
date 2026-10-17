@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-17 17:43:16",
+  "updatedAt": "2026-10-17 20:00:59",
   "news": [
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there wa",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on th",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch-AI",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "tag": "trend",
       "tagText": "资讯"
     },
