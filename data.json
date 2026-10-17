@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17 05:26:55",
+  "updatedAt": "2026-10-17 10:04:05",
   "news": [
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to pr",
+      "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "source": "Wired-AI",
+      "date": "2026-10-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
       "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company ",
       "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
       "source": "Wired-AI",
       "date": "2026-10-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-      "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-lev",
-      "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-      "source": "Wired-AI",
-      "date": "2026-10-13",
       "tag": "trend",
       "tagText": "资讯"
     },
