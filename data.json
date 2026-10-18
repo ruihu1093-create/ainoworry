@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18 10:17:30",
+  "updatedAt": "2026-10-18 14:15:19",
   "news": [
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "source": "Wired-AI",
+      "date": "2026-10-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
       "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to pr",
       "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
@@ -146,20 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Men Can’t Stop Faking How Much They Know About AI",
-      "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
-      "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
-      "source": "Wired-AI",
-      "date": "2026-10-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-      "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instruct",
-      "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-      "source": "Wired-AI",
-      "date": "2026-10-14",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary ans",
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-10-16",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -808,40 +808,10 @@
       "date": "2026-10-18"
     },
     {
-      "name": "artcraft",
-      "author": "storytold",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "link": "https://github.com/storytold/artcraft",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-10-18"
-    },
-    {
-      "name": "cathrynlavery",
-      "author": "sponsors",
-      "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/sponsors/cathrynlavery",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-18"
-    },
-    {
-      "name": "diagram-design",
-      "author": "cathrynlavery",
+      "name": "AnyPS5",
+      "author": "boykopovar",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "link": "https://github.com/cathrynlavery/diagram-design",
+      "link": "https://github.com/boykopovar/AnyPS5",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -855,14 +825,59 @@
     {
       "name": "claude-plugins-official",
       "author": "anthropics",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "link": "https://github.com/anthropics/claude-plugins-official",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-10-18"
+    },
+    {
+      "name": "mksglu",
+      "author": "sponsors",
+      "description": "Write HTML. Render video. Built for agents.",
+      "link": "https://github.com/sponsors/mksglu",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
           "name": "Agent"
+        }
+      ],
+      "date": "2026-10-18"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-10-18"
+    },
+    {
+      "name": "ai-job-search",
+      "author": "MadsLorentzen",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-10-18"
@@ -1208,25 +1223,6 @@
       ],
       "icon": "📊",
       "date": "2026-10-18"
-    },
-    {
-      "name": "chatbot-ui",
-      "author": "mckaywrigley",
-      "description": "开源ChatGPT UI，支持自定义API Key和模型切换，轻量易部署",
-      "link": "https://github.com/mckaywrigley/chatbot-ui",
-      "stars": 28000,
-      "trend": 350,
-      "forks": 7800,
-      "tags": [
-        {
-          "name": "UI"
-        },
-        {
-          "name": "LLM"
-        }
-      ],
-      "icon": "💬",
-      "date": "2026-10-18"
     }
   ],
   "agents": [
@@ -1244,7 +1240,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Write HTML. Render video. Built for agents.",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadow",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -1253,25 +1249,14 @@
       "date": "2026-10-18"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platf",
-      "link": "https://github.com/topics",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
-      "likes": 1697,
-      "date": "2026-10-18"
-    },
-    {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
+      "likes": 2526,
       "date": "2026-10-18"
     },
     {
@@ -1480,6 +1465,19 @@
         "美团"
       ],
       "likes": 2650,
+      "date": "2026-10-18"
+    },
+    {
+      "title": "心理咨询师AI预约+回访系统",
+      "author": "@心理小林",
+      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
+      "link": "https://dify.ai/",
+      "tools": [
+        "Dify",
+        "Coze",
+        "微信"
+      ],
+      "likes": 3940,
       "date": "2026-10-18"
     }
   ],
