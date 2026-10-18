@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-18 14:15:19",
+  "updatedAt": "2026-10-18 17:45:39",
   "news": [
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Cha",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-18",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
       "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
@@ -151,15 +160,6 @@
       "link": "https://www.wired.com/story/my-friend-has-no-soul/",
       "source": "Wired-AI",
       "date": "2026-10-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary ans",
-      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-10-16",
       "tag": "trend",
       "tagText": "资讯"
     },
