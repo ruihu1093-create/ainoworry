@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19 05:38:46",
+  "updatedAt": "2026-10-19 11:57:23",
   "news": [
     {
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+      "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to",
+      "link": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "source": "Wired-AI",
+      "date": "2026-10-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
       "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
       "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
@@ -149,15 +158,6 @@
       "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
       "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
       "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-      "source": "Wired-AI",
-      "date": "2026-10-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "My Friend Has No Soul",
-      "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
-      "link": "https://www.wired.com/story/my-friend-has-no-soul/",
       "source": "Wired-AI",
       "date": "2026-10-14",
       "tag": "trend",
@@ -638,18 +638,36 @@
       "date": "2026-10-17"
     },
     {
-      "title": "Target wants more efficient stores. An upgraded employee app could help.",
-      "content": "The retailer&rsquo;s myDay app features a newly customizable home screen functionality and will soon include access to AI-backed insights.&nbsp;",
-      "link": "https://www.retaildive.com/news/target-upgrades-store-operations-app-employees/832989/",
+      "title": "Power profitable growth: How retailers are elevating customer experiences while unlocking new revenue without adding operational complexity",
+      "content": "Retailers face increasing pressure to drive growth, elevate customer experiences and improve profitability. Discover how leading retailers are partnering with NRG.",
+      "link": "https://www.retaildive.com/spons/power-profitable-growth-how-retailers-are-elevating-customer-experiences-w/832927/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-14"
+      "date": "2026-10-19"
     },
     {
-      "title": "Moody’s upgrades retail and apparel outlook as tariffs ease",
-      "content": "<img src=\"https://imgproxy.divecdn.com/XNc-jS06aKTWR8U1rcHeS4NqAbFnQ0VYzYsNJ-IO26U/g:nowe:73:505/c:3126:1766/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjEyOC5qcGc",
-      "link": "https://www.retaildive.com/news/moodys-retail-apparel-outlook-boosted-tariff-refunds/832964/",
+      "title": "Why retail is positioned to win the flexible credential opportunity",
+      "content": "Shoppers juggle debit, credit and BNPL. Here&rsquo;s why retail is poised to win with one flexible card.",
+      "link": "https://www.retaildive.com/spons/why-retail-is-positioned-to-win-the-flexible-credential-opportunity/833182/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "Your retail network isn’t ready for AI. Here’s why.",
+      "content": "Here&#39;s a practical list of network and IT challenges retailers need to overcome to support AI at scale.",
+      "link": "https://www.retaildive.com/spons/your-retail-network-isnt-ready-for-ai-heres-why/832985/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "Target wants more efficient stores. An upgraded employee app could help.",
+      "content": "The retailer&rsquo;s myDay app features a newly customizable home screen functionality and will soon include access to AI-backed insights.&nbsp;",
+      "link": "https://www.retaildive.com/news/target-upgrades-store-operations-app-employees/832989/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
@@ -780,15 +798,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-10-19"
-    },
-    {
-      "title": "唯品会AI个性化专场：精准匹配打折商品与用户喜好",
-      "content": "通过分析用户历史购买和浏览记录，AI为每位用户生成专属特卖专场，点击率提升45%。",
-      "link": "https://36kr.com/",
-      "source": "36Kr",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-10-19"
     }
   ],
   "github": [
@@ -808,24 +817,9 @@
       "date": "2026-10-19"
     },
     {
-      "name": "AnyPS5",
-      "author": "boykopovar",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "link": "https://github.com/boykopovar/AnyPS5",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-19"
-    },
-    {
       "name": "claude-plugins-official",
       "author": "anthropics",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "link": "https://github.com/anthropics/claude-plugins-official",
       "stars": 0,
       "trend": 50,
@@ -838,10 +832,55 @@
       "date": "2026-10-19"
     },
     {
-      "name": "mksglu",
+      "name": "MadsLorentzen",
       "author": "sponsors",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "link": "https://github.com/sponsors/MadsLorentzen",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-19"
+    },
+    {
+      "name": "ai-job-search",
+      "author": "MadsLorentzen",
       "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/sponsors/mksglu",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-19"
+    },
+    {
+      "name": "AnyPS5",
+      "author": "boykopovar",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-10-19"
+    },
+    {
+      "name": "ghidra",
+      "author": "NationalSecurityAgency",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "link": "https://github.com/NationalSecurityAgency/ghidra",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -855,7 +894,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -868,16 +907,34 @@
       "date": "2026-10-19"
     },
     {
-      "name": "ai-job-search",
-      "author": "MadsLorentzen",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "name": "hyperframes",
+      "author": "heygen-com",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "link": "https://github.com/heygen-com/hyperframes",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-10-19"
+    },
+    {
+      "name": "scientific-agent-skills",
+      "author": "K-Dense-AI",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-10-19"
@@ -1166,63 +1223,6 @@
       ],
       "icon": "🔍",
       "date": "2026-10-19"
-    },
-    {
-      "name": "mem0",
-      "author": "mem0ai",
-      "description": "AI应用的记忆层，让LLM跨对话保持用户个性化记忆，构建更智能Agent",
-      "link": "https://github.com/mem0ai/mem0",
-      "stars": 23000,
-      "trend": 1500,
-      "forks": 2800,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Memory"
-        }
-      ],
-      "icon": "🧠",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "instructor",
-      "author": "jxnl",
-      "description": "结构化LLM输出库，让AI返回符合Pydantic格式的数据，减少幻觉",
-      "link": "https://github.com/jxnl/instructor",
-      "stars": 9800,
-      "trend": 460,
-      "forks": 780,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Python"
-        }
-      ],
-      "icon": "📋",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "agentops",
-      "author": "AgentOps-AI",
-      "description": "AI Agent可观测性平台，追踪LLM调用、成本和性能，调试Agent必备",
-      "link": "https://github.com/AgentOps-AI/agentops",
-      "stars": 3200,
-      "trend": 280,
-      "forks": 310,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Monitor"
-        }
-      ],
-      "icon": "📊",
-      "date": "2026-10-19"
     }
   ],
   "agents": [
@@ -1238,20 +1238,31 @@
       "date": "2026-10-19"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadow",
-      "link": "https://github.com/explore",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platf",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 3045,
+      "likes": 1697,
+      "date": "2026-10-19"
+    },
+    {
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadow",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2046,
       "date": "2026-10-19"
     },
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated ski",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1465,19 +1476,6 @@
         "美团"
       ],
       "likes": 2650,
-      "date": "2026-10-19"
-    },
-    {
-      "title": "心理咨询师AI预约+回访系统",
-      "author": "@心理小林",
-      "description": "搭建AI预约提醒和课后回访系统，自动发送测评问卷并整理分析，客户留存率提升50%。",
-      "link": "https://dify.ai/",
-      "tools": [
-        "Dify",
-        "Coze",
-        "微信"
-      ],
-      "likes": 3940,
       "date": "2026-10-19"
     }
   ],
