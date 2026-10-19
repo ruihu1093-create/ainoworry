@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-10-19 11:57:23",
+  "updatedAt": "2026-10-19 18:27:02",
   "news": [
     {
+      "title": "People are using AI to make their smart TVs dumb again",
+      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of thei",
+      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before d",
+      "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct d",
       "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
       "source": "TechCrunch-AI",
       "date": "2026-10-18",
@@ -11,7 +29,7 @@
       "tagText": "资讯"
     },
     {
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "title": "Disney agrees to hire the majority of Character AI’s workforce",
       "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking hor",
       "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "source": "TechCrunch-AI",
@@ -39,7 +57,7 @@
     },
     {
       "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on th",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there wa",
       "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch-AI",
       "date": "2026-10-17",
@@ -59,33 +77,6 @@
       "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
       "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with",
       "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with",
-      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competiti",
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
       "source": "TechCrunch-AI",
       "date": "2026-10-16",
       "tag": "trend",
@@ -155,11 +146,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
-      "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
-      "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-      "source": "Wired-AI",
-      "date": "2026-10-14",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Go",
+      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-10-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-10-19",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -665,15 +665,6 @@
       "date": "2026-10-19"
     },
     {
-      "title": "Target wants more efficient stores. An upgraded employee app could help.",
-      "content": "The retailer&rsquo;s myDay app features a newly customizable home screen functionality and will soon include access to AI-backed insights.&nbsp;",
-      "link": "https://www.retaildive.com/news/target-upgrades-store-operations-app-employees/832989/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-10-14"
-    },
-    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -795,6 +786,15 @@
       "content": "买家上传照片即可获得AI鉴定报告，支持奢侈品、球鞋、手表等多品类，买卖双方信任度大幅提升。",
       "link": "https://techcrunch.com/",
       "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "唯品会AI个性化专场：精准匹配打折商品与用户喜好",
+      "content": "通过分析用户历史购买和浏览记录，AI为每位用户生成专属特卖专场，点击率提升45%。",
+      "link": "https://36kr.com/",
+      "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-10-19"
