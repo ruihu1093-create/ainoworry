@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-10-20 18:16:46",
+  "updatedAt": "2026-10-20 22:02:21",
   "news": [
+    {
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "SpaceX’s AI business is beating expectations",
+      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Work",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "ChatGPT now lets you lock your chats",
+      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep tho",
+      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
       "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
@@ -43,51 +88,6 @@
       "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
       "source": "TechCrunch-AI",
       "date": "2026-10-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowin",
-      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized reco",
-      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which ",
-      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protec",
-      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-19",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -155,9 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "The new economics of enterprise AI",
-      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and",
-      "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+      "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds ",
+      "link": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
       "source": "MIT-Tech-Review",
       "date": "2026-10-20",
       "tag": "trend",
