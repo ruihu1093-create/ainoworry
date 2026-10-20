@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-20 13:15:21",
+  "updatedAt": "2026-10-20 18:16:46",
   "news": [
+    {
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New d",
+      "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their s",
+      "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
+      "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
       "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security",
@@ -56,38 +92,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over t",
-      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-19",
+      "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+      "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agree",
+      "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+      "source": "Wired-AI",
+      "date": "2026-10-20",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chi",
-      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online plat",
-      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-19",
+      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+      "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+      "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+      "source": "Wired-AI",
+      "date": "2026-10-20",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -137,27 +155,9 @@
       "tagText": "资讯"
     },
     {
-      "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-      "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do",
-      "link": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-      "source": "Wired-AI",
-      "date": "2026-10-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
-      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie ",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
-      "source": "Wired-AI",
-      "date": "2026-10-15",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: the claim shaking up AI and the internet’s agent problem",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+      "title": "The new economics of enterprise AI",
+      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and",
+      "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
       "source": "MIT-Tech-Review",
       "date": "2026-10-20",
       "tag": "trend",
@@ -647,31 +647,13 @@
       "date": "2026-10-17"
     },
     {
-      "title": "Power profitable growth: How retailers are elevating customer experiences while unlocking new revenue without adding operational complexity",
-      "content": "Retailers face increasing pressure to drive growth, elevate customer experiences and improve profitability. Discover how leading retailers are partnering with NRG.",
-      "link": "https://www.retaildive.com/spons/power-profitable-growth-how-retailers-are-elevating-customer-experiences-w/832927/",
+      "title": "UPS’ Happy Returns comes to TikTok Shop",
+      "content": "<img src=\"https://imgproxy.divecdn.com/wNsbNamgvOckQflqjQ5Phazr9uYR6gc5mmAhbVmYchA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SZXR1cm5lZF9pdGVtc19wcmVwYXJlZF9mb3Jf",
+      "link": "https://www.retaildive.com/news/ups-happy-returns-tiktok-shop/833322/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-19"
-    },
-    {
-      "title": "Why retail is positioned to win the flexible credential opportunity",
-      "content": "Shoppers juggle debit, credit and BNPL. Here&rsquo;s why retail is poised to win with one flexible card.",
-      "link": "https://www.retaildive.com/spons/why-retail-is-positioned-to-win-the-flexible-credential-opportunity/833182/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-10-19"
-    },
-    {
-      "title": "Your retail network isn’t ready for AI. Here’s why.",
-      "content": "Here&#39;s a practical list of network and IT challenges retailers need to overcome to support AI at scale.",
-      "link": "https://www.retaildive.com/spons/your-retail-network-isnt-ready-for-ai-heres-why/832985/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-10-19"
+      "date": "2026-10-20"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -798,6 +780,15 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-10-20"
+    },
+    {
+      "title": "唯品会AI个性化专场：精准匹配打折商品与用户喜好",
+      "content": "通过分析用户历史购买和浏览记录，AI为每位用户生成专属特卖专场，点击率提升45%。",
+      "link": "https://36kr.com/",
+      "source": "36Kr",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-20"
     }
   ],
   "github": [
@@ -910,24 +901,9 @@
       "date": "2026-10-20"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-10-20"
-    },
-    {
       "name": "scientific-agent-skills",
       "author": "K-Dense-AI",
-      "description": "Cursor plugin specification and official plugins",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "stars": 0,
       "trend": 50,
@@ -935,21 +911,6 @@
       "tags": [
         {
           "name": "Agent"
-        }
-      ],
-      "date": "2026-10-20"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
         }
       ],
       "date": "2026-10-20"
@@ -1219,6 +1180,44 @@
       ],
       "icon": "📖",
       "date": "2026-10-20"
+    },
+    {
+      "name": "haystack",
+      "author": "deepset-ai",
+      "description": "企业级RAG和搜索框架，支持多种向量数据库和LLM后端",
+      "link": "https://github.com/deepset-ai/haystack",
+      "stars": 17000,
+      "trend": 320,
+      "forks": 1900,
+      "tags": [
+        {
+          "name": "RAG"
+        },
+        {
+          "name": "Search"
+        }
+      ],
+      "icon": "🔍",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "mem0",
+      "author": "mem0ai",
+      "description": "AI应用的记忆层，让LLM跨对话保持用户个性化记忆，构建更智能Agent",
+      "link": "https://github.com/mem0ai/mem0",
+      "stars": 23000,
+      "trend": 1500,
+      "forks": 2800,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Memory"
+        }
+      ],
+      "icon": "🧠",
+      "date": "2026-10-20"
     }
   ],
   "agents": [
@@ -1280,23 +1279,12 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-10-20"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-10-20"
     },
     {
@@ -1466,6 +1454,19 @@
         "Notion"
       ],
       "likes": 3780,
+      "date": "2026-10-20"
+    },
+    {
+      "title": "财务顾问搭建AI报表分析助手",
+      "author": "@CFO老李",
+      "description": "基于本地部署的开源大模型搭建财务分析Agent，能读取报表自动识别风险和异常项，数据不出企业。",
+      "link": "https://ollama.com/",
+      "tools": [
+        "Ollama",
+        "DeepSeek",
+        "Python"
+      ],
+      "likes": 6300,
       "date": "2026-10-20"
     }
   ],
