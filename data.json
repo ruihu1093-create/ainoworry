@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21 06:57:43",
+  "updatedAt": "2026-10-21 12:46:23",
   "news": [
     {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
@@ -92,6 +92,33 @@
       "tagText": "资讯"
     },
     {
+      "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+      "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assista",
+      "link": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+      "source": "Wired-AI",
+      "date": "2026-10-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+      "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
+      "link": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+      "source": "Wired-AI",
+      "date": "2026-10-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
+      "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambition",
+      "link": "https://www.wired.com/story/europe-data-centers-climate-change/",
+      "source": "Wired-AI",
+      "date": "2026-10-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
       "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agree",
       "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
@@ -133,33 +160,6 @@
       "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
       "source": "Wired-AI",
       "date": "2026-10-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-      "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to pr",
-      "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-      "source": "Wired-AI",
-      "date": "2026-10-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company ",
-      "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-      "source": "Wired-AI",
-      "date": "2026-10-16",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
-      "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds ",
-      "link": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-10-20",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -638,15 +638,6 @@
       "date": "2026-10-20"
     },
     {
-      "title": "1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相",
-      "content": "人们已经很多年没见过，苹果的新品被这样抢了。\n10 月 16 日晚 8 点，苹果首款折叠屏 iPhone Duo 开启预购。社交媒体上流传的说法是，开售 1 分钟，全型号库存就空了，京东、天猫页面相继显示售罄。\n大约 40 分钟后，苹果官网的预计送达时间已经跳到了 2027 年 1 月底</str",
-      "link": "http://www.geekpark.net/news/372509",
-      "source": "极客公园",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-10-17"
-    },
-    {
       "title": "UPS’ Happy Returns comes to TikTok Shop",
       "content": "<img src=\"https://imgproxy.divecdn.com/wNsbNamgvOckQflqjQ5Phazr9uYR6gc5mmAhbVmYchA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SZXR1cm5lZF9pdGVtc19wcmVwYXJlZF9mb3Jf",
       "link": "https://www.retaildive.com/news/ups-happy-returns-tiktok-shop/833322/",
@@ -825,7 +816,7 @@
     {
       "name": "MadsLorentzen",
       "author": "sponsors",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "link": "https://github.com/sponsors/MadsLorentzen",
       "stars": 0,
       "trend": 50,
@@ -840,23 +831,26 @@
     {
       "name": "ai-job-search",
       "author": "MadsLorentzen",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "link": "https://github.com/MadsLorentzen/ai-job-search",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
         }
       ],
       "date": "2026-10-21"
     },
     {
-      "name": "claude-plugins-official",
-      "author": "anthropics",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "link": "https://github.com/anthropics/claude-plugins-official",
+      "name": "scientific-agent-skills",
+      "author": "K-Dense-AI",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -883,9 +877,84 @@
       "date": "2026-10-21"
     },
     {
+      "name": "skills",
+      "author": "android",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "link": "https://github.com/android/skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-21"
+    },
+    {
+      "name": "ghidra",
+      "author": "NationalSecurityAgency",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "link": "https://github.com/NationalSecurityAgency/ghidra",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-21"
+    },
+    {
+      "name": "debpalash",
+      "author": "sponsors",
+      "description": "The open source coding agent.",
+      "link": "https://github.com/sponsors/debpalash",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-21"
+    },
+    {
+      "name": "VoiceStudio",
+      "author": "debpalash",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-21"
+    },
+    {
+      "name": "mksglu",
+      "author": "sponsors",
+      "description": "Give your agent CAD superpowers.",
+      "link": "https://github.com/sponsors/mksglu",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-21"
+    },
+    {
       "name": "context-mode",
       "author": "mksglu",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "link": "https://github.com/mksglu/context-mode",
       "stars": 0,
       "trend": 50,
@@ -893,318 +962,8 @@
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "RAG"
         }
       ],
-      "date": "2026-10-21"
-    },
-    {
-      "name": "scientific-agent-skills",
-      "author": "K-Dense-AI",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-21"
-    },
-    {
-      "name": "hyperframes",
-      "author": "heygen-com",
-      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
-      "link": "https://github.com/heygen-com/hyperframes",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-21"
-    },
-    {
-      "name": "agents",
-      "author": "wshobson",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/wshobson/agents",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-21"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-10-21"
-    },
-    {
-      "name": "open-webui",
-      "author": "open-webui",
-      "description": "用户友好的AI聊天界面，支持Ollama、OpenAI等多种大模型后端本地部署",
-      "link": "https://github.com/open-webui/open-webui",
-      "stars": 89000,
-      "trend": 1200,
-      "forks": 8900,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "UI"
-        }
-      ],
-      "icon": "🌐",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "ollama",
-      "author": "ollama",
-      "description": "本地运行Llama、Mistral、Gemma等大模型最简便方式，一行命令启动",
-      "link": "https://github.com/ollama/ollama",
-      "stars": 128000,
-      "trend": 2300,
-      "forks": 11200,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Local"
-        }
-      ],
-      "icon": "🦙",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "dify",
-      "author": "langgenius",
-      "description": "开源LLM应用开发平台，可视化AI工作流编排与RAG管道构建",
-      "link": "https://github.com/langgenius/dify",
-      "stars": 82000,
-      "trend": 980,
-      "forks": 12100,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "RAG"
-        }
-      ],
-      "icon": "⚡",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "ComfyUI",
-      "author": "comfyanonymous",
-      "description": "强大的节点式图像AI生成工作流工具，支持SD、Flux等各类模型",
-      "link": "https://github.com/comfyanonymous/ComfyUI",
-      "stars": 65000,
-      "trend": 750,
-      "forks": 7300,
-      "tags": [
-        {
-          "name": "Image"
-        },
-        {
-          "name": "AI"
-        }
-      ],
-      "icon": "🎨",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "langchain",
-      "author": "langchain-ai",
-      "description": "构建LLM应用程序的核心框架，提供链式调用与Agent工具集成",
-      "link": "https://github.com/langchain-ai/langchain",
-      "stars": 96000,
-      "trend": 600,
-      "forks": 16000,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Agent"
-        }
-      ],
-      "icon": "🔗",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "lobe-chat",
-      "author": "lobehub",
-      "description": "开源高性能AI聊天框架，支持多模型、插件系统与私有化部署",
-      "link": "https://github.com/lobehub/lobe-chat",
-      "stars": 51000,
-      "trend": 830,
-      "forks": 5600,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "UI"
-        }
-      ],
-      "icon": "💬",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "AutoGPT",
-      "author": "Significant-Gravitas",
-      "description": "自主AI代理平台，让GPT模型自动拆解任务并持续执行，Agent鼻祖项目",
-      "link": "https://github.com/Significant-Gravitas/AutoGPT",
-      "stars": 170000,
-      "trend": 500,
-      "forks": 44000,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Auto"
-        }
-      ],
-      "icon": "🤖",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "vllm",
-      "author": "vllm-project",
-      "description": "高吞吐量LLM推理引擎，PagedAttention大幅提升GPU利用率与并发能力",
-      "link": "https://github.com/vllm-project/vllm",
-      "stars": 40000,
-      "trend": 920,
-      "forks": 6100,
-      "tags": [
-        {
-          "name": "Inference"
-        },
-        {
-          "name": "GPU"
-        }
-      ],
-      "icon": "🚀",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "stable-diffusion-webui",
-      "author": "AUTOMATIC1111",
-      "description": "Stable Diffusion Web界面，图像生成神器，支持海量LoRA和插件",
-      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "stars": 145000,
-      "trend": 500,
-      "forks": 28000,
-      "tags": [
-        {
-          "name": "Image"
-        },
-        {
-          "name": "SD"
-        }
-      ],
-      "icon": "🌈",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "n8n",
-      "author": "n8n-io",
-      "description": "公平开源工作流自动化工具，支持AI集成，可自托管，支持500+应用",
-      "link": "https://github.com/n8n-io/n8n",
-      "stars": 48000,
-      "trend": 1100,
-      "forks": 7200,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Automation"
-        }
-      ],
-      "icon": "🔄",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "LocalAI",
-      "author": "mudler",
-      "description": "免费开源的OpenAI API替代方案，支持本地运行各类LLM、图像、音频",
-      "link": "https://github.com/mudler/LocalAI",
-      "stars": 27000,
-      "trend": 650,
-      "forks": 3100,
-      "tags": [
-        {
-          "name": "Local"
-        },
-        {
-          "name": "API"
-        }
-      ],
-      "icon": "🏠",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "Flowise",
-      "author": "FlowiseAI",
-      "description": "拖拽式LangChain可视化构建工具，快速搭建AI应用无需写代码",
-      "link": "https://github.com/FlowiseAI/Flowise",
-      "stars": 33000,
-      "trend": 780,
-      "forks": 4200,
-      "tags": [
-        {
-          "name": "RAG"
-        },
-        {
-          "name": "UI"
-        }
-      ],
-      "icon": "🌊",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "llama.cpp",
-      "author": "ggerganov",
-      "description": "C++实现的LLaMA推理引擎，支持CPU运行大模型，移动设备也可跑",
-      "link": "https://github.com/ggerganov/llama.cpp",
-      "stars": 72000,
-      "trend": 820,
-      "forks": 10500,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "CPU"
-        }
-      ],
-      "icon": "🦙",
       "date": "2026-10-21"
     }
   ],
@@ -1232,31 +991,9 @@
       "date": "2026-10-21"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@anonymous",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated ski",
-      "link": "https://github.com/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 3045,
-      "date": "2026-10-21"
-    },
-    {
-      "title": "开源项目: topics",
-      "author": "@anonymous",
-      "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/topics",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 1697,
-      "date": "2026-10-21"
-    },
-    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features a",
+      "description": "Write HTML. Render video. Built for agents.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1265,14 +1002,14 @@
       "date": "2026-10-21"
     },
     {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "link": "https://github.com/events",
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 2526,
+      "likes": 7510,
       "date": "2026-10-21"
     },
     {
@@ -1455,6 +1192,32 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-10-21"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
+      "date": "2026-10-21"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
       "date": "2026-10-21"
     }
   ],
