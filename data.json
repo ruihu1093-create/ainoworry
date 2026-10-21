@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-21 17:51:34",
+  "updatedAt": "2026-10-21 21:10:29",
   "news": [
+    {
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that impro",
+      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make pur",
+      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
       "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
@@ -68,24 +86,6 @@
       "title": "ChatGPT now lets you lock your chats",
       "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep tho",
       "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "summary": "Eric Schmidt’s fortune is about to get even bigger.",
-      "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-      "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
       "source": "TechCrunch-AI",
       "date": "2026-10-20",
       "tag": "trend",
