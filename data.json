@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-21 12:46:23",
+  "updatedAt": "2026-10-21 17:51:34",
   "news": [
+    {
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without t",
@@ -83,11 +92,38 @@
       "tagText": "资讯"
     },
     {
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-      "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-20",
+      "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+      "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
+      "link": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+      "source": "Wired-AI",
+      "date": "2026-10-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh",
+      "link": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+      "source": "Wired-AI",
+      "date": "2026-10-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+      "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patc",
+      "link": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+      "source": "Wired-AI",
+      "date": "2026-10-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+      "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their cr",
+      "link": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+      "source": "Wired-AI",
+      "date": "2026-10-21",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -124,42 +160,6 @@
       "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
       "source": "Wired-AI",
       "date": "2026-10-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-      "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
-      "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
-      "source": "Wired-AI",
-      "date": "2026-10-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-      "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “b",
-      "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-      "source": "Wired-AI",
-      "date": "2026-10-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-      "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to",
-      "link": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-      "source": "Wired-AI",
-      "date": "2026-10-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
-      "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-      "source": "Wired-AI",
-      "date": "2026-10-18",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -799,25 +799,10 @@
       "date": "2026-10-21"
     },
     {
-      "name": "developers",
-      "author": "trending",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "link": "https://github.com/trending/developers",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-10-21"
-    },
-    {
-      "name": "MadsLorentzen",
-      "author": "sponsors",
+      "name": "rea",
+      "author": "morluto",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "link": "https://github.com/sponsors/MadsLorentzen",
+      "link": "https://github.com/morluto/rea",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -829,10 +814,10 @@
       "date": "2026-10-21"
     },
     {
-      "name": "ai-job-search",
-      "author": "MadsLorentzen",
+      "name": "claude-plugins-official",
+      "author": "anthropics",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "link": "https://github.com/anthropics/claude-plugins-official",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -849,7 +834,7 @@
     {
       "name": "scientific-agent-skills",
       "author": "K-Dense-AI",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "stars": 0,
       "trend": 50,
@@ -857,6 +842,12 @@
       "tags": [
         {
           "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Audio"
         }
       ],
       "date": "2026-10-21"
@@ -864,7 +855,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "Write HTML. Render video. Built for agents.",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -877,10 +868,10 @@
       "date": "2026-10-21"
     },
     {
-      "name": "skills",
-      "author": "android",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "link": "https://github.com/android/skills",
+      "name": "ruflo",
+      "author": "ruvnet",
+      "description": "Write HTML. Render video. Built for agents.",
+      "link": "https://github.com/ruvnet/ruflo",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -894,7 +885,7 @@
     {
       "name": "ghidra",
       "author": "NationalSecurityAgency",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "link": "https://github.com/NationalSecurityAgency/ghidra",
       "stars": 0,
       "trend": 50,
@@ -909,7 +900,7 @@
     {
       "name": "debpalash",
       "author": "sponsors",
-      "description": "The open source coding agent.",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "link": "https://github.com/sponsors/debpalash",
       "stars": 0,
       "trend": 50,
@@ -924,7 +915,7 @@
     {
       "name": "VoiceStudio",
       "author": "debpalash",
-      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "description": "The open source coding agent.",
       "link": "https://github.com/debpalash/VoiceStudio",
       "stars": 0,
       "trend": 50,
@@ -939,7 +930,7 @@
     {
       "name": "mksglu",
       "author": "sponsors",
-      "description": "Give your agent CAD superpowers.",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
       "link": "https://github.com/sponsors/mksglu",
       "stars": 0,
       "trend": 50,
@@ -954,8 +945,23 @@
     {
       "name": "context-mode",
       "author": "mksglu",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "description": "Give your agent CAD superpowers.",
       "link": "https://github.com/mksglu/context-mode",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-21"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -980,31 +986,31 @@
       "date": "2026-10-21"
     },
     {
-      "title": "开源项目: manifest.json",
+      "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep ",
-      "link": "https://github.com/manifest.json",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platf",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 4324,
+      "likes": 1697,
       "date": "2026-10-21"
     },
     {
-      "title": "开源项目: collections",
+      "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/collections",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
-      "likes": 2046,
+      "likes": 2526,
       "date": "2026-10-21"
     },
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
