@@ -1,10 +1,64 @@
 {
-  "updatedAt": "2026-10-22 11:03:34",
+  "updatedAt": "2026-10-22 16:31:49",
   "news": [
+    {
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "summary": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
+      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its tec",
+      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
       "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
       "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
       "source": "TechCrunch-AI",
       "date": "2026-10-21",
       "tag": "trend",
@@ -29,56 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make pur",
-      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that va",
-      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without t",
-      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it wen",
-      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-20",
+      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+      "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+      "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+      "source": "Wired-AI",
+      "date": "2026-10-22",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
       "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
       "link": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
-      "source": "Wired-AI",
-      "date": "2026-10-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
-      "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambition",
-      "link": "https://www.wired.com/story/europe-data-centers-climate-change/",
       "source": "Wired-AI",
       "date": "2026-10-21",
       "tag": "trend",
@@ -638,15 +638,6 @@
       "date": "2026-10-21"
     },
     {
-      "title": "UPS’ Happy Returns comes to TikTok Shop",
-      "content": "<img src=\"https://imgproxy.divecdn.com/wNsbNamgvOckQflqjQ5Phazr9uYR6gc5mmAhbVmYchA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SZXR1cm5lZF9pdGVtc19wcmVwYXJlZF9mb3Jf",
-      "link": "https://www.retaildive.com/news/ups-happy-returns-tiktok-shop/833322/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-10-20"
-    },
-    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -939,14 +930,14 @@
     {
       "name": "ai-memory",
       "author": "akitaonrails",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "description": "GitHub热门AI项目，本周获得大量关注",
       "link": "https://github.com/akitaonrails/ai-memory",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Audio"
+          "name": "AI"
         }
       ],
       "date": "2026-10-22"
