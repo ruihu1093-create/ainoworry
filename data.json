@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-21 21:10:29",
+  "updatedAt": "2026-10-22 00:23:19",
   "news": [
+    {
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
       "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that impro",
@@ -14,6 +32,24 @@
       "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
       "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make pur",
       "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-21",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that va",
+      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
       "source": "TechCrunch-AI",
       "date": "2026-10-21",
       "tag": "trend",
@@ -47,47 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure",
-      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "SpaceX’s AI business is beating expectations",
-      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Work",
-      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "ChatGPT now lets you lock your chats",
-      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep tho",
-      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-20",
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay pu",
+      "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "source": "Wired-AI",
+      "date": "2026-10-21",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -168,7 +168,7 @@
       "summary": "o3在国际数学奥林匹克测试中近满分，代码能力超越99%程序员，推理成本较o1降低90%。",
       "link": "https://openai.com/o3",
       "source": "量子位",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -177,7 +177,7 @@
       "summary": "谷歌将实时多模态AI助手集成进Pixel设备和智能眼镜，支持持续感知周围环境并主动提醒。",
       "link": "https://io.google.com/",
       "source": "机器之心",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -186,7 +186,7 @@
       "summary": "Amazon领投，Anthropic将资金用于训练下一代Claude模型和扩大算力储备。",
       "link": "https://www.anthropic.com/",
       "source": "新智元",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -195,7 +195,7 @@
       "summary": "深度求索开源6710亿参数混合专家模型，推理成本极低，迅速在GitHub获得数万star。",
       "link": "https://chat.deepseek.com/",
       "source": "晚点LatePost",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -204,7 +204,7 @@
       "summary": "Operator能够自主浏览网页、填写表单、下单购物，成为首个真正可用的通用网页Agent。",
       "link": "https://openai.com/",
       "source": "暗涌Waves",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -213,7 +213,7 @@
       "summary": "AI搜索引擎月活超1亿，日查询量突破5亿，已开始冲击谷歌搜索市场份额。",
       "link": "https://www.perplexity.ai/",
       "source": "Founder Park",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -222,7 +222,7 @@
       "summary": "Cursor年经常性收入突破1亿美元，成为史上最快达成该里程碑的开发工具。",
       "link": "https://cursor.com/",
       "source": "特工宇宙",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "tag": "hot",
       "tagText": "热点"
     },
@@ -231,7 +231,7 @@
       "summary": "谷歌Gemini 2.5 Pro在编程、推理和长文本理解三个维度全面领先，Blind竞技场排名第一。",
       "link": "https://gemini.google.com/",
       "source": "机器之心",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -240,7 +240,7 @@
       "summary": "阿里发布2350亿参数旗舰模型，支持思考模式切换，多项评测超越GPT-4o。",
       "link": "https://chat.qwen.ai/",
       "source": "量子位",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -249,7 +249,7 @@
       "summary": "Grok 3接入X平台实时数据，推理能力大幅提升，支持深度思考模式和图像理解。",
       "link": "https://grok.x.ai/",
       "source": "晚点LatePost",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -258,7 +258,7 @@
       "summary": "Gen-4可跨场景保持人物/道具外观一致，解决了AI视频生成的核心痛点。",
       "link": "https://runwayml.com/",
       "source": "新智元",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "tag": "trend",
       "tagText": "趋势"
     },
@@ -267,7 +267,7 @@
       "summary": "2026年Q1 AI Agent领域融资超200亿美元，Coze、Dify、AutoGen等平台均完成重要融资。",
       "link": "https://www.geekpark.net/",
       "source": "极客公园",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "tag": "trend",
       "tagText": "趋势"
     }
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "我用 iPhone Duo 刷小红书、淘宝、飞书，发现作用不只是装「阔」",
+      "content": "头图图片来源：极客公园我在 iPhone Duo 上，把淘宝、高德、小红书、腾讯视频、飞",
+      "link": "http://www.geekpark.net/news/372710",
+      "source": "极客公园",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-22"
+    },
+    {
       "title": "亚马逊 CTO Dr. Werner Vogels：二十余年技术实践，想与创业者分享这 4 点",
       "content": "在 2026 年 亚马逊云科技软件企业峰会创业加速营巅峰路演 上，亚马逊副总裁兼首席技术官 Werner Vogels 博士与极客公园创始人 &amp; CEO 张鹏进行了一场极具深度的炉边对谈。面对当下狂热的 AI 创业潮与复杂的技术演进，Vogels 博士分享了亚马逊云科技走过二十年的底层商业逻辑，并为初创企业给出了极具实操性的避坑建议。</strong",
       "link": "http://www.geekpark.net/news/372671",
@@ -653,7 +662,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "京东言犀大模型客服覆盖全品类，问题解决率92%",
@@ -662,7 +671,7 @@
       "source": "京东",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "拼多多AI商品描述自动生成，商家效率提升10倍",
@@ -671,7 +680,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "TikTok Shop AI选品系统全球上线",
@@ -680,7 +689,7 @@
       "source": "TechCrunch",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "Shopify AI建站+运营一键通：从选品到广告全自动",
@@ -689,7 +698,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "SHEIN AI设计系统：7天从趋势到上架",
@@ -698,7 +707,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "亚马逊AI定价系统：实时竞争对手监控+自动调价",
@@ -707,7 +716,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "抖音AI直播间：数字人主播全天无休带货",
@@ -716,7 +725,7 @@
       "source": "36Kr",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "Temu AI供应链优化：海外仓备货准确率提升60%",
@@ -725,7 +734,7 @@
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "微信小店AI推荐算法升级，私域转化率翻番",
@@ -734,7 +743,7 @@
       "source": "极客公园",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "跨境卖家AI客服工具：支持40+语言实时翻译",
@@ -743,7 +752,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "天猫AI主图生成：上新效率提升5倍",
@@ -752,7 +761,7 @@
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "小红书AI种草内容审核：违规率降至0.1%",
@@ -761,7 +770,7 @@
       "source": "极客公园",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "eBay AI鉴定系统：二手商品真伪识别准确率99%",
@@ -770,7 +779,7 @@
       "source": "TechCrunch",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "唯品会AI个性化专场：精准匹配打折商品与用户喜好",
@@ -779,7 +788,7 @@
       "source": "36Kr",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     }
   ],
   "github": [
@@ -796,7 +805,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "name": "rea",
@@ -811,7 +820,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "name": "claude-plugins-official",
@@ -829,7 +838,7 @@
           "name": "RAG"
         }
       ],
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "name": "scientific-agent-skills",
@@ -850,7 +859,7 @@
           "name": "Audio"
         }
       ],
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "name": "github-actions",
@@ -865,7 +874,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "name": "ruflo",
@@ -880,7 +889,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "name": "ghidra",
@@ -895,7 +904,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "name": "debpalash",
@@ -910,7 +919,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "name": "VoiceStudio",
@@ -925,7 +934,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "name": "mksglu",
@@ -940,7 +949,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "name": "context-mode",
@@ -955,7 +964,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "name": "github-actions",
@@ -970,7 +979,7 @@
           "name": "Agent"
         }
       ],
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     }
   ],
   "agents": [
@@ -983,7 +992,7 @@
         "GitHub"
       ],
       "likes": 2325,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "开源项目: topics",
@@ -994,7 +1003,7 @@
         "GitHub"
       ],
       "likes": 1697,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "开源项目: events",
@@ -1005,7 +1014,7 @@
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "开源项目: explore",
@@ -1016,7 +1025,7 @@
         "GitHub"
       ],
       "likes": 7510,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "独立开发者用AI搭建自动化内容工厂",
@@ -1029,7 +1038,7 @@
         "Zapier"
       ],
       "likes": 2340,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "退休教师用AI创作儿童故事系列",
@@ -1042,7 +1051,7 @@
         "小红书"
       ],
       "likes": 5670,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "全职妈妈用AI开启副业月入2万",
@@ -1055,7 +1064,7 @@
         "1688"
       ],
       "likes": 8920,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "自由设计师的AI工作流完整分享",
@@ -1068,7 +1077,7 @@
         "Figma AI"
       ],
       "likes": 3120,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "乡村教师搭建AI英语陪练系统",
@@ -1081,7 +1090,7 @@
         "TTS"
       ],
       "likes": 15600,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "律师打造合同审查AI助手，效率提升10倍",
@@ -1094,7 +1103,7 @@
         "RAG"
       ],
       "likes": 4560,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "中学老师用AI批改作文，从4小时到20分钟",
@@ -1107,7 +1116,7 @@
         "Python"
       ],
       "likes": 7830,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "地方创业者用AI做非遗文创，登上央视",
@@ -1120,7 +1129,7 @@
         "淘宝"
       ],
       "likes": 12400,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "保险代理人打造AI客户服务助手",
@@ -1133,7 +1142,7 @@
         "微信"
       ],
       "likes": 2890,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "农村电商创业者AI选品系统月销百万",
@@ -1146,7 +1155,7 @@
         "1688"
       ],
       "likes": 9600,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "医生用AI整理患者随访记录",
@@ -1159,7 +1168,7 @@
         "Excel"
       ],
       "likes": 5210,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "婚庆公司AI策划：从5小时到30分钟",
@@ -1172,7 +1181,7 @@
         "Canva"
       ],
       "likes": 4100,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "编剧用AI预研剧本：6个月工作量缩至2周",
@@ -1185,7 +1194,7 @@
         "Notion"
       ],
       "likes": 3780,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "财务顾问搭建AI报表分析助手",
@@ -1198,7 +1207,7 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "旅游博主AI生成攻略，月入10万",
@@ -1211,7 +1220,7 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     },
     {
       "title": "餐厅老板AI菜单设计+营销一体化",
@@ -1224,7 +1233,7 @@
         "美团"
       ],
       "likes": 2650,
-      "date": "2026-10-21"
+      "date": "2026-10-22"
     }
   ],
   "personalization": {
