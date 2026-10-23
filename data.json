@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-23 03:08:47",
+  "updatedAt": "2026-10-23 09:02:38",
   "news": [
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Left alone with nothing to do, AI agents started playing",
       "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at th",
@@ -77,15 +86,6 @@
       "title": "Spotify’s current AI bet is about being the music service that agents choose",
       "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
       "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
       "source": "TechCrunch-AI",
       "date": "2026-10-22",
       "tag": "trend",
@@ -620,13 +620,13 @@
   ],
   "ecommerce": [
     {
-      "title": "我用 iPhone Duo 刷小红书、淘宝、飞书，发现作用不只是装「阔」",
-      "content": "头图图片来源：极客公园我在 iPhone Duo 上，把淘宝、高德、小红书、腾讯视频、飞",
-      "link": "http://www.geekpark.net/news/372710",
+      "title": "今年双 11，天猫想卖的不只是货，还有 Token",
+      "content": "「很多人赚不到认知以外的钱。那消费者呢？我认为，买不到他认知以外的商品。」10 月 15 日下午，上海世博中心，2026 天猫双 11 发布会。天猫总裁家洛开场没多久，就抛出了这句话。\n消费者的需求远比这些品类多，只是大部分还处在「沉睡」状态。过去的搜索解决不了这个问题。用户主动搜关键词、平台做精准匹配，在他看来，「更像一个统",
+      "link": "http://www.geekpark.net/news/372801",
       "source": "极客公园",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-22"
+      "date": "2026-10-23"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
