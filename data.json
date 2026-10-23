@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23 09:02:38",
+  "updatedAt": "2026-10-23 14:36:58",
   "news": [
     {
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
@@ -801,7 +801,7 @@
     {
       "name": "claude-plugins-official",
       "author": "anthropics",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "description": "The open source coding agent.",
       "link": "https://github.com/anthropics/claude-plugins-official",
       "stars": 0,
       "trend": 50,
@@ -816,7 +816,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "The open source coding agent.",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -829,25 +829,10 @@
       "date": "2026-10-23"
     },
     {
-      "name": "ruflo",
-      "author": "ruvnet",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "link": "https://github.com/ruvnet/ruflo",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-23"
-    },
-    {
-      "name": "scientific-agent-skills",
-      "author": "K-Dense-AI",
+      "name": "skills",
+      "author": "android",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "link": "https://github.com/android/skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -861,7 +846,7 @@
     {
       "name": "anomalyco",
       "author": "sponsors",
-      "description": "Write HTML. Render video. Built for agents.",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "link": "https://github.com/sponsors/anomalyco",
       "stars": 0,
       "trend": 50,
@@ -874,25 +859,10 @@
       "date": "2026-10-23"
     },
     {
-      "name": "opencode-agent",
-      "author": "apps",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "link": "https://github.com/apps/opencode-agent",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-23"
-    },
-    {
-      "name": "CLI-Anything",
-      "author": "HKUDS",
+      "name": "opencode",
+      "author": "anomalyco",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "link": "https://github.com/HKUDS/CLI-Anything",
+      "link": "https://github.com/anomalyco/opencode",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -904,9 +874,45 @@
       "date": "2026-10-23"
     },
     {
+      "name": "opencode-agent",
+      "author": "apps",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "link": "https://github.com/apps/opencode-agent",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Audio"
+        }
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "name": "orca",
+      "author": "stablyai",
+      "description": "Write HTML. Render video. Built for agents.",
+      "link": "https://github.com/stablyai/orca",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-23"
+    },
+    {
       "name": "plugins",
       "author": "cursor",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "link": "https://github.com/cursor/plugins",
       "stars": 0,
       "trend": 50,
@@ -921,7 +927,7 @@
     {
       "name": "ai-memory",
       "author": "akitaonrails",
-      "description": "GitHub热门AI项目，本周获得大量关注",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
       "link": "https://github.com/akitaonrails/ai-memory",
       "stars": 0,
       "trend": 50,
@@ -934,10 +940,10 @@
       "date": "2026-10-23"
     },
     {
-      "name": "orca",
-      "author": "stablyai",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/stablyai/orca",
+      "name": "CLI-Anything",
+      "author": "HKUDS",
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "link": "https://github.com/HKUDS/CLI-Anything",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -962,25 +968,25 @@
       "date": "2026-10-23"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "link": "https://github.com/explore",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 3045,
+      "likes": 1697,
       "date": "2026-10-23"
     },
     {
-      "title": "开源项目: events",
-      "author": "@anonymous",
+      "title": "开源项目: explore",
+      "author": "@sponsors",
       "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/events",
+      "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
       ],
-      "likes": 2526,
+      "likes": 7510,
       "date": "2026-10-23"
     },
     {
