@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-24 17:47:04",
+  "updatedAt": "2026-10-24 20:07:22",
   "news": [
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Block’s new voice model sounds eerily human",
       "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
@@ -77,15 +86,6 @@
       "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
       "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
       "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
       "source": "TechCrunch-AI",
       "date": "2026-10-22",
       "tag": "trend",
