@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-25 21:22:16",
+  "updatedAt": "2026-10-25 23:44:39",
   "news": [
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
       "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate Ameri",
@@ -77,15 +86,6 @@
       "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 ",
       "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of findin",
       "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
       "source": "TechCrunch-AI",
       "date": "2026-10-23",
       "tag": "trend",
