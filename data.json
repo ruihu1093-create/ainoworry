@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25 05:36:38",
+  "updatedAt": "2026-10-25 10:36:18",
   "news": [
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+      "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywher",
+      "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+      "source": "Wired-AI",
+      "date": "2026-10-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
       "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
       "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
@@ -149,15 +158,6 @@
       "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
       "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh",
       "link": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
-      "source": "Wired-AI",
-      "date": "2026-10-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-      "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patc",
-      "link": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
       "source": "Wired-AI",
       "date": "2026-10-21",
       "tag": "trend",
