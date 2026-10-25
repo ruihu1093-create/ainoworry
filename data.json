@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25 18:03:42",
+  "updatedAt": "2026-10-25 21:22:16",
   "news": [
     {
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "今年双 11，天猫想卖的不只是货，还有 Token",
+      "content": "「很多人赚不到认知以外的钱。那消费者呢？我认为，买不到他认知以外的商品。」10 月 15 日下午，上海世博中心，2026 天猫双 11 发布会。天猫总裁家洛开场没多久，就抛出了这句话。\n消费者的需求远比这些品类多，只是大部分还处在「沉睡」状态。过去的搜索解决不了这个问题。用户主动搜关键词、平台做精准匹配，在他看来，「更像一个统",
+      "link": "http://www.geekpark.net/news/372801",
+      "source": "极客公园",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-23"
+    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
