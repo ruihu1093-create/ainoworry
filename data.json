@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-26 08:33:33",
+  "updatedAt": "2026-10-26 15:47:11",
   "news": [
+    {
+      "title": "Anthropic officially files for its public debut",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure ",
+      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
       "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
@@ -83,11 +92,29 @@
       "tagText": "资讯"
     },
     {
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 ",
-      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of findin",
-      "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-23",
+      "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+      "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the futur",
+      "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+      "source": "Wired-AI",
+      "date": "2026-10-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+      "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
+      "link": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "source": "Wired-AI",
+      "date": "2026-10-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+      "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting wi",
+      "link": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+      "source": "Wired-AI",
+      "date": "2026-10-26",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -133,33 +160,6 @@
       "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
       "source": "Wired-AI",
       "date": "2026-10-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay pu",
-      "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
-      "source": "Wired-AI",
-      "date": "2026-10-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
-      "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
-      "link": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
-      "source": "Wired-AI",
-      "date": "2026-10-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh",
-      "link": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
-      "source": "Wired-AI",
-      "date": "2026-10-21",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -629,6 +629,15 @@
       "date": "2026-10-23"
     },
     {
+      "title": "The most expensive problems are the ones you’ve learned to live with",
+      "content": "Some of retail&rsquo;s biggest opportunities may be hiding inside familiar operational constraints.",
+      "link": "https://www.retaildive.com/spons/the-most-expensive-problems-are-the-ones-youve-learned-to-live-with/833681/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-26"
+    },
+    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -781,10 +790,10 @@
       "date": "2026-10-26"
     },
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "security-audit-skill",
+      "author": "cloudflare",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/cloudflare/security-audit-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -799,24 +808,9 @@
       "date": "2026-10-26"
     },
     {
-      "name": "ruflo",
-      "author": "ruvnet",
-      "description": "The open source coding agent.",
-      "link": "https://github.com/ruvnet/ruflo",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-26"
-    },
-    {
       "name": "knowledge-work-plugins",
       "author": "anthropics",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "description": "The open source coding agent.",
       "link": "https://github.com/anthropics/knowledge-work-plugins",
       "stars": 0,
       "trend": 50,
@@ -831,7 +825,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "Write HTML. Render video. Built for agents.",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -844,10 +838,10 @@
       "date": "2026-10-26"
     },
     {
-      "name": "anomalyco",
-      "author": "sponsors",
+      "name": "ruflo",
+      "author": "ruvnet",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "link": "https://github.com/sponsors/anomalyco",
+      "link": "https://github.com/ruvnet/ruflo",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -859,10 +853,10 @@
       "date": "2026-10-26"
     },
     {
-      "name": "opencode",
-      "author": "anomalyco",
+      "name": "anomalyco",
+      "author": "sponsors",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "link": "https://github.com/anomalyco/opencode",
+      "link": "https://github.com/sponsors/anomalyco",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -874,9 +868,24 @@
       "date": "2026-10-26"
     },
     {
+      "name": "opencode",
+      "author": "anomalyco",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "link": "https://github.com/anomalyco/opencode",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-10-26"
+    },
+    {
       "name": "opencode-agent",
       "author": "apps",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "link": "https://github.com/apps/opencode-agent",
       "stars": 0,
       "trend": 50,
@@ -886,7 +895,7 @@
           "name": "Agent"
         },
         {
-          "name": "Vision"
+          "name": "LLM"
         }
       ],
       "date": "2026-10-26"
@@ -894,29 +903,29 @@
     {
       "name": "orca",
       "author": "stablyai",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
       "link": "https://github.com/stablyai/orca",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-10-26"
     },
     {
-      "name": "hyperframes",
-      "author": "heygen-com",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "link": "https://github.com/heygen-com/hyperframes",
+      "name": "graphify",
+      "author": "Graphify-Labs",
+      "description": "Write HTML. Render video. Built for agents.",
+      "link": "https://github.com/Graphify-Labs/graphify",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "Agent"
         }
       ],
       "date": "2026-10-26"
@@ -924,12 +933,15 @@
     {
       "name": "skills",
       "author": "android",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "link": "https://github.com/android/skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
+        {
+          "name": "Agent"
+        },
         {
           "name": "LLM"
         }
@@ -939,14 +951,14 @@
     {
       "name": "ai-memory",
       "author": "akitaonrails",
-      "description": "GitHub热门AI项目，本周获得大量关注",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "link": "https://github.com/akitaonrails/ai-memory",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Vision"
         }
       ],
       "date": "2026-10-26"
@@ -965,35 +977,46 @@
       "date": "2026-10-26"
     },
     {
-      "title": "开源项目: manifest.json",
+      "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features a",
-      "link": "https://github.com/manifest.json",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 4324,
+      "likes": 1697,
       "date": "2026-10-26"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/explore",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub",
+        "LLM"
+      ],
+      "likes": 2046,
+      "date": "2026-10-26"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
-      "likes": 3045,
+      "likes": 2526,
       "date": "2026-10-26"
     },
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "description": "Write HTML. Render video. Built for agents.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 7510,
       "date": "2026-10-26"
@@ -1191,19 +1214,6 @@
         "剪映"
       ],
       "likes": 18500,
-      "date": "2026-10-26"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
       "date": "2026-10-26"
     }
   ],
