@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-27 00:12:21",
+  "updatedAt": "2026-10-27 05:56:10",
   "news": [
+    {
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a trai",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
       "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook r",
@@ -68,24 +86,6 @@
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Block’s new voice model sounds eerily human",
-      "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversation",
-      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. ",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in",
-      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
       "source": "TechCrunch-AI",
       "date": "2026-10-24",
       "tag": "trend",
