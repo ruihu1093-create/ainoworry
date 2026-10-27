@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-27 11:36:07",
+  "updatedAt": "2026-10-27 17:21:29",
   "news": [
+    {
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup,",
+      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
       "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
@@ -38,56 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic officially files for its public debut",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure ",
-      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate Ameri",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-24",
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+      "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ a",
+      "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "source": "Wired-AI",
+      "date": "2026-10-27",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
       "source": "Wired-AI",
       "date": "2026-10-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+      "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "source": "Wired-AI",
+      "date": "2026-10-24",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -635,6 +635,15 @@
       "source": "极客公园",
       "impact": "high",
       "impactText": "高",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Walmart’s chief marketer breaks down retailer’s Muppet-fueled holiday campaign",
+      "content": "For a unified push during the holidays, the retailer is recreating the world of &ldquo;The Muppet Christmas Carol&rdquo; and extending its &ldquo;Who Knew?&rdquo; brand platform.",
+      "link": "https://www.retaildive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/872773/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
       "date": "2026-10-27"
     },
     {
