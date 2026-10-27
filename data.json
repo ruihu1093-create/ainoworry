@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-27 05:56:10",
+  "updatedAt": "2026-10-27 11:36:07",
   "news": [
+    {
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
       "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
@@ -83,11 +92,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-24",
+      "title": "AI Agents Are Media’s New Favorite Audience",
+      "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+      "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+      "source": "Wired-AI",
+      "date": "2026-10-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+      "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+      "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+      "source": "Wired-AI",
+      "date": "2026-10-27",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -142,24 +160,6 @@
       "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
       "source": "Wired-AI",
       "date": "2026-10-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
-      "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-      "source": "Wired-AI",
-      "date": "2026-10-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Social Society Helping Women Join the AI Boom",
-      "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems us",
-      "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
-      "source": "Wired-AI",
-      "date": "2026-10-22",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,22 +620,31 @@
   ],
   "ecommerce": [
     {
-      "title": "今年双 11，天猫想卖的不只是货，还有 Token",
-      "content": "「很多人赚不到认知以外的钱。那消费者呢？我认为，买不到他认知以外的商品。」10 月 15 日下午，上海世博中心，2026 天猫双 11 发布会。天猫总裁家洛开场没多久，就抛出了这句话。\n消费者的需求远比这些品类多，只是大部分还处在「沉睡」状态。过去的搜索解决不了这个问题。用户主动搜关键词、平台做精准匹配，在他看来，「更像一个统",
-      "link": "http://www.geekpark.net/news/372801",
+      "title": "启元机器人第 5000 台下线，从规模化量产迈向商业化验证",
+      "content": "10 月 25 日，启元机器人第 5000 台个人机器人正式下线。从 9 月 20 日发售启元 Q1、T1 两款个人机器人，到一个月后完成 5000 台下线，启元在产能爬坡、制造体系与供应链协同上取得阶段性进展。\n对仍处产业化早期的个人机器人行业而言，5000 台的意义不止于产量增长，更在于企业将研发阶段的技术能力转化为可复制的制造能力，并进一步连接产品交付、",
+      "link": "http://www.geekpark.net/news/373003",
       "source": "极客公园",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-23"
+      "date": "2026-10-27"
     },
     {
-      "title": "The most expensive problems are the ones you’ve learned to live with",
-      "content": "Some of retail&rsquo;s biggest opportunities may be hiding inside familiar operational constraints.",
-      "link": "https://www.retaildive.com/spons/the-most-expensive-problems-are-the-ones-youve-learned-to-live-with/833681/",
+      "title": "帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状",
+      "content": "Shopify AI 交易订单增长了 13 倍。\n10 月 16 日清晨，苹果第一",
+      "link": "http://www.geekpark.net/news/373002",
+      "source": "极客公园",
+      "impact": "high",
+      "impactText": "高",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "5 of the biggest retail horror stories of 2026",
+      "content": "<img src=\"https://imgproxy.divecdn.com/kWBhtqa658eyfvtc-uyyFd2kCH9PZTxGqMTOdUjzdSE/g:nowe:0:89/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yM",
+      "link": "https://www.retaildive.com/news/retail-horror-stories-nike-turnaround-lululemon-chip-wilson-2026/833866/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-26"
+      "date": "2026-10-27"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -792,7 +801,7 @@
     {
       "name": "security-audit-skill",
       "author": "cloudflare",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "link": "https://github.com/cloudflare/security-audit-skill",
       "stars": 0,
       "trend": 50,
@@ -802,7 +811,7 @@
           "name": "Agent"
         },
         {
-          "name": "RAG"
+          "name": "LLM"
         }
       ],
       "date": "2026-10-27"
@@ -810,68 +819,8 @@
     {
       "name": "knowledge-work-plugins",
       "author": "anthropics",
-      "description": "The open source coding agent.",
-      "link": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-27"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-27"
-    },
-    {
-      "name": "ruflo",
-      "author": "ruvnet",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "link": "https://github.com/ruvnet/ruflo",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "RAG"
-        }
-      ],
-      "date": "2026-10-27"
-    },
-    {
-      "name": "anomalyco",
-      "author": "sponsors",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "link": "https://github.com/sponsors/anomalyco",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-27"
-    },
-    {
-      "name": "opencode",
-      "author": "anomalyco",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "link": "https://github.com/anomalyco/opencode",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -883,10 +832,10 @@
       "date": "2026-10-27"
     },
     {
-      "name": "opencode-agent",
+      "name": "github-actions",
       "author": "apps",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "link": "https://github.com/apps/opencode-agent",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -901,10 +850,58 @@
       "date": "2026-10-27"
     },
     {
-      "name": "orca",
-      "author": "stablyai",
-      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
-      "link": "https://github.com/stablyai/orca",
+      "name": "claude-seo",
+      "author": "AgriciDaniel",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "link": "https://github.com/AgriciDaniel/claude-seo",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-10-27"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "RAG"
+        }
+      ],
+      "date": "2026-10-27"
+    },
+    {
+      "name": "andrej-karpathy-skills",
+      "author": "multica-ai",
+      "description": "The open source coding agent.",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-27"
+    },
+    {
+      "name": "TradingAgents",
+      "author": "TauricResearch",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "link": "https://github.com/TauricResearch/TradingAgents",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -918,7 +915,7 @@
     {
       "name": "graphify",
       "author": "Graphify-Labs",
-      "description": "Write HTML. Render video. Built for agents.",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "link": "https://github.com/Graphify-Labs/graphify",
       "stars": 0,
       "trend": 50,
@@ -931,19 +928,31 @@
       "date": "2026-10-27"
     },
     {
-      "name": "skills",
-      "author": "android",
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "link": "https://github.com/android/skills",
+      "name": "opencode-agent",
+      "author": "apps",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/apps/opencode-agent",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        },
+        }
+      ],
+      "date": "2026-10-27"
+    },
+    {
+      "name": "orca",
+      "author": "stablyai",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/stablyai/orca",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
         {
-          "name": "LLM"
+          "name": "AI"
         }
       ],
       "date": "2026-10-27"
@@ -951,14 +960,14 @@
     {
       "name": "ai-memory",
       "author": "akitaonrails",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "description": "GitHub热门AI项目，本周获得大量关注",
       "link": "https://github.com/akitaonrails/ai-memory",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Vision"
+          "name": "AI"
         }
       ],
       "date": "2026-10-27"
@@ -979,7 +988,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features a",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -990,11 +999,10 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on deskt",
       "link": "https://github.com/collections",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 2046,
       "date": "2026-10-27"
@@ -1002,23 +1010,12 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-10-27"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "Write HTML. Render video. Built for agents.",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-10-27"
     },
     {
@@ -1214,6 +1211,19 @@
         "剪映"
       ],
       "likes": 18500,
+      "date": "2026-10-27"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
       "date": "2026-10-27"
     }
   ],
