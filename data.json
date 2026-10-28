@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-10-28 13:46:30",
+  "updatedAt": "2026-10-28 19:17:26",
   "news": [
+    {
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps",
+      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI execs may be too out of touch to build for the general public",
+      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+      "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a bi",
+      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
       "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
@@ -20,65 +65,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insider",
-      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Who’s really in charge at Anthropic after the IPO?",
-      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
-      "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup,",
-      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-27",
+      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+      "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the err",
+      "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+      "source": "Wired-AI",
+      "date": "2026-10-28",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
       "source": "Wired-AI",
       "date": "2026-10-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-10-28",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -891,8 +891,26 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "Vision"
+        }
+      ],
+      "date": "2026-10-28"
+    },
+    {
+      "name": "TradingAgents",
+      "author": "TauricResearch",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "link": "https://github.com/TauricResearch/TradingAgents",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -907,10 +925,10 @@
       "date": "2026-10-28"
     },
     {
-      "name": "TradingAgents",
-      "author": "TauricResearch",
+      "name": "impeccable",
+      "author": "pbakaus",
       "description": "The open source coding agent.",
-      "link": "https://github.com/TauricResearch/TradingAgents",
+      "link": "https://github.com/pbakaus/impeccable",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -922,10 +940,10 @@
       "date": "2026-10-28"
     },
     {
-      "name": "impeccable",
-      "author": "pbakaus",
+      "name": "github-actions",
+      "author": "apps",
       "description": "A collection of agent skills that help you build great interfaces.",
-      "link": "https://github.com/pbakaus/impeccable",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -1197,25 +1215,6 @@
       ],
       "icon": "🦙",
       "date": "2026-10-28"
-    },
-    {
-      "name": "openai-cookbook",
-      "author": "openai",
-      "description": "OpenAI官方示例和最佳实践，涵盖各类API用法和Prompt工程技巧",
-      "link": "https://github.com/openai/openai-cookbook",
-      "stars": 60000,
-      "trend": 400,
-      "forks": 9700,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Prompt"
-        }
-      ],
-      "icon": "📖",
-      "date": "2026-10-28"
     }
   ],
   "agents": [
@@ -1255,7 +1254,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "The open source coding agent.",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features a",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1266,12 +1265,23 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "A collection of agent skills that help you build great interfaces.",
+      "description": "The open source coding agent.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
       "likes": 2526,
+      "date": "2026-10-28"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "A collection of agent skills that help you build great interfaces.",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-10-28"
     },
     {
@@ -1454,19 +1464,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-10-28"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-10-28"
     }
   ],
