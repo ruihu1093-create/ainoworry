@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-28 00:55:50",
+  "updatedAt": "2026-10-28 06:36:14",
   "news": [
+    {
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
       "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she di",
@@ -74,11 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-27",
+      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be",
+      "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+      "source": "Wired-AI",
+      "date": "2026-10-28",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
       "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
       "link": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
-      "source": "Wired-AI",
-      "date": "2026-10-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
-      "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting wi",
-      "link": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
       "source": "Wired-AI",
       "date": "2026-10-26",
       "tag": "trend",
