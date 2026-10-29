@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29 04:07:00",
+  "updatedAt": "2026-10-29 11:15:18",
   "news": [
     {
       "title": "Google expands AI Search ads globally as core ad growth slows",
@@ -61,6 +61,15 @@
       "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
       "source": "TechCrunch-AI",
       "date": "2026-10-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "I Gave My Blood to the AI Death Clock",
+      "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life ou",
+      "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+      "source": "Wired-AI",
+      "date": "2026-10-29",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -146,20 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
-      "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
-      "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
-      "source": "Wired-AI",
-      "date": "2026-10-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Creating AI value with enterprise context",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversati",
-      "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Huggin",
+      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
       "source": "MIT-Tech-Review",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -808,10 +808,10 @@
       "date": "2026-10-29"
     },
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "security-audit-skill",
+      "author": "cloudflare",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/cloudflare/security-audit-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -826,10 +826,25 @@
       "date": "2026-10-29"
     },
     {
-      "name": "security-audit-skill",
-      "author": "cloudflare",
+      "name": "php-src",
+      "author": "php",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "link": "https://github.com/php/php-src",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-29"
+    },
+    {
+      "name": "claude-seo",
+      "author": "AgriciDaniel",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "link": "https://github.com/cloudflare/security-audit-skill",
+      "link": "https://github.com/AgriciDaniel/claude-seo",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -859,10 +874,10 @@
       "date": "2026-10-29"
     },
     {
-      "name": "andrej-karpathy-skills",
-      "author": "multica-ai",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "name": "impeccable",
+      "author": "pbakaus",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "link": "https://github.com/pbakaus/impeccable",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -874,25 +889,10 @@
       "date": "2026-10-29"
     },
     {
-      "name": "knowledge-work-plugins",
-      "author": "anthropics",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "link": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "RAG"
-        }
-      ],
-      "date": "2026-10-29"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
+      "name": "andrej-karpathy-skills",
+      "author": "multica-ai",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -909,8 +909,23 @@
     {
       "name": "TradingAgents",
       "author": "TauricResearch",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "description": "A collection of agent skills that help you build great interfaces.",
       "link": "https://github.com/TauricResearch/TradingAgents",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-29"
+    },
+    {
+      "name": "obra",
+      "author": "sponsors",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "link": "https://github.com/sponsors/obra",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -920,51 +935,6 @@
         },
         {
           "name": "RAG"
-        }
-      ],
-      "date": "2026-10-29"
-    },
-    {
-      "name": "impeccable",
-      "author": "pbakaus",
-      "description": "The open source coding agent.",
-      "link": "https://github.com/pbakaus/impeccable",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-29"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "A collection of agent skills that help you build great interfaces.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-29"
-    },
-    {
-      "name": "opencode-agent",
-      "author": "apps",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/apps/opencode-agent",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-10-29"
@@ -1215,6 +1185,44 @@
       ],
       "icon": "🦙",
       "date": "2026-10-29"
+    },
+    {
+      "name": "openai-cookbook",
+      "author": "openai",
+      "description": "OpenAI官方示例和最佳实践，涵盖各类API用法和Prompt工程技巧",
+      "link": "https://github.com/openai/openai-cookbook",
+      "stars": 60000,
+      "trend": 400,
+      "forks": 9700,
+      "tags": [
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Prompt"
+        }
+      ],
+      "icon": "📖",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "haystack",
+      "author": "deepset-ai",
+      "description": "企业级RAG和搜索框架，支持多种向量数据库和LLM后端",
+      "link": "https://github.com/deepset-ai/haystack",
+      "stars": 17000,
+      "trend": 320,
+      "forks": 1900,
+      "tags": [
+        {
+          "name": "RAG"
+        },
+        {
+          "name": "Search"
+        }
+      ],
+      "icon": "🔍",
+      "date": "2026-10-29"
     }
   ],
   "agents": [
@@ -1230,31 +1238,32 @@
       "date": "2026-10-29"
     },
     {
-      "title": "开源项目: manifest.json",
-      "author": "@anonymous",
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agent",
-      "link": "https://github.com/manifest.json",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 4324,
-      "date": "2026-10-29"
-    },
-    {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 3045,
       "date": "2026-10-29"
     },
     {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
+      "date": "2026-10-29"
+    },
+    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features a",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1265,7 +1274,7 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "The open source coding agent.",
+      "description": "A collection of agent skills that help you build great interfaces.",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1276,7 +1285,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "A collection of agent skills that help you build great interfaces.",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features a",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
