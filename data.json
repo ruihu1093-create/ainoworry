@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-10-29 11:15:18",
+  "updatedAt": "2026-10-29 17:57:14",
   "news": [
+    {
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting",
+      "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, source",
+      "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million sq",
+      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+      "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-29",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Google expands AI Search ads globally as core ad growth slows",
       "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
@@ -20,47 +74,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly r",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-28",
+      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+      "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as inten",
+      "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+      "source": "Wired-AI",
+      "date": "2026-10-29",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps",
-      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI execs may be too out of touch to build for the general public",
-      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-      "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-28",
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+      "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "source": "Wired-AI",
+      "date": "2026-10-29",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -133,33 +160,6 @@
       "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
       "source": "Wired-AI",
       "date": "2026-10-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
-      "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
-      "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
-      "source": "Wired-AI",
-      "date": "2026-10-27",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-      "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one ana",
-      "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-      "source": "Wired-AI",
-      "date": "2026-10-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Huggin",
-      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-10-29",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -635,24 +635,6 @@
       "source": "极客公园",
       "impact": "high",
       "impactText": "高",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Walmart’s chief marketer breaks down retailer’s Muppet-fueled holiday campaign",
-      "content": "For a unified push during the holidays, the retailer is recreating the world of &ldquo;The Muppet Christmas Carol&rdquo; and extending its &ldquo;Who Knew?&rdquo; brand platform.",
-      "link": "https://www.retaildive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/872773/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "5 of the biggest retail horror stories of 2026",
-      "content": "<img src=\"https://imgproxy.divecdn.com/kWBhtqa658eyfvtc-uyyFd2kCH9PZTxGqMTOdUjzdSE/g:nowe:0:89/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yM",
-      "link": "https://www.retaildive.com/news/retail-horror-stories-nike-turnaround-lululemon-chip-wilson-2026/833866/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
       "date": "2026-10-27"
     },
     {
