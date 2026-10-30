@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-30 09:31:34",
+  "updatedAt": "2026-10-30 16:29:46",
   "news": [
+    {
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion",
+      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those con",
+      "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "summary": "DoorDash said that it is open to working with third-party agent makers.",
+      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scal",
+      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
       "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
@@ -41,51 +77,6 @@
       "title": "OpenAI-backed Thrive Holdings acquires ADT",
       "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
       "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recordi",
-      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting",
-      "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, source",
-      "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million sq",
-      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
       "source": "TechCrunch-AI",
       "date": "2026-10-29",
       "tag": "trend",
@@ -160,6 +151,15 @@
       "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
       "source": "Wired-AI",
       "date": "2026-10-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+      "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the br",
+      "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+      "source": "Wired-AI",
+      "date": "2026-10-27",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,6 +620,24 @@
   ],
   "ecommerce": [
     {
+      "title": "Amazon CEO says retail business is being slept on",
+      "content": "<img src=\"https://imgproxy.divecdn.com/W8otGYCEhmqVZWYWnlWpCPOyS7hXi-N1JStferVYYdQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDMzMTAwNjA1LmpwZw==",
+      "link": "https://www.retaildive.com/news/amazon-ceo-retail-business-important-q3-earnings/873316/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "The Weekly Closeout: Roots CEO exits, the FTC zeroes in on price",
+      "content": "The chief executive stepped down following the outdoor retailer&rsquo;s go-private deal. Meanwhile, the agency has been focused on how retailers set prices.",
+      "link": "https://www.retaildive.com/news/roots-ceo-exits-ftc-retailers-prices-brooks-earnings/873246/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-10-30"
+    },
+    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -772,10 +790,10 @@
       "date": "2026-10-30"
     },
     {
-      "name": "security-audit-skill",
-      "author": "cloudflare",
+      "name": "developers",
+      "author": "trending",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "link": "https://github.com/cloudflare/security-audit-skill",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -790,10 +808,10 @@
       "date": "2026-10-30"
     },
     {
-      "name": "php-src",
-      "author": "php",
+      "name": "security-audit-skill",
+      "author": "cloudflare",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "link": "https://github.com/php/php-src",
+      "link": "https://github.com/cloudflare/security-audit-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -807,14 +825,14 @@
     {
       "name": "claude-seo",
       "author": "AgriciDaniel",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
       "link": "https://github.com/AgriciDaniel/claude-seo",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "Agent"
         }
       ],
       "date": "2026-10-30"
@@ -840,23 +858,23 @@
     {
       "name": "impeccable",
       "author": "pbakaus",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "link": "https://github.com/pbakaus/impeccable",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "LLM"
         }
       ],
       "date": "2026-10-30"
     },
     {
-      "name": "andrej-karpathy-skills",
-      "author": "multica-ai",
+      "name": "github-actions",
+      "author": "apps",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -871,9 +889,24 @@
       "date": "2026-10-30"
     },
     {
+      "name": "obra",
+      "author": "sponsors",
+      "description": "A collection of agent skills that help you build great interfaces.",
+      "link": "https://github.com/sponsors/obra",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-30"
+    },
+    {
       "name": "TradingAgents",
       "author": "TauricResearch",
-      "description": "A collection of agent skills that help you build great interfaces.",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "link": "https://github.com/TauricResearch/TradingAgents",
       "stars": 0,
       "trend": 50,
@@ -886,10 +919,25 @@
       "date": "2026-10-30"
     },
     {
-      "name": "obra",
+      "name": "andrej-karpathy-skills",
+      "author": "multica-ai",
+      "description": "Public repository for Agent Skills",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-10-30"
+    },
+    {
+      "name": "Leonxlnx",
       "author": "sponsors",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "link": "https://github.com/sponsors/obra",
+      "link": "https://github.com/sponsors/Leonxlnx",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -904,288 +952,18 @@
       "date": "2026-10-30"
     },
     {
-      "name": "open-webui",
-      "author": "open-webui",
-      "description": "用户友好的AI聊天界面，支持Ollama、OpenAI等多种大模型后端本地部署",
-      "link": "https://github.com/open-webui/open-webui",
-      "stars": 89000,
-      "trend": 1200,
-      "forks": 8900,
+      "name": "dependabot",
+      "author": "apps",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
       "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "UI"
-        }
-      ],
-      "icon": "🌐",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "ollama",
-      "author": "ollama",
-      "description": "本地运行Llama、Mistral、Gemma等大模型最简便方式，一行命令启动",
-      "link": "https://github.com/ollama/ollama",
-      "stars": 128000,
-      "trend": 2300,
-      "forks": 11200,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Local"
-        }
-      ],
-      "icon": "🦙",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "dify",
-      "author": "langgenius",
-      "description": "开源LLM应用开发平台，可视化AI工作流编排与RAG管道构建",
-      "link": "https://github.com/langgenius/dify",
-      "stars": 82000,
-      "trend": 980,
-      "forks": 12100,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "RAG"
-        }
-      ],
-      "icon": "⚡",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "ComfyUI",
-      "author": "comfyanonymous",
-      "description": "强大的节点式图像AI生成工作流工具，支持SD、Flux等各类模型",
-      "link": "https://github.com/comfyanonymous/ComfyUI",
-      "stars": 65000,
-      "trend": 750,
-      "forks": 7300,
-      "tags": [
-        {
-          "name": "Image"
-        },
         {
           "name": "AI"
         }
       ],
-      "icon": "🎨",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "langchain",
-      "author": "langchain-ai",
-      "description": "构建LLM应用程序的核心框架，提供链式调用与Agent工具集成",
-      "link": "https://github.com/langchain-ai/langchain",
-      "stars": 96000,
-      "trend": 600,
-      "forks": 16000,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Agent"
-        }
-      ],
-      "icon": "🔗",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "lobe-chat",
-      "author": "lobehub",
-      "description": "开源高性能AI聊天框架，支持多模型、插件系统与私有化部署",
-      "link": "https://github.com/lobehub/lobe-chat",
-      "stars": 51000,
-      "trend": 830,
-      "forks": 5600,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "UI"
-        }
-      ],
-      "icon": "💬",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "AutoGPT",
-      "author": "Significant-Gravitas",
-      "description": "自主AI代理平台，让GPT模型自动拆解任务并持续执行，Agent鼻祖项目",
-      "link": "https://github.com/Significant-Gravitas/AutoGPT",
-      "stars": 170000,
-      "trend": 500,
-      "forks": 44000,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Auto"
-        }
-      ],
-      "icon": "🤖",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "vllm",
-      "author": "vllm-project",
-      "description": "高吞吐量LLM推理引擎，PagedAttention大幅提升GPU利用率与并发能力",
-      "link": "https://github.com/vllm-project/vllm",
-      "stars": 40000,
-      "trend": 920,
-      "forks": 6100,
-      "tags": [
-        {
-          "name": "Inference"
-        },
-        {
-          "name": "GPU"
-        }
-      ],
-      "icon": "🚀",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "stable-diffusion-webui",
-      "author": "AUTOMATIC1111",
-      "description": "Stable Diffusion Web界面，图像生成神器，支持海量LoRA和插件",
-      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "stars": 145000,
-      "trend": 500,
-      "forks": 28000,
-      "tags": [
-        {
-          "name": "Image"
-        },
-        {
-          "name": "SD"
-        }
-      ],
-      "icon": "🌈",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "n8n",
-      "author": "n8n-io",
-      "description": "公平开源工作流自动化工具，支持AI集成，可自托管，支持500+应用",
-      "link": "https://github.com/n8n-io/n8n",
-      "stars": 48000,
-      "trend": 1100,
-      "forks": 7200,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Automation"
-        }
-      ],
-      "icon": "🔄",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "LocalAI",
-      "author": "mudler",
-      "description": "免费开源的OpenAI API替代方案，支持本地运行各类LLM、图像、音频",
-      "link": "https://github.com/mudler/LocalAI",
-      "stars": 27000,
-      "trend": 650,
-      "forks": 3100,
-      "tags": [
-        {
-          "name": "Local"
-        },
-        {
-          "name": "API"
-        }
-      ],
-      "icon": "🏠",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "Flowise",
-      "author": "FlowiseAI",
-      "description": "拖拽式LangChain可视化构建工具，快速搭建AI应用无需写代码",
-      "link": "https://github.com/FlowiseAI/Flowise",
-      "stars": 33000,
-      "trend": 780,
-      "forks": 4200,
-      "tags": [
-        {
-          "name": "RAG"
-        },
-        {
-          "name": "UI"
-        }
-      ],
-      "icon": "🌊",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "llama.cpp",
-      "author": "ggerganov",
-      "description": "C++实现的LLaMA推理引擎，支持CPU运行大模型，移动设备也可跑",
-      "link": "https://github.com/ggerganov/llama.cpp",
-      "stars": 72000,
-      "trend": 820,
-      "forks": 10500,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "CPU"
-        }
-      ],
-      "icon": "🦙",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "openai-cookbook",
-      "author": "openai",
-      "description": "OpenAI官方示例和最佳实践，涵盖各类API用法和Prompt工程技巧",
-      "link": "https://github.com/openai/openai-cookbook",
-      "stars": 60000,
-      "trend": 400,
-      "forks": 9700,
-      "tags": [
-        {
-          "name": "LLM"
-        },
-        {
-          "name": "Prompt"
-        }
-      ],
-      "icon": "📖",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "haystack",
-      "author": "deepset-ai",
-      "description": "企业级RAG和搜索框架，支持多种向量数据库和LLM后端",
-      "link": "https://github.com/deepset-ai/haystack",
-      "stars": 17000,
-      "trend": 320,
-      "forks": 1900,
-      "tags": [
-        {
-          "name": "RAG"
-        },
-        {
-          "name": "Search"
-        }
-      ],
-      "icon": "🔍",
       "date": "2026-10-30"
     }
   ],
@@ -1202,9 +980,20 @@
       "date": "2026-10-30"
     },
     {
+      "title": "开源项目: manifest.json",
+      "author": "@anonymous",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agent",
+      "link": "https://github.com/manifest.json",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 4324,
+      "date": "2026-10-30"
+    },
+    {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub",
@@ -1216,7 +1005,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -1225,20 +1014,9 @@
       "date": "2026-10-30"
     },
     {
-      "title": "开源项目: collections",
-      "author": "@anonymous",
-      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "link": "https://github.com/collections",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2046,
-      "date": "2026-10-30"
-    },
-    {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "A collection of agent skills that help you build great interfaces.",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1249,7 +1027,7 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features a",
+      "description": "Public repository for Agent Skills",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
