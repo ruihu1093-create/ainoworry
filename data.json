@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-30 16:29:46",
+  "updatedAt": "2026-10-30 21:20:42",
   "news": [
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions abou",
+      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-30",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
       "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion",
@@ -50,33 +68,6 @@
       "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its ca",
       "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "source": "TechCrunch-AI",
       "date": "2026-10-29",
       "tag": "trend",
@@ -158,6 +149,15 @@
       "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
       "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the br",
       "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+      "source": "Wired-AI",
+      "date": "2026-10-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+      "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ a",
+      "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
       "source": "Wired-AI",
       "date": "2026-10-27",
       "tag": "trend",
