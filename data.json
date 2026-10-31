@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-31 19:02:12",
+  "updatedAt": "2026-10-31 22:59:55",
   "news": [
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI reportedly lowers funding target for new round",
       "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
@@ -59,24 +77,6 @@
       "title": "Cracks are emerging in the AI spending boom",
       "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions abou",
       "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion",
-      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
       "source": "TechCrunch-AI",
       "date": "2026-10-30",
       "tag": "trend",
