@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31 07:56:09",
+  "updatedAt": "2026-10-31 14:17:15",
   "news": [
     {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -83,6 +83,33 @@
       "tagText": "资讯"
     },
     {
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card ",
+      "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "source": "Wired-AI",
+      "date": "2026-10-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "source": "Wired-AI",
+      "date": "2026-10-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research lab",
+      "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "source": "Wired-AI",
+      "date": "2026-10-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
       "summary": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
@@ -131,33 +158,6 @@
       "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
       "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the err",
       "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
-      "source": "Wired-AI",
-      "date": "2026-10-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five pub",
-      "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "source": "Wired-AI",
-      "date": "2026-10-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-      "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-      "source": "Wired-AI",
-      "date": "2026-10-28",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
-      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be",
-      "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
       "source": "Wired-AI",
       "date": "2026-10-28",
       "tag": "trend",
@@ -777,8 +777,23 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "link": "https://github.com/sponsors/explore",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-10-31"
+    },
+    {
+      "name": "developers",
+      "author": "trending",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -790,10 +805,10 @@
       "date": "2026-10-31"
     },
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "hallmark",
+      "author": "Nutlope",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/Nutlope/hallmark",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -840,8 +855,23 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-10-31"
+    },
+    {
+      "name": "impeccable",
+      "author": "pbakaus",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "link": "https://github.com/pbakaus/impeccable",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -856,25 +886,25 @@
       "date": "2026-10-31"
     },
     {
-      "name": "impeccable",
-      "author": "pbakaus",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "link": "https://github.com/pbakaus/impeccable",
+      "name": "github-actions",
+      "author": "apps",
+      "description": "A collection of agent skills that help you build great interfaces.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "Agent"
         }
       ],
       "date": "2026-10-31"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
+      "name": "obra",
+      "author": "sponsors",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/sponsors/obra",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -889,25 +919,10 @@
       "date": "2026-10-31"
     },
     {
-      "name": "obra",
-      "author": "sponsors",
-      "description": "A collection of agent skills that help you build great interfaces.",
-      "link": "https://github.com/sponsors/obra",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-10-31"
-    },
-    {
-      "name": "TradingAgents",
-      "author": "TauricResearch",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "link": "https://github.com/TauricResearch/TradingAgents",
+      "name": "superpowers",
+      "author": "obra",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "link": "https://github.com/obra/superpowers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -934,34 +949,16 @@
       "date": "2026-10-31"
     },
     {
-      "name": "Leonxlnx",
-      "author": "sponsors",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "link": "https://github.com/sponsors/Leonxlnx",
+      "name": "TradingAgents",
+      "author": "TauricResearch",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "link": "https://github.com/TauricResearch/TradingAgents",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "RAG"
-        }
-      ],
-      "date": "2026-10-31"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
         }
       ],
       "date": "2026-10-31"
@@ -971,7 +968,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -982,7 +979,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agent",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -1005,18 +1002,30 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 1697,
       "date": "2026-10-31"
     },
     {
+      "title": "开源项目: collections",
+      "author": "@anonymous",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "link": "https://github.com/collections",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2046,
+      "date": "2026-10-31"
+    },
+    {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant ",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
@@ -1202,19 +1211,6 @@
         "Notion"
       ],
       "likes": 3780,
-      "date": "2026-10-31"
-    },
-    {
-      "title": "财务顾问搭建AI报表分析助手",
-      "author": "@CFO老李",
-      "description": "基于本地部署的开源大模型搭建财务分析Agent，能读取报表自动识别风险和异常项，数据不出企业。",
-      "link": "https://ollama.com/",
-      "tools": [
-        "Ollama",
-        "DeepSeek",
-        "Python"
-      ],
-      "likes": 6300,
       "date": "2026-10-31"
     }
   ],
