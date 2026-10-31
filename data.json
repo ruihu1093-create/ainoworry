@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-31 14:17:15",
+  "updatedAt": "2026-10-31 19:02:12",
   "news": [
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch-AI",
+      "date": "2026-10-31",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
@@ -68,15 +77,6 @@
       "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
       "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion",
       "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those con",
-      "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
       "source": "TechCrunch-AI",
       "date": "2026-10-30",
       "tag": "trend",
