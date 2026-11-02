@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-02 07:08:32",
+  "updatedAt": "2026-11-02 17:44:29",
   "news": [
+    {
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation",
+      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-02",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
       "summary": "Data centers are deeply unpopular. But what if we called them something else?",
@@ -38,47 +74,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-31",
+      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
+      "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a",
+      "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+      "source": "Wired-AI",
+      "date": "2026-11-02",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-31",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutt",
-      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-30",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the mon",
-      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "source": "TechCrunch-AI",
-      "date": "2026-10-30",
+      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let user",
+      "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "source": "Wired-AI",
+      "date": "2026-11-02",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
       "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
       "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-      "source": "Wired-AI",
-      "date": "2026-10-29",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "I Gave My Blood to the AI Death Clock",
-      "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life ou",
-      "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
       "source": "Wired-AI",
       "date": "2026-10-29",
       "tag": "trend",
@@ -620,22 +620,31 @@
   ],
   "ecommerce": [
     {
-      "title": "Amazon CEO says retail business is being slept on",
-      "content": "<img src=\"https://imgproxy.divecdn.com/W8otGYCEhmqVZWYWnlWpCPOyS7hXi-N1JStferVYYdQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDMzMTAwNjA1LmpwZw==",
-      "link": "https://www.retaildive.com/news/amazon-ceo-retail-business-important-q3-earnings/873316/",
+      "title": "Boot Barn ramps up store openings despite lowering outlook",
+      "content": "Warm weather impacted some sales in the second quarter, but the retailer is refreshing key assortments as it accelerates its footprint expansion.",
+      "link": "https://www.retaildive.com/news/boot-barn-ramps-up-store-openings-lower-outlook/873449/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-30"
+      "date": "2026-11-02"
     },
     {
-      "title": "The Weekly Closeout: Roots CEO exits, the FTC zeroes in on price",
-      "content": "The chief executive stepped down following the outdoor retailer&rsquo;s go-private deal. Meanwhile, the agency has been focused on how retailers set prices.",
-      "link": "https://www.retaildive.com/news/roots-ceo-exits-ftc-retailers-prices-brooks-earnings/873246/",
+      "title": "The power of the mall: Why the best shopping centers are thriving",
+      "content": "The mall is thriving. Here&#39;s what&#39;s driving its success and why it matters to retailers.",
+      "link": "https://www.retaildive.com/spons/the-power-of-the-mall-why-the-best-shopping-centers-are-thriving/873217/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-10-30"
+      "date": "2026-11-02"
+    },
+    {
+      "title": "How can associates power personalization in retail?",
+      "content": "Empower retail associates with mobile technology to deliver personalized, seamless customer experiences.",
+      "link": "https://www.retaildive.com/spons/how-can-associates-power-personalization-in-retail/873087/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-11-02"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -792,7 +801,7 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
@@ -807,7 +816,7 @@
     {
       "name": "hallmark",
       "author": "Nutlope",
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "link": "https://github.com/Nutlope/hallmark",
       "stars": 0,
       "trend": 50,
@@ -823,10 +832,28 @@
       "date": "2026-11-02"
     },
     {
-      "name": "impeccable",
-      "author": "pbakaus",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "link": "https://github.com/pbakaus/impeccable",
+      "name": "thedotmack",
+      "author": "sponsors",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "link": "https://github.com/sponsors/thedotmack",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-11-02"
+    },
+    {
+      "name": "claude-mem",
+      "author": "thedotmack",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "link": "https://github.com/thedotmack/claude-mem",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -855,7 +882,7 @@
     {
       "name": "claude-seo",
       "author": "AgriciDaniel",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "description": "A collection of agent skills that help you build great interfaces.",
       "link": "https://github.com/AgriciDaniel/claude-seo",
       "stars": 0,
       "trend": 50,
@@ -870,60 +897,12 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-11-02"
-    },
-    {
-      "name": "thedotmack",
-      "author": "sponsors",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "link": "https://github.com/sponsors/thedotmack",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-11-02"
-    },
-    {
-      "name": "claude-mem",
-      "author": "thedotmack",
-      "description": "A collection of agent skills that help you build great interfaces.",
-      "link": "https://github.com/thedotmack/claude-mem",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-11-02"
-    },
-    {
-      "name": "security-audit-skill",
-      "author": "cloudflare",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "link": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
         {
           "name": "LLM"
         }
@@ -933,8 +912,23 @@
     {
       "name": "obra",
       "author": "sponsors",
-      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "description": "Public repository for Agent Skills",
       "link": "https://github.com/sponsors/obra",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-02"
+    },
+    {
+      "name": "superpowers",
+      "author": "obra",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "link": "https://github.com/obra/superpowers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -949,16 +943,34 @@
       "date": "2026-11-02"
     },
     {
-      "name": "superpowers",
-      "author": "obra",
-      "description": "Public repository for Agent Skills",
-      "link": "https://github.com/obra/superpowers",
+      "name": "t3code",
+      "author": "pingdotgg",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "link": "https://github.com/pingdotgg/t3code",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
+        },
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-11-02"
+    },
+    {
+      "name": "thinkrail",
+      "author": "JetBrains",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "link": "https://github.com/JetBrains/thinkrail",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-11-02"
@@ -979,7 +991,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant ",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -988,23 +1000,24 @@
       "date": "2026-11-02"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "link": "https://github.com/explore",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub"
       ],
-      "likes": 3045,
+      "likes": 1697,
       "date": "2026-11-02"
     },
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "A collection of agent skills that help you build great interfaces.",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "link": "https://github.com/collections",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 2046,
       "date": "2026-11-02"
@@ -1012,11 +1025,10 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description": "Public repository for Agent Skills",
       "link": "https://github.com/events",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 2526,
       "date": "2026-11-02"
