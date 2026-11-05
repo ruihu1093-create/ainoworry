@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05 03:04:36",
+  "updatedAt": "2026-11-05 11:49:02",
   "news": [
     {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -83,6 +83,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+      "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+      "source": "Wired-AI",
+      "date": "2026-11-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
       "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
       "link": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
@@ -149,15 +158,6 @@
       "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
       "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a",
       "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-      "source": "Wired-AI",
-      "date": "2026-11-02",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-      "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let user",
-      "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
       "source": "Wired-AI",
       "date": "2026-11-02",
       "tag": "trend",
@@ -789,7 +789,7 @@
     {
       "name": "thedotmack",
       "author": "sponsors",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "description": "Public repository for Agent Skills",
       "link": "https://github.com/sponsors/thedotmack",
       "stars": 0,
       "trend": 50,
@@ -804,14 +804,14 @@
     {
       "name": "claude-mem",
       "author": "thedotmack",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "link": "https://github.com/thedotmack/claude-mem",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-11-05"
@@ -819,7 +819,7 @@
     {
       "name": "hallmark",
       "author": "Nutlope",
-      "description": "Public repository for Agent Skills",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "link": "https://github.com/Nutlope/hallmark",
       "stars": 0,
       "trend": 50,
@@ -837,23 +837,23 @@
     {
       "name": "t3code",
       "author": "pingdotgg",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "link": "https://github.com/pingdotgg/t3code",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-11-05"
     },
     {
-      "name": "impeccable",
-      "author": "pbakaus",
-      "description": "A collection of agent skills that help you build great interfaces.",
-      "link": "https://github.com/pbakaus/impeccable",
+      "name": "skills",
+      "author": "anthropics",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "link": "https://github.com/anthropics/skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -865,16 +865,16 @@
       "date": "2026-11-05"
     },
     {
-      "name": "superpowers",
-      "author": "obra",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "link": "https://github.com/obra/superpowers",
+      "name": "DeepTutor",
+      "author": "HKUDS",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "link": "https://github.com/HKUDS/DeepTutor",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
+          "name": "Agent"
         }
       ],
       "date": "2026-11-05"
@@ -882,7 +882,7 @@
     {
       "name": "worktrunk",
       "author": "max-sixty",
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "description": "A collection of agent skills that help you build great interfaces.",
       "link": "https://github.com/max-sixty/worktrunk",
       "stars": 0,
       "trend": 50,
@@ -890,9 +890,6 @@
       "tags": [
         {
           "name": "Agent"
-        },
-        {
-          "name": "LLM"
         }
       ],
       "date": "2026-11-05"
@@ -913,31 +910,34 @@
       "date": "2026-11-05"
     },
     {
-      "name": "thinkrail",
-      "author": "JetBrains",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/JetBrains/thinkrail",
+      "name": "github-actions",
+      "author": "apps",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "LLM"
         }
       ],
       "date": "2026-11-05"
     },
     {
-      "name": "andrej-karpathy-skills",
-      "author": "multica-ai",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "name": "OpenMausBot",
+      "author": "milind-soni",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "link": "https://github.com/milind-soni/OpenMausBot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
+        },
+        {
+          "name": "Vision"
         }
       ],
       "date": "2026-11-05"
@@ -969,7 +969,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -980,7 +980,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "A collection of agent skills that help you build great interfaces.",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -991,13 +991,23 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description": "A collection of agent skills that help you build great interfaces.",
       "link": "https://github.com/events",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 2526,
+      "date": "2026-11-05"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 7510,
       "date": "2026-11-05"
     },
     {
@@ -1180,19 +1190,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-11-05"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-11-05"
     }
   ],
