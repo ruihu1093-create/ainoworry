@@ -1,84 +1,111 @@
 {
-  "updatedAt": "2026-11-05 11:49:02",
+  "updatedAt": "2026-11-05 19:25:31",
   "news": [
     {
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "title": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastruc",
+      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
       "source": "TechCrunch-AI",
       "date": "2026-11-05",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle",
-      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for prod",
-      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in i",
+      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI g",
-      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one",
+      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Meta acquires AI coding startup Conductor",
-      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and m",
-      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to ",
+      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and m",
-      "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
+      "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions o",
+      "link": "https://www.wired.com/story/aina-smart-ring/",
+      "source": "Wired-AI",
+      "date": "2026-11-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the ",
+      "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "source": "Wired-AI",
+      "date": "2026-11-05",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI’s Next Trick? Speaking Dolphin",
+      "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+      "source": "Wired-AI",
+      "date": "2026-11-05",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -128,38 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-      "summary": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
-      "link": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-      "source": "Wired-AI",
-      "date": "2026-11-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Here’s Why You Shouldn’t Use AI to Vote",
-      "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
-      "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-      "source": "Wired-AI",
-      "date": "2026-11-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
-      "summary": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
-      "source": "Wired-AI",
-      "date": "2026-11-03",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
-      "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a",
-      "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-      "source": "Wired-AI",
-      "date": "2026-11-02",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-11-05",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -619,6 +619,15 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+      "content": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
+      "link": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-11-05"
+    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
