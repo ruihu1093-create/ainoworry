@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-11-06 15:37:07",
+  "updatedAt": "2026-11-06 21:14:36",
   "news": [
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacki",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumption",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
       "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
@@ -38,47 +83,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life",
-      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-05",
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI",
+      "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "source": "Wired-AI",
+      "date": "2026-11-06",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastruc",
-      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market,",
-      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-05",
+      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+      "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "source": "Wired-AI",
+      "date": "2026-11-06",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -140,24 +158,6 @@
       "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
       "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. A",
       "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
-      "source": "Wired-AI",
-      "date": "2026-11-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-      "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kid",
-      "link": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-      "source": "Wired-AI",
-      "date": "2026-11-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-      "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
       "source": "Wired-AI",
       "date": "2026-11-04",
       "tag": "trend",
@@ -619,6 +619,24 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "The Children’s Place shakes up leadership amid bankruptcy rumors",
+      "content": "With various executives and directors out, including the CEO, the children&rsquo;s apparel retailer&rsquo;s CFO has taken over as principal executive officer.",
+      "link": "https://www.retaildive.com/news/the-childrens-place-leadership-shakeup-bankruptcy-rumors/874004/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "The Weekly Closeout: What’s next for CVS retail and Canada Goose net loss widens",
+      "content": "<img src=\"https://imgproxy.divecdn.com/lbWPidjQQLQJ5ncnw3lo31Rp-pdyrsSRU5oH_7OUIdo/g:nowe:300:0/c:1449:819/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DYW5hZGFfR29vc2Vfe",
+      "link": "https://www.retaildive.com/news/whats-next-cvs-retail-canada-goose-net-loss-wid/873933/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-11-06"
+    },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
