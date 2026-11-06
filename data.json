@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-06 00:41:49",
+  "updatedAt": "2026-11-06 07:36:52",
   "news": [
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
       "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
@@ -149,15 +158,6 @@
       "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
       "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kid",
       "link": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-      "source": "Wired-AI",
-      "date": "2026-11-04",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-      "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
       "source": "Wired-AI",
       "date": "2026-11-04",
       "tag": "trend",
