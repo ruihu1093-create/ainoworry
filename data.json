@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-06 07:36:52",
+  "updatedAt": "2026-11-06 15:37:07",
   "news": [
+    {
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-06",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
       "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
@@ -59,33 +77,6 @@
       "title": "Claude can now analyze your spending with its new Personal Finance tool",
       "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
       "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one",
-      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-05",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
       "source": "TechCrunch-AI",
       "date": "2026-11-05",
       "tag": "trend",
@@ -158,6 +149,15 @@
       "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
       "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kid",
       "link": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+      "source": "Wired-AI",
+      "date": "2026-11-04",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+      "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
       "source": "Wired-AI",
       "date": "2026-11-04",
       "tag": "trend",
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-      "content": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
-      "link": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-      "source": "TechCrunch",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-11-05"
-    },
-    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -783,14 +774,14 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-11-06"
@@ -798,7 +789,7 @@
     {
       "name": "thedotmack",
       "author": "sponsors",
-      "description": "Public repository for Agent Skills",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "link": "https://github.com/sponsors/thedotmack",
       "stars": 0,
       "trend": 50,
@@ -813,8 +804,83 @@
     {
       "name": "claude-mem",
       "author": "thedotmack",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "link": "https://github.com/thedotmack/claude-mem",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "name": "Donchitos",
+      "author": "sponsors",
+      "description": "Public repository for Agent Skills",
+      "link": "https://github.com/sponsors/Donchitos",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "name": "Claude-Code-Game-Studios",
+      "author": "Donchitos",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "link": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "name": "t3code",
+      "author": "pingdotgg",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "link": "https://github.com/pingdotgg/t3code",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "name": "worktrunk",
+      "author": "max-sixty",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "link": "https://github.com/max-sixty/worktrunk",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -828,7 +894,7 @@
     {
       "name": "hallmark",
       "author": "Nutlope",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "description": "A collection of agent skills that help you build great interfaces.",
       "link": "https://github.com/Nutlope/hallmark",
       "stars": 0,
       "trend": 50,
@@ -844,24 +910,9 @@
       "date": "2026-11-06"
     },
     {
-      "name": "t3code",
-      "author": "pingdotgg",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "link": "https://github.com/pingdotgg/t3code",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-11-06"
-    },
-    {
       "name": "skills",
       "author": "anthropics",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "link": "https://github.com/anthropics/skills",
       "stars": 0,
       "trend": 50,
@@ -874,79 +925,16 @@
       "date": "2026-11-06"
     },
     {
-      "name": "DeepTutor",
-      "author": "HKUDS",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "link": "https://github.com/HKUDS/DeepTutor",
+      "name": "milind-soni",
+      "author": "sponsors",
+      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "link": "https://github.com/sponsors/milind-soni",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        }
-      ],
-      "date": "2026-11-06"
-    },
-    {
-      "name": "worktrunk",
-      "author": "max-sixty",
-      "description": "A collection of agent skills that help you build great interfaces.",
-      "link": "https://github.com/max-sixty/worktrunk",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-11-06"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-11-06"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-11-06"
-    },
-    {
-      "name": "OpenMausBot",
-      "author": "milind-soni",
-      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "link": "https://github.com/milind-soni/OpenMausBot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        },
-        {
-          "name": "Vision"
         }
       ],
       "date": "2026-11-06"
@@ -967,7 +955,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -989,7 +977,7 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "link": "https://github.com/topics",
       "tools": [
         "GitHub"
@@ -998,20 +986,9 @@
       "date": "2026-11-06"
     },
     {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "A collection of agent skills that help you build great interfaces.",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 2526,
-      "date": "2026-11-06"
-    },
-    {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn",
+      "description": "A collection of agent skills that help you build great interfaces.",
       "link": "https://github.com/sponsors/explore",
       "tools": [
         "GitHub"
@@ -1199,6 +1176,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-11-06"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-11-06"
     }
   ],
