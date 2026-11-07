@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-07 19:50:07",
+  "updatedAt": "2026-11-07 23:22:28",
   "news": [
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidi",
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "summary": "The deal highlights the challenges of developing massive AI data centers.",
@@ -68,15 +77,6 @@
       "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
       "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
       "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
       "source": "TechCrunch-AI",
       "date": "2026-11-06",
       "tag": "trend",
