@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-07 01:33:41",
+  "updatedAt": "2026-11-07 08:14:00",
   "news": [
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-07",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
@@ -68,15 +77,6 @@
       "title": "Physicl raises $10M to make the digital world real enough for robots",
       "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
       "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
       "source": "TechCrunch-AI",
       "date": "2026-11-06",
       "tag": "trend",
