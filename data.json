@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-08 17:32:17",
+  "updatedAt": "2026-11-08 21:37:26",
   "news": [
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-08",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
       "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidi",
@@ -68,15 +77,6 @@
       "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
       "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumption",
       "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-06",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
       "source": "TechCrunch-AI",
       "date": "2026-11-06",
       "tag": "trend",
