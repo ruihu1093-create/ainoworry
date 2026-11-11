@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-11-11 12:23:06",
+  "updatedAt": "2026-11-11 19:58:45",
   "news": [
+    {
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead ",
+      "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with a",
+      "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+      "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that",
+      "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
       "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry",
@@ -20,65 +83,38 @@
       "tagText": "资讯"
     },
     {
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at",
-      "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-10",
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+      "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "source": "Wired-AI",
+      "date": "2026-11-11",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-10",
+      "title": "A Startup Wants to Fight AI Bioweapons With AI",
+      "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+      "link": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "source": "Wired-AI",
+      "date": "2026-11-11",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-10",
+      "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+      "summary": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
+      "link": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+      "source": "Wired-AI",
+      "date": "2026-11-11",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access ",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-      "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-10",
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI execut",
+      "link": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "source": "Wired-AI",
+      "date": "2026-11-11",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -124,42 +160,6 @@
       "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
       "source": "Wired-AI",
       "date": "2026-11-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-      "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all",
-      "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
-      "source": "Wired-AI",
-      "date": "2026-11-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may pu",
-      "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-      "source": "Wired-AI",
-      "date": "2026-11-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
-      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
-      "link": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
-      "source": "Wired-AI",
-      "date": "2026-11-09",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
-      "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility eas",
-      "link": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
-      "source": "Wired-AI",
-      "date": "2026-11-09",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -627,15 +627,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-11-10"
-    },
-    {
-      "title": "The Children’s Place, in search of new ownership, files for bankruptcy",
-      "content": "The specialty apparel retailer, which initiated store-closing sales last week, aims to sell itself by the end of the year, and bids are due in just a month.",
-      "link": "https://www.retaildive.com/news/the-childrens-place-in-search-of-new-ownership-files-for-bankruptcy/874078/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-11-09"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
