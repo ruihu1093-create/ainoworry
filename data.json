@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12 01:51:04",
+  "updatedAt": "2026-11-12 09:10:28",
   "news": [
     {
       "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -41,15 +41,6 @@
       "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
       "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with a",
       "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-      "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
       "source": "TechCrunch-AI",
       "date": "2026-11-11",
       "tag": "trend",
@@ -160,6 +151,15 @@
       "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
       "source": "MIT-Tech-Review",
       "date": "2026-11-11",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-11-10",
       "tag": "trend",
       "tagText": "资讯"
     },
