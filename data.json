@@ -1,48 +1,120 @@
 {
-  "updatedAt": "2026-11-12 09:10:28",
+  "updatedAt": "2026-11-12 17:52:33",
   "news": [
     {
+      "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+      "summary": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
+      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "summary": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for ",
+      "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Jensen Huang agrees to testify before Congress",
+      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after seve",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the ",
+      "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+      "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "summary": "This is the investment firm's largest fund to date.",
+      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "summary": "This is Fireworks' second data breach in as many months.",
+      "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-12",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop ",
+      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of havin",
-      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-11",
+      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+      "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resi",
+      "link": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+      "source": "Wired-AI",
+      "date": "2026-11-12",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead",
-      "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-11",
+      "title": "Jensen Huang Resigns as Nvidia CEO",
+      "summary": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intellig",
+      "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+      "source": "Wired-AI",
+      "date": "2026-11-12",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-      "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-11",
+      "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+      "summary": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings",
+      "link": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+      "source": "Wired-AI",
+      "date": "2026-11-12",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with a",
-      "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-11",
+      "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+      "summary": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data",
+      "link": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+      "source": "Wired-AI",
+      "date": "2026-11-12",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -88,78 +160,6 @@
       "link": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
       "source": "Wired-AI",
       "date": "2026-11-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-      "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
-      "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-      "source": "Wired-AI",
-      "date": "2026-11-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
-      "summary": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a b",
-      "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
-      "source": "Wired-AI",
-      "date": "2026-11-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
-      "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
-      "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
-      "source": "Wired-AI",
-      "date": "2026-11-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
-      "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
-      "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
-      "source": "Wired-AI",
-      "date": "2026-11-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-      "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all",
-      "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
-      "source": "Wired-AI",
-      "date": "2026-11-10",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "What to know about this year’s UN climate talks",
-      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time ",
-      "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: preserving minds and weighing open AI risks",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-11",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-10",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,13 +620,13 @@
   ],
   "ecommerce": [
     {
-      "title": "Target vs. Walmart: Holiday marketing’s stakes feel higher this year",
-      "content": "Walmart&rsquo;s brand platform focused on reappraisal and Target&rsquo;s turnaround strategy are in the spotlight during a make-or-break moment for retail.&nbsp;",
-      "link": "https://www.retaildive.com/news/target-vs-walmart-holiday-marketings-stakes-feel-higher-this-year/873764/",
+      "title": "TikTok Shop pilots paid membership",
+      "content": "<img src=\"https://imgproxy.divecdn.com/OJVNXlP787U4YRgkNw0qg9SrdXqtugtlwIOykeIx10Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTEtMTFfMTYxMzE1",
+      "link": "https://www.retaildive.com/news/tiktok-shop-plus-paid-membership/874451/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-11-10"
+      "date": "2026-11-12"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -768,8 +768,53 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "description": "Public repository for Agent Skills",
       "link": "https://github.com/sponsors/explore",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-12"
+    },
+    {
+      "name": "developers",
+      "author": "trending",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "link": "https://github.com/trending/developers",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-11-12"
+    },
+    {
+      "name": "skills",
+      "author": "anthropics",
+      "description": "Browser automation CLI for AI agents",
+      "link": "https://github.com/anthropics/skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-12"
+    },
+    {
+      "name": "milind-soni",
+      "author": "sponsors",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "link": "https://github.com/sponsors/milind-soni",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -784,114 +829,9 @@
       "date": "2026-11-12"
     },
     {
-      "name": "developers",
-      "author": "trending",
-      "description": "Public repository for Agent Skills",
-      "link": "https://github.com/trending/developers",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-11-12"
-    },
-    {
-      "name": "auto-ontology",
-      "author": "NVIDIA",
-      "description": "Computer use CLI for AI agents",
-      "link": "https://github.com/NVIDIA/auto-ontology",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-11-12"
-    },
-    {
-      "name": "skills",
-      "author": "anthropics",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "link": "https://github.com/anthropics/skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-11-12"
-    },
-    {
-      "name": "agent-desktop",
-      "author": "vercel-labs",
-      "description": "Browser automation CLI for AI agents",
-      "link": "https://github.com/vercel-labs/agent-desktop",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-11-12"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-11-12"
-    },
-    {
-      "name": "detail-app",
-      "author": "apps",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "link": "https://github.com/apps/detail-app",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-11-12"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-11-12"
-    },
-    {
       "name": "OpenMausBot",
       "author": "milind-soni",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "link": "https://github.com/milind-soni/OpenMausBot",
       "stars": 0,
       "trend": 50,
@@ -906,7 +846,7 @@
     {
       "name": "agent-browser",
       "author": "vercel-labs",
-      "description": "Agent Skills for Google products and technologies",
+      "description": "Computer use CLI for AI agents",
       "link": "https://github.com/vercel-labs/agent-browser",
       "stars": 0,
       "trend": 50,
@@ -919,16 +859,76 @@
       "date": "2026-11-12"
     },
     {
-      "name": "security-audit-skill",
-      "author": "cloudflare",
-      "description": "the runtime your coding agents live on",
-      "link": "https://github.com/cloudflare/security-audit-skill",
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
+        }
+      ],
+      "date": "2026-11-12"
+    },
+    {
+      "name": "agent-desktop",
+      "author": "vercel-labs",
+      "description": "Agent Skills for Google products and technologies",
+      "link": "https://github.com/vercel-labs/agent-desktop",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-12"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-11-12"
+    },
+    {
+      "name": "detail-app",
+      "author": "apps",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/apps/detail-app",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-11-12"
+    },
+    {
+      "name": "dependabot",
+      "author": "apps",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
         }
       ],
       "date": "2026-11-12"
@@ -953,7 +953,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better c",
+      "description": "Public repository for Agent Skills",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -964,7 +964,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Public repository for Agent Skills",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -975,7 +975,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "description": "Computer use CLI for AI agents",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -997,23 +997,12 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "description": "Agent Skills for Google products and technologies",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-11-12"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "Agent Skills for Google products and technologies",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-11-12"
     },
     {
@@ -1196,6 +1185,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-11-12"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-11-12"
     }
   ],
