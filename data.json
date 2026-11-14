@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14 08:29:56",
+  "updatedAt": "2026-11-14 15:29:57",
   "news": [
     {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -83,6 +83,24 @@
       "tagText": "资讯"
     },
     {
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "source": "Wired-AI",
+      "date": "2026-11-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
+      "link": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "source": "Wired-AI",
+      "date": "2026-11-14",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
       "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
       "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
@@ -128,15 +146,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
-      "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resi",
-      "link": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
-      "source": "Wired-AI",
-      "date": "2026-11-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
@@ -149,15 +158,6 @@
       "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
       "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic lim",
       "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming t",
-      "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
       "source": "MIT-Tech-Review",
       "date": "2026-11-13",
       "tag": "trend",
@@ -775,10 +775,40 @@
   ],
   "github": [
     {
-      "name": "developers",
-      "author": "trending",
+      "name": "explore",
+      "author": "sponsors",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "link": "https://github.com/sponsors/explore",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-14"
+    },
+    {
+      "name": "astryx",
+      "author": "meta",
       "description": "Public repository for Agent Skills",
-      "link": "https://github.com/trending/developers",
+      "link": "https://github.com/meta/astryx",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-14"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Browser automation CLI for AI agents",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -792,8 +822,23 @@
     {
       "name": "sherlock",
       "author": "sherlock-project",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "description": "Open-source plugin for designing and reviewing software with agents",
       "link": "https://github.com/sherlock-project/sherlock",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-14"
+    },
+    {
+      "name": "skills",
+      "author": "anthropics",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "link": "https://github.com/anthropics/skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -805,54 +850,9 @@
       "date": "2026-11-14"
     },
     {
-      "name": "skills",
-      "author": "anthropics",
-      "description": "Browser automation CLI for AI agents",
-      "link": "https://github.com/anthropics/skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-11-14"
-    },
-    {
-      "name": "milind-soni",
-      "author": "sponsors",
-      "description": "Open-source plugin for designing and reviewing software with agents",
-      "link": "https://github.com/sponsors/milind-soni",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-11-14"
-    },
-    {
-      "name": "OpenMausBot",
-      "author": "milind-soni",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "link": "https://github.com/milind-soni/OpenMausBot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-11-14"
-    },
-    {
       "name": "agent-browser",
       "author": "vercel-labs",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "link": "https://github.com/vercel-labs/agent-browser",
       "stars": 0,
       "trend": 50,
@@ -870,7 +870,7 @@
     {
       "name": "elephant-goldfish-model",
       "author": "google",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "link": "https://github.com/google/elephant-goldfish-model",
       "stars": 0,
       "trend": 50,
@@ -898,16 +898,16 @@
       "date": "2026-11-14"
     },
     {
-      "name": "ZhuLinsen",
-      "author": "sponsors",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "link": "https://github.com/sponsors/ZhuLinsen",
+      "name": "OpenMausBot",
+      "author": "milind-soni",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/milind-soni/OpenMausBot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-11-14"
@@ -915,7 +915,7 @@
     {
       "name": "daily_stock_analysis",
       "author": "ZhuLinsen",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "description": "GitHub热门AI项目，本周获得大量关注",
       "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "stars": 0,
       "trend": 50,
@@ -930,23 +930,23 @@
     {
       "name": "mujoco",
       "author": "google-deepmind",
-      "description": "Computer use CLI for AI agents",
+      "description": "GitHub热门AI项目，本周获得大量关注",
       "link": "https://github.com/google-deepmind/mujoco",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-11-14"
     },
     {
-      "name": "mattpocock",
-      "author": "sponsors",
-      "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
-      "link": "https://github.com/sponsors/mattpocock",
+      "name": "agent-skills",
+      "author": "addyosmani",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/addyosmani/agent-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -960,24 +960,23 @@
   ],
   "agents": [
     {
-      "title": "开源项目: manifest.json",
+      "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "Public repository for Agent Skills",
-      "link": "https://github.com/manifest.json",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
       ],
-      "likes": 4324,
+      "likes": 2325,
       "date": "2026-11-14"
     },
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decisi",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
       "likes": 3045,
       "date": "2026-11-14"
@@ -985,10 +984,11 @@
     {
       "title": "开源项目: topics",
       "author": "@anonymous",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better c",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decisi",
       "link": "https://github.com/topics",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 1697,
       "date": "2026-11-14"
@@ -996,7 +996,7 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents ",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1013,17 +1013,6 @@
         "GitHub"
       ],
       "likes": 2526,
-      "date": "2026-11-14"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-11-14"
     },
     {
@@ -1206,6 +1195,19 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-11-14"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
       "date": "2026-11-14"
     }
   ],
