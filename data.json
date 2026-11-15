@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15 15:15:16",
+  "updatedAt": "2026-11-15 20:45:20",
   "news": [
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -50,15 +50,6 @@
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop ",
       "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
       "source": "TechCrunch-AI",
       "date": "2026-11-13",
       "tag": "trend",
@@ -160,6 +151,15 @@
       "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
       "source": "MIT-Tech-Review",
       "date": "2026-11-13",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-11-12",
       "tag": "trend",
       "tagText": "资讯"
     },
