@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-16 00:40:29",
+  "updatedAt": "2026-11-16 07:35:13",
   "news": [
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
       "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
@@ -41,15 +50,6 @@
       "title": "AI agent startup LangChain hits $3B valuation",
       "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
       "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "source": "TechCrunch-AI",
       "date": "2026-11-13",
       "tag": "trend",
