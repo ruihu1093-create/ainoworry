@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-11-16 07:35:13",
+  "updatedAt": "2026-11-16 17:51:09",
   "news": [
+    {
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+      "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and di",
+      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+      "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countr",
+      "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfron",
+      "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-16",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Apple launches new app to study how people use AI for health",
       "summary": "Apple's new app for a study will answer everyday medical questions",
@@ -20,38 +92,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-15",
+      "title": "Jensen Huang Is Gone. Now What?",
+      "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+      "source": "Wired-AI",
+      "date": "2026-11-16",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuat",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-13",
+      "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+      "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+      "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "source": "Wired-AI",
+      "date": "2026-11-16",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -106,60 +160,6 @@
       "link": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
       "source": "Wired-AI",
       "date": "2026-11-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-      "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
-      "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
-      "source": "Wired-AI",
-      "date": "2026-11-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
-      "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI indu",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
-      "source": "Wired-AI",
-      "date": "2026-11-12",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic lim",
-      "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming t",
-      "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: COP31’s climate challenge and the quest for immortality",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-12",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,22 +620,31 @@
   ],
   "ecommerce": [
     {
-      "title": "Sally Beauty to expand refreshed store model in 2027",
-      "content": "The beauty supply retailer will grow the Sally Ignited store concept and has long-term plans to refresh two-thirds of its overall store fleet.",
-      "link": "https://www.retaildive.com/news/sally-beauty-expand-refreshed-store-model/874547/",
+      "title": "The shrinking store: How retailers and restaurants are doing more with less square footage",
+      "content": "The box is getting smaller. The revenue target isn&rsquo;t. Here&rsquo;s how brands are closing the gap.",
+      "link": "https://www.retaildive.com/spons/the-shrinking-store-how-retailers-and-restaurants-are-doing-more-with-less/874147/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-11-13"
+      "date": "2026-11-16"
     },
     {
-      "title": "TikTok Shop pilots paid membership",
-      "content": "<img src=\"https://imgproxy.divecdn.com/OJVNXlP787U4YRgkNw0qg9SrdXqtugtlwIOykeIx10Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTEtMTFfMTYxMzE1",
-      "link": "https://www.retaildive.com/news/tiktok-shop-plus-paid-membership/874451/",
+      "title": "The mall advantage: how shopping centers fuel retail growth",
+      "content": "Physical stores drive brand discovery, digital demand and operating efficiencies well beyond the register.",
+      "link": "https://www.retaildive.com/spons/the-mall-advantage-how-shopping-centers-fuel-retail-growth/873797/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-11-12"
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Holiday retail’s AI test: From skeptical shoppers to agents they trust after checkout",
+      "content": "63% of retailers run AI in customer communications. Only 26% of shoppers think it helps. Here&rsquo;s why.",
+      "link": "https://www.retaildive.com/spons/holiday-retails-ai-test-from-skeptical-shoppers-to-agents-they-trust-afte/874054/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-11-16"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -777,7 +786,7 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "An open source design system that's fully customizable and agent ready",
+      "description": "Keep your coding agent up to date with the latest web best practices",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
@@ -792,8 +801,23 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "Public repository for Agent Skills",
+      "description": "An open source design system that's fully customizable and agent ready",
       "link": "https://github.com/trending/developers",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-16"
+    },
+    {
+      "name": "modern-web-guidance-src",
+      "author": "GoogleChrome",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -807,7 +831,7 @@
     {
       "name": "github-actions",
       "author": "apps",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "description": "Public repository for Agent Skills",
       "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
@@ -820,10 +844,10 @@
       "date": "2026-11-16"
     },
     {
-      "name": "skills",
-      "author": "anthropics",
+      "name": "astryx",
+      "author": "meta",
       "description": "Browser automation CLI for AI agents",
-      "link": "https://github.com/anthropics/skills",
+      "link": "https://github.com/meta/astryx",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -835,10 +859,10 @@
       "date": "2026-11-16"
     },
     {
-      "name": "sherlock",
-      "author": "sherlock-project",
+      "name": "plannotator",
+      "author": "backnotprop",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "link": "https://github.com/sherlock-project/sherlock",
+      "link": "https://github.com/backnotprop/plannotator",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -852,7 +876,7 @@
     {
       "name": "agent-browser",
       "author": "vercel-labs",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "description": "Open-source plugin for designing and reviewing software with agents",
       "link": "https://github.com/vercel-labs/agent-browser",
       "stars": 0,
       "trend": 50,
@@ -865,31 +889,19 @@
       "date": "2026-11-16"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Open-source plugin for designing and reviewing software with agents",
-      "link": "https://github.com/apps/github-actions",
+      "name": "sure",
+      "author": "we-promise",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "link": "https://github.com/we-promise/sure",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "Agent"
-        }
-      ],
-      "date": "2026-11-16"
-    },
-    {
-      "name": "daily_stock_analysis",
-      "author": "ZhuLinsen",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
+        },
         {
-          "name": "Agent"
+          "name": "LLM"
         }
       ],
       "date": "2026-11-16"
@@ -897,8 +909,23 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "GitHub热门AI项目，本周获得大量关注",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "link": "https://github.com/apps/dependabot",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-16"
+    },
+    {
+      "name": "ZhuLinsen",
+      "author": "sponsors",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "link": "https://github.com/sponsors/ZhuLinsen",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -910,16 +937,16 @@
       "date": "2026-11-16"
     },
     {
-      "name": "OpenMausBot",
-      "author": "milind-soni",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/milind-soni/OpenMausBot",
+      "name": "daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "AI"
+          "name": "Agent"
         }
       ],
       "date": "2026-11-16"
@@ -938,28 +965,13 @@
         }
       ],
       "date": "2026-11-16"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-11-16"
     }
   ],
   "agents": [
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "An open source design system that's fully customizable and agent ready",
+      "description": "Keep your coding agent up to date with the latest web best practices",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -970,7 +982,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "Public repository for Agent Skills",
+      "description": "An open source design system that's fully customizable and agent ready",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -979,15 +991,15 @@
       "date": "2026-11-16"
     },
     {
-      "title": "开源项目: explore",
+      "title": "开源项目: topics",
       "author": "@anonymous",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decisi",
-      "link": "https://github.com/explore",
+      "link": "https://github.com/topics",
       "tools": [
         "GitHub",
         "LLM"
       ],
-      "likes": 3045,
+      "likes": 1697,
       "date": "2026-11-16"
     },
     {
@@ -1004,10 +1016,11 @@
     {
       "title": "开源项目: explore",
       "author": "@sponsors",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-lev",
       "link": "https://github.com/sponsors/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 7510,
       "date": "2026-11-16"
