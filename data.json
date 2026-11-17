@@ -1,84 +1,102 @@
 {
-  "updatedAt": "2026-11-17 10:04:20",
+  "updatedAt": "2026-11-17 19:33:03",
   "news": [
     {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "summary": "The three-year-old Model ML was valued at $1.5 billion in a new round co-led by General Atlantic and QED Investors.",
+      "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fin",
-      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what ",
+      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and di",
-      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. The",
+      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purch",
+      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Audible turns to AI to help users discover audiobooks",
-      "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-      "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+      "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity c",
+      "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+      "source": "Wired-AI",
+      "date": "2026-11-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+      "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturin",
+      "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+      "source": "Wired-AI",
+      "date": "2026-11-17",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -140,24 +158,6 @@
       "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
       "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
       "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-      "source": "Wired-AI",
-      "date": "2026-11-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Jensen Huang and the End of the Founder Fairy Tale",
-      "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
-      "link": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
-      "source": "Wired-AI",
-      "date": "2026-11-13",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-      "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
-      "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
       "source": "Wired-AI",
       "date": "2026-11-13",
       "tag": "trend",
@@ -620,31 +620,13 @@
   ],
   "ecommerce": [
     {
-      "title": "The shrinking store: How retailers and restaurants are doing more with less square footage",
-      "content": "The box is getting smaller. The revenue target isn&rsquo;t. Here&rsquo;s how brands are closing the gap.",
-      "link": "https://www.retaildive.com/spons/the-shrinking-store-how-retailers-and-restaurants-are-doing-more-with-less/874147/",
-      "source": "Retail-Dive",
+      "title": "AI，没有抛弃小城商家",
+      "content": "作",
+      "link": "http://www.geekpark.net/news/374101",
+      "source": "极客公园",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "The mall advantage: how shopping centers fuel retail growth",
-      "content": "Physical stores drive brand discovery, digital demand and operating efficiencies well beyond the register.",
-      "link": "https://www.retaildive.com/spons/the-mall-advantage-how-shopping-centers-fuel-retail-growth/873797/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "Holiday retail’s AI test: From skeptical shoppers to agents they trust after checkout",
-      "content": "63% of retailers run AI in customer communications. Only 26% of shoppers think it helps. Here&rsquo;s why.",
-      "link": "https://www.retaildive.com/spons/holiday-retails-ai-test-from-skeptical-shoppers-to-agents-they-trust-afte/874054/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-11-16"
+      "date": "2026-11-17"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -801,7 +783,7 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "An open source design system that's fully customizable and agent ready",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "link": "https://github.com/trending/developers",
       "stars": 0,
       "trend": 50,
@@ -816,38 +798,8 @@
     {
       "name": "modern-web-guidance-src",
       "author": "GoogleChrome",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "description": "An open source design system that's fully customizable and agent ready",
       "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-11-17"
-    },
-    {
-      "name": "github-actions",
-      "author": "apps",
-      "description": "Public repository for Agent Skills",
-      "link": "https://github.com/apps/github-actions",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-11-17"
-    },
-    {
-      "name": "astryx",
-      "author": "meta",
-      "description": "Browser automation CLI for AI agents",
-      "link": "https://github.com/meta/astryx",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -874,10 +826,10 @@
       "date": "2026-11-17"
     },
     {
-      "name": "agent-browser",
-      "author": "vercel-labs",
-      "description": "Open-source plugin for designing and reviewing software with agents",
-      "link": "https://github.com/vercel-labs/agent-browser",
+      "name": "astryx",
+      "author": "meta",
+      "description": "Public repository for Agent Skills",
+      "link": "https://github.com/meta/astryx",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -909,7 +861,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "description": "Browser automation CLI for AI agents",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -924,23 +876,8 @@
     {
       "name": "ZhuLinsen",
       "author": "sponsors",
-      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "description": "Chrome DevTools for coding agents",
       "link": "https://github.com/sponsors/ZhuLinsen",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-11-17"
-    },
-    {
-      "name": "daily_stock_analysis",
-      "author": "ZhuLinsen",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -952,16 +889,61 @@
       "date": "2026-11-17"
     },
     {
-      "name": "elephant-goldfish-model",
-      "author": "google",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/google/elephant-goldfish-model",
+      "name": "daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "AI"
+        }
+      ],
+      "date": "2026-11-17"
+    },
+    {
+      "name": "skills",
+      "author": "anthropics",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "link": "https://github.com/anthropics/skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-17"
+    },
+    {
+      "name": "elementalsouls",
+      "author": "sponsors",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "link": "https://github.com/sponsors/elementalsouls",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "AI"
+        }
+      ],
+      "date": "2026-11-17"
+    },
+    {
+      "name": "Claude-BugHunter",
+      "author": "elementalsouls",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "link": "https://github.com/elementalsouls/Claude-BugHunter",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
         }
       ],
       "date": "2026-11-17"
@@ -982,7 +964,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "An open source design system that's fully customizable and agent ready",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents ",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -991,21 +973,20 @@
       "date": "2026-11-17"
     },
     {
-      "title": "开源项目: topics",
+      "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decisi",
-      "link": "https://github.com/topics",
+      "description": "Public repository for Agent Skills",
+      "link": "https://github.com/explore",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
-      "likes": 1697,
+      "likes": 3045,
       "date": "2026-11-17"
     },
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Open-source plugin for designing and reviewing software with agents",
+      "description": "Browser automation CLI for AI agents",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -1014,15 +995,14 @@
       "date": "2026-11-17"
     },
     {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-lev",
-      "link": "https://github.com/sponsors/explore",
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "Chrome DevTools for coding agents",
+      "link": "https://github.com/events",
       "tools": [
-        "GitHub",
-        "LLM"
+        "GitHub"
       ],
-      "likes": 7510,
+      "likes": 2526,
       "date": "2026-11-17"
     },
     {
