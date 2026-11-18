@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18 02:01:29",
+  "updatedAt": "2026-11-18 11:01:12",
   "news": [
     {
       "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
@@ -52,6 +52,15 @@
       "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
       "source": "TechCrunch-AI",
       "date": "2026-11-17",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+      "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report re",
+      "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+      "source": "Wired-AI",
+      "date": "2026-11-18",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -110,20 +119,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Beware the New AI-Fueled Ransomware Boom",
-      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
-      "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-      "source": "Wired-AI",
-      "date": "2026-11-14",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-      "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
-      "link": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
-      "source": "Wired-AI",
-      "date": "2026-11-14",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. T",
+      "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-11-18",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -787,10 +787,10 @@
       "date": "2026-11-18"
     },
     {
-      "name": "modern-web-guidance-src",
-      "author": "GoogleChrome",
+      "name": "github-actions",
+      "author": "apps",
       "description": "An open source design system that's fully customizable and agent ready",
-      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -802,40 +802,10 @@
       "date": "2026-11-18"
     },
     {
-      "name": "plannotator",
-      "author": "backnotprop",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "link": "https://github.com/backnotprop/plannotator",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-11-18"
-    },
-    {
-      "name": "astryx",
-      "author": "meta",
-      "description": "Public repository for Agent Skills",
-      "link": "https://github.com/meta/astryx",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-11-18"
-    },
-    {
-      "name": "sure",
-      "author": "we-promise",
+      "name": "elementalsouls",
+      "author": "sponsors",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "link": "https://github.com/we-promise/sure",
+      "link": "https://github.com/sponsors/elementalsouls",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -850,9 +820,69 @@
       "date": "2026-11-18"
     },
     {
+      "name": "Claude-BugHunter",
+      "author": "elementalsouls",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "link": "https://github.com/elementalsouls/Claude-BugHunter",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-18"
+    },
+    {
+      "name": "astryx",
+      "author": "meta",
+      "description": "Chrome DevTools for coding agents",
+      "link": "https://github.com/meta/astryx",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-18"
+    },
+    {
+      "name": "github-actions",
+      "author": "apps",
+      "description": "Public repository for Agent Skills",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-18"
+    },
+    {
+      "name": "sure",
+      "author": "we-promise",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "link": "https://github.com/we-promise/sure",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "LLM"
+        }
+      ],
+      "date": "2026-11-18"
+    },
+    {
       "name": "dependabot",
       "author": "apps",
-      "description": "Browser automation CLI for AI agents",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -865,10 +895,10 @@
       "date": "2026-11-18"
     },
     {
-      "name": "ZhuLinsen",
-      "author": "sponsors",
-      "description": "Chrome DevTools for coding agents",
-      "link": "https://github.com/sponsors/ZhuLinsen",
+      "name": "open-code-review",
+      "author": "alibaba",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "link": "https://github.com/alibaba/open-code-review",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -880,25 +910,10 @@
       "date": "2026-11-18"
     },
     {
-      "name": "daily_stock_analysis",
-      "author": "ZhuLinsen",
-      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-11-18"
-    },
-    {
-      "name": "skills",
-      "author": "anthropics",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "link": "https://github.com/anthropics/skills",
+      "name": "stitch-skills",
+      "author": "google-labs-code",
+      "description": "Browser automation CLI for AI agents",
+      "link": "https://github.com/google-labs-code/stitch-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -910,31 +925,16 @@
       "date": "2026-11-18"
     },
     {
-      "name": "elementalsouls",
-      "author": "sponsors",
+      "name": "claude-trading-skills",
+      "author": "tradermonty",
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-      "link": "https://github.com/sponsors/elementalsouls",
+      "link": "https://github.com/tradermonty/claude-trading-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
           "name": "AI"
-        }
-      ],
-      "date": "2026-11-18"
-    },
-    {
-      "name": "Claude-BugHunter",
-      "author": "elementalsouls",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "link": "https://github.com/elementalsouls/Claude-BugHunter",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
         }
       ],
       "date": "2026-11-18"
@@ -966,18 +966,30 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Public repository for Agent Skills",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-lev",
       "link": "https://github.com/explore",
       "tools": [
-        "GitHub"
+        "GitHub",
+        "LLM"
       ],
       "likes": 3045,
       "date": "2026-11-18"
     },
     {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with codin",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
+      "date": "2026-11-18"
+    },
+    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Browser automation CLI for AI agents",
+      "description": "Chrome DevTools for coding agents",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
@@ -988,12 +1000,24 @@
     {
       "title": "开源项目: events",
       "author": "@anonymous",
-      "description": "Chrome DevTools for coding agents",
+      "description": "Public repository for Agent Skills",
       "link": "https://github.com/events",
       "tools": [
         "GitHub"
       ],
       "likes": 2526,
+      "date": "2026-11-18"
+    },
+    {
+      "title": "开源项目: explore",
+      "author": "@sponsors",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decisi",
+      "link": "https://github.com/sponsors/explore",
+      "tools": [
+        "GitHub",
+        "LLM"
+      ],
+      "likes": 7510,
       "date": "2026-11-18"
     },
     {
@@ -1163,32 +1187,6 @@
         "Notion"
       ],
       "likes": 3780,
-      "date": "2026-11-18"
-    },
-    {
-      "title": "财务顾问搭建AI报表分析助手",
-      "author": "@CFO老李",
-      "description": "基于本地部署的开源大模型搭建财务分析Agent，能读取报表自动识别风险和异常项，数据不出企业。",
-      "link": "https://ollama.com/",
-      "tools": [
-        "Ollama",
-        "DeepSeek",
-        "Python"
-      ],
-      "likes": 6300,
-      "date": "2026-11-18"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
       "date": "2026-11-18"
     }
   ],
