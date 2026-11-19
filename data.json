@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-11-19 09:47:39",
+  "updatedAt": "2026-11-19 18:48:21",
   "news": [
+    {
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, produc",
+      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressu",
+      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue p",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+      "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rathe",
@@ -29,56 +92,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-18",
+      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the ris",
+      "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "source": "Wired-AI",
+      "date": "2026-11-19",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for custome",
-      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic prices IPO at $83 a share, above projected range",
-      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
-      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-      "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-18",
+      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could ",
+      "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "source": "Wired-AI",
+      "date": "2026-11-19",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -132,33 +159,6 @@
       "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report re",
       "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
       "source": "Wired-AI",
-      "date": "2026-11-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-      "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity c",
-      "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-      "source": "Wired-AI",
-      "date": "2026-11-17",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The AI Hype Index: AI is everywhere",
-      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in l",
-      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: AI learns to smell and hydropower struggles",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
-      "source": "MIT-Tech-Review",
       "date": "2026-11-18",
       "tag": "trend",
       "tagText": "资讯"
@@ -620,6 +620,15 @@
   ],
   "ecommerce": [
     {
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "content": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "source": "TechCrunch",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-11-19"
+    },
+    {
       "title": "AI，没有抛弃小城商家",
       "content": "作",
       "link": "http://www.geekpark.net/news/374101",
@@ -629,13 +638,13 @@
       "date": "2026-11-17"
     },
     {
-      "title": "Target traffic rises as retailer reports broad-based gains",
-      "content": "<img src=\"https://imgproxy.divecdn.com/3TdlWd5qgsi1Q3H1BnGksZRjTLeRTO7M-jT5iWq4FxU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUzODc3NTE1LmpwZw==",
-      "link": "https://www.retaildive.com/news/target-traffic-rises-q3-earnings/874959/",
+      "title": "The Backroom: How department stores are shaping up this holiday",
+      "content": "The team looks at the past, present and future of a retail model that has long been a fixture of the season.",
+      "link": "https://www.retaildive.com/news/the-backroom-podcast-department-stores-holiday-season/875199/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-11-18"
+      "date": "2026-11-19"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
@@ -777,7 +786,7 @@
     {
       "name": "explore",
       "author": "sponsors",
-      "description": "Keep your coding agent up to date with the latest web best practices",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "link": "https://github.com/sponsors/explore",
       "stars": 0,
       "trend": 50,
@@ -792,23 +801,8 @@
     {
       "name": "developers",
       "author": "trending",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "link": "https://github.com/trending/developers",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
-        }
-      ],
-      "date": "2026-11-19"
-    },
-    {
-      "name": "modern-web-guidance-src",
-      "author": "GoogleChrome",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -822,8 +816,23 @@
     {
       "name": "plannotator",
       "author": "backnotprop",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "description": "Keep your coding agent up to date with the latest web best practices",
       "link": "https://github.com/backnotprop/plannotator",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-19"
+    },
+    {
+      "name": "stitch-skills",
+      "author": "google-labs-code",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "link": "https://github.com/google-labs-code/stitch-skills",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -838,10 +847,10 @@
       "date": "2026-11-19"
     },
     {
-      "name": "astryx",
-      "author": "meta",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "link": "https://github.com/meta/astryx",
+      "name": "modern-web-guidance-src",
+      "author": "GoogleChrome",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -853,10 +862,25 @@
       "date": "2026-11-19"
     },
     {
-      "name": "sure",
-      "author": "we-promise",
+      "name": "github-actions",
+      "author": "apps",
       "description": "Chrome DevTools for coding agents",
-      "link": "https://github.com/we-promise/sure",
+      "link": "https://github.com/apps/github-actions",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-19"
+    },
+    {
+      "name": "last30days-skill",
+      "author": "mvanhorn",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "link": "https://github.com/mvanhorn/last30days-skill",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -870,7 +894,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Public repository for Agent Skills",
+      "description": "An open source design system that's fully customizable and agent ready",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -883,31 +907,16 @@
       "date": "2026-11-19"
     },
     {
-      "name": "open-code-review",
-      "author": "alibaba",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "link": "https://github.com/alibaba/open-code-review",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "The personal finance app for everyone (by everyone)",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
       "tags": [
         {
-          "name": "LLM"
-        }
-      ],
-      "date": "2026-11-19"
-    },
-    {
-      "name": "stitch-skills",
-      "author": "google-labs-code",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "link": "https://github.com/google-labs-code/stitch-skills",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "Agent"
+          "name": "AI"
         }
       ],
       "date": "2026-11-19"
@@ -915,7 +924,7 @@
     {
       "name": "claude-trading-skills",
       "author": "tradermonty",
-      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "link": "https://github.com/tradermonty/claude-trading-skills",
       "stars": 0,
       "trend": 50,
@@ -930,7 +939,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Browser automation CLI for AI agents",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
@@ -943,10 +952,10 @@
       "date": "2026-11-19"
     },
     {
-      "name": "chrome-devtools-mcp",
-      "author": "ChromeDevTools",
-      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "name": "dependabot",
+      "author": "apps",
+      "description": "GitHub热门AI项目，本周获得大量关注",
+      "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -962,7 +971,7 @@
     {
       "title": "开源项目: opensearch.xml",
       "author": "@anonymous",
-      "description": "Keep your coding agent up to date with the latest web best practices",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents ",
       "link": "https://github.com/opensearch.xml",
       "tools": [
         "GitHub"
@@ -973,7 +982,7 @@
     {
       "title": "开源项目: manifest.json",
       "author": "@anonymous",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents ",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with codin",
       "link": "https://github.com/manifest.json",
       "tools": [
         "GitHub"
@@ -984,7 +993,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with codin",
+      "description": "Chrome DevTools for coding agents",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -995,35 +1004,12 @@
     {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "Public repository for Agent Skills",
+      "description": "An open source design system that's fully customizable and agent ready",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
       "likes": 2046,
-      "date": "2026-11-19"
-    },
-    {
-      "title": "开源项目: events",
-      "author": "@anonymous",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decisi",
-      "link": "https://github.com/events",
-      "tools": [
-        "GitHub",
-        "LLM"
-      ],
-      "likes": 2526,
-      "date": "2026-11-19"
-    },
-    {
-      "title": "开源项目: explore",
-      "author": "@sponsors",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "link": "https://github.com/sponsors/explore",
-      "tools": [
-        "GitHub"
-      ],
-      "likes": 7510,
       "date": "2026-11-19"
     },
     {
@@ -1206,6 +1192,32 @@
         "Python"
       ],
       "likes": 6300,
+      "date": "2026-11-19"
+    },
+    {
+      "title": "旅游博主AI生成攻略，月入10万",
+      "author": "@背包不停歇",
+      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
+      "link": "https://www.perplexity.ai/",
+      "tools": [
+        "Perplexity",
+        "Kimi",
+        "剪映"
+      ],
+      "likes": 18500,
+      "date": "2026-11-19"
+    },
+    {
+      "title": "餐厅老板AI菜单设计+营销一体化",
+      "author": "@小厨房大梦想",
+      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
+      "link": "https://chatgpt.com/",
+      "tools": [
+        "ChatGPT",
+        "豆包",
+        "美团"
+      ],
+      "likes": 2650,
       "date": "2026-11-19"
     }
   ],
