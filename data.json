@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20 00:59:54",
+  "updatedAt": "2026-11-20 08:18:26",
   "news": [
     {
       "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -92,6 +92,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as effic",
+      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "source": "Wired-AI",
+      "date": "2026-11-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "What’s With All These Outages?",
       "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, ",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
@@ -149,15 +158,6 @@
       "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
       "summary": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
       "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
-      "source": "Wired-AI",
-      "date": "2026-11-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
-      "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prom",
-      "link": "https://www.wired.com/story/artex-ai-hacking-tools/",
       "source": "Wired-AI",
       "date": "2026-11-18",
       "tag": "trend",
