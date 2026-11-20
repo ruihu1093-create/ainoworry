@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-20 08:18:26",
+  "updatedAt": "2026-11-20 17:29:16",
   "news": [
+    {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Apple may be developing its own AI agent that runs your Mac",
       "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
@@ -74,20 +83,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-19",
+      "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+      "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "source": "Wired-AI",
+      "date": "2026-11-20",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -155,11 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
-      "summary": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
-      "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
-      "source": "Wired-AI",
-      "date": "2026-11-18",
+      "title": "The Download: inside the quest to make our minds immortal",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-11-20",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -627,6 +627,15 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-11-17"
+    },
+    {
+      "title": "ThredUp leans into livestream shopping with TikTok Shop",
+      "content": "</figu",
+      "link": "https://www.retaildive.com/news/thredup-tiktok-shop-livestream-shopping/875247/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-11-20"
     },
     {
       "title": "The Backroom: How department stores are shaping up this holiday",
