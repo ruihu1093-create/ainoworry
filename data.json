@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-20 17:29:16",
+  "updatedAt": "2026-11-20 23:37:18",
   "news": [
+    {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Six AI-powered gadgets that could make your home office smarter",
       "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
@@ -56,29 +74,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, produc",
-      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-19",
+      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s ",
+      "link": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "source": "Wired-AI",
+      "date": "2026-11-20",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -137,20 +137,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
-      "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
-      "link": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
-      "source": "Wired-AI",
-      "date": "2026-11-18",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
-      "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivati",
-      "link": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
-      "source": "Wired-AI",
-      "date": "2026-11-18",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it al",
+      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-11-20",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -160,6 +151,15 @@
       "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
       "source": "MIT-Tech-Review",
       "date": "2026-11-20",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-11-19",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -630,7 +630,7 @@
     },
     {
       "title": "ThredUp leans into livestream shopping with TikTok Shop",
-      "content": "</figu",
+      "content": "<img src=\"https://imgproxy.divecdn.com/gm4Tic61bdtbzbOB24x5EJLIe5TsxGw-nLLHSGC0bE8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTEtMjBfMTYzMTQ4",
       "link": "https://www.retaildive.com/news/thredup-tiktok-shop-livestream-shopping/875247/",
       "source": "Retail-Dive",
       "impact": "medium",
