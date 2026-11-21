@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21 05:24:45",
+  "updatedAt": "2026-11-21 14:05:52",
   "news": [
     {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -70,6 +70,15 @@
       "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "source": "TechCrunch-AI",
       "date": "2026-11-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "The Outages Are Just Getting Started",
+      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "source": "Wired-AI",
+      "date": "2026-11-21",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
       "source": "MIT-Tech-Review",
       "date": "2026-11-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-19",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -630,7 +630,7 @@
     },
     {
       "title": "ThredUp leans into livestream shopping with TikTok Shop",
-      "content": "<img src=\"https://imgproxy.divecdn.com/gm4Tic61bdtbzbOB24x5EJLIe5TsxGw-nLLHSGC0bE8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTEtMjBfMTYzMTQ4",
+      "content": "</figu",
       "link": "https://www.retaildive.com/news/thredup-tiktok-shop-livestream-shopping/875247/",
       "source": "Retail-Dive",
       "impact": "medium",
