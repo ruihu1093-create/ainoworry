@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22 07:42:41",
+  "updatedAt": "2026-11-22 15:52:23",
   "news": [
     {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -65,6 +65,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly you",
+      "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "source": "Wired-AI",
+      "date": "2026-11-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The Outages Are Just Getting Started",
       "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
       "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
@@ -122,15 +131,6 @@
       "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
       "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the ris",
       "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-      "source": "Wired-AI",
-      "date": "2026-11-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could i",
-      "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
       "source": "Wired-AI",
       "date": "2026-11-19",
       "tag": "trend",
