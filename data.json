@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-22 15:52:23",
+  "updatedAt": "2026-11-22 21:28:29",
   "news": [
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-22",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
@@ -41,24 +50,6 @@
       "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
       "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
       "source": "TechCrunch-AI",
       "date": "2026-11-20",
       "tag": "trend",
@@ -158,6 +149,15 @@
       "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-11-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibi",
+      "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
       "source": "MIT-Tech-Review",
       "date": "2026-11-19",
       "tag": "trend",
