@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23 02:10:02",
+  "updatedAt": "2026-11-23 11:43:02",
   "news": [
     {
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -65,6 +65,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "States Sue SpaceX Over Grok Deepfakes",
+      "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized ",
+      "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+      "source": "Wired-AI",
+      "date": "2026-11-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Banks Have Had It Up to Here With Your AI Agent",
       "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly you",
       "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
@@ -119,24 +128,6 @@
       "tagText": "资讯"
     },
     {
-      "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
-      "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set somethi",
-      "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
-      "source": "Wired-AI",
-      "date": "2026-11-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the ris",
-      "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-      "source": "Wired-AI",
-      "date": "2026-11-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
       "title": "The most misunderstood graph in AI just got a major update",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it al",
       "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
@@ -158,6 +149,15 @@
       "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-11-19",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibi",
+      "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
       "source": "MIT-Tech-Review",
       "date": "2026-11-19",
       "tag": "trend",
@@ -619,6 +619,24 @@
     }
   ],
   "ecommerce": [
+    {
+      "title": "利润增速降至 0.7%， 拼多多「申诉优赔」还要给商家补贴几十亿",
+      "content": "作",
+      "link": "http://www.geekpark.net/news/374348",
+      "source": "极客公园",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "Why retailers prefer real human expertise over automated payment support",
+      "content": "When payment issues hit during peak season, automation isn&rsquo;t enough.",
+      "link": "https://www.retaildive.com/spons/why-retailers-prefer-real-human-expertise-over-automated-payment-support/875272/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-11-23"
+    },
     {
       "title": "ThredUp leans into livestream shopping with TikTok Shop",
       "content": "<img src=\"https://imgproxy.divecdn.com/gm4Tic61bdtbzbOB24x5EJLIe5TsxGw-nLLHSGC0bE8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTEtMjBfMTYzMTQ4",
