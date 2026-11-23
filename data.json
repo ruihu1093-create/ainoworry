@@ -1,66 +1,84 @@
 {
-  "updatedAt": "2026-11-23 11:43:02",
+  "updatedAt": "2026-11-23 23:17:39",
   "news": [
     {
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
       "source": "TechCrunch-AI",
       "date": "2026-11-23",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special ",
+      "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-21",
+      "date": "2026-11-23",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Here are the top AI agents that can live in your text messages ",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, ",
-      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within ",
+      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-21",
+      "date": "2026-11-23",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if th",
-      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-21",
+      "date": "2026-11-23",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-20",
+      "title": "Jensen Huang Is Back as Nvidia CEO",
+      "summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including",
+      "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+      "source": "Wired-AI",
+      "date": "2026-11-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+      "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
+      "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+      "source": "Wired-AI",
+      "date": "2026-11-23",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+      "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear you",
+      "link": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+      "source": "Wired-AI",
+      "date": "2026-11-23",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -101,29 +119,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Muse Is Unleashing a World of Pettiness on Instagram",
-      "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
-      "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
-      "source": "Wired-AI",
-      "date": "2026-11-20",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going",
+      "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-11-23",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
-      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as effic",
-      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "source": "Wired-AI",
-      "date": "2026-11-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "What’s With All These Outages?",
-      "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, ",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
-      "source": "Wired-AI",
-      "date": "2026-11-19",
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-11-23",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -149,15 +158,6 @@
       "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-19",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A human liver has been kept alive outside the body for a record seven weeks",
-      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibi",
-      "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
       "source": "MIT-Tech-Review",
       "date": "2026-11-19",
       "tag": "trend",
@@ -620,10 +620,37 @@
   ],
   "ecommerce": [
     {
+      "title": "字节，该造手机了",
+      "content": "&nbsp;\n&nbsp;\n11 月 19 日，财联社援引供应链人士",
+      "link": "http://www.geekpark.net/news/374374",
+      "source": "极客公园",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-11-23"
+    },
+    {
       "title": "利润增速降至 0.7%， 拼多多「申诉优赔」还要给商家补贴几十亿",
       "content": "作",
       "link": "http://www.geekpark.net/news/374348",
       "source": "极客公园",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "Backcountry acquires winter sports retailer Christy Sports",
+      "content": "The deal creates a combined retail footprint of more than 60 locations and expands owner CSC Generation&rsquo;s brand portfolio with a large ski and snowboard rental network.",
+      "link": "https://www.retaildive.com/news/backcountry-acquires-christy-sports-ski-retailer/875323/",
+      "source": "Retail-Dive",
+      "impact": "medium",
+      "impactText": "中",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "How Home Depot built the missing logistics piece for its Pro business",
+      "content": "Through new flatbed distribution centers, acquisitions and technology, the home improvement retailer has enhanced its last-mile delivery capabilities to better serve contractor customers.",
+      "link": "https://www.retaildive.com/news/home-depot-logistics-pro-business/875396/",
+      "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-11-23"
@@ -636,24 +663,6 @@
       "impact": "medium",
       "impactText": "中",
       "date": "2026-11-23"
-    },
-    {
-      "title": "ThredUp leans into livestream shopping with TikTok Shop",
-      "content": "<img src=\"https://imgproxy.divecdn.com/gm4Tic61bdtbzbOB24x5EJLIe5TsxGw-nLLHSGC0bE8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTEtMjBfMTYzMTQ4",
-      "link": "https://www.retaildive.com/news/thredup-tiktok-shop-livestream-shopping/875247/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-11-20"
-    },
-    {
-      "title": "The Backroom: How department stores are shaping up this holiday",
-      "content": "The team looks at the past, present and future of a retail model that has long been a fixture of the season.",
-      "link": "https://www.retaildive.com/news/the-backroom-podcast-department-stores-holiday-season/875199/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-11-19"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
