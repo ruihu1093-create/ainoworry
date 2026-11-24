@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-11-24 08:07:41",
+  "updatedAt": "2026-11-24 19:53:24",
   "news": [
+    {
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obviou",
+      "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+      "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-24",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
@@ -20,38 +83,38 @@
       "tagText": "资讯"
     },
     {
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special ",
-      "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-23",
+      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+      "summary": "The reinstated Nvidia CEO acknowledged violating the company’s code of conduct and said he had made some “very serious personal mistakes.”",
+      "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+      "source": "Wired-AI",
+      "date": "2026-11-24",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within ",
-      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-23",
+      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+      "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+      "source": "Wired-AI",
+      "date": "2026-11-24",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
-      "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-23",
+      "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+      "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gat",
+      "link": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
+      "source": "Wired-AI",
+      "date": "2026-11-24",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
-      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-23",
+      "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+      "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+      "link": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+      "source": "Wired-AI",
+      "date": "2026-11-24",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -92,74 +155,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Banks Have Had It Up to Here With Your AI Agent",
-      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly you",
-      "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-      "source": "Wired-AI",
-      "date": "2026-11-22",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Outages Are Just Getting Started",
-      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
-      "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
-      "source": "Wired-AI",
-      "date": "2026-11-21",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
-      "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s ",
-      "link": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-      "source": "Wired-AI",
-      "date": "2026-11-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going",
-      "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest sourc",
+      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
       "source": "MIT-Tech-Review",
-      "date": "2026-11-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-23",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The most misunderstood graph in AI just got a major update",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it al",
-      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: inside the quest to make our minds immortal",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-20",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-19",
+      "date": "2026-11-24",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -650,15 +650,6 @@
       "title": "How Home Depot built the missing logistics piece for its Pro business",
       "content": "Through new flatbed distribution centers, acquisitions and technology, the home improvement retailer has enhanced its last-mile delivery capabilities to better serve contractor customers.",
       "link": "https://www.retaildive.com/news/home-depot-logistics-pro-business/875396/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-11-23"
-    },
-    {
-      "title": "Why retailers prefer real human expertise over automated payment support",
-      "content": "When payment issues hit during peak season, automation isn&rsquo;t enough.",
-      "link": "https://www.retaildive.com/spons/why-retailers-prefer-real-human-expertise-over-automated-payment-support/875272/",
       "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
