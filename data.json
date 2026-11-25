@@ -1,66 +1,66 @@
 {
-  "updatedAt": "2026-11-25 13:50:22",
+  "updatedAt": "2026-11-25 22:54:41",
   "news": [
     {
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
-      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Even the best AI agents struggle with everyday life",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably",
-      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increa",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to in",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
-      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered t",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "summary": "⁠Nvidia has made clear⁠ it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds rep",
+      "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave",
+      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
       "source": "TechCrunch-AI",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -128,6 +128,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "How data centers are driving a US natural-gas boom",
+      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost",
+      "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-11-25",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "The Download: AI swamping open records, and firefighting for permafrost",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
@@ -149,15 +158,6 @@
       "title": "The Download: AI’s gas power boom and a consciousness reality check",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-24",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Data centers are getting their own natural gas power plants",
-      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a dec",
-      "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
       "source": "MIT-Tech-Review",
       "date": "2026-11-24",
       "tag": "trend",
@@ -624,24 +624,6 @@
       "content": "&nbsp;\n&nbsp;\n11 月 19 日，财联社援引供应链人士",
       "link": "http://www.geekpark.net/news/374374",
       "source": "极客公园",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-11-23"
-    },
-    {
-      "title": "Backcountry acquires winter sports retailer Christy Sports",
-      "content": "The deal creates a combined retail footprint of more than 60 locations and expands owner CSC Generation&rsquo;s brand portfolio with a large ski and snowboard rental network.",
-      "link": "https://www.retaildive.com/news/backcountry-acquires-christy-sports-ski-retailer/875323/",
-      "source": "Retail-Dive",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-11-23"
-    },
-    {
-      "title": "How Home Depot built the missing logistics piece for its Pro business",
-      "content": "Through new flatbed distribution centers, acquisitions and technology, the home improvement retailer has enhanced its last-mile delivery capabilities to better serve contractor customers.",
-      "link": "https://www.retaildive.com/news/home-depot-logistics-pro-business/875396/",
-      "source": "Retail-Dive",
       "impact": "medium",
       "impactText": "中",
       "date": "2026-11-23"
