@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25 03:19:23",
+  "updatedAt": "2026-11-25 13:50:22",
   "news": [
     {
       "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
@@ -65,11 +65,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-24",
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "source": "Wired-AI",
+      "date": "2026-11-25",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -128,20 +128,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "States Sue SpaceX Over Grok Deepfakes",
-      "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized ",
-      "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
-      "source": "Wired-AI",
-      "date": "2026-11-23",
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-11-25",
       "tag": "trend",
       "tagText": "资讯"
     },
     {
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest sourc",
-      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "title": "AI is straining America’s open records systems",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as th",
+      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
       "source": "MIT-Tech-Review",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -629,15 +629,6 @@
       "date": "2026-11-23"
     },
     {
-      "title": "利润增速降至 0.7%， 拼多多「申诉优赔」还要给商家补贴几十亿",
-      "content": "作",
-      "link": "http://www.geekpark.net/news/374348",
-      "source": "极客公园",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-11-23"
-    },
-    {
       "title": "Backcountry acquires winter sports retailer Christy Sports",
       "content": "The deal creates a combined retail footprint of more than 60 locations and expands owner CSC Generation&rsquo;s brand portfolio with a large ski and snowboard rental network.",
       "link": "https://www.retaildive.com/news/backcountry-acquires-christy-sports-ski-retailer/875323/",
@@ -840,8 +831,23 @@
     {
       "name": "stitch-skills",
       "author": "google-labs-code",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "description": "Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.",
       "link": "https://github.com/google-labs-code/stitch-skills",
+      "stars": 0,
+      "trend": 50,
+      "forks": 10,
+      "tags": [
+        {
+          "name": "Agent"
+        }
+      ],
+      "date": "2026-11-25"
+    },
+    {
+      "name": "modern-web-guidance-src",
+      "author": "GoogleChrome",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -856,10 +862,10 @@
       "date": "2026-11-25"
     },
     {
-      "name": "modern-web-guidance-src",
-      "author": "GoogleChrome",
+      "name": "github-actions",
+      "author": "apps",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "link": "https://github.com/apps/github-actions",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -871,10 +877,10 @@
       "date": "2026-11-25"
     },
     {
-      "name": "github-actions",
-      "author": "apps",
+      "name": "nod",
+      "author": "n8n-io",
       "description": "Chrome DevTools for coding agents",
-      "link": "https://github.com/apps/github-actions",
+      "link": "https://github.com/n8n-io/nod",
       "stars": 0,
       "trend": 50,
       "forks": 10,
@@ -959,21 +965,6 @@
         }
       ],
       "date": "2026-11-25"
-    },
-    {
-      "name": "dependabot",
-      "author": "apps",
-      "description": "GitHub热门AI项目，本周获得大量关注",
-      "link": "https://github.com/apps/dependabot",
-      "stars": 0,
-      "trend": 50,
-      "forks": 10,
-      "tags": [
-        {
-          "name": "AI"
-        }
-      ],
-      "date": "2026-11-25"
     }
   ],
   "agents": [
@@ -1002,7 +993,7 @@
     {
       "title": "开源项目: explore",
       "author": "@anonymous",
-      "description": "Chrome DevTools for coding agents",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "link": "https://github.com/explore",
       "tools": [
         "GitHub"
@@ -1011,14 +1002,36 @@
       "date": "2026-11-25"
     },
     {
+      "title": "开源项目: topics",
+      "author": "@anonymous",
+      "description": "Chrome DevTools for coding agents",
+      "link": "https://github.com/topics",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 1697,
+      "date": "2026-11-25"
+    },
+    {
       "title": "开源项目: collections",
       "author": "@anonymous",
-      "description": "An open source design system that's fully customizable and agent ready",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "link": "https://github.com/collections",
       "tools": [
         "GitHub"
       ],
       "likes": 2046,
+      "date": "2026-11-25"
+    },
+    {
+      "title": "开源项目: events",
+      "author": "@anonymous",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "link": "https://github.com/events",
+      "tools": [
+        "GitHub"
+      ],
+      "likes": 2526,
       "date": "2026-11-25"
     },
     {
@@ -1201,32 +1214,6 @@
         "Python"
       ],
       "likes": 6300,
-      "date": "2026-11-25"
-    },
-    {
-      "title": "旅游博主AI生成攻略，月入10万",
-      "author": "@背包不停歇",
-      "description": "旅行时用AI实时生成攻略草稿，回来后快速润色发布，内容产量提升5倍，广告收入大幅增长。",
-      "link": "https://www.perplexity.ai/",
-      "tools": [
-        "Perplexity",
-        "Kimi",
-        "剪映"
-      ],
-      "likes": 18500,
-      "date": "2026-11-25"
-    },
-    {
-      "title": "餐厅老板AI菜单设计+营销一体化",
-      "author": "@小厨房大梦想",
-      "description": "用AI分析客户评价优化菜品组合，同时生成小红书种草文案和抖音脚本，翻台率提升40%。",
-      "link": "https://chatgpt.com/",
-      "tools": [
-        "ChatGPT",
-        "豆包",
-        "美团"
-      ],
-      "likes": 2650,
       "date": "2026-11-25"
     }
   ],
