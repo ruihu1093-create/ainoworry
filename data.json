@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-26 14:40:39",
+  "updatedAt": "2026-11-26 23:27:11",
   "news": [
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep ",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
       "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
@@ -50,15 +68,6 @@
       "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
       "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
       "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave",
-      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
       "source": "TechCrunch-AI",
       "date": "2026-11-25",
       "tag": "trend",
@@ -149,15 +158,6 @@
       "title": "The Download: AI swamping open records, and firefighting for permafrost",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
       "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "AI is straining America’s open records systems",
-      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as th",
-      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
       "source": "MIT-Tech-Review",
       "date": "2026-11-25",
       "tag": "trend",
@@ -620,15 +620,6 @@
   ],
   "ecommerce": [
     {
-      "title": "好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI",
-      "content": "作者｜Lilyann\n编辑｜靖宇\n网上冲浪这么多年，你一定有过这样的经历：想取消一项自动续费，却怎么都找不到入口；明明是商家多扣了钱，申请退款却要层层转接；为了几十块钱，和客服解释半个小时，最后听到一句「非常抱歉，暂时无法为您处理」。\n钱不一定很多，但就是咽不下这口",
-      "link": "http://www.geekpark.net/news/374536",
-      "source": "极客公园",
-      "impact": "medium",
-      "impactText": "中",
-      "date": "2026-11-26"
-    },
-    {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
       "content": "新版导购助手支持用户拍照找同款，语音描述需求并直接定位商品，转化率提升35%。",
       "link": "https://36kr.com/",
@@ -921,7 +912,7 @@
     {
       "name": "claude-trading-skills",
       "author": "tradermonty",
-      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "description": "Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.",
       "link": "https://github.com/tradermonty/claude-trading-skills",
       "stars": 0,
       "trend": 50,
@@ -936,7 +927,7 @@
     {
       "name": "dependabot",
       "author": "apps",
-      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "link": "https://github.com/apps/dependabot",
       "stars": 0,
       "trend": 50,
