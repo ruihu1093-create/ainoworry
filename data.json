@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26 04:40:27",
+  "updatedAt": "2026-11-26 14:40:39",
   "news": [
     {
       "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
@@ -65,6 +65,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its pe",
+      "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "source": "Wired-AI",
+      "date": "2026-11-26",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
       "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
       "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
@@ -119,11 +128,11 @@
       "tagText": "资讯"
     },
     {
-      "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
-      "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear you",
-      "link": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
-      "source": "Wired-AI",
-      "date": "2026-11-23",
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-11-26",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -151,15 +160,6 @@
       "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
       "source": "MIT-Tech-Review",
       "date": "2026-11-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: AI’s gas power boom and a consciousness reality check",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-24",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -620,13 +620,13 @@
   ],
   "ecommerce": [
     {
-      "title": "字节，该造手机了",
-      "content": "&nbsp;\n&nbsp;\n11 月 19 日，财联社援引供应链人士",
-      "link": "http://www.geekpark.net/news/374374",
+      "title": "好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI",
+      "content": "作者｜Lilyann\n编辑｜靖宇\n网上冲浪这么多年，你一定有过这样的经历：想取消一项自动续费，却怎么都找不到入口；明明是商家多扣了钱，申请退款却要层层转接；为了几十块钱，和客服解释半个小时，最后听到一句「非常抱歉，暂时无法为您处理」。\n钱不一定很多，但就是咽不下这口",
+      "link": "http://www.geekpark.net/news/374536",
       "source": "极客公园",
       "impact": "medium",
       "impactText": "中",
-      "date": "2026-11-23"
+      "date": "2026-11-26"
     },
     {
       "title": "淘宝AI导购助手升级，理解语音+图片复合需求",
