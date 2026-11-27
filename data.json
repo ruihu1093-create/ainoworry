@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27 06:27:26",
+  "updatedAt": "2026-11-27 17:10:25",
   "news": [
     {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -74,6 +74,15 @@
       "tagText": "资讯"
     },
     {
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+      "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "source": "Wired-AI",
+      "date": "2026-11-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
       "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
       "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its pe",
       "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
@@ -128,11 +137,20 @@
       "tagText": "资讯"
     },
     {
-      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-      "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-      "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-      "source": "Wired-AI",
-      "date": "2026-11-23",
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-11-27",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
+    {
+      "title": "How cutting-edge prosthetics can help probe the human mind",
+      "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury",
+      "link": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "source": "MIT-Tech-Review",
+      "date": "2026-11-27",
       "tag": "trend",
       "tagText": "资讯"
     },
@@ -142,24 +160,6 @@
       "link": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
       "source": "MIT-Tech-Review",
       "date": "2026-11-26",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "How data centers are driving a US natural-gas boom",
-      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost",
-      "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "The Download: AI swamping open records, and firefighting for permafrost",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
-      "source": "MIT-Tech-Review",
-      "date": "2026-11-25",
       "tag": "trend",
       "tagText": "资讯"
     },
