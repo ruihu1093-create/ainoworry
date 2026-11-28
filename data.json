@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-28 08:48:42",
+  "updatedAt": "2026-11-28 17:19:44",
   "news": [
+    {
+      "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+      "link": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "source": "TechCrunch-AI",
+      "date": "2026-11-28",
+      "tag": "trend",
+      "tagText": "资讯"
+    },
     {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep ",
@@ -59,15 +68,6 @@
       "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
       "summary": "⁠Nvidia has made clear⁠ it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds rep",
       "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-      "source": "TechCrunch-AI",
-      "date": "2026-11-25",
-      "tag": "trend",
-      "tagText": "资讯"
-    },
-    {
-      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
       "source": "TechCrunch-AI",
       "date": "2026-11-25",
       "tag": "trend",
